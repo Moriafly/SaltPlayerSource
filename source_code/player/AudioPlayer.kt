@@ -25,10 +25,7 @@ package com.salt.music.player
 
 import android.animation.Animator
 import android.animation.ValueAnimator
-import android.content.Context
-import android.content.Intent
 import android.media.MediaPlayer
-import android.media.audiofx.AudioEffect
 import android.view.animation.LinearInterpolator
 
 /**
