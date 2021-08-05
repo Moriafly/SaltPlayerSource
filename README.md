@@ -2,7 +2,7 @@
 
 ## ❤️ 椒盐音乐最新版下载地址
 
-最新新版本请在本仓库 [release](https://github.com/Moriafly/SaltPlayerSource/releases) 下载。
+最新版本请在本仓库 [release](https://github.com/Moriafly/SaltPlayerSource/releases) 下载。
 
 ## 🌈 会在这里分享椒盐音乐相关开发进度以及部分源代码（若可能）
 
