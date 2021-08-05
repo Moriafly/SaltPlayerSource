@@ -14,9 +14,7 @@
 
 `特别注意，多问题请分开提交多个 issue ，请勿写在一起哦！！！`
 
-## 📧 联系开发者或者一起唠嗑
-
-Telegram 群组：https://t.me/saltplayer （虽然没什么人~）
+## 📧 关注进度和联系开发者
 
 Telegram 频道：https://t.me/saltplayerupdate （发布开发进度，椒盐音乐更新公告，我比较懒不一定写）
 
