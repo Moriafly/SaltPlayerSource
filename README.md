@@ -20,6 +20,8 @@ Telegram 频道：https://t.me/saltplayerupdate
 
 开发者邮箱：moriafly@163.com
 
+说明：酷安平台任何非开发者账号发布的有关椒盐音乐更新、发布和规划信息均不被本开发者承认。
+
 ## 🌏 本地化适配
 
 暂时支持简体中文、英语。
