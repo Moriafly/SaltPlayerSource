@@ -24,4 +24,8 @@ Telegram 频道：https://t.me/saltplayerupdate
 
 ## 🌏 本地化适配
 
-可以提交到 translations 中帮助我们翻译哦~
+可以提交到 [translations](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations) 中帮助我们翻译哦~
+
+## ✨ 说明
+
+椒盐音乐软件免费使用（后续不确定，可能加广告），只提供 64 位版本（架构 arm-v8a），需要安卓 6.0 以上。
