@@ -6,6 +6,12 @@
 
 最新版本请在本仓库 [release](https://github.com/Moriafly/SaltPlayerSource/releases) 下载。
 
+## 😍 上架的平台
+
+[酷安](https://www.coolapk.com/apk/284064)
+
+[ApkPure](https://apkpure.com/p/com.salt.music)
+
 ## 🌈 会在这里分享椒盐音乐相关开发进度以及部分源代码（若可能）
 
 [2021-07-30 安卓拓展 MediaPlayer 实现淡入淡出效果](https://blog.csdn.net/Moriafly/article/details/119251186)
