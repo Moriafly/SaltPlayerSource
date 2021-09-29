@@ -8,6 +8,12 @@
 
 ## 😍 上架的平台
 
+[Google Play](https://play.google.com/store/apps/details?id=com.salt.music)
+
+小插曲，上架了 Google Play 为什么搜索不到呢！！！我的 25 美刀呀！！！
+
+![嘉靖朕的钱](/images/嘉靖-朕的钱.jpg)
+
 [酷安](https://www.coolapk.com/apk/284064)
 
 [ApkPure](https://apkpure.com/p/com.salt.music)
