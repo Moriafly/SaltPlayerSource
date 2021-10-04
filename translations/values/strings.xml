@@ -182,7 +182,7 @@
     <string name="add_single_direct_link_song">添加单个直链歌曲</string>
     <string name="cover_address">Cover address</string>
     <string name="source_address">资源地址</string>
-    <string name="title_not_empty">The title cannot be empty</string>
+    <string name="title_not_empty">标题不可为空</string>
     <string name="direct_link">Direct link</string>
     <string name="direct_link_cannot_empty">The direct link cannot be empty</string>
     <string name="native_output">原生输出</string>
@@ -265,4 +265,6 @@
     <string name="help_translation">帮助翻译</string>
     <string name="help_translation_intro">椒盐音乐致力于为来自全球不同国家地区用户带来良好的用户体验，但是作为一款个人作品，很难完善语言的翻译。如果你有兴趣帮助我，点击“确认”访问翻译仓库提交你的翻译。</string>
     <string name="audio_effect">音频效果</string>
+    <string name="remove_from_the_playlist">从此歌单中移除</string>
+    <string name="edit">编辑</string>
 </resources>

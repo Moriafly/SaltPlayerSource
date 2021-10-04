@@ -257,7 +257,7 @@
     <string name="no_playlists_have_been_created">No playlists have been created</string>
     <string name="enter_the_playlist_name_here">Enter the playlist name here</string>
     <string name="playlist_name_must_not_be_empty">Playlist name must not be empty</string>
-    <string name="successfully_added_to_next_play">成功添加到下一首播放</string>
+    <string name="successfully_added_to_next_play">Successfully added to next play</string>
     <string name="artist_s">Artist: %s</string>
     <string name="v3_audio_effect">V3 Audio Effect</string>
     <string name="v3_reverb">V3 Reverb</string>
@@ -266,4 +266,6 @@
     <string name="help_translation">Help translation</string>
     <string name="help_translation_intro">Salt Player is committed to bringing good user experience to users from different countries and regions around the world, but as a personal work, it is difficult to perfect the language translation. If you are interested in helping me, click \"CONFIRM\" to visit the translation repository to submit your translation.</string>
     <string name="audio_effect">Audio effect</string>
+    <string name="remove_from_the_playlist">Remove from the playlist</string>
+    <string name="edit">Edit</string>
 </resources>
