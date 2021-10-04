@@ -99,8 +99,6 @@
     <string name="clear">Clear</string>
     <string name="play_music">Play music</string>
     <string name="pause_music">Pause music</string>
-    <string name="qq_audio_source_search">QQ audio source search</string>
-    <string name="netease_audio_source_search">Netease audio source search</string>
     <string name="cache">Cache</string>
     <string name="ink_screen_mode">Ink screen mode</string>
     <string name="image_cache">Image cache</string>
@@ -130,7 +128,7 @@
     <string name="text_view">text_view</string>
     <string name="delete_forever">Delete forever</string>
     <string name="hide">Hide</string>
-    <string name="salt_sound_effect">Salt sound effect</string>
+    <string name="salt_audio_effect">Salt audio effect</string>
     <string name="duration">Duration</string>
     <string name="format">Format</string>
     <string name="bitrate">Bitrate</string>
@@ -247,4 +245,25 @@
     <string name="close">Close</string>
     <string name="immersion_mode_explain">The immersion mode can also be turned on or off by holding down the play pause button in the play screen</string>
     <string name="delete_s_forever">Delete %s forever?</string>
+    <string name="delete_playlist">Delete playlist</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="access_link">Access link</string>
+    <string name="move_up">Move up</string>
+    <string name="move_down">Move down</string>
+    <string name="play_queue_d">Play queue (%d)</string>
+    <string name="some_image_resources_from">Some image resources from</string>
+    <string name="follow_developer_on_Github">Follow developer on Github</string>
+    <string name="whether_to_clear_the_current_playback_queue">Whether to clear the current playback queue?</string>
+    <string name="no_playlists_have_been_created">No playlists have been created</string>
+    <string name="enter_the_playlist_name_here">Enter the playlist name here</string>
+    <string name="playlist_name_must_not_be_empty">Playlist name must not be empty</string>
+    <string name="successfully_added_to_next_play">成功添加到下一首播放</string>
+    <string name="artist_s">Artist: %s</string>
+    <string name="v3_audio_effect">V3 Audio Effect</string>
+    <string name="v3_reverb">V3 Reverb</string>
+    <string name="introduction">Introduction</string>
+    <string name="auto_eq_intro">Use PEAKEQ parameter equalizer to avoid the problem that the fixed frequency (graphic) equalizer is difficult to compensate the narrow gap and peak value between the two frequency bands. Restore the precise parameters from AutoEq library to bring you a perfect listening feeling. It is recommended to use it with headphones.</string>
+    <string name="help_translation">Help translation</string>
+    <string name="help_translation_intro">Salt Player is committed to bringing good user experience to users from different countries and regions around the world, but as a personal work, it is difficult to perfect the language translation. If you are interested in helping me, click \"CONFIRM\" to visit the translation repository to submit your translation.</string>
+    <string name="audio_effect">Audio effect</string>
 </resources>

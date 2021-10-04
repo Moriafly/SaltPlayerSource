@@ -99,8 +99,6 @@
     <string name="clear">清除</string>
     <string name="play_music">播放音乐</string>
     <string name="pause_music">暂停音乐</string>
-    <string name="qq_audio_source_search">QQ 音源搜索</string>
-    <string name="netease_audio_source_search">网易音源搜索</string>
     <string name="cache">缓存</string>
     <string name="ink_screen_mode">墨水屏模式</string>
     <string name="image_cache">图片缓存</string>
@@ -129,7 +127,7 @@
     <string name="text_view">text_view</string>
     <string name="delete_forever">永久删除</string>
     <string name="hide">隐藏</string>
-    <string name="salt_sound_effect">椒盐音效</string>
+    <string name="salt_audio_effect">椒盐音效</string>
     <string name="duration">时长</string>
     <string name="format">格式</string>
     <string name="bitrate">比特率</string>
@@ -246,4 +244,25 @@
     <string name="close">关闭</string>
     <string name="immersion_mode_explain">还可以通过在播放界面长按播放暂停按钮来开启或关闭沉浸模式</string>
     <string name="delete_s_forever">永久删除 %s 吗?</string>
+    <string name="delete_playlist">删除歌单</string>
+    <string name="add_to_playlist">添加到歌单</string>
+    <string name="access_link">访问链接</string>
+    <string name="move_up">向上移动</string>
+    <string name="move_down">向下移动</string>
+    <string name="play_queue_d">播放队列（%d）</string>
+    <string name="some_image_resources_from">部分图片资源来自</string>
+    <string name="follow_developer_on_Github">在 Github 上关注开发者</string>
+    <string name="whether_to_clear_the_current_playback_queue">是否清空当前播放队列？</string>
+    <string name="no_playlists_have_been_created">未创建任何歌单</string>
+    <string name="enter_the_playlist_name_here">在此输入歌单名称</string>
+    <string name="playlist_name_must_not_be_empty">歌单名称不得为空</string>
+    <string name="successfully_added_to_next_play">成功添加到下一首播放</string>
+    <string name="artist_s">艺术家: %s</string>
+    <string name="v3_audio_effect">V3 音效</string>
+    <string name="v3_reverb">V3 混响</string>
+    <string name="introduction">介绍</string>
+    <string name="auto_eq_intro">使用 PEAKEQ 参数均衡器，避免固定频段（图形）均衡器难以补偿落在两个频段之间的窄缺口和峰值的问题，还原来自 AutoEq 库等精确参数，为你带来完美听感，建议配合耳机使用。</string>
+    <string name="help_translation">帮助翻译</string>
+    <string name="help_translation_intro">椒盐音乐致力于为来自全球不同国家地区用户带来良好的用户体验，但是作为一款个人作品，很难完善语言的翻译。如果你有兴趣帮助我，点击“确认”访问翻译仓库提交你的翻译。</string>
+    <string name="audio_effect">音频效果</string>
 </resources>
