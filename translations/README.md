@@ -4,4 +4,8 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-4.1.0-beta01
+4.1.0-rc01
+
+## 感谢翻译
+
+`zh-rTW`  lilin
