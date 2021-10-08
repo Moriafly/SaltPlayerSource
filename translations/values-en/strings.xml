@@ -243,7 +243,7 @@
     <string name="player_theme_dark">✨Dark flowing✨</string>
     <string name="player_theme_light">🍉Light flowing🍨（2021 💕 As a souvenir of summer）</string>
     <string name="close">Close</string>
-    <string name="immersion_mode_explain">The immersion mode can also be turned on or off by holding down the play pause button in the play screen</string>
+    <string name="immersion_mode_explain">Hide the status bar and keep only the album cover, lyrics and basic control buttons in the playback interface, bringing an immersive experience. The immersion mode can also be turned on or off by holding down the play pause button in the playback interface</string>
     <string name="delete_s_forever">Delete %s forever?</string>
     <string name="delete_playlist">Delete playlist</string>
     <string name="add_to_playlist">Add to playlist</string>
@@ -268,4 +268,9 @@
     <string name="audio_effect">Audio effect</string>
     <string name="remove_from_the_playlist">Remove from the playlist</string>
     <string name="edit">Edit</string>
+    <string name="system_support_required">System support required</string>
+    <string name="locate_the_currently_playing_song">Locate the currently playing song</string>
+    <string name="source_audio_info">Source audio information</string>
+    <string name="actual_output_of_device">Actual output of device</string>
+    <string name="channel_information">Channel information</string>
 </resources>

@@ -16,8 +16,8 @@
     <string name="settings">設定</string>
     <string name="source_code">源代碼</string>
     <string name="pitch">音高</string>
-    <string name="song_info">歌麯信息</string>
-    <string name="song_id">歌麯 ID</string>
+    <string name="song_info">歌曲信息</string>
+    <string name="song_id">歌曲 ID</string>
     <string name="source">來源</string>
     <string name="type">類型</string>
     <string name="size">大小</string>
@@ -37,7 +37,7 @@
     <string name="music">音樂</string>
     <string name="artist">藝術家</string>
     <string name="update_log">更新日誌</string>
-    <string name="song_comment">歌麯評論</string>
+    <string name="song_comment">歌曲評論</string>
     <string name="playlist_recommend">歌單推薦</string>
     <string name="sentence_recommend">句子推薦</string>
     <string name="switch_account">切換賬號</string>
@@ -51,12 +51,12 @@
     <string name="d_songs">%d 首</string>
     <string name="hot_search">熱門搜索</string>
     <string name="playlist_number">播放列錶（%d）</string>
-    <string name="my_favorite_songs">我喜歡的歌麯</string>
+    <string name="my_favorite_songs">我喜歡的歌曲</string>
     <string name="equalizer">均衡器</string>
     <string name="translation">翻譯</string>
     <string name="download">下載</string>
     <string name="back">返回</string>
-    <string name="remove_the_song">移除這首歌麯</string>
+    <string name="remove_the_song">移除這首歌曲</string>
     <string name="email">信箱</string>
     <string name="cloud_drive">雲盤</string>
     <string name="theme">主題</string>
@@ -85,10 +85,10 @@
     <string name="auto_matching_of_network_lyrics">自動匹配網路歌詞</string>
     <string name="intelligent_filter">智能過濾</string>
     <string name="intelligent_filter_sub">智能過濾掉一些音頻文件</string>
-    <string name="skip_wrong_song">跳過播放錯誤歌麯</string>
+    <string name="skip_wrong_song">跳過播放錯誤歌曲</string>
     <string name="filtering_audio_files">過濾錄音文件</string>
     <string name="filtering_audio_files_sub">僅支援 Flyme</string>
-    <string name="sliding_animation_of_songs_in_the_playlist">歌單歌麯滑動動畫</string>
+    <string name="sliding_animation_of_songs_in_the_playlist">歌單歌曲滑動動畫</string>
     <string name="next_play">下一首播放</string>
     <string name="help_document">幫助文檔</string>
     <string name="single_column_playlist">單列歌單</string>
@@ -107,7 +107,7 @@
     <string name="explain">說明</string>
     <string name="enable_service">啓用服務</string>
     <string name="memory">Memory</string>
-    <string name="song">歌麯</string>
+    <string name="song">歌曲</string>
     <string name="address">地址</string>
     <string name="find">發現</string>
     <string name="privacy_policy">隱私協議</string>
@@ -167,19 +167,19 @@
     <string name="start">開始</string>
     <string name="d_minutes">%d 分鍾</string>
     <string name="audio_effect_dialog_tips">椒鹽音樂已適配 Poweramp Equalizer 等音效處理軟體</string>
-    <string name="search_songs_hint">在 %d 首歌麯中搜索</string>
+    <string name="search_songs_hint">在 %d 首歌曲中搜索</string>
     <string name="baidu_pan">百度網盤</string>
     <string name="stop">停止</string>
     <string name="use_music_tag_app_editing">使用音樂標簽應用編輯…</string>
     <string name="auto_matching_of_network_lyrics_explain">當無法獲取到內嵌（僅當音頻格式為 MP3 或 FLAC）以及歌詞文件（同目錄同名 .lrc 文件）時嘗試獲取網路歌詞</string>
     <string name="media_decoding_provided_by_this_device">此設備提供的媒體解碼</string>
     <string name="attenuate_flowing_light_effect_explain">減弱流光渲染效果以提升流光渲染性能</string>
-    <string name="ignore_media_store_cover_explain">歌麯封麵加載忽略係統媒體庫封麵，這會提高封麵質量和支援同專輯不同封麵的特性，可能會降低加載速度</string>
+    <string name="ignore_media_store_cover_explain">歌麯封面加載忽略係統媒體庫封麵，這會提高封麵質量和支援同專輯不同封麵的特性，可能會降低加載速度</string>
     <string name="privacy_agreement_and_terms_of_use">隱私協議與軟體使用條款</string>
     <string name="dialog_sleep_timer_tips">當用於睡眠，建議降低設備音量且請勿設定過長時間，以免影響聽覺</string>
     <string name="direct_links">直鏈</string>
     <string name="add">添加</string>
-    <string name="add_single_direct_link_song">添加單個直鏈歌麯</string>
+    <string name="add_single_direct_link_song">添加單個直鏈歌曲</string>
     <string name="cover_address">Cover address</string>
     <string name="source_address">資源地址</string>
     <string name="title_not_empty">The title cannot be empty</string>
@@ -206,7 +206,7 @@
     <string name="disabling_aaudio_output_intro">在 Android 8.0 及更新係統禁用 AAudio 輸出而使用 OpenSL ES 輸出，可能帶來更好的穩定性</string>
     <string name="album_s">專輯：%s</string>
     <string name="enable_or_disable_desktop_lyrics">打開 / 關閉桌麵歌詞</string>
-    <string name="songs">歌麯</string>
+    <string name="songs">歌曲</string>
     <string name="albums">專輯</string>
     <string name="folders">檔案夾</string>
     <string name="artists">藝術家</string>
@@ -220,7 +220,7 @@
     <string name="system_audio_effect">其他音效</string>
     <string name="display_lock_screen_cover">顯示鎖屏封麵</string>
     <string name="videos">視訊</string>
-    <string name="add_to_my_favorite_songs">添加到我喜歡的歌麯</string>
+    <string name="add_to_my_favorite_songs">添加到我喜歡的歌曲</string>
     <string name="open_source_license">開源許可證</string>
     <string name="hello">你好</string>
     <string name="current_version">當前版本</string>
@@ -233,7 +233,7 @@
     <string name="use_better">更好地使用</string>
     <string name="status_bar_lyrics_not_show_translation">狀態欄歌詞不顯示翻譯</string>
     <string name="change_to_you_like">改成你喜歡的</string>
-    <string name="hidden_songs_and_folders">隱藏的歌麯和檔案夾</string>
+    <string name="hidden_songs_and_folders">隱藏的歌曲和檔案夾</string>
     <string name="look_at_the_help">看看幫助吧</string>
     <string name="terms_of_use_for_software">軟體使用條例</string>
     <string name="immersion_mode">沈浸模式</string>
@@ -242,7 +242,7 @@
     <string name="player_theme_dark">✨深色流光✨</string>
     <string name="player_theme_light">🍉淺色流光🍨（2021 💕 夏日留念）</string>
     <string name="close">關閉</string>
-    <string name="immersion_mode_explain">還可以通過在播放界麵長按播放暫停按鈕來開啓或關閉沈浸模式</string>
+    <string name="immersion_mode_explain">隱藏狀態欄並在播放界面僅保留專輯封面、歌詞以及基本操控按鈕，帶來沉浸體驗。還可以通過在播放界麵長按播放暫停按鈕來開啓或關閉沈浸模式</string>
     <string name="delete_s_forever">永久刪除 %s 嗎?</string>
     <string name="delete_playlist">刪除歌單</string>
     <string name="add_to_playlist">添加到歌單</string>
@@ -267,4 +267,9 @@
     <string name="audio_effect">音頻效果</string>
     <string name="remove_from_the_playlist">從此歌單中移除</string>
     <string name="edit">編輯</string>
+    <string name="system_support_required">需要系統支持</string>
+    <string name="locate_the_currently_playing_song">定位當前播放歌曲</string>
+    <string name="source_audio_info">源音頻信息</string>
+    <string name="actual_output_of_device">設備實際輸出</string>
+    <string name="channel_information">流通道信息</string>
 </resources>

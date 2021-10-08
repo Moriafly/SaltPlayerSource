@@ -4,8 +4,9 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-4.1.0-rc01
+4.2.0-rc03
 
 ## 感谢翻译
 
-`zh-rTW`  lilin
+繁体中文 `zh-rTW`  lilin
+西班牙语 `es` Nachogao

@@ -242,7 +242,7 @@
     <string name="player_theme_dark">✨深色流光✨</string>
     <string name="player_theme_light">🍉浅色流光🍨（2021 💕 夏日留念）</string>
     <string name="close">关闭</string>
-    <string name="immersion_mode_explain">还可以通过在播放界面长按播放暂停按钮来开启或关闭沉浸模式</string>
+    <string name="immersion_mode_explain">隐藏状态栏并在播放界面仅保留专辑封面、歌词以及基本操控按钮，带来沉浸体验。还可以通过在播放界面长按播放暂停按钮来开启或关闭沉浸模式</string>
     <string name="delete_s_forever">永久删除 %s 吗?</string>
     <string name="delete_playlist">删除歌单</string>
     <string name="add_to_playlist">添加到歌单</string>
@@ -267,4 +267,9 @@
     <string name="audio_effect">音频效果</string>
     <string name="remove_from_the_playlist">从此歌单中移除</string>
     <string name="edit">编辑</string>
+    <string name="system_support_required">需要系统支持</string>
+    <string name="locate_the_currently_playing_song">定位当前播放歌曲</string>
+    <string name="source_audio_info">源音频信息</string>
+    <string name="actual_output_of_device">设备实际输出</string>
+    <string name="channel_information">流通道信息</string>
 </resources>

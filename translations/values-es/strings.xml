@@ -267,4 +267,9 @@
     <string name="audio_effect">Efectos del audio</string>
     <string name="remove_from_the_playlist">Eliminar de esta PlayList</string>
     <string name="edit">Editar</string>
+    <string name="system_support_required">Necesita soporte del sistema</string>
+    <string name="locate_the_currently_playing_song">Localizar la canción que se está reproduciendo actualmente</string>
+    <string name="source_audio_info">Información de audio de origen</string>
+    <string name="actual_output_of_device">Salida real del dispositivo</string>
+    <string name="channel_information">Información del canal de circulación</string>
 </resources>
