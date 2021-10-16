@@ -10,9 +10,13 @@
 
 [Google Play](https://play.google.com/store/apps/details?id=com.salt.music)
 
-[酷安](https://www.coolapk.com/apk/284064)
+[酷安（开发者已主动下架）](https://www.coolapk.com/apk/284064)
 
 [ApkPure](https://apkpure.com/p/com.salt.music)
+
+版本更新优先级
+
+内测 >> Google Play >> 内置随缘更新
 
 ## 🌈 会在这里分享椒盐音乐相关开发进度以及部分源代码（若可能）
 
@@ -72,3 +76,5 @@ Telegram 频道：https://t.me/saltplayerupdate
 ## ✨ 说明
 
 椒盐音乐软件免费使用（后续不确定，可能加广告），只提供 64 位版本（架构 arm-v8a），需要安卓 6.0 以上。
+
+椒盐音乐内含有一些处理实现，请勿使用太极、应用转生对椒盐音乐处理，可能会导致音乐服务无法正常启动；请勿在 Xposed 环境下使用，可能造成 MiniPlayer 崩溃。
