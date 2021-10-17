@@ -8,15 +8,17 @@
 
 ## 😍 上架的平台
 
+请在正确的渠道下载本应用，请勿使用他人重新签名的安装文件。
+
 [Google Play](https://play.google.com/store/apps/details?id=com.salt.music)
 
 [酷安（开发者已主动下架）](https://www.coolapk.com/apk/284064)
 
-[ApkPure](https://apkpure.com/p/com.salt.music)
+[ApkPure（暂停止更新维护）](https://apkpure.com/p/com.salt.music)
 
-版本更新优先级
+#### 版本更新优先级
 
-内测 >> Google Play >> 内置随缘更新
+内测 >> Google Play >> 内置随缘更新。
 
 ## 🌈 会在这里分享椒盐音乐相关开发进度以及部分源代码（若可能）
 
