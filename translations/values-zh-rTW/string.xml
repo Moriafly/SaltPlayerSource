@@ -86,8 +86,6 @@
     <string name="intelligent_filter">智能過濾</string>
     <string name="intelligent_filter_sub">智能過濾掉一些音頻文件</string>
     <string name="skip_wrong_song">跳過播放錯誤歌曲</string>
-    <string name="filtering_audio_files">過濾錄音文件</string>
-    <string name="filtering_audio_files_sub">僅支援 Flyme</string>
     <string name="sliding_animation_of_songs_in_the_playlist">歌單歌曲滑動動畫</string>
     <string name="next_play">下一首播放</string>
     <string name="help_document">幫助文檔</string>
@@ -124,7 +122,6 @@
     <string name="album_desc">專輯降序</string>
     <string name="artist_desc">藝術家降序</string>
     <string name="listen_to_good_music">聆聽好音樂</string>
-    <string name="text_view">text_view</string>
     <string name="delete_forever">永久刪除</string>
     <string name="hide">隱藏</string>
     <string name="salt_audio_effect">椒鹽音效</string>
@@ -237,7 +234,6 @@
     <string name="look_at_the_help">看看幫助吧</string>
     <string name="terms_of_use_for_software">軟體使用條例</string>
     <string name="immersion_mode">沈浸模式</string>
-    <string name="lyrics_settings_explain">設定狀態欄歌詞、網路歌詞等，其他可在播放界麵歌詞頁麵調整</string>
     <string name="channel">通路</string>
     <string name="player_theme_dark">✨深色流光✨</string>
     <string name="player_theme_light">🍉淺色流光🍨（2021 💕 夏日留念）</string>
@@ -263,7 +259,6 @@
     <string name="introduction">介紹</string>
     <string name="auto_eq_intro">使用 PEAKEQ 參數均衡器，避免固定頻段（圖形）均衡器難以補償落在兩個頻段之間的窄缺口和峰值的問題，還原來自 AutoEq 庫等精確參數，為你帶來完美聽感，建議配合耳機使用。</string>
     <string name="help_translation">幫助翻譯</string>
-    <string name="help_translation_intro">椒盐音乐致力于为来自全球不同国家地区用户带来良好的用户体验，但是作为一款个人作品，很难完善语言的翻译。如果你有兴趣帮助我，点击“确认”访问翻译仓库提交你的翻译。</string>
     <string name="audio_effect">音頻效果</string>
     <string name="remove_from_the_playlist">從此歌單中移除</string>
     <string name="edit">編輯</string>
@@ -272,4 +267,29 @@
     <string name="source_audio_info">源音頻信息</string>
     <string name="actual_output_of_device">設備實際輸出</string>
     <string name="channel_information">流通道信息</string>
+    <string name="follow_system">跟隨系統</string>
+    <string name="light">淺色</string>
+    <string name="dark">深色</string>
+    <string name="audio_output_tip">❗請謹慎調整以下選項，以免造成過高的電量消耗以及程序被系統殺死等其他不確定後果，以下所有選項的更改將在切換歌曲後生效</string>
+    <string name="change_device_freq">嘗試強制更改輸出設備的採樣率（實驗性功能，適用於高性能 DAC 輸出）</string>
+    <string name="change_device_freq_intro">強制以高頻率播放音頻（即便輸出設備不支持），請同時確保啓用原生輸出； 請注意，大多數設備不支持 96000 Hz 以及更高頻率輸出，應用更高頻率可能會導致播放失敗</string>
+    <string name="audio_output_intro">輸出模式、採樣率、解碼等</string>
+    <string name="dsp">數字信號處理（DSP）</string>
+    <string name="output">輸出</string>
+    <string name="audio_decode">音頻解碼</string>
+    <string name="audio_output_mode">音頻輸出模式</string>
+    <string name="aaudio_intro">原生高性能低延遲輸出，爲開發者提供更加現代的編程方式</string>
+    <string name="open_sl_es_intro">原生高性能低延遲輸出，穩定性高，但無法配合使用系統音效以及第三方音效軟件</string>
+    <string name="audio_track_intro">默認音軌輸出</string>
+    <string name="repair">修復</string>
+    <string name="repairing">修復中，請等待……</string>
+    <string name="d_unknown_id_songs_were_removed_successfully">成功移除未知標識歌曲 %d 首</string>
+    <string name="web_service">網絡服務</string>
+    <string name="song_settings_intro">狀態欄歌詞、網絡歌詞、專輯封面、專輯信息等</string>
+    <string name="language_settings_intro">選擇語言、幫助翻譯</string>
+    <string name="about_settings_intro">軟件信息、軟件使用條例、隱私協議、開源許可、聯繫開發者等</string>
+    <string name="user_interface_intro">播放界面主題、沉浸模式等</string>
+    <string name="hide_folder">隱藏檔案夾</string>
+    <string name="hide_folder_intro">是否要隱藏檔案夾 %s 及其子檔案夾下的所有歌曲？</string>
+    <string name="developer_email">開發者郵箱</string>
 </resources>

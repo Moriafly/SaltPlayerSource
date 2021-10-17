@@ -86,8 +86,6 @@
     <string name="intelligent_filter">Filtro inteligente</string>
     <string name="intelligent_filter_sub">Filtra algunos archivos inteligentemente</string>
     <string name="skip_wrong_song">Saltar la musica con errores</string>
-    <string name="filtering_audio_files">Filtar el archivo</string>
-    <string name="filtering_audio_files_sub">Al momento solo se puede usar en Flyme</string>
     <string name="sliding_animation_of_songs_in_the_playlist">Animación deslizante de la canción en la PlayList</string>
     <string name="next_play">Poner siguiente música</string>
     <string name="help_document">Ayuda</string>
@@ -124,7 +122,6 @@
     <string name="album_desc">Album desendiendo</string>
     <string name="artist_desc">Artista desendiendo</string>
     <string name="listen_to_good_music">Escuchar buena música</string>
-    <string name="text_view">text_view</string>
     <string name="delete_forever">Eliminar para siempre</string>
     <string name="hide">Ocultar</string>
     <string name="salt_audio_effect">Efectos de audio SaltPlayer</string>
@@ -237,7 +234,6 @@
     <string name="look_at_the_help">Lee el documento de ayuda</string>
     <string name="terms_of_use_for_software">Terminus de uso del Software</string>
     <string name="immersion_mode">Modo inmersión</string>
-    <string name="lyrics_settings_explain">Las configuraciones de barra de estado, letra de internet, etc. se puede encontrar en la parte de interfaz</string>
     <string name="channel">Canal</string>
     <string name="player_theme_dark">✨Dark flowing✨</string>
     <string name="player_theme_light">🍉Light flowing🍨（💕Recuerdo verano de 2021）</string>
@@ -263,7 +259,6 @@
     <string name="introduction">Introduccion</string>
     <string name="auto_eq_intro">Use el ecualizador de parámetros PEAKEQ para evitar el problema de que el ecualizador de frecuencia fija (gráfico) es difícil de compensar la brecha estrecha y el valor pico entre las dos bandas de frecuencia. Restaure los parámetros precisos de la biblioteca AutoEq para brindarle una sensación de escucha perfecta. Se recomienda para usarlo con auriculares.</string>
     <string name="help_translation">Ayudar a traducir</string>
-    <string name="help_translation_intro">SaltPlayer se compromete a brindar una buena experiencia a todos los usuarios que vienen de diferentes países y regiones del mundo, pero como es una aplicación de trabajo personal, es difícil perfeccionar la traducción del idioma. Si está interesado en ayudarme, haga clic en "CONFIRMAR" para visitar el repositorio de traducciones y enviar tu traducción</string>
     <string name="audio_effect">Efectos del audio</string>
     <string name="remove_from_the_playlist">Eliminar de esta PlayList</string>
     <string name="edit">Editar</string>
@@ -272,4 +267,29 @@
     <string name="source_audio_info">Información de audio de origen</string>
     <string name="actual_output_of_device">Salida real del dispositivo</string>
     <string name="channel_information">Información del canal de circulación</string>
+    <string name="follow_system">Sigue el sistema</string>
+    <string name="light">Claro</string>
+    <string name="dark">Oscuro</string>
+    <string name="audio_output_tip">❗por favor, ajuste las siguientes opciones con cuidado para evitar el consumo de batería exorbitante y otras consecuencias inciertas como el programa es asesinado por el sistema. Todos los cambios en las siguientes opciones entrarán en vigor después de cambiar la canción</string>
+    <string name="change_device_freq">Intente forzar un cambio en la tasa de muestreo del dispositivo de salida (función experimental, para la salida DAC de alto rendimiento)</string>
+    <string name="change_device_freq_intro">Forzar la reproducción de audio a alta frecuencia (incluso si el dispositivo de salida no lo soporta). También asegúrese de habilitar la salida nativa;Tenga en cuenta que la mayoría de los dispositivos no admiten 96000 Hz, así como una salida de frecuencia más alta. La aplicación de una frecuencia más alta puede causar un fallo en la reproducción</string>
+    <string name="audio_output_intro">Modo de salida, frecuencia de muestreo, decodificación, etc</string>
+    <string name="dsp">DSP</string>
+    <string name="output">Salida</string>
+    <string name="audio_decode">Decódigo de Audio</string>
+    <string name="audio_output_mode">Modo de salida de Audio</string>
+    <string name="open_sl_es_intro">Nativa de alto rendimiento de baja latencia de salida, alta estabilidad, pero no puede utilizar el sonido del sistema y software de sonido de terceros</string>
+    <string name="audio_track_intro">Salida predeterminada de la pista de audio</string>
+    <string name="aaudio_intro">Salida nativa de alto rendimiento y baja latencia para una programación más moderna para los desarrolladores</string>
+    <string name="repair">Reparación</string>
+    <string name="repairing">Restauración en curso, por favor espere…</string>
+    <string name="d_unknown_id_songs_were_removed_successfully">%d canciones de logotipo desconocido eliminado con éxito</string>
+    <string name="web_service">Servicio web</string>
+    <string name="song_settings_intro">State bar letras de canciones, web letras, portada de álbum, información del álbum, etc</string>
+    <string name="language_settings_intro">Elegir un idioma, ayudar con la traducción</string>
+    <string name="about_settings_intro">Información de Software, reglas de uso de Software, acuerdos de privacidad, licencias de código abierto, contacto con desarrolladores, etc</string>
+    <string name="user_interface_intro">Temas de interfaz de reproducción, modos de inmersión, etc</string>
+    <string name="hide_folder">Ocultar una carpeta</string>
+    <string name="hide_folder_intro">¿Quieres ocultar todas las canciones en la carpeta %s y sus subcarpetas?</string>
+    <string name="developer_email">Email para desarrolladores</string>
 </resources>

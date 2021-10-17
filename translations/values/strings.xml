@@ -86,8 +86,6 @@
     <string name="intelligent_filter">智能过滤</string>
     <string name="intelligent_filter_sub">智能过滤掉一些音频文件</string>
     <string name="skip_wrong_song">跳过播放错误歌曲</string>
-    <string name="filtering_audio_files">过滤录音文件</string>
-    <string name="filtering_audio_files_sub">暂仅支持 Flyme</string>
     <string name="sliding_animation_of_songs_in_the_playlist">歌单歌曲滑动动画</string>
     <string name="next_play">下一首播放</string>
     <string name="help_document">帮助文档</string>
@@ -124,7 +122,7 @@
     <string name="album_desc">专辑降序</string>
     <string name="artist_desc">艺术家降序</string>
     <string name="listen_to_good_music">聆听好音乐</string>
-    <string name="text_view">text_view</string>
+    <string name="text_view" translatable="false">text_view</string>
     <string name="delete_forever">永久删除</string>
     <string name="hide">隐藏</string>
     <string name="salt_audio_effect">椒盐音效</string>
@@ -237,7 +235,6 @@
     <string name="look_at_the_help">看看帮助吧</string>
     <string name="terms_of_use_for_software">软件使用条例</string>
     <string name="immersion_mode">沉浸模式</string>
-    <string name="lyrics_settings_explain">设置状态栏歌词、网络歌词等，其他可在播放界面歌词页面调整</string>
     <string name="channel">渠道</string>
     <string name="player_theme_dark">✨深色流光✨</string>
     <string name="player_theme_light">🍉浅色流光🍨（2021 💕 夏日留念）</string>
@@ -263,7 +260,7 @@
     <string name="introduction">介绍</string>
     <string name="auto_eq_intro">使用 PEAKEQ 参数均衡器，避免固定频段（图形）均衡器难以补偿落在两个频段之间的窄缺口和峰值的问题，还原来自 AutoEq 库等精确参数，为你带来完美听感，建议配合耳机使用。</string>
     <string name="help_translation">帮助翻译</string>
-    <string name="help_translation_intro">椒盐音乐致力于为来自全球不同国家地区用户带来良好的用户体验，但是作为一款个人作品，很难完善语言的翻译。如果你有兴趣帮助我，点击“确认”访问翻译仓库提交你的翻译。</string>
+    <string name="help_translation_intro" translatable="false">Salt Player is committed to bringing good user experience to users from different countries and regions around the world, but as a personal work, it is difficult to perfect the language translation. If you are interested in helping me, click \"CONFIRM\" to visit the translation repository to submit your translation.</string>
     <string name="audio_effect">音频效果</string>
     <string name="remove_from_the_playlist">从此歌单中移除</string>
     <string name="edit">编辑</string>
@@ -272,4 +269,29 @@
     <string name="source_audio_info">源音频信息</string>
     <string name="actual_output_of_device">设备实际输出</string>
     <string name="channel_information">流通道信息</string>
+    <string name="follow_system">跟随系统</string>
+    <string name="light">浅色</string>
+    <string name="dark">深色</string>
+    <string name="audio_output_tip">❗请谨慎调整以下选项，以免造成过高的电量消耗以及程序被系统杀死等其他不确定后果，以下部分选项的更改将在切换歌曲后生效</string>
+    <string name="change_device_freq">尝试强制更改输出设备的采样率（实验性功能，适用于高性能 DAC 输出）</string>
+    <string name="change_device_freq_intro">强制以高频率播放音频（即便输出设备不支持），请同时确保启用原生输出；请注意，大多数设备不支持 96000 Hz 以及更高频率输出，应用更高频率可能会导致播放失败</string>
+    <string name="audio_output_intro">音频焦点、输出模式、采样率、解码等</string>
+    <string name="dsp">数字信号处理（DSP）</string>
+    <string name="output">输出</string>
+    <string name="audio_decode">音频解码</string>
+    <string name="audio_output_mode">音频输出模式</string>
+    <string name="aaudio_intro">原生高性能低延迟输出，为开发者提供更加现代的编程方式</string>
+    <string name="open_sl_es_intro">原生高性能低延迟输出，稳定性高，但无法配合使用系统音效以及第三方音效软件</string>
+    <string name="audio_track_intro">默认音轨输出</string>
+    <string name="repair">修复</string>
+    <string name="repairing">修复中，请等待……</string>
+    <string name="d_unknown_id_songs_were_removed_successfully">成功移除未知标识歌曲 %d 首</string>
+    <string name="web_service">网络服务</string>
+    <string name="song_settings_intro">状态栏歌词、网络歌词、专辑封面、专辑信息等</string>
+    <string name="language_settings_intro">选择语言、帮助翻译</string>
+    <string name="about_settings_intro">软件信息、软件使用条例、隐私协议、开源许可、联系开发者等</string>
+    <string name="user_interface_intro">播放界面主题、沉浸模式等</string>
+    <string name="hide_folder">隐藏文件夹</string>
+    <string name="hide_folder_intro">是否要隐藏文件夹 %s 及其子文件夹下的所有歌曲？</string>
+    <string name="developer_email">开发者邮箱</string>
 </resources>

@@ -86,8 +86,6 @@
     <string name="intelligent_filter">Intelligent filter</string>
     <string name="intelligent_filter_sub">Intelligent filter out some audio files</string>
     <string name="skip_wrong_song">Skip wrong song</string>
-    <string name="filtering_audio_files">Filtering audio files</string>
-    <string name="filtering_audio_files_sub">For now, only Flyme is supported</string>
     <string name="sliding_animation_of_songs_in_the_playlist">Sliding animation of songs in the playlist</string>
     <string name="next_play">Next play</string>
     <string name="help_document">Help document</string>
@@ -125,7 +123,6 @@
     <string name="album_desc">Album desc</string>
     <string name="artist_desc">Artist desc</string>
     <string name="listen_to_good_music">Listen to good music</string>
-    <string name="text_view">text_view</string>
     <string name="delete_forever">Delete forever</string>
     <string name="hide">Hide</string>
     <string name="salt_audio_effect">Salt audio effect</string>
@@ -238,7 +235,6 @@
     <string name="look_at_the_help">Look at the help</string>
     <string name="terms_of_use_for_software">Terms of use for software</string>
     <string name="immersion_mode">Immersion mode</string>
-    <string name="lyrics_settings_explain">Set status bar lyrics, network lyrics, etc., others can be adjusted in the playing interface lyrics page</string>
     <string name="channel">Channel</string>
     <string name="player_theme_dark">✨Dark flowing✨</string>
     <string name="player_theme_light">🍉Light flowing🍨（2021 💕 As a souvenir of summer）</string>
@@ -264,7 +260,6 @@
     <string name="introduction">Introduction</string>
     <string name="auto_eq_intro">Use PEAKEQ parameter equalizer to avoid the problem that the fixed frequency (graphic) equalizer is difficult to compensate the narrow gap and peak value between the two frequency bands. Restore the precise parameters from AutoEq library to bring you a perfect listening feeling. It is recommended to use it with headphones.</string>
     <string name="help_translation">Help translation</string>
-    <string name="help_translation_intro">Salt Player is committed to bringing good user experience to users from different countries and regions around the world, but as a personal work, it is difficult to perfect the language translation. If you are interested in helping me, click \"CONFIRM\" to visit the translation repository to submit your translation.</string>
     <string name="audio_effect">Audio effect</string>
     <string name="remove_from_the_playlist">Remove from the playlist</string>
     <string name="edit">Edit</string>
@@ -273,4 +268,29 @@
     <string name="source_audio_info">Source audio information</string>
     <string name="actual_output_of_device">Actual output of device</string>
     <string name="channel_information">Channel information</string>
+    <string name="follow_system">Follow system</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="audio_output_tip">❗Please carefully adjust the following options to avoid excessive power consumption and other uncertain consequences such as program being killed by the system. All the changes of the following options will take effect after the song switch</string>
+    <string name="change_device_freq_intro">Force audio playback at high frequency (even if the output device does not support it), and make sure native output is enabled; Please note that most devices do not support 96000 Hz and higher frequency output, and applying higher frequency may cause playback failure</string>
+    <string name="change_device_freq">Try forcing changes to the sampling rate of the output device (experimental feature, for high-performance DAC outputs)</string>
+    <string name="output">Output</string>
+    <string name="audio_track_intro">Default audio track output</string>
+    <string name="open_sl_es_intro">Native high performance low latency output, high stability, but can not use system sound and third-party sound software</string>
+    <string name="aaudio_intro">Native high performance low latency output for developers to provide a more modern way of programming</string>
+    <string name="audio_output_mode">Audio output mode</string>
+    <string name="audio_decode">Audio decode</string>
+    <string name="dsp">DSP</string>
+    <string name="audio_output_intro">Audio focus, output mode, sampling rate, decoding, etc</string>
+    <string name="repair">Repair</string>
+    <string name="repairing">Repair, please wait…</string>
+    <string name="d_unknown_id_songs_were_removed_successfully">%d unknown id song(s) were removed successfully</string>
+    <string name="web_service">Web service</string>
+    <string name="song_settings_intro">Status bar lyrics, online lyrics, album covers, album info, etc</string>
+    <string name="language_settings_intro">Choose a language, help translation</string>
+    <string name="about_settings_intro">Software information, software usage rules, privacy agreements, open source licenses, contact developers, etc</string>
+    <string name="user_interface_intro">Player activity theme, immersion mode, etc</string>
+    <string name="hide_folder">Hide folder</string>
+    <string name="hide_folder_intro">Do you want to hide all songs in folder %s and its subfolders?</string>
+    <string name="developer_email">Developer email</string>
 </resources>
