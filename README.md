@@ -2,13 +2,17 @@
 
 注意本仓库是用来发布更新椒盐音乐新版本、收集反馈、发布一些通知的，而不是椒盐音乐的完整开源库。椒盐音乐属于闭源软件。
 
-## ❤️ 椒盐音乐最新版下载地址
+## 💕 软件介绍
 
-最新版本请在本仓库 [release](https://github.com/Moriafly/SaltPlayerSource/releases) 下载。
+椒盐音乐是一款免费软件。
 
-## 😍 上架的平台
+[为本地音乐播放机带来更好的歌词体验](help/lyrics.md)
+
+## 😎 椒盐音乐最新版下载地址
 
 请在正确的渠道下载本应用，请勿使用他人重新签名的安装文件。
+
+[Github release](https://github.com/Moriafly/SaltPlayerSource/releases)
 
 [Google Play](https://play.google.com/store/apps/details?id=com.salt.music)
 
@@ -77,6 +81,7 @@ Telegram 频道：https://t.me/saltplayerupdate
 
 ## ✨ 说明
 
-椒盐音乐软件免费使用（后续不确定，可能加广告），只提供 64 位版本（架构 arm-v8a），需要安卓 6.0 以上。
+椒盐音乐安装包大小约 10 MB ，解压安装后约占用 30 MB 空间（后续使用产生的用户数据不包含）。
+仅提供 64 位版本（架构 arm-v8a），需要安卓 6.0 以上。
 
 椒盐音乐内含有一些处理实现，请勿使用太极、应用转生对椒盐音乐处理，可能会导致音乐服务无法正常启动；请勿在 Xposed 环境下使用，可能造成 MiniPlayer 崩溃。

@@ -34,7 +34,7 @@
 7. android.permission.READ_PHONE_STATE 读取手机状态，用于应用崩溃日志的上传。
 
 8. android.permission.MEDIA_CONTENT_CONTROL 媒体控制，控制音乐。
-            
+
 ## 四、本隐私协议的变更
             
 我们可能适时会对本隐私协议进行调整或变更，本隐私协议的任何更新将以应用更新及标注更新时间的方式公布在软件内。这些更改在本页面上公布后立刻生效。
