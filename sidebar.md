@@ -2,6 +2,7 @@
 
 * 使用帮助
     * [歌词](help/lyrics.md)
+    * [其他](help/other.md)
 
 * [隐私协议](privacy_policy/zh-CN.md)
 
