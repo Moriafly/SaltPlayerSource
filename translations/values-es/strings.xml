@@ -164,7 +164,7 @@
     <string name="start">Empezar</string>
     <string name="d_minutes">%d Minutos</string>
     <string name="audio_effect_dialog_tips">Salt Music ya adapto Poweramp Equalizer y otras aplicaciones de Efecto</string>
-    <string name="search_songs_hint">Buscar entre %d musical</string>
+    <string name="search_songs_hint">Buscar entre %d musicas</string>
     <string name="baidu_pan">Baudupan drive</string>
     <string name="stop">Stop</string>
     <string name="use_music_tag_app_editing">Usar "音乐标签" para editar</string>
@@ -203,14 +203,14 @@
     <string name="disabling_aaudio_output_intro">En Android 8.0 y posteriores, prohibir el AAudio usara OpenSL ES, esto dará mejor estabilidad</string>
     <string name="album_s">Albuns: %s</string>
     <string name="enable_or_disable_desktop_lyrics">Activar/Desactivar letra en descktop</string>
-    <string name="songs">Musical</string>
+    <string name="songs">Musicas</string>
     <string name="albums">Albums</string>
     <string name="folders">Carpetas</string>
     <string name="artists">Artistas</string>
     <string name="important">Importante</string>
-    <string name="match_internet_tip">❗La búsqueda por interned no puede coincidir completa y correctamente, por favor no reporte este problema</string>
+    <string name="match_internet_tip">❗La búsqueda por interned no puede coincidir del todo y correctamente, por favor no reporte este problema</string>
     <string name="playlists">PlayLists</string>
-    <string name="music_library">Biblioteca de music</string>
+    <string name="music_library">Biblioteca de musica</string>
     <string name="lyrics_settings">Configuration sobre Letras</string>
     <string name="clearing_play_queue">Limpiar la lista de reproduccion</string>
     <string name="play_queue_is_empty">La lista de reproduccion esta vacío</string>
@@ -224,7 +224,7 @@
     <string name="all_audio_information">Information de todo el audio</string>
     <string name="thanks">Aradecimientos</string>
     <string name="lyrics">Letras</string>
-    <string name="some_information">Unas informaciones一些信息</string>
+    <string name="some_information">Unas informaciones</string>
     <string name="follow_or_contact_developer">Segur o contactar el desarrollador</string>
     <string name="extensions">Extension</string>
     <string name="use_better">Mejor uso</string>
@@ -270,7 +270,7 @@
     <string name="follow_system">Sigue el sistema</string>
     <string name="light">Claro</string>
     <string name="dark">Oscuro</string>
-    <string name="audio_output_tip">❗por favor, ajuste las siguientes opciones con cuidado para evitar el consumo de batería exorbitante y otras consecuencias inciertas como el programa es asesinado por el sistema. Todos los cambios en las siguientes opciones entrarán en vigor después de cambiar la canción</string>
+    <string name="audio_output_tip">❗Por favor, ajuste las siguientes opciones con cuidado para evitar el consumo de batería exorbitante y otras consecuencias inciertas como el programa es asesinado por el sistema. Todos los cambios en las siguientes opciones entrarán en vigor después de cambiar la canción</string>
     <string name="change_device_freq">Intente forzar un cambio en la tasa de muestreo del dispositivo de salida (función experimental, para la salida DAC de alto rendimiento)</string>
     <string name="change_device_freq_intro">Forzar la reproducción de audio a alta frecuencia (incluso si el dispositivo de salida no lo soporta). También asegúrese de habilitar la salida nativa;Tenga en cuenta que la mayoría de los dispositivos no admiten 96000 Hz, así como una salida de frecuencia más alta. La aplicación de una frecuencia más alta puede causar un fallo en la reproducción</string>
     <string name="audio_output_intro">Modo de salida, frecuencia de muestreo, decodificación, etc</string>
@@ -291,5 +291,5 @@
     <string name="user_interface_intro">Temas de interfaz de reproducción, modos de inmersión, etc</string>
     <string name="hide_folder">Ocultar una carpeta</string>
     <string name="hide_folder_intro">¿Quieres ocultar todas las canciones en la carpeta %s y sus subcarpetas?</string>
-    <string name="developer_email">Email para desarrolladores</string>
+    <string name="developer_email">Email de los desarrolladores</string>
 </resources>
