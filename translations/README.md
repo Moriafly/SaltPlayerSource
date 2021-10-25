@@ -4,10 +4,12 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-4.4.0-release
+4.5.0-alpha01
 
 ## 感谢翻译
 
 繁体中文 `zh-rTW`  lilin
 
 西班牙语 `es` Nachogao
+
+日语 `ja` AliceMerami

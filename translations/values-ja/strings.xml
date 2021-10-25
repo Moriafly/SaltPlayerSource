@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SaltPlayer</string>
+    <string name="app_name">Salt Player</string>
     <string name="my">自分</string>
     <string name="home">ホーム</string>
     <string name="about">について</string>
@@ -260,7 +260,6 @@
     <string name="introduction">イントロ</string>
     <string name="auto_eq_intro">PEAKEQ パラメータイコライザを利用して、固定周波数ビン（パターン）イコライザでは、2つの周波数帯域の間に落下する狭いギャップとピークの問題を補償するのが困難であることを避けるために、 AUTOEQ ライブラリなどの正確なパラメータを復元し、完璧な体験を捧げる。イヤホンを着用してください</string>
     <string name="help_translation">翻訳を手伝います</string>
-    <string name="help_translation_intro" translatable="false">Salt Player は全世界のユーザーにより良いエクスペリエンスをもたらすことに頑張ります。しかし、個人の作品ので、すべての言語の翻訳することは難しいです。手を差し伸べるよろこんでいたなら、「確認」ボタンをクリック、あなたの傑作を私に送信してください。ありがとうございます！</string>
     <string name="audio_effect">オーディオ エフェクト</string>
     <string name="remove_from_the_playlist">このリストから削除</string>
     <string name="edit">編集</string>
@@ -294,4 +293,6 @@
     <string name="hide_folder">隠したフォルダ</string>
     <string name="hide_folder_intro">フォルダ %s とサブフォルダ内すべての曲を隠しますか？</string>
     <string name="developer_email">開発者の E メール</string>
+    <string name="technical_support">技術サポート</string>
+    <string name="salt_player_official">Salt Player 公式</string>
 </resources>

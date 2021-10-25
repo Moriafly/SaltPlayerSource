@@ -28,13 +28,13 @@
     <string name="local_playlist">PlayList local</string>
     <string name="new_playlist">Crear nueva PlayList</string>
     <string name="import_playlist">Importar PlayList</string>
-    <string name="local_music">Musica Local</string>
+    <string name="local_music">Música Local</string>
     <string name="history">Historial</string>
     <string name="contact_author">Contacto con el autor</string>
     <string name="author_email">moriafly@163.com</string>
     <string name="more">Mas</string>
     <string name="comment">Comentario</string>
-    <string name="music">Musica</string>
+    <string name="music">Música</string>
     <string name="artist">Artista</string>
     <string name="update_log">Changelog</string>
     <string name="song_comment">Comentario del Audio</string>
@@ -56,7 +56,7 @@
     <string name="translation">Traducir</string>
     <string name="download">Descargar</string>
     <string name="back">Volver</string>
-    <string name="remove_the_song">Eliminar Musica</string>
+    <string name="remove_the_song">Eliminar Música</string>
     <string name="email">Correo electrónico</string>
     <string name="cloud_drive">Drive</string>
     <string name="theme">Tema</string>
@@ -85,7 +85,7 @@
     <string name="auto_matching_of_network_lyrics">Buscar automáticamente letras online</string>
     <string name="intelligent_filter">Filtro inteligente</string>
     <string name="intelligent_filter_sub">Filtra algunos archivos inteligentemente</string>
-    <string name="skip_wrong_song">Saltar la musica con errores</string>
+    <string name="skip_wrong_song">Saltar la música con errores</string>
     <string name="sliding_animation_of_songs_in_the_playlist">Animación deslizante de la canción en la PlayList</string>
     <string name="next_play">Poner siguiente música</string>
     <string name="help_document">Ayuda</string>
@@ -105,12 +105,12 @@
     <string name="explain">Explicacion</string>
     <string name="enable_service">Activar servicio</string>
     <string name="memory">Memory</string>
-    <string name="song">Musica</string>
+    <string name="song">Música</string>
     <string name="address">Diression</string>
     <string name="find">Encuentro</string>
-    <string name="privacy_policy">Politica de privacidad</string>
+    <string name="privacy_policy">Acuerdo de privacidad</string>
     <string name="sort">Secuencia</string>
-    <string name="album">Album</string>
+    <string name="album">Álbum</string>
     <string name="folder">Carpeta</string>
     <string name="share">Compartir</string>
     <string name="language">Idioma</string>
@@ -119,7 +119,7 @@
     <string name="title_desc">Titulo desendiendo</string>
     <string name="add_time">Tiempo de agregamiento</string>
     <string name="add_time_desc"> Tiempo de agregamiento desendiendo</string>
-    <string name="album_desc">Album desendiendo</string>
+    <string name="album_desc">Álbum desendiendo</string>
     <string name="artist_desc">Artista desendiendo</string>
     <string name="listen_to_good_music">Escuchar buena música</string>
     <string name="delete_forever">Eliminar para siempre</string>
@@ -149,7 +149,7 @@
     <string name="others">Otros</string>
     <string name="help">Help</string>
     <string name="status_bar_lyrics_support">Esta función solo sorta a Flyme, exTHmUI, EvolutionX y Nortical</string>
-    <string name="player_activity_theme">Tema del interfaz</string>
+    <string name="player_activity_theme">Temas para la interfaz del reproductor</string>
     <string name="video">Video</string>
     <string name="give_high_praise">Dar un buen comentario</string>
     <string name="lock_screen">Visualización de la pantalla de bloqueo</string>
@@ -210,7 +210,7 @@
     <string name="important">Importante</string>
     <string name="match_internet_tip">❗La búsqueda por interned no puede coincidir del todo y correctamente, por favor no reporte este problema</string>
     <string name="playlists">PlayLists</string>
-    <string name="music_library">Biblioteca de musica</string>
+    <string name="music_library">Biblioteca de música</string>
     <string name="lyrics_settings">Configuration sobre Letras</string>
     <string name="clearing_play_queue">Limpiar la lista de reproduccion</string>
     <string name="play_queue_is_empty">La lista de reproduccion esta vacío</string>
@@ -292,4 +292,6 @@
     <string name="hide_folder">Ocultar una carpeta</string>
     <string name="hide_folder_intro">¿Quieres ocultar todas las canciones en la carpeta %s y sus subcarpetas?</string>
     <string name="developer_email">Email de los desarrolladores</string>
+    <string name="technical_support">Apoyo Técnico</string>
+    <string name="salt_player_official">Salt Player official</string>
 </resources>

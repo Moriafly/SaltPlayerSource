@@ -294,4 +294,6 @@
     <string name="hide_folder">隐藏文件夹</string>
     <string name="hide_folder_intro">是否要隐藏文件夹 %s 及其子文件夹下的所有歌曲？</string>
     <string name="developer_email">开发者邮箱</string>
+    <string name="technical_support">技术支持</string>
+    <string name="salt_player_official">椒盐音乐官方</string>
 </resources>

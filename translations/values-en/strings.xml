@@ -293,4 +293,6 @@
     <string name="hide_folder">Hide folder</string>
     <string name="hide_folder_intro">Do you want to hide all songs in folder %s and its subfolders?</string>
     <string name="developer_email">Developer email</string>
+    <string name="technical_support">Technical support</string>
+    <string name="salt_player_official">Salt Player official</string>
 </resources>
