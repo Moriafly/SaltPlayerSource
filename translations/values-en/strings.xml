@@ -90,7 +90,7 @@
     <string name="next_play">Next play</string>
     <string name="help_document">Help document</string>
     <string name="single_column_playlist">Single column playlist</string>
-    <string name="status_bar_lyric">Status bar lyric</string>
+    <string name="status_bar_lyrics">Status bar lyrics</string>
     <string name="previous">previous</string>
     <string name="next">next</string>
     <string name="search_for_online_music">Search for online music</string>
@@ -196,7 +196,7 @@
     <string name="audio_output">Audio output</string>
     <string name="file_not_found_exception">Unable to find the file, file may have been moved or deleted</string>
     <string name="random_play">Random play</string>
-    <string name="random_play_d">Random play(%d)</string>
+    <string name="random_play_d">Random play (%d)</string>
     <string name="use_android_media_decoder">Use the system media decoder</string>
     <string name="use_android_media_decoder_intro">Use the media decoder provided by the Android platform and the device-specific media decoder (usually provided by the manufacturer or chip manufacturer) to decode the audio when the audio is in a format not supported by the built-in decoding of Salt Player</string>
     <string name="media_extractor_adaptive_audio">MediaExtractor adaptive to audio</string>
@@ -295,4 +295,8 @@
     <string name="developer_email">Developer email</string>
     <string name="technical_support">Technical support</string>
     <string name="salt_player_official">Salt Player official</string>
+    <string name="update_software">Update software</string>
+    <string name="from_album">From album</string>
+    <string name="miui_status_bar_lyrics">Status bar lyrics for MIUI</string>
+    <string name="miui_status_bar_lyrics_intro">Make sure the Xposed module is installed before enabling this option, please visit the link below for details</string>
 </resources>

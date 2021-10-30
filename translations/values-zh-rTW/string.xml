@@ -90,7 +90,7 @@
     <string name="next_play">下一首播放</string>
     <string name="help_document">幫助文檔</string>
     <string name="single_column_playlist">單列歌單</string>
-    <string name="status_bar_lyric">狀態欄歌詞</string>
+    <string name="status_bar_lyrics">狀態欄歌詞</string>
     <string name="previous">上一曲</string>
     <string name="next">下一曲</string>
     <string name="search_for_online_music">搜索在線音樂</string>
@@ -292,4 +292,10 @@
     <string name="hide_folder">隱藏檔案夾</string>
     <string name="hide_folder_intro">是否要隱藏檔案夾 %s 及其子檔案夾下的所有歌曲？</string>
     <string name="developer_email">開發者郵箱</string>
+    <string name="technical_support">技術支持</string>
+    <string name="salt_player_official">椒鹽音樂官方</string>
+    <string name="update_software">更新軟件</string>
+    <string name="from_album">來自專輯</string>
+    <string name="miui_status_bar_lyrics">MIUI 狀態欄歌詞</string>
+    <string name="miui_status_bar_lyrics_intro">啓用此選項前需確保已安裝此 Xposed 模塊，詳情請訪問下方鏈接</string>
 </resources>

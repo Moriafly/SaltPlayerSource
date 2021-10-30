@@ -90,7 +90,7 @@
     <string name="next_play">下一首播放</string>
     <string name="help_document">帮助文档</string>
     <string name="single_column_playlist">单列歌单</string>
-    <string name="status_bar_lyric">状态栏歌词</string>
+    <string name="status_bar_lyrics">状态栏歌词</string>
     <string name="previous">上一首</string>
     <string name="next">下一首</string>
     <string name="search_for_online_music">搜索在线音乐</string>
@@ -296,4 +296,8 @@
     <string name="developer_email">开发者邮箱</string>
     <string name="technical_support">技术支持</string>
     <string name="salt_player_official">椒盐音乐官方</string>
+    <string name="update_software">更新软件</string>
+    <string name="from_album">出自专辑</string>
+    <string name="miui_status_bar_lyrics">MIUI 状态栏歌词</string>
+    <string name="miui_status_bar_lyrics_intro">启用此选项前需确保已安装此 Xposed 模块，详情请访问下方链接</string>
 </resources>

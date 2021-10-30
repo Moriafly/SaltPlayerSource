@@ -32,7 +32,7 @@
     <string name="history">履歴</string>
     <string name="contact_author">私に連絡する</string>
     <string name="author_email">moriafly@163.com</string>
-    <string name="more">もっと...</string>
+    <string name="more">より</string>
     <string name="comment">コメント</string>
     <string name="music">音楽</string>
     <string name="artist">アーティスト</string>
@@ -90,7 +90,7 @@
     <string name="next_play">つぎの曲</string>
     <string name="help_document">ヘルプドキュメント</string>
     <string name="single_column_playlist">1列リスト</string>
-    <string name="status_bar_lyric">ステータスバー歌詞</string>
+    <string name="status_bar_lyrics">ステータスバー歌詞</string>
     <string name="previous">まえの曲</string>
     <string name="next">つぎの曲</string>
     <string name="search_for_online_music">オンライン歌曲を検索</string>
@@ -295,4 +295,8 @@
     <string name="developer_email">開発者の E メール</string>
     <string name="technical_support">技術サポート</string>
     <string name="salt_player_official">Salt Player 公式</string>
+    <string name="update_software">ソフトウェアを更新する</string>
+    <string name="from_album">アルバムより</string>
+    <string name="miui_status_bar_lyrics">ステータスバーには MIUI の歌詞があります</string>
+    <string name="miui_status_bar_lyrics_intro">このオプションを有効にする前に、この Xposed モジュールがインストールされていることを確認する必要があります。</string>
 </resources>

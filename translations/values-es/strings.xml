@@ -90,7 +90,7 @@
     <string name="next_play">Poner siguiente música</string>
     <string name="help_document">Ayuda</string>
     <string name="single_column_playlist">PlayList de una hilera</string>
-    <string name="status_bar_lyric">Letra en barra de estado</string>
+    <string name="status_bar_lyrics">Letra en barra de estado</string>
     <string name="previous">Anterior</string>
     <string name="next">Siguiente</string>
     <string name="search_for_online_music">Buscar música online</string>
@@ -294,4 +294,8 @@
     <string name="developer_email">Email de los desarrolladores</string>
     <string name="technical_support">Apoyo Técnico</string>
     <string name="salt_player_official">Salt Player official</string>
+    <string name="update_software">Actualizar el software</string>
+    <string name="from_album">Del álbum</string>
+    <string name="miui_status_bar_lyrics">Letra de barra de estado para MIUI</string>
+    <string name="miui_status_bar_lyrics_intro">Asegúrese de tener este módulo Xposed instalado antes de habilitar esta opción. Para más detalles, visite el siguiente enlace</string>
 </resources>
