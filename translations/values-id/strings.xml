@@ -293,6 +293,6 @@
     <string name="hide_folder">Sembunyikan folder</string>
     <string name="hide_folder_intro">Apakah Anda ingin menyembunyikan semua lagu di folder %s dan subfoldernya?</string>
     <string name="developer_email">Surel Pengembang</string>
-    <string name="technical_support">Technical support</string>
+    <string name="technical_support">Dukungan Teknin</string>
     <string name="salt_player_official">Musik Salt resmi</string>
 </resources>
