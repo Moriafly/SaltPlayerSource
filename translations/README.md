@@ -4,7 +4,7 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-4.5.0-beta03
+4.5.0-release
 
 ## 感谢翻译
 
@@ -13,3 +13,5 @@
 西班牙语 `es` Nachogao
 
 日语 `ja` AliceMerami
+
+印度尼西亚文 `in` zam

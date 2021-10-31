@@ -90,7 +90,7 @@
     <string name="next_play">Putar selanjutnya</string>
     <string name="help_document">Dokumen Bantuan</string>
     <string name="single_column_playlist">Daftar kolum tunggal</string>
-    <string name="status_bar_lyric">Status bar lirik</string>
+    <string name="status_bar_lyrics">Status bar lirik</string>
     <string name="previous">Sebelumnya</string>
     <string name="next">Lanjut</string>
     <string name="search_for_online_music">Cari musik online</string>
@@ -108,7 +108,7 @@
     <string name="song">Lagu</string>
     <string name="address">Alamat</string>
     <string name="find">Temukan</string>
-    <string name="app_name">Musik Salt/string>
+    <string name="app_name">Salt Player</string>
     <string name="privacy_policy">Kebijakan pribadi</string>
     <string name="sort">Urutkan</string>
     <string name="album">Album</string>
@@ -131,7 +131,7 @@
     <string name="bitrate">Kecepatan bit</string>
     <string name="sample_rate">Tingkat sampel</string>
     <string name="channel_count">Jumlah saluran</string>
-    <string name="no_lyrics">Tidak ada Lirik :')</string>
+    <string name="no_lyrics">Tidak ada lirik</string>
     <string name="lyrics_edit">Sunting Lirik</string>
     <string name="save">Simpan</string>
     <string name="menu">Menu</string>
@@ -294,5 +294,9 @@
     <string name="hide_folder_intro">Apakah Anda ingin menyembunyikan semua lagu di folder %s dan subfoldernya?</string>
     <string name="developer_email">Surel Pengembang</string>
     <string name="technical_support">Dukungan Teknin</string>
-    <string name="salt_player_official">Musik Salt resmi</string>
+    <string name="salt_player_official">Salt Player resmi</string>
+    <string name="update_software">Memutakhirkan perangkat lunak</string>
+    <string name="from_album">Keluar dari album</string>
+    <string name="miui_status_bar_lyrics">Lirik batang status MIUI</string>
+    <string name="miui_status_bar_lyrics_intro">Aktifkan opsi ini harus memastikan modul xip terpasang, untuk informasi di bawah link</string>
 </resources>
