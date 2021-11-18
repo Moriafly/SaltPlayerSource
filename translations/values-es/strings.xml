@@ -1,11 +1,9 @@
 <resources>
-    <string name="app_name">SaltPlayer</string>
+    <string name="app_name">Salt Player</string>
     <string name="my">Mi</string>
     <string name="home">Home</string>
     <string name="about">Sobre la aplicación</string>
     <string name="check_for_updates">Chequear actualización</string>
-    <string name="open_source_code">Código fondo abierto</string>
-    <string name="slogan">Don\'t go so far that you forget why you started</string>
     <string name="feedback">Reportar</string>
     <string name="content">Contenido</string>
     <string name="upload">Subir</string>
@@ -60,12 +58,10 @@
     <string name="email">Correo electrónico</string>
     <string name="cloud_drive">Drive</string>
     <string name="theme">Tema</string>
-    <string name="forced_dark_theme">Forzar a tema oscuro</string>
     <string name="user_interface">Interfaz del usuario</string>
     <string name="double_row_playlists">PlayList de doble hilera</string>
     <string name="daily_recommendation">Recomendacion diaria</string>
     <string name="play_all">Reproducir todo(%d)</string>
-    <string name="join_qq_group">Ingresar al grupo de QQ</string>
     <string name="sponsor">Sponsor</string>
     <string name="play_queue">Lista de Reproduction</string>
     <string name="top_list">Lista de top</string>
@@ -121,7 +117,6 @@
     <string name="add_time_desc"> Tiempo de agregamiento desendiendo</string>
     <string name="album_desc">Álbum desendiendo</string>
     <string name="artist_desc">Artista desendiendo</string>
-    <string name="listen_to_good_music">Escuchar buena música</string>
     <string name="delete_forever">Eliminar para siempre</string>
     <string name="hide">Ocultar</string>
     <string name="salt_audio_effect">Efectos de audio SaltPlayer</string>
@@ -298,4 +293,15 @@
     <string name="from_album">Del álbum</string>
     <string name="miui_status_bar_lyrics">Letra de barra de estado para MIUI</string>
     <string name="miui_status_bar_lyrics_intro">Asegúrese de tener este módulo Xposed instalado antes de habilitar esta opción. Para más detalles, visite el siguiente enlace</string>
+    <string name="dsd_audio_gain">Ganancia de audio DSD</string>
+    <string name="lyrics_interface">Interfaz de letras</string>
+    <string name="use_classic_lyrics_view">Usando la vista clásica de letras</string>
+    <string name="lyrics_view_text_align_center">Lyrics view texto centrado alineación</string>
+    <string name="allow_hi_res_icon_to_be_displayed">Permitir que se muestre el icono Hi-Res</string>
+    <string name="player_interface">Reproducir la interfaz</string>
+    <string name="tablet_mode" >Modo tableta</string>
+    <string name="keyboard_shortcuts">Keyboard shortcuts</string>
+    <string name="space_bar_play_or_pause_music">Barra espaciadora para reproducir / pausar música</string>
+    <string name="tablet_mode_intro">Derivado de Salt Player siempre ha sido excelente barra de estado, barra de navegación adaptación, y el uso de la nueva tecnología para construir una interfaz adaptativa. Para la versión Salt Player 5.0, tres diseños diferentes han sido diseñados para traer una experiencia más perfecta</string>
+    <string name="keyboard_shortcuts_intro">Esta función solo está disponible si la interfaz Salt Player está en primer plano</string>
 </resources>

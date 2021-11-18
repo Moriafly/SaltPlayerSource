@@ -4,8 +4,6 @@
     <string name="home">ホーム</string>
     <string name="about">について</string>
     <string name="check_for_updates">更新をチェックする</string>
-    <string name="open_source_code">オープンプロジェクトを使用する</string>
-    <string name="slogan">あまり遠くへ行けず、目指すことを忘れず</string>
     <string name="feedback">フィードバック</string>
     <string name="content">コンテンツ</string>
     <string name="upload">アップロード</string>
@@ -60,12 +58,10 @@
     <string name="email">Eメール</string>
     <string name="cloud_drive">クラウド</string>
     <string name="theme">テーマ</string>
-    <string name="forced_dark_theme">強制的にダークテーマ</string>
     <string name="user_interface">ユーザーインターフェース</string>
     <string name="double_row_playlists">２列リスト</string>
     <string name="daily_recommendation">每日おすすめ</string>
     <string name="play_all">全部再生(%d)</string>
-    <string name="join_qq_group">QQ グループに参加</string>
     <string name="sponsor">「いいね！」と思う？</string>
     <string name="play_queue">キュー</string>
     <string name="top_list">ランキング</string>
@@ -121,8 +117,6 @@
     <string name="add_time_desc">時間降順を追加</string>
     <string name="album_desc">アルバム降順</string>
     <string name="artist_desc">アーティスト降順</string>
-    <string name="listen_to_good_music">いい曲に浸る～</string>
-    <string name="text_view" translatable="false">text_view</string>
     <string name="delete_forever">永久に削除</string>
     <string name="hide">隠す</string>
     <string name="salt_audio_effect">SaltPlayerオーディオ エフェクト</string>
@@ -299,4 +293,15 @@
     <string name="from_album">アルバムより</string>
     <string name="miui_status_bar_lyrics">ステータスバーには MIUI の歌詞があります</string>
     <string name="miui_status_bar_lyrics_intro">このオプションを有効にする前に、この Xposed モジュールがインストールされていることを確認する必要があります。</string>
+    <string name="dsd_audio_gain">DSD オーディオゲイン</string>
+    <string name="lyrics_interface">歌詞インターフェイス</string>
+    <string name="use_classic_lyrics_view">旧版歌詞を使用して見る</string>
+    <string name="lyrics_view_text_align_center">歌詞ビューテキストを中央に揃える</string>
+    <string name="allow_hi_res_icon_to_be_displayed">Hi-Res アイコンの表示を許可する</string>
+    <string name="player_interface">再生画面</string>
+    <string name="tablet_mode" >フラットモード</string>
+    <string name="keyboard_shortcuts">キーボードショートカット</string>
+    <string name="space_bar_play_or_pause_music">スペースキー音楽の再生 / 一時停止</string>
+    <string name="tablet_mode_intro">Salt Player が以前から優れていたステータスバー、ナビゲーションバーを適応させ、新技術を駆使して適応インターフェースを構筑し、Salt Player 5.0 バージョンのために3種類の異なるレイアウトを設計し、より完璧な体験をもたらした</string>
+    <string name="keyboard_shortcuts_intro">この机能は Salt Player の画面がフロントにある場合にのみ利用可能です</string>
 </resources>

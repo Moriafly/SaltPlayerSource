@@ -4,8 +4,6 @@
     <string name="home">首頁</string>
     <string name="about">關於</string>
     <string name="check_for_updates">檢查更新</string>
-    <string name="open_source_code">使用開源項目</string>
-    <string name="slogan">不要走得太遠，以至於忘了，為什麼而出發</string>
     <string name="feedback">反饋</string>
     <string name="content">內容</string>
     <string name="upload">上載</string>
@@ -60,12 +58,10 @@
     <string name="email">信箱</string>
     <string name="cloud_drive">雲盤</string>
     <string name="theme">主題</string>
-    <string name="forced_dark_theme">強製暗色主題</string>
     <string name="user_interface">用戶界麵</string>
     <string name="double_row_playlists">雙列歌單</string>
     <string name="daily_recommendation">每日推薦</string>
     <string name="play_all">播放全部(%d)</string>
-    <string name="join_qq_group">加入 QQ 交流群組</string>
     <string name="sponsor">贊賞</string>
     <string name="play_queue">播放隊列</string>
     <string name="top_list">排行榜</string>
@@ -121,7 +117,6 @@
     <string name="add_time_desc">添加時間降序</string>
     <string name="album_desc">專輯降序</string>
     <string name="artist_desc">藝術家降序</string>
-    <string name="listen_to_good_music">聆聽好音樂</string>
     <string name="delete_forever">永久刪除</string>
     <string name="hide">隱藏</string>
     <string name="salt_audio_effect">椒鹽音效</string>
@@ -202,7 +197,7 @@
     <string name="disabling_aaudio_output">禁用 AAudio 輸出</string>
     <string name="disabling_aaudio_output_intro">在 Android 8.0 及更新係統禁用 AAudio 輸出而使用 OpenSL ES 輸出，可能帶來更好的穩定性</string>
     <string name="album_s">專輯：%s</string>
-    <string name="enable_or_disable_desktop_lyrics">打開 / 關閉桌麵歌詞</string>
+    <string name="enable_or_disable_desktop_lyrics">打開 / 關閉桌面歌詞</string>
     <string name="songs">歌曲</string>
     <string name="albums">專輯</string>
     <string name="folders">檔案夾</string>
@@ -298,4 +293,15 @@
     <string name="from_album">來自專輯</string>
     <string name="miui_status_bar_lyrics">MIUI 狀態欄歌詞</string>
     <string name="miui_status_bar_lyrics_intro">啓用此選項前需確保已安裝此 Xposed 模塊，詳情請訪問下方鏈接</string>
+    <string name="dsd_audio_gain">DSD 音頻增益</string>
+    <string name="lyrics_interface">歌詞界面</string>
+    <string name="use_classic_lyrics_view">使用經典歌詞視圖</string>
+    <string name="lyrics_view_text_align_center">歌詞視圖文本居中對齊</string>
+    <string name="allow_hi_res_icon_to_be_displayed">允許顯示 Hi-Res 圖標</string>
+    <string name="player_interface">播放界面</string>
+    <string name="tablet_mode" >平板模式</string>
+    <string name="keyboard_shortcuts">鍵盤快捷鍵</string>
+    <string name="space_bar_play_or_pause_music">空格鍵播放 / 暫停音樂</string>
+    <string name="tablet_mode_intro">源自椒鹽音樂一直以來出色的狀態欄、導航欄適配，並運用新技術構建自適應界面，爲椒鹽音樂 5.0 版本設計了三款不同的佈局，帶來更加完美的體驗</string>
+    <string name="keyboard_shortcuts_intro">此功能僅當椒鹽音樂界面在前臺時可用</string>
 </resources>

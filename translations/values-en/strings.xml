@@ -4,8 +4,6 @@
     <string name="home">Home</string>
     <string name="about">About</string>
     <string name="check_for_updates">Check for updates</string>
-    <string name="open_source_code">Open source code</string>
-    <string name="slogan">Don\'t go so far that you forget why you started</string>
     <string name="feedback">Feedback</string>
     <string name="content">Content</string>
     <string name="upload">Upload</string>
@@ -60,12 +58,10 @@
     <string name="email">Email</string>
     <string name="cloud_drive">Cloud drive</string>
     <string name="theme">Theme</string>
-    <string name="forced_dark_theme">Forced dark theme</string>
     <string name="user_interface">User interface</string>
     <string name="double_row_playlists">Double row playlists</string>
     <string name="daily_recommendation">Daily recommendation</string>
     <string name="play_all">Play all(%d)</string>
-    <string name="join_qq_group">Join QQ group</string>
     <string name="sponsor">Sponsor</string>
     <string name="play_queue">Play queue</string>
     <string name="top_list">Top list</string>
@@ -122,7 +118,6 @@
     <string name="add_time_desc">Add time desc</string>
     <string name="album_desc">Album desc</string>
     <string name="artist_desc">Artist desc</string>
-    <string name="listen_to_good_music">Listen to good music</string>
     <string name="delete_forever">Delete forever</string>
     <string name="hide">Hide</string>
     <string name="salt_audio_effect">Salt audio effect</string>
@@ -299,4 +294,15 @@
     <string name="from_album">From album</string>
     <string name="miui_status_bar_lyrics">Status bar lyrics for MIUI</string>
     <string name="miui_status_bar_lyrics_intro">Make sure the Xposed module is installed before enabling this option, please visit the link below for details</string>
+    <string name="dsd_audio_gain">DSD audio gain</string>
+    <string name="lyrics_interface">Lyrics interface</string>
+    <string name="use_classic_lyrics_view">Use the classic lyrics view</string>
+    <string name="lyrics_view_text_align_center">Lyrics view text align center</string>
+    <string name="allow_hi_res_icon_to_be_displayed">Allow Hi-Res ICON to be displayed</string>
+    <string name="player_interface">Player interface</string>
+    <string name="tablet_mode" >Tablet mode</string>
+    <string name="keyboard_shortcuts">Keyboard shortcuts</string>
+    <string name="space_bar_play_or_pause_music">Space bar play or pause music</string>
+    <string name="tablet_mode_intro">Based on the excellent status bar and navigation bar adaptation of Salt Player, and the use of new technology to build an adaptive interface, we designed three different layouts for version 5.0 of Salt Player to bring a more perfect experience</string>
+    <string name="keyboard_shortcuts_intro">This function is available only when the Salt Player interface is in the foreground</string>
 </resources>

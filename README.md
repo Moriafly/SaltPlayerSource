@@ -2,6 +2,12 @@
 
 注意本仓库是用来发布更新椒盐音乐新版本、收集反馈、发布一些通知的，而不是椒盐音乐的完整开源库。椒盐音乐属于闭源软件。
 
+## 🌈🌈🌈 参加椒盐音乐 5.0 公开测试
+
+[点击下载最新测试版本~](https://github.com/Moriafly/SaltPlayerSource/releases)
+
+![平板模式](images/v5_pad_ui_light.jpg)
+
 ## 💕 软件介绍
 
 [椒盐音乐](https://moriafly.xyz/SaltPlayerSource/index.html#/)是一款免费软件。

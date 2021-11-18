@@ -4,8 +4,6 @@
     <string name="home">Beranda</string>
     <string name="about">Tentang</string>
     <string name="check_for_updates">Periksa Pembaharuan</string>
-    <string name="open_source_code">Kode Sumber terbuka</string>
-    <string name="slogan">Jangan terlalu jauh sampai kamu lupa kenapa kamu memulainya</string>
     <string name="feedback">Umpan Balik</string>
     <string name="content">Konten</string>
     <string name="upload">Unggah</string>
@@ -60,12 +58,10 @@
     <string name="email">Surel</string>
     <string name="cloud_drive">Penyimpanan Awan</string>
     <string name="theme">Tema</string>
-    <string name="forced_dark_theme">Paksa Tema Gelap</string>
     <string name="user_interface">Tampilan Pengguna</string>
     <string name="double_row_playlists">Daftar putar baris ganda</string>
     <string name="daily_recommendation">Saran Harian</string>
-    <string name="play_all">Putar Semua(%d)</string>
-    <string name="join_qq_group">Gabung Group QQ</string>
+    <string name="play_all">Putar Semua (%d)</string>
     <string name="sponsor">Sponsor</string>
     <string name="play_queue">Antrian</string>
     <string name="top_list">Daftar Teratas</string>
@@ -122,7 +118,6 @@
     <string name="add_time_desc">Waktu ditambahkan Terbalik</string>
     <string name="album_desc">Album Terbalik</string>
     <string name="artist_desc">Artis Terbalik</string>
-    <string name="listen_to_good_music">Dengar Lagu Bagus</string>
     <string name="delete_forever">Hapus Selamanya</string>
     <string name="hide">Sembunyikan</string>
     <string name="salt_audio_effect">Efek Salt audio</string>
@@ -196,7 +191,7 @@
     <string name="audio_output">keluaran Audio</string>
     <string name="file_not_found_exception">Tidak dapat menemukan file, file mungkin telah dipindahkan atau dihapus</string>
     <string name="random_play">Putar Acak</string>
-    <string name="random_play_d">Putar acak(%d)</string>
+    <string name="random_play_d">Putar acak (%d)</string>
     <string name="use_android_media_decoder">Gunakan dekoder media sistem</string>
     <string name="use_android_media_decoder_intro">Gunakan dekoder media yang disediakan oleh platform Android dan dekoder media khusus perangkat (biasanya disediakan oleh produsen atau produsen chip) untuk mendekode audio saat audio dalam format yang tidak didukung oleh dekode bawaan Salt Player</string>
     <string name="media_extractor_adaptive_audio">MediaExtractor adaptif dengan audio</string>
@@ -299,4 +294,15 @@
     <string name="from_album">Keluar dari album</string>
     <string name="miui_status_bar_lyrics">Lirik batang status MIUI</string>
     <string name="miui_status_bar_lyrics_intro">Aktifkan opsi ini harus memastikan modul xip terpasang, untuk informasi di bawah link</string>
+    <string name="dsd_audio_gain">Keuntungan audio DSD</string>
+    <string name="lyrics_interface">Antarmuka lirik</string>
+    <string name="use_classic_lyrics_view">Gunakan pandangan lirik klasik</string>
+    <string name="lyrics_view_text_align_center">Teks tampilan lirik disusun tengah</string>
+    <string name="allow_hi_res_icon_to_be_displayed">Izinkan ikon Hi-Res untuk ditampilkan</string>
+    <string name="player_interface">Antarmuka playername</string>
+    <string name="tablet_mode" >Jalan pintas papan ketik</string>
+    <string name="keyboard_shortcuts">Keyboard shortcuts</string>
+    <string name="space_bar_play_or_pause_music">Tombol spasi untuk memainkan / menghentikan musik</string>
+    <string name="tablet_mode_intro">Berasal dari batang keadaan Salt Player yang selalu bagus, batang navigasi yang cocok, dan digunakan teknologi baru untuk membangun antarmuka yang disesuaikan untuk membuat tiga rancangan yang berbeda untuk versi Salt Player 5.0 yang akan menghasilkan pengalaman yang jauh lebih sempurna</string>
+    <string name="keyboard_shortcuts_intro">Fungsi ini hanya digunakan ketika antarmuka Salt Player berada di meja depan</string>
 </resources>
