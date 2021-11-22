@@ -1,6 +1,16 @@
-# SaltPlayerSource 椒盐音乐资源分享等
+[![Downloads](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E7%94%A8%E6%88%B7%20cumulative%20users-55k%2B-brightgreen)](https://github.com/Moriafly/SaltPlayerSource/releases/latest)
 
+<div align="center">  
+    <h2>SaltPlayerSource 椒盐音乐资源分享等</h2>
+    <br>
+    <a href="http://moriafly.xyz/SaltPlayerSource/index.html#/" target="_blank">moriafly.xyz/SaltPlayerSource</a>
+
+<br>
+使用 Jetpack Compose 开发的安卓音乐播放器。
 注意本仓库是用来发布更新椒盐音乐新版本、收集反馈、发布一些通知的，而不是椒盐音乐的完整开源库。椒盐音乐属于闭源软件。
+</div>
+
+---
 
 ## 🌈🌈🌈 参加椒盐音乐 5.0 公开测试
 
@@ -30,7 +40,11 @@
 
 内测 > Github > Google Play > 内置随缘更新。
 
-## 使用帮助
+## 平板模式演示
+
+https://user-images.githubusercontent.com/62319450/142763426-101a8b94-1ab5-40a9-82bf-a7044f857494.mp4
+
+## 🍨 使用帮助
 
 [扫描音乐帮助](help/scanmusic.md)
 
