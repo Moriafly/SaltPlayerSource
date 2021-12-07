@@ -234,7 +234,6 @@
     <string name="player_theme_dark">✨Ikut Gelap✨</string>
     <string name="player_theme_light">🍉Ikut Terang🍨（2021 💕 Sebagai suvenir musim panas）</string>
     <string name="close">Tutup</string>
-    <string name="immersion_mode_explain">Sembunyikan bilah status dan simpan hanya sampul album, lirik, dan tombol kontrol dasar di antarmuka pemutaran, menghadirkan pengalaman yang mendalam. Mode imersi juga dapat dihidupkan atau dimatikan dengan menahan tombol jeda putar di antarmuka pemutaran</string>
     <string name="delete_s_forever">Hapus %s Selawase?</string>
     <string name="delete_playlist">Hapus Daftar</string>
     <string name="add_to_playlist">Tambahkan ke Daftar Putar</string>
@@ -298,11 +297,20 @@
     <string name="lyrics_interface">Antarmuka lirik</string>
     <string name="use_classic_lyrics_view">Gunakan pandangan lirik klasik</string>
     <string name="lyrics_view_text_align_center">Teks tampilan lirik disusun tengah</string>
-    <string name="allow_hi_res_icon_to_be_displayed">Izinkan ikon Hi-Res untuk ditampilkan</string>
     <string name="player_interface">Antarmuka playername</string>
     <string name="tablet_mode" >Jalan pintas papan ketik</string>
     <string name="keyboard_shortcuts">Keyboard shortcuts</string>
     <string name="space_bar_play_or_pause_music">Tombol spasi untuk memainkan / menghentikan musik</string>
     <string name="tablet_mode_intro">Berasal dari batang keadaan Salt Player yang selalu bagus, batang navigasi yang cocok, dan digunakan teknologi baru untuk membangun antarmuka yang disesuaikan untuk membuat tiga rancangan yang berbeda untuk versi Salt Player 5.0 yang akan menghasilkan pengalaman yang jauh lebih sempurna</string>
     <string name="keyboard_shortcuts_intro">Fungsi ini hanya digunakan ketika antarmuka Salt Player berada di meja depan</string>
+    <string name="laboratory">Laboratorium</string>
+    <string name="laboratory_intro">Selamat datang di laboratorium Salt Player. Fungsinya tidak stabil hanya untuk pengalaman dan bisa dilepas kapan saja</string>
+    <string name="display_video_screen">Tampilkan halaman video</string>
+    <string name="year">Tahun ini</string>
+    <string name="subscribe_on_telegram">Dapatkan langganan Salt Player untuk perkembangan bahasa Telegram</string>
+    <string name="github_salt_player_source">Kunjungi SaltPlayerSource untuk mendapatkan versi terbaru untuk melihat dinamika terbaru bersama; Untuk mendapat yang kau hadapi ini, menggunakan pertanyaan dari pengembang tersebut juga dapat memberikan saran anda pada sesuatu (u‿ฺu✿ฺ)</string>
+    <string name="immersion_mode_explain">Sembunyikan bilah status dan simpan hanya sampul album, lirik, dan tombol kontrol dasar di antarmuka pemutaran, menghadirkan pengalaman yang mendalam. Mode imersi juga dapat dihidupkan atau dimatikan dengan menahan tombol jeda putar di antarmuka pemutaran</string>
+    <string name="web_dav_settings">WebDAV 设置</string>
+    <string name="audio_of_video">Audio of video</string>
+    <string name="src">SRC</string>
 </resources>

@@ -4,11 +4,11 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-5.0.0-beta01
+5.2.3-release
 
 ## 感谢翻译
 
-繁体中文 `zh-rTW`  lilin
+繁体中文 `zh-Hant`  lilin / 狐狸小宮
 
 西班牙语 `es` Nachogao
 

@@ -298,11 +298,19 @@
     <string name="lyrics_interface">Lyrics interface</string>
     <string name="use_classic_lyrics_view">Use the classic lyrics view</string>
     <string name="lyrics_view_text_align_center">Lyrics view text align center</string>
-    <string name="allow_hi_res_icon_to_be_displayed">Allow Hi-Res ICON to be displayed</string>
     <string name="player_interface">Player interface</string>
     <string name="tablet_mode" >Tablet mode</string>
     <string name="keyboard_shortcuts">Keyboard shortcuts</string>
     <string name="space_bar_play_or_pause_music">Space bar play or pause music</string>
     <string name="tablet_mode_intro">Based on the excellent status bar and navigation bar adaptation of Salt Player, and the use of new technology to build an adaptive interface, we designed three different layouts for version 5.0 of Salt Player to bring a more perfect experience</string>
     <string name="keyboard_shortcuts_intro">This function is available only when the Salt Player interface is in the foreground</string>
+    <string name="laboratory">Laboratory</string>
+    <string name="laboratory_intro">欢迎使用椒盐音乐实验室，这里的功能并非稳定仅供体验，且可能随时被移除</string>
+    <string name="display_video_screen">显示视频页面</string>
+    <string name="year">Year</string>
+    <string name="subscribe_on_telegram">Subscribe to Salt Player development progress on Telegram</string>
+    <string name="github_salt_player_source">Visit SaltPlayerSource to get the latest version, see the latest updates and shares; Feedback to developers on usage issues you encounter, and also offer your suggestions (u‿ฺu✿ฺ)</string>
+    <string name="web_dav_settings">WebDAV 设置</string>
+    <string name="audio_of_video">Audio of video</string>
+    <string name="src">SRC</string>
 </resources>

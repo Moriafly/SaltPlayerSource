@@ -1,4 +1,4 @@
-[![Downloads](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E7%94%A8%E6%88%B7%20cumulative%20users-55k%2B-brightgreen)](https://github.com/Moriafly/SaltPlayerSource/releases/latest)
+[![Downloads](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E7%94%A8%E6%88%B7%20cumulative%20users-67k%2B-brightgreen)](https://github.com/Moriafly/SaltPlayerSource/releases/latest)
 
 <div align="center">  
     <h2>SaltPlayerSource 椒盐音乐资源分享等</h2>
@@ -12,9 +12,7 @@
 
 ---
 
-## 🌈🌈🌈 参加椒盐音乐 5.0 公开测试
-
-[点击下载最新测试版本~](https://github.com/Moriafly/SaltPlayerSource/releases)
+## 🌈🌈🌈 椒盐音乐 5.0
 
 ![平板模式](images/v5_pad_ui_light.jpg)
 
@@ -32,13 +30,9 @@
 
 [Google Play](https://play.google.com/store/apps/details?id=com.salt.music)
 
-[酷安（开发者已主动下架）](https://www.coolapk.com/apk/284064)
+[酷安](https://www.coolapk.com/apk/284064)
 
-[ApkPure（暂停止更新维护）](https://apkpure.com/p/com.salt.music)
-
-#### 版本更新优先级
-
-内测 > Github > Google Play > 内置随缘更新。
+[ApkPure](https://apkpure.com/p/com.salt.music)
 
 ## 平板模式演示
 

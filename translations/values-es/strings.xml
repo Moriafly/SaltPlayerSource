@@ -233,7 +233,6 @@
     <string name="player_theme_dark">✨Dark flowing✨</string>
     <string name="player_theme_light">🍉Light flowing🍨（💕Recuerdo verano de 2021）</string>
     <string name="close">Cerrar</string>
-    <string name="immersion_mode_explain">También se puede activar o desactivar manteniendo presionado el botón de pausa de reproducción en la interfaz de reproducción</string>
     <string name="delete_s_forever">Queres eliminar para siempre %s ?</string>
     <string name="delete_playlist">Eliminar PlayList</string>
     <string name="add_to_playlist">Agregar a la PlayList</string>
@@ -297,11 +296,20 @@
     <string name="lyrics_interface">Interfaz de letras</string>
     <string name="use_classic_lyrics_view">Usando la vista clásica de letras</string>
     <string name="lyrics_view_text_align_center">Lyrics view texto centrado alineación</string>
-    <string name="allow_hi_res_icon_to_be_displayed">Permitir que se muestre el icono Hi-Res</string>
     <string name="player_interface">Reproducir la interfaz</string>
     <string name="tablet_mode" >Modo tableta</string>
     <string name="keyboard_shortcuts">Keyboard shortcuts</string>
     <string name="space_bar_play_or_pause_music">Barra espaciadora para reproducir / pausar música</string>
     <string name="tablet_mode_intro">Derivado de Salt Player siempre ha sido excelente barra de estado, barra de navegación adaptación, y el uso de la nueva tecnología para construir una interfaz adaptativa. Para la versión Salt Player 5.0, tres diseños diferentes han sido diseñados para traer una experiencia más perfecta</string>
     <string name="keyboard_shortcuts_intro">Esta función solo está disponible si la interfaz Salt Player está en primer plano</string>
+    <string name="laboratory">Laboratory</string>
+    <string name="laboratory_intro">欢迎使用椒盐音乐实验室，这里的功能并非稳定仅供体验，且可能随时被移除</string>
+    <string name="display_video_screen">显示视频页面</string>
+    <string name="year">El año</string>
+    <string name="subscribe_on_telegram">Suscríbete al progreso del desarrollo de Salt Player en Telegram</string>
+    <string name="github_salt_player_source">Visite SaltPlayerSource para obtener la última versión, ver lo último y compartir; Envíe un comentario al desarrollador sobre los problemas de uso que tiene. También puede hacer su sugerencia demasiado (u‿ฺu✿ฺ)</string>
+    <string name="immersion_mode_explain">También se puede activar o desactivar manteniendo presionado el botón de pausa de reproducción en la interfaz de reproducción</string>
+    <string name="web_dav_settings">WebDAV 设置</string>
+    <string name="audio_of_video">Audio of video</string>
+    <string name="src">SRC</string>
 </resources>
