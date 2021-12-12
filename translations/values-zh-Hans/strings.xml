@@ -318,4 +318,8 @@
     <string name="change_the_language">改变语言</string>
     <string name="system_language">系统语言</string>
     <string name="multiple_choice">多选</string>
+    <string name="background_cover_of_player_screen">播放界面背景图片</string>
+    <string name="select_image">选择图片</string>
+    <string name="delete_current_image">删除当前图片</string>
+    <string name="background_cover_of_player_screen_info">禁用流光而使用自定义的播放界面背景，注意可能会有前景按钮色彩和背景对比度不强烈导致识别不佳，请手动调整流光效果（浅色流光：前景色为黑，深色流光：前景色为白）</string>
 </resources>
