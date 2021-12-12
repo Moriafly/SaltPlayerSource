@@ -312,4 +312,10 @@
     <string name="web_dav_settings">WebDAV 设置</string>
     <string name="audio_of_video">Audio of video</string>
     <string name="src">SRC</string>
+    <string name="author">Author</string>
+    <string name="select_all">Select all</string>
+    <string name="deselect_all">Deselect all</string>
+    <string name="change_the_language">Change the language</string>
+    <string name="system_language">System language</string>
+    <string name="multiple_choice">Multiple choice</string>
 </resources>

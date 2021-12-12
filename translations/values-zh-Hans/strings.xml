@@ -117,7 +117,6 @@
     <string name="add_time_desc">添加时间降序</string>
     <string name="album_desc">专辑降序</string>
     <string name="artist_desc">艺术家降序</string>
-    <string name="text_view" translatable="false">text_view</string>
     <string name="delete_forever">永久删除</string>
     <string name="hide">隐藏</string>
     <string name="salt_audio_effect">椒盐音效</string>
@@ -255,7 +254,6 @@
     <string name="introduction">介绍</string>
     <string name="auto_eq_intro">使用 PEAKEQ 参数均衡器，避免固定频段（图形）均衡器难以补偿落在两个频段之间的窄缺口和峰值的问题，还原来自 AutoEq 库等精确参数，为你带来完美听感，建议配合耳机使用。</string>
     <string name="help_translation">帮助翻译</string>
-    <string name="help_translation_intro" translatable="false">Salt Player is committed to bringing good user experience to users from different countries and regions around the world, but as a personal work, it is difficult to perfect the language translation. If you are interested in helping me, click \"CONFIRM\" to visit the translation repository to submit your translation.</string>
     <string name="audio_effect">音频效果</string>
     <string name="remove_from_the_playlist">从此歌单中移除</string>
     <string name="edit">编辑</string>
@@ -312,7 +310,12 @@
     <string name="subscribe_on_telegram">在 Telegram 上订阅椒盐音乐开发进度</string>
     <string name="github_salt_player_source">访问 SaltPlayerSource 获取最新版本，查看最新动态与分享；向开发者反馈你所遇到的使用问题，也可以提出你的建议 (u‿ฺu✿ฺ)</string>
     <string name="web_dav_settings">WebDAV 设置</string>
-    <string name="web_dav" translatable="false">WebDAV</string>
     <string name="audio_of_video">视频音频</string>
     <string name="src">重采样（SRC）</string>
+    <string name="author">作者</string>
+    <string name="select_all">全选</string>
+    <string name="deselect_all">取消全选</string>
+    <string name="change_the_language">改变语言</string>
+    <string name="system_language">系统语言</string>
+    <string name="multiple_choice">多选</string>
 </resources>

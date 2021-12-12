@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="text_view" translatable="false">text_view</string>
+    <string name="web_dav" translatable="false">WebDAV</string>
+    <string name="help_translation_intro" translatable="false">Salt Player is committed to bringing good user experience to users from different countries and regions around the world, but as a personal work, it is difficult to perfect the language translation. If you are interested in helping me, click \"CONFIRM\" to visit the translation repository to submit your translation.</string>
     <string name="my">My</string>
     <string name="home">Home</string>
     <string name="about">About</string>
@@ -306,11 +309,17 @@
     <string name="keyboard_shortcuts_intro">This function is available only when the Salt Player interface is in the foreground</string>
     <string name="laboratory">Laboratory</string>
     <string name="laboratory_intro">欢迎使用椒盐音乐实验室，这里的功能并非稳定仅供体验，且可能随时被移除</string>
-    <string name="display_video_screen">显示视频页面</string>
+    <string name="display_video_screen">Display video screen</string>
     <string name="year">Year</string>
     <string name="subscribe_on_telegram">Subscribe to Salt Player development progress on Telegram</string>
     <string name="github_salt_player_source">Visit SaltPlayerSource to get the latest version, see the latest updates and shares; Feedback to developers on usage issues you encounter, and also offer your suggestions (u‿ฺu✿ฺ)</string>
-    <string name="web_dav_settings">WebDAV 设置</string>
+    <string name="web_dav_settings">WebDAV Settings</string>
     <string name="audio_of_video">Audio of video</string>
     <string name="src">SRC</string>
+    <string name="author">Author</string>
+    <string name="select_all">Select all</string>
+    <string name="deselect_all">Deselect all</string>
+    <string name="change_the_language">Change the language</string>
+    <string name="system_language">System language</string>
+    <string name="multiple_choice">Multiple choice</string>
 </resources>
