@@ -194,7 +194,6 @@
     <string name="use_android_media_decoder">使用系统媒体解码器</string>
     <string name="use_android_media_decoder_intro">当音频为椒盐音乐内置解码不支持的格式时使用 Android 平台提供的媒体解码器和特定于此设备（一般由厂家或者芯片制造商提供）的媒体解码器解码此音频</string>
     <string name="media_extractor_adaptive_audio">MediaExtractor 自适应音频</string>
-    <string name="disabling_aaudio_output">禁用 AAudio 输出</string>
     <string name="disabling_aaudio_output_intro">在 Android 8.0 及更新系统禁用 AAudio 输出而使用 OpenSL ES 输出，可能带来更好的稳定性</string>
     <string name="album_s">专辑：%s</string>
     <string name="enable_or_disable_desktop_lyrics">打开 / 关闭桌面歌词</string>
@@ -213,7 +212,7 @@
     <string name="display_lock_screen_cover">显示锁屏封面</string>
     <string name="videos">视频</string>
     <string name="add_to_my_favorite_songs">添加到我喜欢的歌曲</string>
-    <string name="open_source_license">开源许可证</string>
+    <string name="open_source_license">开放源代码许可</string>
     <string name="hello">你好</string>
     <string name="current_version">当前版本</string>
     <string name="all_audio_information">所有音频信息</string>
@@ -273,7 +272,7 @@
     <string name="output">输出</string>
     <string name="audio_decode">音频解码</string>
     <string name="audio_output_mode">音频输出模式</string>
-    <string name="aaudio_intro">原生高性能低延迟输出，为开发者提供更加现代的编程方式</string>
+    <string name="aaudio_intro">原生高性能低延迟输出，但无法配合使用系统音效以及第三方音效软件</string>
     <string name="open_sl_es_intro">原生高性能低延迟输出，稳定性高，但无法配合使用系统音效以及第三方音效软件</string>
     <string name="audio_track_intro">默认音轨输出</string>
     <string name="repair">修复</string>
@@ -322,4 +321,23 @@
     <string name="select_image">选择图片</string>
     <string name="delete_current_image">删除当前图片</string>
     <string name="background_cover_of_player_screen_info">禁用流光而使用自定义的播放界面背景，注意可能会有前景按钮色彩和背景对比度不强烈导致识别不佳，请手动调整流光效果（浅色流光：前景色为黑，深色流光：前景色为白）</string>
+    <string name="xposed_status_bar_lyrics">Xposed 状态栏歌词</string>
+    <string name="hide_status_bar">隐藏状态栏</string>
+    <string name="enabled">已启用</string>
+    <string name="disabled">已禁用</string>
+    <string name="decoder">解码器</string>
+    <string name="you_need_to_restart_the_application">你需要重启本应用</string>
+    <string name="notification_of_salt_player">椒盐音乐通知</string>
+    <string name="scan_music">扫描音乐</string>
+    <string name="salt_player_pro">椒盐音乐 Pro</string>
+    <string name="do_not_scan_audio_below_60_seconds">不扫描 60 秒以下音频</string>
+    <string name="start_scan">开始扫描</string>
+    <string name="save_to_the_media_library">保存到媒体库</string>
+    <string name="save_successfully">保存成功</string>
+    <string name="initial_sample_rate">初始化采样率</string>
+    <string name="bit_depth">位深</string>
+    <string name="state">状态</string>
+    <string name="audio_session_id">音频会话标识</string>
+    <string name="d_songs_were_scanned">共扫描到 %d 首歌曲</string>
+    <string name="join_qq_group">加入 QQ 交流群</string>
 </resources>

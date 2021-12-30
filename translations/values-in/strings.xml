@@ -195,7 +195,6 @@
     <string name="use_android_media_decoder">Gunakan dekoder media sistem</string>
     <string name="use_android_media_decoder_intro">Gunakan dekoder media yang disediakan oleh platform Android dan dekoder media khusus perangkat (biasanya disediakan oleh produsen atau produsen chip) untuk mendekode audio,saat audio dalam format yang tidak didukung oleh dekode bawaan Salt Player</string>
     <string name="media_extractor_adaptive_audio">Mengikuti frekuensi media</string>
-    <string name="disabling_aaudio_output">Nonaktifkan Output AAudio</string>
     <string name="disabling_aaudio_output_intro">Menonaktifkan Output AAudio di Android 8.0 keatas dan menggunakan output OpenSL ES dapat memberikan stabilitas yang lebih baik</string>
     <string name="album_s">Album: %s</string>
     <string name="enable_or_disable_desktop_lyrics">Aktifkan / Nonaktifkan lirik desktop</string>
@@ -271,7 +270,7 @@
     <string name="output">Output</string>
     <string name="audio_track_intro">Output trek audio bawaan</string>
     <string name="open_sl_es_intro">Output asli dengan kinerja tinggi dan latensi rendah, stabilitas tinggi, tetapi tidak dapat menggunakan suara sistem dan perangkat lunak suara pihak ketiga</string>
-    <string name="aaudio_intro">Output asli dengan latensi rendah dan kinerja yang tinggi bagi pengembang untuk menyediakan cara pemrograman yang lebih modern</string>
+    <string name="aaudio_intro">Output asli dengan kinerja tinggi dan latensi rendah, tetapi tidak dapat menggunakan suara sistem dan perangkat lunak suara pihak ketiga</string>
     <string name="audio_output_mode">Mode output audio</string>
     <string name="audio_decode">Dekode audio</string>
     <string name="dsp">DSP</string>
@@ -315,7 +314,7 @@
     <string name="src">SRC</string>
     <string name="author">Pengarang</string>
     <string name="select_all">Pilih Semua</string>
-    <string name="deselect_all">Batal Pilih Semua/string>
+    <string name="deselect_all">Batal Pilih Semua</string>
     <string name="change_the_language">Ganti Bahasa</string>
     <string name="system_language">Bahasa Sistem</string>
     <string name="multiple_choice">Pilihan Ganda</string>
@@ -323,4 +322,23 @@
     <string name="select_image">Pilih Gambar</string>
     <string name="delete_current_image">Hapus Gambar Saat Ini</string>
     <string name="background_cover_of_player_screen_info">Anda dapat merubah latar belakang pemutar dengan sesuka hati,mungkin warna tombol pemutar tidak kontras dengan latar belakang anda,hal ini akan menyebabkan pengalaman yang buruk,(Disarankan untuk anda ketika sedang berada di tema terang maka pakailah latar belakang yang dominan warna gelap, sedangkan untuk tema gelap maka pakailah latar belakang dengan warna dominan terang) </string>
+    <string name="xposed_status_bar_lyrics">Xposed 状态栏歌词</string>
+    <string name="hide_status_bar">Hide status bar</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="decoder">Decoder</string>
+    <string name="you_need_to_restart_the_application">You need to restart the application</string>
+    <string name="notification_of_salt_player">Notification of Salt Player</string>
+    <string name="scan_music">Scan music</string>
+    <string name="salt_player_pro">Salt Player Pro</string>
+    <string name="do_not_scan_audio_below_60_seconds">Do not scan audio below 60 seconds</string>
+    <string name="start_scan">Start scan</string>
+    <string name="save_to_the_media_library">Save to the media library</string>
+    <string name="save_successfully">Save successfully</string>
+    <string name="initial_sample_rate">Initial sample rate</string>
+    <string name="bit_depth">Bit depth</string>
+    <string name="state">State</string>
+    <string name="audio_session_id">Audio session ID</string>
+    <string name="d_songs_were_scanned">%d songs were scanned</string>
+    <string name="join_qq_group">Join QQ group</string>
 </resources>

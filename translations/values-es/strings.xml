@@ -194,7 +194,6 @@
     <string name="use_android_media_decoder">Usar decodificador de medios del sistema</string>
     <string name="use_android_media_decoder_intro">Utilisa el decodificador multimedia proporcionado por la plataforma Android y el decodificador multimedia específico del dispositivo (generalmente proporcionado por el fabricante o el fabricante del chip) para decodificar el audio cuando el audio está en un formato no compatible con la decodificación incorporada de Salt Player</string>
     <string name="media_extractor_adaptive_audio">Audio adaptable MediaExtractor</string>
-    <string name="disabling_aaudio_output">Prohibir AAudio</string>
     <string name="disabling_aaudio_output_intro">En Android 8.0 y posteriores, prohibir el AAudio usara OpenSL ES, esto dará mejor estabilidad</string>
     <string name="album_s">Albuns: %s</string>
     <string name="enable_or_disable_desktop_lyrics">Activar/Desactivar letra en descktop</string>
@@ -274,7 +273,7 @@
     <string name="audio_output_mode">Modo de salida de Audio</string>
     <string name="open_sl_es_intro">Nativa de alto rendimiento de baja latencia de salida, alta estabilidad, pero no puede utilizar el sonido del sistema y software de sonido de terceros</string>
     <string name="audio_track_intro">Salida predeterminada de la pista de audio</string>
-    <string name="aaudio_intro">Salida nativa de alto rendimiento y baja latencia para una programación más moderna para los desarrolladores</string>
+    <string name="aaudio_intro">Nativa de alto rendimiento de baja latencia de salida, pero no puede utilizar el sonido del sistema y software de sonido de terceros</string>
     <string name="repair">Reparación</string>
     <string name="repairing">Restauración en curso, por favor espere…</string>
     <string name="d_unknown_id_songs_were_removed_successfully">%d canciones de logotipo desconocido eliminado con éxito</string>
@@ -322,4 +321,23 @@
     <string name="select_image">Select image</string>
     <string name="delete_current_image">Delete current image</string>
     <string name="background_cover_of_player_screen_info">禁用流光而使用自定义的播放界面背景，注意可能会有前景按钮色彩和背景对比度不强烈导致识别不佳，请手动调整流光效果（浅色流光：前景色为黑，深色流光：前景色为白）</string>
+    <string name="xposed_status_bar_lyrics">Xposed 状态栏歌词</string>
+    <string name="hide_status_bar">Hide status bar</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="decoder">Decoder</string>
+    <string name="you_need_to_restart_the_application">You need to restart the application</string>
+    <string name="notification_of_salt_player">Notification of Salt Player</string>
+    <string name="scan_music">Scan music</string>
+    <string name="salt_player_pro">Salt Player Pro</string>
+    <string name="do_not_scan_audio_below_60_seconds">Do not scan audio below 60 seconds</string>
+    <string name="start_scan">Start scan</string>
+    <string name="save_to_the_media_library">Save to the media library</string>
+    <string name="save_successfully">Save successfully</string>
+    <string name="initial_sample_rate">Initial sample rate</string>
+    <string name="bit_depth">Bit depth</string>
+    <string name="state">State</string>
+    <string name="audio_session_id">Audio session ID</string>
+    <string name="d_songs_were_scanned">%d songs were scanned</string>
+    <string name="join_qq_group">Join QQ group</string>
 </resources>

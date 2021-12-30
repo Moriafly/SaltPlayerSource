@@ -198,7 +198,6 @@
     <string name="use_android_media_decoder">Use the system media decoder</string>
     <string name="use_android_media_decoder_intro">Use the media decoder provided by the Android platform and the device-specific media decoder (usually provided by the manufacturer or chip manufacturer) to decode the audio when the audio is in a format not supported by the built-in decoding of Salt Player</string>
     <string name="media_extractor_adaptive_audio">MediaExtractor adaptive to audio</string>
-    <string name="disabling_aaudio_output">Disable AAudio output</string>
     <string name="disabling_aaudio_output_intro">Disabling AAudio output on Android 8.0 and newer and using OpenSL ES output may bring better stability</string>
     <string name="album_s">Album: %s</string>
     <string name="enable_or_disable_desktop_lyrics">Enable / disable desktop lyrics</string>
@@ -275,7 +274,7 @@
     <string name="output">Output</string>
     <string name="audio_track_intro">Default audio track output</string>
     <string name="open_sl_es_intro">Native high performance low latency output, high stability, but can not use system sound and third-party sound software</string>
-    <string name="aaudio_intro">Native high performance low latency output for developers to provide a more modern way of programming</string>
+    <string name="aaudio_intro">Native high performance low latency output, but can not use system sound and third-party sound software</string>
     <string name="audio_output_mode">Audio output mode</string>
     <string name="audio_decode">Audio decode</string>
     <string name="dsp">DSP</string>
@@ -302,7 +301,7 @@
     <string name="use_classic_lyrics_view">Use the classic lyrics view</string>
     <string name="lyrics_view_text_align_center">Lyrics view text align center</string>
     <string name="player_interface">Player interface</string>
-    <string name="tablet_mode" >Tablet mode</string>
+    <string name="tablet_mode">Tablet mode</string>
     <string name="keyboard_shortcuts">Keyboard shortcuts</string>
     <string name="space_bar_play_or_pause_music">Space bar play or pause music</string>
     <string name="tablet_mode_intro">Based on the excellent status bar and navigation bar adaptation of Salt Player, and the use of new technology to build an adaptive interface, we designed three different layouts for version 5.0 of Salt Player to bring a more perfect experience</string>
@@ -313,7 +312,7 @@
     <string name="year">Year</string>
     <string name="subscribe_on_telegram">Subscribe to Salt Player development progress on Telegram</string>
     <string name="github_salt_player_source">Visit SaltPlayerSource to get the latest version, see the latest updates and shares; Feedback to developers on usage issues you encounter, and also offer your suggestions (u‿ฺu✿ฺ)</string>
-    <string name="web_dav_settings">WebDAV 设置</string>
+    <string name="web_dav_settings">WebDAV Settings</string>
     <string name="audio_of_video">Audio of video</string>
     <string name="src">SRC</string>
     <string name="author">Author</string>
@@ -325,5 +324,24 @@
     <string name="background_cover_of_player_screen">Background cover of player screen</string>
     <string name="select_image">Select image</string>
     <string name="delete_current_image">Delete current image</string>
-    <string name="background_cover_of_player_screen_info">禁用流光而使用自定义的播放界面背景，注意可能会有前景按钮色彩和背景对比度不强烈导致识别不佳，请手动调整流光效果（浅色流光：前景色为黑，深色流光：前景色为白）</string>
+    <string name="background_cover_of_player_screen_info">Disable flowing light mode and use a customized background of the playback interface. Note that there may be poor recognition due to low color and background contrast of the foreground button. Please manually adjust the flowing light mode (light: the foreground color is black, dark: the foreground color is white)</string>
+    <string name="xposed_status_bar_lyrics">Xposed status bar lyrics</string>
+    <string name="hide_status_bar">Hide status bar</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="decoder">Decoder</string>
+    <string name="you_need_to_restart_the_application">You need to restart the application</string>
+    <string name="notification_of_salt_player">Notification of Salt Player</string>
+    <string name="scan_music">Scan music</string>
+    <string name="salt_player_pro">Salt Player Pro</string>
+    <string name="do_not_scan_audio_below_60_seconds">Do not scan audio below 60 seconds</string>
+    <string name="start_scan">Start scan</string>
+    <string name="save_to_the_media_library">Save to the media library</string>
+    <string name="save_successfully">Save successfully</string>
+    <string name="initial_sample_rate">Initial sample rate</string>
+    <string name="bit_depth">Bit depth</string>
+    <string name="state">State</string>
+    <string name="audio_session_id">Audio session ID</string>
+    <string name="d_songs_were_scanned">%d songs were scanned</string>
+    <string name="join_qq_group">Join QQ group</string>
 </resources>
