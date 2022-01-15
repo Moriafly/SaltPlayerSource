@@ -144,7 +144,7 @@
     <string name="auto_matching_of_network_album_info">Pencocokan otomatis info album</string>
     <string name="others">Lainnya</string>
     <string name="help">Bantuan</string>
-    <string name="status_bar_lyrics_support">Hanya Mendukung Flyme, exTHmUI, EvolutionX, dan Nortical</string>
+    <string name="status_bar_lyrics_support">Hanya Mendukung Flyme, exTHmUI, EvolutionX, Nortical dan baolong24</string>
     <string name="player_activity_theme">Tema Pemutar</string>
     <string name="video">Video</string>
     <string name="give_high_praise">Berikan Apresiasi</string>
@@ -307,7 +307,7 @@
     <string name="display_video_screen">Tampilkan halaman video</string>
     <string name="year">Tahun</string>
     <string name="subscribe_on_telegram">Ikuti Salt Player di Telegram untuk mendapatkan perkembangan pada aplikasi ini</string>
-    <string name="github_salt_player_source">Kunjungi SaltPlayerSource untuk mendapatkan versi terbaru dan melihat update terbaru, Jika anda menemukan masalah pada saat memakainya,tolong kirim umpan balik, dan anda juga bisa memberikan saran anda untuk pengembang agar aplikasi ini menjadi lebih baik (u‿ฺu✿ฺ)</string>
+    <string name="github_salt_player_source">Kunjungi SaltPlayerSource untuk mendapatkan versi terbaru dan melihat update terbaru</string>
     <string name="immersion_mode_explain">Sembunyikan bilah status dan hanya menampilkan sampul album, lirik, dan tombol kontrol di antarmuka pemutaran, untuk merasakan pengalaman yang lebih baik. Mode Layar Penuh juga dapat dihidupkan atau dimatikan dengan menahan tombol jeda/putar pada antarmuka pemutaran</string>
     <string name="web_dav_settings">Setelan WebDAV</string>
     <string name="audio_of_video">Audio Video</string>
@@ -341,4 +341,7 @@
     <string name="audio_session_id">ID sesi audio</string>
     <string name="d_songs_were_scanned">%d lagu telah dipindai</string>
     <string name="join_qq_group">Bergabunglah digrup QQ</string>
+    <string name="fade_in_or_out_during_play_or_pause">Fade in or out during play or pause</string>
+    <string name="swipe_down_here_to_return_to_the_playback_screen">Swipe down here to return to the playback screen</string>
+    <string name="click_check_for_updates">Click check for updates</string>
 </resources>

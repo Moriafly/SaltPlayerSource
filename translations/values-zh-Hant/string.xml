@@ -144,7 +144,7 @@
     <string name="auto_matching_of_network_album_info">自動匹配網路專輯資訊</string>
     <string name="others">其他</string>
     <string name="help">幫助</string>
-    <string name="status_bar_lyrics_support">僅支援 Flyme、exTHmUI、EvolutionX 和 Nortical</string>
+    <string name="status_bar_lyrics_support">僅支援 Flyme、exTHmUI、EvolutionX、Nortical 和 baolong24</string>
     <string name="player_activity_theme">播放界面主題</string>
     <string name="video">視訊</string>
     <string name="give_high_praise">給予好評</string>
@@ -307,7 +307,7 @@
     <string name="display_video_screen">顯示視頻頁面</string>
     <string name="year">年份</string>
     <string name="subscribe_on_telegram">在 "Telegram" 上訂閱 "椒鹽音樂" 開發進度</string>
-    <string name="github_salt_player_source">訪問 SaltPlayerSource 獲取最新版本，查看最新動態與分享；向開發者反饋你所遇到的使用問題，也可以提出你的建議 (u‿ฺu✿ฺ)</string>
+    <string name="github_salt_player_source">訪問 SaltPlayerSource 獲取最新版本，查看最新動態與分享</string>
     <string name="immersion_mode_explain">隱藏狀態欄並在播放界面僅保留專輯封面、歌詞以及基本操控按鈕，帶來沉浸體驗。還可以通過在播放界面長按播放暫停按鈕來開啟或關閉沉浸模式</string>
     <string name="web_dav_settings">WebDAV 设置</string>
     <string name="audio_of_video">Audio of video</string>
@@ -331,14 +331,17 @@
     <string name="notification_of_salt_player">Notification of Salt Player</string>
     <string name="scan_music">掃描音樂</string>
     <string name="salt_player_pro">椒鹽音樂 Pro</string>
-    <string name="do_not_scan_audio_below_60_seconds">Do not scan audio below 60 seconds</string>
-    <string name="start_scan">Start scan</string>
-    <string name="save_to_the_media_library">Save to the media library</string>
+    <string name="do_not_scan_audio_below_60_seconds">不掃描低於60秒的音訊檔案</string>
+    <string name="start_scan">開始掃描</string>
+    <string name="save_to_the_media_library">保存至音樂庫</string>
     <string name="save_successfully">Save successfully</string>
     <string name="initial_sample_rate">Initial sample rate</string>
     <string name="bit_depth">Bit depth</string>
     <string name="state">State</string>
     <string name="audio_session_id">Audio session ID</string>
-    <string name="d_songs_were_scanned">%d songs were scanned</string>
+    <string name="d_songs_were_scanned">共掃描到 %d 首歌曲</string>
     <string name="join_qq_group">Join QQ group</string>
+    <string name="fade_in_or_out_during_play_or_pause">Fade in or out during play or pause</string>
+    <string name="swipe_down_here_to_return_to_the_playback_screen">Swipe down here to return to the playback screen</string>
+    <string name="click_check_for_updates">Click check for updates</string>
 </resources>

@@ -1,4 +1,4 @@
-[![Downloads](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E7%94%A8%E6%88%B7%20cumulative%20users-67k%2B-brightgreen)](https://github.com/Moriafly/SaltPlayerSource/releases/latest)
+[![Downloads](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E7%94%A8%E6%88%B7%20cumulative%20users-92k%2B-brightgreen)](https://github.com/Moriafly/SaltPlayerSource/releases/latest)
 
 <div align="center">  
     <h2>SaltPlayerSource 椒盐音乐资源分享等</h2>

@@ -143,7 +143,7 @@
     <string name="auto_matching_of_network_album_info">インターネットアルバム情報をマッチする</string>
     <string name="others">その他</string>
     <string name="help">ヘルプ</string>
-    <string name="status_bar_lyrics_support"> Flyme、exTHmUI、EvolutionX と Nortical のみこの機能をサポートします</string>
+    <string name="status_bar_lyrics_support">" Flyme、exTHmUI、EvolutionX、Nortical と baolong24 のみこの機能をサポートします"</string>
     <string name="player_activity_theme">再生中テーマ</string>
     <string name="video">ビデオ</string>
     <string name="give_high_praise">「いいね」</string>
@@ -306,7 +306,7 @@
     <string name="display_video_screen">显示视频页面</string>
     <string name="year">年</string>
     <string name="subscribe_on_telegram">Telegram にて定期購読 Salt Player 開発進捗</string>
-    <string name="github_salt_player_source">SaltPlayerSource にアクセスして最新バージョンを取得し、最新働態と共有をチェックします。开発にフィードバック君に出会った使用問題、もあなたの提案 (u‿ฺu✿ฺ)</string>
+    <string name="github_salt_player_source">SaltPlayerSource にアクセスして最新バージョンを取得し、最新働態と共有をチェックします</string>
     <string name="immersion_mode_explain">ステータス バーを隠して、再生画面ではアルバム カバー、歌詞、基本的なコントロールボタンのみを保持します、音楽に浸します。一時停止ボタンを長押して浸かるモードをオン・オフします</string>
     <string name="web_dav_settings">WebDAV 设置</string>
     <string name="audio_of_video">Audio of video</string>
@@ -340,4 +340,7 @@
     <string name="audio_session_id">Audio session ID</string>
     <string name="d_songs_were_scanned">%d songs were scanned</string>
     <string name="join_qq_group">Join QQ group</string>
+    <string name="fade_in_or_out_during_play_or_pause">Fade in or out during play or pause</string>
+    <string name="swipe_down_here_to_return_to_the_playback_screen">Swipe down here to return to the playback screen</string>
+    <string name="click_check_for_updates">Click check for updates</string>
 </resources>

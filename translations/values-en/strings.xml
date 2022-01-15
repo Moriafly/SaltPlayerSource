@@ -147,7 +147,7 @@
     <string name="auto_matching_of_network_album_info">Auto matching of network album info</string>
     <string name="others">Others</string>
     <string name="help">Help</string>
-    <string name="status_bar_lyrics_support">Only Flyme, exTHmUI, EvolutionX and Nortical are supported</string>
+    <string name="status_bar_lyrics_support">Only Flyme, exTHmUI, EvolutionX, Nortical and baolong24 are supported</string>
     <string name="player_activity_theme">Player activity theme</string>
     <string name="video">Video</string>
     <string name="give_high_praise">Give high praise</string>
@@ -311,7 +311,7 @@
     <string name="display_video_screen">显示视频页面</string>
     <string name="year">Year</string>
     <string name="subscribe_on_telegram">Subscribe to Salt Player development progress on Telegram</string>
-    <string name="github_salt_player_source">Visit SaltPlayerSource to get the latest version, see the latest updates and shares; Feedback to developers on usage issues you encounter, and also offer your suggestions (u‿ฺu✿ฺ)</string>
+    <string name="github_salt_player_source">Visit SaltPlayerSource to get the latest version, see the latest updates and shares</string>
     <string name="web_dav_settings">WebDAV Settings</string>
     <string name="audio_of_video">Audio of video</string>
     <string name="src">SRC</string>
@@ -344,4 +344,7 @@
     <string name="audio_session_id">Audio session ID</string>
     <string name="d_songs_were_scanned">%d songs were scanned</string>
     <string name="join_qq_group">Join QQ group</string>
+    <string name="fade_in_or_out_during_play_or_pause">Fade in or out during play or pause</string>
+    <string name="swipe_down_here_to_return_to_the_playback_screen">Swipe down here to return to the playback screen</string>
+    <string name="click_check_for_updates">Click check for updates</string>
 </resources>

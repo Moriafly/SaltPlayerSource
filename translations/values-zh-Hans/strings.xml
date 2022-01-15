@@ -143,7 +143,7 @@
     <string name="auto_matching_of_network_album_info">自动匹配网络专辑信息</string>
     <string name="others">其他</string>
     <string name="help">帮助</string>
-    <string name="status_bar_lyrics_support">仅支持 Flyme、exTHmUI、EvolutionX 和 Nortical</string>
+    <string name="status_bar_lyrics_support">仅支持 Flyme、exTHmUI、EvolutionX、Nortical 和 baolong24</string>
     <string name="player_activity_theme">播放界面主题</string>
     <string name="video">视频</string>
     <string name="give_high_praise">给予好评</string>
@@ -307,7 +307,7 @@
     <string name="display_video_screen">显示视频页面</string>
     <string name="year">年份</string>
     <string name="subscribe_on_telegram">在 Telegram 上订阅椒盐音乐开发进度</string>
-    <string name="github_salt_player_source">访问 SaltPlayerSource 获取最新版本，查看最新动态与分享；向开发者反馈你所遇到的使用问题，也可以提出你的建议 (u‿ฺu✿ฺ)</string>
+    <string name="github_salt_player_source">访问 SaltPlayerSource 获取最新版本，查看最新动态与分享</string>
     <string name="web_dav_settings">WebDAV 设置</string>
     <string name="audio_of_video">视频音频</string>
     <string name="src">重采样（SRC）</string>
@@ -340,4 +340,7 @@
     <string name="audio_session_id">音频会话标识</string>
     <string name="d_songs_were_scanned">共扫描到 %d 首歌曲</string>
     <string name="join_qq_group">加入 QQ 交流群</string>
+    <string name="fade_in_or_out_during_play_or_pause">播放暂停时淡入淡出</string>
+    <string name="swipe_down_here_to_return_to_the_playback_screen">此处向下轻扫以返回播放界面</string>
+    <string name="click_check_for_updates">点击检查更新</string>
 </resources>
