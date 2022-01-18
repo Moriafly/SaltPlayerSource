@@ -34,9 +34,13 @@
 
 [ApkPure](https://apkpure.com/p/com.salt.music)
 
-## 平板模式演示
+## 5.0 版本演示
 
 https://user-images.githubusercontent.com/62319450/142763426-101a8b94-1ab5-40a9-82bf-a7044f857494.mp4
+
+## 开放能力
+
+[开放](open/open.md)
 
 ## 🍨 使用帮助
 
