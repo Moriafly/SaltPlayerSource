@@ -7,7 +7,7 @@
     * [DAC等说明](help/dac-usb.md)
     * [其他](help/other.md)
 
-* [开放](open/open.md)
+* [开放文档](open/open.md)
 
 * [隐私协议](privacy_policy/zh-CN.md)
 
