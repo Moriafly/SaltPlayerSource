@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.1_210120" encoding="utf-8"?>
 <resources>
     <string name="app_name">椒鹽音樂</string>
     <string name="my">我的</string>
@@ -40,7 +40,7 @@
     <string name="playlist_recommend">歌單推薦</string>
     <string name="sentence_recommend">句子推薦</string>
     <string name="switch_account">切換帳號</string>
-    <string name="login_by_phone">手機號登錄</string>
+    <string name="login_by_phone">手機號碼登錄</string>
     <string name="search">搜尋</string>
     <string name="experimental">實驗性</string>
     <string name="confirm">確定</string>
@@ -124,7 +124,7 @@
     <string name="duration">時長</string>
     <string name="format">格式</string>
     <string name="bitrate">比特率</string>
-    <string name="sample_rate">采樣率</string>
+    <string name="sample_rate">採樣率</string>
     <string name="channel_count">通道數</string>
     <string name="no_lyrics">暫無歌詞</string>
     <string name="lyrics_edit">歌詞編輯</string>
@@ -173,21 +173,21 @@
     <string name="direct_links">直連</string>
     <string name="add">添加</string>
     <string name="add_single_direct_link_song">添加單個直連歌曲</string>
-    <string name="cover_address">Cover address</string>
+    <string name="cover_address">封面位址</string>
     <string name="source_address">資源位址</string>
     <string name="title_not_empty">標題不可為空</string>
-    <string name="direct_link">Direct link</string>
+    <string name="direct_link">直連位址</string>
     <string name="direct_link_cannot_empty">直連位址不能為空</string>
     <string name="native_output">原生輸出</string>
     <string name="native_output_intro">在 Android 8.0 及更新系統啟用 AAudio 輸出而在低於 Android 8.0 系統啟用 OpenSL ES 輸出，相較於音軌輸出可能會帶來更低的延遲和更好的音質表現，但將無法配合使用系統均衡器或者其他音效軟體以及帶來更高的電量消耗</string>
     <string name="audio_effect_dialog_error_tips">❗啟用原生輸出無法配合使用系統均衡器和第三方音效軟體</string>
     <string name="codec">編碼</string>
     <string name="options_for_audiophile">音頻發燒友選項</string>
-    <string name="audio_output_freq">音頻輸出采樣頻率</string>
+    <string name="audio_output_freq">音頻輸出採樣頻率</string>
     <string name="source_of_lyrics">歌詞來源</string>
     <string name="see_lyrics_help">查看歌詞幫助</string>
     <string name="player_configuration">播放器配置</string>
-    <string name="audio_output_tips">❗請詳細了解了你的設備後再更改以上設定，更改將在切換歌曲後生效，過高的播放器初始化采樣率設定可能會造成嚴重的資源浪費和電量消耗</string>
+    <string name="audio_output_tips">❗請詳細了解了你的設備後再更改以上設定，更改將在切換歌曲後生效，過高的播放器初始化採樣率設定可能會造成嚴重的資源浪費和電量消耗</string>
     <string name="audio_output">音頻輸出</string>
     <string name="file_not_found_exception">無法找到此檔案，可能檔案已經移動或被刪除</string>
     <string name="random_play">隨機播放</string>
@@ -265,9 +265,9 @@
     <string name="light">淺色</string>
     <string name="dark">深色</string>
     <string name="audio_output_tip">❗請謹慎調整以下選項，以免造成過高的電量消耗以及程序被系統殺死等其他不確定後果，以下部分選項的更改將在切換歌曲後生效</string>
-    <string name="change_device_freq">嘗試強制更改輸出設備的采樣率（實驗性功能，適用於高性能 DAC 輸出）</string>
+    <string name="change_device_freq">嘗試強制更改輸出設備的採樣率（實驗性功能，適用於高性能 DAC 輸出）</string>
     <string name="change_device_freq_intro">強制以高頻率播放音頻（即便輸出設備不支援），請同時確保啟用原生輸出；請注意，大多數設備不支援 96000 Hz 以及更高頻率輸出，應用更高頻率可能會導致播放失敗</string>
-    <string name="audio_output_intro">音頻焦點、輸出模式、采樣率、解碼等</string>
+    <string name="audio_output_intro">音頻焦點、輸出模式、採樣率、解碼等</string>
     <string name="dsp">數位訊號處理（DSP）</string>
     <string name="output">輸出</string>
     <string name="audio_decode">音頻解碼</string>
@@ -310,14 +310,14 @@
     <string name="github_salt_player_source">訪問 SaltPlayerSource 獲取最新版本，查看最新動態與分享</string>
     <string name="immersion_mode_explain">隱藏狀態欄並在播放界面僅保留專輯封面、歌詞以及基本操控按鈕，帶來沉浸體驗。還可以通過在播放界面長按播放暫停按鈕來開啟或關閉沉浸模式</string>
     <string name="web_dav_settings">WebDAV 设置</string>
-    <string name="audio_of_video">Audio of video</string>
+    <string name="audio_of_video">視訊音訊</string>
     <string name="src">SRC</string>
-    <string name="author">Author</string>
-    <string name="select_all">Select all</string>
-    <string name="deselect_all">Deselect all</string>
+    <string name="author">作者</string>
+    <string name="select_all">全部選中</string>
+    <string name="deselect_all">全部取消</string>
     <string name="change_the_language">變更語言</string>
     <string name="system_language">系統語言</string>
-    <string name="multiple_choice">Multiple choice</string>
+    <string name="multiple_choice">多項選擇</string>
     <string name="background_cover_of_player_screen">播放界面背景圖片</string>
     <string name="select_image">選取圖片</string>
     <string name="delete_current_image">Delete current image</string>
@@ -326,22 +326,22 @@
     <string name="hide_status_bar">隱藏狀態欄</string>
     <string name="enabled">已啟用</string>
     <string name="disabled">已禁用</string>
-    <string name="decoder">Decoder</string>
-    <string name="you_need_to_restart_the_application">You need to restart the application</string>
-    <string name="notification_of_salt_player">Notification of Salt Player</string>
+    <string name="decoder">解碼器</string>
+    <string name="you_need_to_restart_the_application">您需要重新啟動應用程式</string>
+    <string name="notification_of_salt_player">椒鹽音樂通知</string>
     <string name="scan_music">掃描音樂</string>
     <string name="salt_player_pro">椒鹽音樂 Pro</string>
     <string name="do_not_scan_audio_below_60_seconds">不掃描低於60秒的音訊檔案</string>
     <string name="start_scan">開始掃描</string>
     <string name="save_to_the_media_library">保存至音樂庫</string>
-    <string name="save_successfully">Save successfully</string>
-    <string name="initial_sample_rate">Initial sample rate</string>
-    <string name="bit_depth">Bit depth</string>
-    <string name="state">State</string>
-    <string name="audio_session_id">Audio session ID</string>
+    <string name="save_successfully">保存成功</string>
+    <string name="initial_sample_rate">初始採樣率</string>
+    <string name="bit_depth">比特深度</string>
+    <string name="state">狀態</string>
+    <string name="audio_session_id">音訊會話 ID</string>
     <string name="d_songs_were_scanned">共掃描到 %d 首歌曲</string>
-    <string name="join_qq_group">Join QQ group</string>
-    <string name="fade_in_or_out_during_play_or_pause">Fade in or out during play or pause</string>
-    <string name="swipe_down_here_to_return_to_the_playback_screen">Swipe down here to return to the playback screen</string>
-    <string name="click_check_for_updates">Click check for updates</string>
+    <string name="join_qq_group">加入QQ群組</string>
+    <string name="fade_in_or_out_during_play_or_pause">在播放或暫停期間淡入或淡出</string>
+    <string name="swipe_down_here_to_return_to_the_playback_screen">在此處向下滑動以返回播放熒幕</string>
+    <string name="click_check_for_updates">點擊此處檢查更新</string>
 </resources>
