@@ -1,4 +1,4 @@
-<?xml version="1.1_210120" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">椒鹽音樂</string>
     <string name="my">我的</string>
@@ -340,7 +340,7 @@
     <string name="state">狀態</string>
     <string name="audio_session_id">音訊會話 ID</string>
     <string name="d_songs_were_scanned">共掃描到 %d 首歌曲</string>
-    <string name="join_qq_group">加入QQ群組</string>
+    <string name="join_qq_group">加入 QQ 群組</string>
     <string name="fade_in_or_out_during_play_or_pause">在播放或暫停期間淡入或淡出</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">在此處向下滑動以返回播放熒幕</string>
     <string name="click_check_for_updates">點擊此處檢查更新</string>
