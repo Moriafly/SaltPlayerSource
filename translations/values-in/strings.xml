@@ -57,7 +57,7 @@
     <string name="email">Surel</string>
     <string name="cloud_drive">Penyimpanan Awan</string>
     <string name="theme">Tema</string>
-    <string name="user_interface">Antarmuka Pemutar</string>
+    <string name="user_interface">Antarmuka pemutar</string>
     <string name="double_row_playlists">Daftar putar baris ganda</string>
     <string name="daily_recommendation">Saran Harian</string>
     <string name="play_all">Putar Semua (%d)</string>
@@ -123,7 +123,7 @@
     <string name="duration">Durasi</string>
     <string name="format">Format</string>
     <string name="bitrate">Bitrate</string>
-    <string name="sample_rate">Sample Rate</string>
+    <string name="sample_rate">Sample rate</string>
     <string name="channel_count">Jumlah Channel</string>
     <string name="no_lyrics">Tidak Ada Lirik</string>
     <string name="lyrics_edit">Sunting Lirik</string>
@@ -155,7 +155,7 @@
     <string name="no_description">Tidak ada deskripsi</string>
     <string name="salt_selected"> (Pilih) </string>
     <string name="media_router">Router Media</string>
-    <string name="sleep_timer">Pengatur Waktu Tidur</string>
+    <string name="sleep_timer">Pengatur waktu tidur</string>
     <string name="start">Mulai</string>
     <string name="d_minutes">%d menit(s)</string>
     <string name="audio_effect_dialog_tips">Salt Player telah disesuaikan dengan Poweramp Equalizer dan perangkat lunak pengolah audio lainnya</string>
@@ -187,13 +187,13 @@
     <string name="see_lyrics_help">Lihat bantuan lirik</string>
     <string name="player_configuration">Konfigurasi pemutaran</string>
     <string name="audio_output_tips">Harap pahami perangkat anda sebelum mengubah pengaturan di bawah ini, perubahan akan berlaku setelah pergantian lagu,jika sampel rate terlalu tinggi maka dapat menyebabkan pemborosan sumber daya dan konsumsi daya yang serius</string>
-    <string name="audio_output">Output Audio</string>
+    <string name="audio_output">Output audio</string>
     <string name="file_not_found_exception">Tidak dapat menemukan file, file mungkin telah dipindahkan atau dihapus</string>
     <string name="random_play">Putar Acak</string>
     <string name="random_play_d">Putar acak (%d)</string>
     <string name="use_android_media_decoder">Gunakan dekoder media sistem</string>
     <string name="use_android_media_decoder_intro">Gunakan dekoder media yang disediakan oleh platform Android dan dekoder media khusus perangkat (biasanya disediakan oleh produsen atau produsen chip) untuk mendekode audio,saat audio dalam format yang tidak didukung oleh dekode bawaan Salt Player</string>
-    <string name="media_extractor_adaptive_audio">Mengikuti Sample Rate Media</string>
+    <string name="media_extractor_adaptive_audio">Mengikuti sample rate media</string>
     <string name="disabling_aaudio_output_intro">Menonaktifkan output AAudio di Android 8.0 keatas dan menggunakan output OpenSL ES dapat memberikan stabilitas yang lebih baik</string>
     <string name="album_s">Album: %s</string>
     <string name="enable_or_disable_desktop_lyrics">Aktifkan / Nonaktifkan lirik desktop</string>
@@ -288,14 +288,14 @@
     <string name="technical_support">Dukungan Teknik</string>
     <string name="salt_player_official">Salt Player Resmi</string>
     <string name="update_software">Memutakhirkan Aplikasi</string>
-    <string name="from_album">Dari Album</string>
+    <string name="from_album">Dari album</string>
     <string name="miui_status_bar_lyrics">Lirik bilah status MIUI</string>
     <string name="miui_status_bar_lyrics_intro">Jika anda ingin mengaktifkan opsi ini,anda harus memastikan modul xip terpasang di perangkat anda, untuk informasi lebih lanjut klik link di bawah ini</string>
     <string name="dsd_audio_gain">Peningkatan audio DSD</string>
     <string name="lyrics_interface">Antarmuka lirik</string>
     <string name="use_classic_lyrics_view">Gunakan tampilan lirik klasik</string>
     <string name="lyrics_view_text_align_center">Teks lirik ditampilkan ke tengah</string>
-    <string name="player_interface">Antarmuka Pemutar</string>
+    <string name="player_interface">Antarmuka pemutar</string>
     <string name="tablet_mode" >Mode tablet</string>
     <string name="keyboard_shortcuts">Jalan Pintas Papan Ketik</string>
     <string name="space_bar_play_or_pause_music">Tombol spasi untuk memainkan / menghentikan musik</string>
@@ -317,7 +317,7 @@
     <string name="change_the_language">Ganti bahasa</string>
     <string name="system_language">Bahasa sistem</string>
     <string name="multiple_choice">Pilihan Ganda</string>
-    <string name="background_cover_of_player_screen">Gambar Latar Belakang Pemutar</string>
+    <string name="background_cover_of_player_screen">Gambar latar belakang pemutar</string>
     <string name="select_image">Pilih gambar</string>
     <string name="delete_current_image">Hapus gambar saat ini</string>
     <string name="background_cover_of_player_screen_info">Anda dapat merubah latar belakang pemutar dengan sesuka hati,mungkin warna tombol pemutar tidak kontras dengan latar belakang anda,hal ini akan menyebabkan pengalaman yang buruk,(Disarankan untuk anda ketika sedang berada di tema terang maka pakailah latar belakang yang dominan warna gelap, sedangkan untuk tema gelap maka pakailah latar belakang dengan warna dominan terang) </string>
@@ -343,10 +343,10 @@
     <string name="fade_in_or_out_during_play_or_pause">Fade in atau out saat memutar atau jeda</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">Geser ke bawah untuk kembali ke layar pemutar</string>
     <string name="click_check_for_updates">Klik untuk periksa pembaruan</string>
-    <string name="car_bluetooth_lyrics">Car bluetooth lyrics</string>
-    <string name="car_kit">Car kit</string>
-    <string name="none">None</string>
-    <string name="car_bluetooth_lyrics_intro">The current lyrics will be sent as a media session, pay attention to driving</string>
-    <string name="audio_information">Audio information</string>
-    <string name="date_modified_desc">Date modified desc</string>
+    <string name="car_bluetooth_lyrics">lirik bluetooth mobil</string>
+    <string name="car_kit">Perangkat mobil</string>
+    <string name="none">Tidak ada</string>
+    <string name="car_bluetooth_lyrics_intro">Lirik akan dikirim sebagai media,dan berhati-hatilah saat mengemudi</string>
+    <string name="audio_information">Informasi audio</string>
+    <string name="date_modified_desc">Tanggal diubah</string>
 </resources>
