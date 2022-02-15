@@ -19,7 +19,6 @@
     <string name="source">Procedencia</string>
     <string name="type">Tipo</string>
     <string name="size">Tamaño</string>
-    <string name="bit_rate">bitrate</string>
     <string name="follow">Suscribir</string>
     <string name="fans">Fans</string>
     <string name="internet_playlist">PlayList Online</string>
@@ -143,7 +142,7 @@
     <string name="auto_matching_of_network_album_info">Buscar automáticamente información del álbum online</string>
     <string name="others">Otros</string>
     <string name="help">Help</string>
-    <string name="status_bar_lyrics_support">Esta función solo sorta a Flyme, exTHmUI, EvolutionX y Nortical</string>
+    <string name="status_bar_lyrics_support">Esta función solo sorta a Flyme, exTHmUI, EvolutionX, Nortical y 凛々 AOSP Project</string>
     <string name="player_activity_theme">Temas para la interfaz del reproductor</string>
     <string name="video">Video</string>
     <string name="give_high_praise">Dar un buen comentario</string>
@@ -306,7 +305,7 @@
     <string name="display_video_screen">显示视频页面</string>
     <string name="year">El año</string>
     <string name="subscribe_on_telegram">Suscríbete al progreso del desarrollo de Salt Player en Telegram</string>
-    <string name="github_salt_player_source">Visite SaltPlayerSource para obtener la última versión, ver lo último y compartir; Envíe un comentario al desarrollador sobre los problemas de uso que tiene. También puede hacer su sugerencia demasiado (u‿ฺu✿ฺ)</string>
+    <string name="github_salt_player_source">Visite SaltPlayerSource para obtener la última versión, ver lo último y compartir</string>
     <string name="immersion_mode_explain">También se puede activar o desactivar manteniendo presionado el botón de pausa de reproducción en la interfaz de reproducción</string>
     <string name="web_dav_settings">WebDAV 设置</string>
     <string name="audio_of_video">Audio of video</string>
@@ -340,4 +339,13 @@
     <string name="audio_session_id">Audio session ID</string>
     <string name="d_songs_were_scanned">%d songs were scanned</string>
     <string name="join_qq_group">Join QQ group</string>
+    <string name="fade_in_or_out_during_play_or_pause">Fade in or out during play or pause</string>
+    <string name="swipe_down_here_to_return_to_the_playback_screen">Swipe down here to return to the playback screen</string>
+    <string name="click_check_for_updates">Click check for updates</string>
+    <string name="car_bluetooth_lyrics">Car bluetooth lyrics</string>
+    <string name="car_kit">Car kit</string>
+    <string name="none">None</string>
+    <string name="car_bluetooth_lyrics_intro">The current lyrics will be sent as a media session, pay attention to driving</string>
+    <string name="audio_information">Audio information</string>
+    <string name="date_modified_desc">Date modified desc</string>
 </resources>

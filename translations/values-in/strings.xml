@@ -19,7 +19,6 @@
     <string name="source">Sumber</string>
     <string name="type">Tipe</string>
     <string name="size">Ukuran</string>
-    <string name="bit_rate">Bit Rate</string>
     <string name="follow">Ikuti</string>
     <string name="fans">Penggemar</string>
     <string name="internet_playlist">Daftar Putar Online</string>
@@ -144,7 +143,7 @@
     <string name="auto_matching_of_network_album_info">Pencocokan otomatis info album</string>
     <string name="others">Lainnya</string>
     <string name="help">Bantuan</string>
-    <string name="status_bar_lyrics_support">Hanya Mendukung Flyme, exTHmUI, EvolutionX, Nortical dan baolong24</string>
+    <string name="status_bar_lyrics_support">Hanya Mendukung Flyme, exTHmUI, EvolutionX, Nortical dan 凛々 AOSP Project</string>
     <string name="player_activity_theme">Tema pemutar</string>
     <string name="video">Video</string>
     <string name="give_high_praise">Berikan apresiasi</string>
@@ -344,4 +343,10 @@
     <string name="fade_in_or_out_during_play_or_pause">Fade in atau out saat memutar atau jeda</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">Geser ke bawah untuk kembali ke layar pemutar</string>
     <string name="click_check_for_updates">Klik untuk periksa pembaruan</string>
+    <string name="car_bluetooth_lyrics">Car bluetooth lyrics</string>
+    <string name="car_kit">Car kit</string>
+    <string name="none">None</string>
+    <string name="car_bluetooth_lyrics_intro">The current lyrics will be sent as a media session, pay attention to driving</string>
+    <string name="audio_information">Audio information</string>
+    <string name="date_modified_desc">Date modified desc</string>
 </resources>

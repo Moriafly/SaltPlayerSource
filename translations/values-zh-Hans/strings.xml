@@ -19,7 +19,6 @@
     <string name="source">来源</string>
     <string name="type">类型</string>
     <string name="size">大小</string>
-    <string name="bit_rate">比特率</string>
     <string name="follow">关注</string>
     <string name="fans">粉丝</string>
     <string name="internet_playlist">在线歌单</string>
@@ -143,7 +142,7 @@
     <string name="auto_matching_of_network_album_info">自动匹配网络专辑信息</string>
     <string name="others">其他</string>
     <string name="help">帮助</string>
-    <string name="status_bar_lyrics_support">仅支持 Flyme、exTHmUI、EvolutionX、Nortical 和 baolong24</string>
+    <string name="status_bar_lyrics_support">仅支持 Flyme、exTHmUI、EvolutionX、Nortical 和 凛々 AOSP Project</string>
     <string name="player_activity_theme">播放界面主题</string>
     <string name="video">视频</string>
     <string name="give_high_praise">给予好评</string>
@@ -343,4 +342,10 @@
     <string name="fade_in_or_out_during_play_or_pause">播放暂停时淡入淡出</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">此处向下轻扫以返回播放界面</string>
     <string name="click_check_for_updates">点击检查更新</string>
+    <string name="car_bluetooth_lyrics">车载蓝牙歌词</string>
+    <string name="car_kit">车载</string>
+    <string name="none">无</string>
+    <string name="car_bluetooth_lyrics_intro">将会以媒体会话的方式发送当前歌词，注意专心驾驶</string>
+    <string name="audio_information">音频信息</string>
+    <string name="date_modified_desc">修改时间降序</string>
 </resources>
