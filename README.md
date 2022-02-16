@@ -36,7 +36,7 @@
 
 #### 3. 友好界面
 
-![播放界面](images/salt_player_player_screen.png)
+![播放界面](images/player_screen.png)
 
 椒盐音乐依据用户使用习惯对交互进行了优化，本地音乐软件应该是友好的，颜值实力并存。
 
