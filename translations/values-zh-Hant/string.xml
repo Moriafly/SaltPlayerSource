@@ -308,7 +308,7 @@
     <string name="subscribe_on_telegram">在 "Telegram" 上訂閱 "椒鹽音樂" 開發進度</string>
     <string name="github_salt_player_source">訪問 SaltPlayerSource 獲取最新版本，查看最新動態與分享</string>
     <string name="immersion_mode_explain">隱藏狀態欄並在播放界面僅保留專輯封面、歌詞以及基本操控按鈕，帶來沉浸體驗。還可以通過在播放界面長按播放暫停按鈕來開啟或關閉沉浸模式</string>
-    <string name="web_dav_settings">WebDAV 设置</string>
+    <string name="web_dav_settings">WebDAV 設定</string>
     <string name="audio_of_video">視訊音訊</string>
     <string name="src">SRC</string>
     <string name="author">作者</string>
@@ -319,9 +319,9 @@
     <string name="multiple_choice">多項選擇</string>
     <string name="background_cover_of_player_screen">播放界面背景圖片</string>
     <string name="select_image">選取圖片</string>
-    <string name="delete_current_image">Delete current image</string>
+    <string name="delete_current_image">刪除當前圖像</string>
     <string name="background_cover_of_player_screen_info">禁用流光而使用自定义的播放界面背景，注意可能会有前景按钮色彩和背景对比度不强烈导致识别不佳，请手动调整流光效果（浅色流光：前景色为黑，深色流光：前景色为白）</string>
-    <string name="xposed_status_bar_lyrics">Xposed 状态栏歌词</string>
+    <string name="xposed_status_bar_lyrics">Xposed 狀態欄歌詞</string>
     <string name="hide_status_bar">隱藏狀態欄</string>
     <string name="enabled">已啟用</string>
     <string name="disabled">已禁用</string>
@@ -348,5 +348,5 @@
     <string name="none">無</string>
     <string name="car_bluetooth_lyrics_intro">將會以媒體會話的方式發送當前歌詞，請注意安全駕駛</string>
     <string name="audio_information">音訊資訊</string>
-    <string name="date_modified_desc">Date modified desc</string>
+    <string name="date_modified_desc">修改日期描述</string>
 </resources>
