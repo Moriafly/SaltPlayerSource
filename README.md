@@ -3,7 +3,7 @@
 <div align="center">
     <h2>椒盐音乐 Salt Player</h2>
     <br>
-    <a href="http://moriafly.xyz/SaltPlayerSource/index.html#/" target="_blank">moriafly.xyz/SaltPlayerSource</a>
+    <a href="https://moriafly.xyz/HiMoriafly/salt-player" target="_blank">moriafly.xyz/HiMoriafly/salt-player</a>
 
 <br>
 使用 <a href="https://developer.android.google.cn/jetpack/compose" target="_blank">Jetpack Compose</a> 开发的 Android 音乐播放器软件。
@@ -16,7 +16,7 @@
 
 ## 💕 软件介绍
 
-[椒盐音乐](https://moriafly.xyz/SaltPlayerSource/index.html#/) 是一款 Android 本地音乐播放器软件。
+[椒盐音乐](https://moriafly.xyz/HiMoriafly/salt-player) 是一款 Android 本地音乐播放器软件。
 
 #### 1. 开发技术实力
 
