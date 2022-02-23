@@ -81,7 +81,7 @@
     <string name="auto_matching_of_network_lyrics">自動匹網路歌詞</string>
     <string name="intelligent_filter">智能過濾</string>
     <string name="intelligent_filter_sub">智能過濾掉一些音訊檔案</string>
-    <string name="skip_wrong_song">跳過播放錯誤歌曲</string>
+    <string name="skip_wrong_song">跳過播放錯誤的歌曲</string>
     <string name="sliding_animation_of_songs_in_the_playlist">歌單歌曲滑動動畫</string>
     <string name="next_play">下一首播放</string>
     <string name="help_document">幫助文檔</string>
