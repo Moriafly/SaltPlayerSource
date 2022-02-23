@@ -339,7 +339,7 @@
     <string name="state">ステータス</string>
     <string name="audio_session_id">オーディオセッションID</string>
     <string name="d_songs_were_scanned">%d 曲がスキャンされました</string>
-    <string name="join_qq_group">QQ グループに参加</string>
+    <string name="join_qq_group">参加QQグループ</string>
     <string name="fade_in_or_out_during_play_or_pause">再生または一時停止中にフェードインまたはアウトする</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">スワイプダウンここで再生画面に戻ります</string>
     <string name="click_check_for_updates">チェックをクリック</string>
