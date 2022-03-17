@@ -339,7 +339,6 @@
     <string name="state">狀態</string>
     <string name="audio_session_id">音訊會話 ID</string>
     <string name="d_songs_were_scanned">共掃描到 %d 首歌曲</string>
-    <string name="join_qq_group">加入 QQ 群組</string>
     <string name="fade_in_or_out_during_play_or_pause">在播放或暫停期間淡入或淡出</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">在此處向下滑動以返回播放熒幕</string>
     <string name="click_check_for_updates">點擊此處檢查更新</string>
@@ -349,4 +348,6 @@
     <string name="car_bluetooth_lyrics_intro">將會以媒體會話的方式發送當前歌詞，請注意安全駕駛</string>
     <string name="audio_information">音訊資訊</string>
     <string name="date_modified_desc">修改日期降序</string>
+    <string name="digital_signal_output">Digital signal output</string>
+    <string name="circle_playback_cover">圓形播放封面</string>
 </resources>

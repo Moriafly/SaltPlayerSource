@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="text_view" translatable="false">text_view</string>
-    <string name="web_dav" translatable="false">WebDAV</string>
-    <string name="help_translation_intro" translatable="false">Salt Player is committed to bringing good user experience to users from different countries and regions around the world, but as a personal work, it is difficult to perfect the language translation. If you are interested in helping me, click \"CONFIRM\" to visit the translation repository to submit your translation.</string>
     <string name="my">My</string>
     <string name="home">Home</string>
     <string name="about">About</string>
@@ -342,7 +339,6 @@
     <string name="state">State</string>
     <string name="audio_session_id">Audio session ID</string>
     <string name="d_songs_were_scanned">%d songs were scanned</string>
-    <string name="join_qq_group">Join QQ group</string>
     <string name="fade_in_or_out_during_play_or_pause">Fade in or out during play or pause</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">Swipe down here to return to the playback screen</string>
     <string name="click_check_for_updates">Click check for updates</string>
@@ -352,4 +348,6 @@
     <string name="car_bluetooth_lyrics_intro">The current lyrics will be sent as a media session, pay attention to driving</string>
     <string name="audio_information">Audio information</string>
     <string name="date_modified_desc">Date modified desc</string>
+    <string name="digital_signal_output">Digital signal output</string>
+    <string name="circle_playback_cover">Circle playback cover</string>
 </resources>

@@ -77,7 +77,7 @@
     <string name="custom_home_page_background">自定义主页背景</string>
     <string name="clear_background">清除背景</string>
     <string name="audio_focus">音频焦点</string>
-    <string name="audio_focus_intro">开启后将不会与其他应用一起播放</string>
+    <string name="audio_focus_intro">开启后将不会与其他应用一起播放，注意此功能可能受你的设备系统影响而不起作用，如 MIUI 中在声音助手中开启允许多声音选项会导致此开启状态失效</string>
     <string name="auto_matching_of_network_lyrics">自动匹配网络歌词</string>
     <string name="intelligent_filter">智能过滤</string>
     <string name="intelligent_filter_sub">智能过滤掉一些音频文件</string>
@@ -166,7 +166,7 @@
     <string name="auto_matching_of_network_lyrics_explain">当无法获取到内嵌（仅当音频格式为 MP3 或 FLAC）以及歌词文件（同目录同名 .lrc 文件）时尝试获取网络歌词</string>
     <string name="media_decoding_provided_by_this_device">此设备提供的媒体解码</string>
     <string name="attenuate_flowing_light_effect_explain">减弱流光渲染效果以提升流光渲染性能</string>
-    <string name="ignore_media_store_cover_explain">歌曲封面加载忽略系统媒体库封面，这会提高封面质量和支持同专辑不同封面的特性，可能会降低加载速度</string>
+    <string name="ignore_media_store_cover_explain">❗此功能即将废弃，开启此功能会严重影响列表性能，若启用了的用户请关闭它，若出现封面不匹配的情况请使用音乐标签正确编辑【专辑艺术家】和【艺术家】这两个标签，并设定正确的封面。歌曲封面加载忽略系统媒体库封面，这可能会提高封面质量和支持同专辑不同封面的特性，会严重降低加载速度</string>
     <string name="privacy_agreement_and_terms_of_use">隐私协议与软件使用条款</string>
     <string name="dialog_sleep_timer_tips">当用于睡眠，建议降低设备音量且请勿设置过长时间，以免影响听觉</string>
     <string name="direct_links">直链</string>
@@ -339,7 +339,6 @@
     <string name="state">状态</string>
     <string name="audio_session_id">音频会话标识</string>
     <string name="d_songs_were_scanned">共扫描到 %d 首歌曲</string>
-    <string name="join_qq_group">加入 QQ 交流群</string>
     <string name="fade_in_or_out_during_play_or_pause">播放暂停时淡入淡出</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">此处向下轻扫以返回播放界面</string>
     <string name="click_check_for_updates">点击检查更新</string>
@@ -349,4 +348,6 @@
     <string name="car_bluetooth_lyrics_intro">将会以媒体会话的方式发送当前歌词，注意专心驾驶</string>
     <string name="audio_information">音频信息</string>
     <string name="date_modified_desc">修改时间降序</string>
+    <string name="digital_signal_output">数字信号输出</string>
+    <string name="circle_playback_cover">圆形播放封面</string>
 </resources>

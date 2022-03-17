@@ -1,10 +1,10 @@
 # 帮助椒盐音乐翻译 Help me translate Salt Player
 
-可以提交 pr 翻译哦~ Submit pr translation ~
+可以提交 pr 翻译哦  Submit pr translation
 
 ## 当前翻译使用版本 The version currently used for translation
 
-5.12.5-dev
+5.18.0-rc01
 
 ## 感谢翻译
 
