@@ -68,7 +68,7 @@
     <string name="password">パスワード</string>
     <string name="cellphone_number">電話番号</string>
     <string name="exit_app">閉じる</string>
-    <string name="alipay">アリペイ</string>
+    <string name="alipay">Alipay</string>
     <string name="basic_information">基本的な情報</string>
     <string name="personal_profile">個人紹介</string>
     <string name="good_comments">すばらしいコメント</string>
@@ -348,6 +348,6 @@
     <string name="car_bluetooth_lyrics_intro">現在の歌詞は、メディアセッションとして送信されます</string>
     <string name="audio_information">オーディオ情報</string>
     <string name="date_modified_desc">日付降順の変更</string>
-    <string name="digital_signal_output">Digital signal output</string>
+    <string name="digital_signal_output">デジタル信号出力</string>
     <string name="circle_playback_cover">円形再生カバー</string>
 </resources>
