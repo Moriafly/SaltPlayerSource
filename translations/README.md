@@ -4,14 +4,20 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-5.18.0-rc01
+7.0.0-alpha06
 
 ## 感谢翻译
 
-繁体中文 `zh-Hant`  lilin / 狐狸小宮
+繁體中文 (Chinese Traditional, zh-Hant) : lilin / 狐狸小宮
 
-西班牙语 `es` Nachogao
+Español (Spanish, es) : Nachogao
 
-日语 `ja` AliceMerami
+日本語 (Japanese, ja) : AliceMerami / 狐狸小宮
 
-印度尼西亚文 `in` zam
+Indonesia (Indonesia, in) : zam / Yan75
+
+Portuguese-BR (Portuguese, pt-BR) : Ricardo Sousa 🇧🇷
+
+Turkish (Turkish, tr) : Fırat Cann
+
+Kurdish (Kurdish, ku) : Fırat Cann
