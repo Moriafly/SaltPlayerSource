@@ -8,7 +8,7 @@
     <string name="add">Ekle</string>
     <string name="add_single_direct_link_song">Tek doğrudan bağlantı şarkısı ekle</string>
     <string name="add_time">Zaman ekle</string>
-    <string name="add_time_desc">Zaman açıklaması ekle</string>
+    <string name="add_time_desc">Eklenme zamanına göre sırala</string>
     <string name="add_to_my_favorite_songs">Favori şarkılarıma ekle</string>
     <string name="add_to_playlist">Çalma listesine ekle</string>
     <string name="address">Address</string>
@@ -72,7 +72,7 @@
     <string name="channel_information">Kanal bilgileri</string>
     <string name="check_for_updates">Güncellemeleri kontrol et</string>
     <string name="circle_playback_cover">Daire oynatma kapağı</string>
-    <string name="clear">Temizlemek</string>
+    <string name="clear">Temizle</string>
     <string name="clear_background">Arka planı temizle</string>
     <string name="clear_image_cache">Görüntü önbelleğini temizle</string>
     <string name="clearing_play_queue">Çalma sırasını temizle</string>
@@ -95,16 +95,16 @@
     <string name="d_unknown_id_songs_were_removed_successfully">%d bilinmeyen kimlikli şarkı başarıyla kaldırıldı</string>
     <string name="daily_recommendation">Günlük öneri</string>
     <string name="dark">Koyu</string>
-    <string name="date_modified_desc">Değiştirilme tarihi açıklaması</string>
+    <string name="date_modified_desc">Değiştirilme tarihine göre sırala</string>
     <string name="decoder">Şifre çözücü</string>
     <string name="default_audio_decoding">Varsayılan ses kod çözme</string>
     <string name="delete_current_image">Geçerli resmi sil</string>
     <string name="delete_forever">Sonsuza kadar sil</string>
-    <string name="delete_playlist">Oynatma listesini sil</string>
+    <string name="delete_playlist">Çalma listesini sil</string>
     <string name="delete_s_forever">%s sonsuza kadar silinsin mi?</string>
-    <string name="deselect_all">Hiçbirini seçme</string>
+    <string name="deselect_all">Seçimi kaldır</string>
     <string name="developer_email">Geliştirici E-Postası</string>
-    <string name="dialog_sleep_timer_tips">Uyku için kullanıldığında, cihazın sesini kısmanın ve uzun süre ayarlamanız önerilir. Aksi takdirde, işitme duyunuzu yitirebilirsiniz</string>
+    <string name="dialog_sleep_timer_tips">Uyku için kullanıldığında cihazın sesini kısmanızı ve uzun süre ayarlamamanız önerilir. Aksi takdirde işitme duyunuzu yitirebilirsiniz</string>
     <string name="digital_signal_output">Dijital sinyal çıkışı</string>
     <string name="direct_link">Direct link</string>
     <string name="direct_link_cannot_empty">Link bağlantısı boş olamaz</string>
@@ -124,7 +124,7 @@
     <string name="enable_or_disable_desktop_lyrics">Masaüstü şarkı sözlerini etkinleştir / devre dışı bırak</string>
     <string name="enable_service">Hizmeti Etkinleştir</string>
     <string name="enabled">Etkinleştirilmiş</string>
-    <string name="enter_the_playlist_name_here">Oynatma listesi adını buraya girin</string>
+    <string name="enter_the_playlist_name_here">Çalma listesi adını buraya girin</string>
     <string name="equalizer">Ekolayzer</string>
     <string name="exit_app">Uygulamadan çık</string>
     <string name="experimental">Deneysel</string>
@@ -203,7 +203,7 @@
     <string name="miui_status_bar_lyrics">MIUI durum çubuğu için şarkı sözleri</string>
     <string name="miui_status_bar_lyrics_intro">Bu seçeneği etkinleştirmeden önce Xposed modülünün kurulu olduğundan emin olun, ayrıntılar için lütfen aşağıdaki bağlantıyı ziyaret edin.</string>
     <string name="more">Daha</string>
-    <string name="move_down">Aşağı inmek</string>
+    <string name="move_down">Aşağı taşı</string>
     <string name="move_up">Yukarı taşı</string>
     <string name="multiple_choice">Çoktan seçmeli</string>
     <string name="music">Müzik</string>
@@ -214,7 +214,7 @@
     <string name="native_output_intro">Android 8.0 ve sonraki sürümlerde AAudio çıkışını etkinleştirirken, Android 8.0\'dan daha az bir sürümde OpenSL ES çıkışını etkinleştirirken, ses izi çıkışına kıyasla daha düşük gecikme süresi ve daha iyi ses kalitesi performansı sağlayabilir, ancak sistem ekolayzır veya diğer ses efekti yazılımlarıyla çalışmaz ve çalışmayacaktır.  daha yüksek güç tüketimine neden olur</string>
     <string name="new_playlist">Yeni çalma listesi</string>
     <string name="next">Sonraki</string>
-    <string name="next_play">Sonrakini çal</string>
+    <string name="next_play">Sonra oynat</string>
     <string name="no_description">Açıklama yok</string>
     <string name="no_lyrics">Şarkı sözü yok</string>
     <string name="no_playlists_have_been_created">Çalma listesi oluşturulmadı</string>
@@ -275,14 +275,14 @@
     <string name="service">Hizmet</string>
     <string name="song">Şarkı</string>
     <string name="privacy_policy">Gizlilik Politikası</string>
-    <string name="sort">Sınıflandırmak</string>
+    <string name="sort">Sınıflandır</string>
     <string name="share">Paylaş</string>
     <string name="unknown">Bilinmeyen</string>
     <string name="title">Başlık</string>
     <string name="title_desc">Başlık açıklaması</string>
     <string name="salt_audio_effect">Salt ses efekti</string>
     <string name="sample_rate">Aynı oran</string>
-    <string name="save">Kayıt etmek</string>
+    <string name="save">Kaydet</string>
     <string name="player_ui_keep_screen_on">Oynatıcı arayüzü ekranını açık tut</string>
     <string name="pre_amp">AMP öncesi</string>
     <string name="system_equalizer">Sistem ekolayzırı</string>
@@ -290,10 +290,10 @@
     <string name="video">Video</string>
     <string name="update">Güncelleme</string>
     <string name="salt_selected"> (Seçilmiş) </string>
-    <string name="sleep_timer">Uyku zamanlayıcısı</string>
+    <string name="sleep_timer">Oynatma zamanlayıcısı</string>
     <string name="start">Başlat</string>
     <string name="search_songs_hint">%d Şarkı ara</string>
-    <string name="stop">Durdurmak</string>
+    <string name="stop">Durdur</string>
     <string name="use_music_tag_app_editing">Düzenlemeyi uygulamak için Müzik Etiketi uygulamasını kullanın…</string>
     <string name="privacy_agreement_and_terms_of_use">Gizlilik Sözleşmesi ve Kullanım Koşulları</string>
     <string name="source_address">Kaynak adresi</string>
@@ -323,8 +323,8 @@
     <string name="remove_from_the_playlist">Oynatma listesinden kaldır</string>
     <string name="system_support_required">Sistem desteği gerekli</string>
     <string name="source_audio_info">Ses bilgisi kaynağı</string>
-    <string name="repair">Onarmak</string>
-    <string name="repairing">Onar, lütfen bekle</string>
+    <string name="repair">Onar</string>
+    <string name="repairing">Onarılıyor, lütfen bekle</string>
     <string name="web_service">Web servisi</string>
     <string name="song_settings_intro">Durum çubuğu şarkı sözleri, çevrimiçi şarkı sözleri, albüm kapakları, albüm bilgileri vb.</string>
     <string name="user_interface_intro">Oynatıcı aktivite teması, daldırma modu vb.</string>
@@ -348,7 +348,8 @@
     <string name="salt_player_pro">Salt Player Pro</string>
     <string name="start_scan">Taramayı başlat</string>
     <string name="save_to_the_media_library">Medya kitaplığına kaydet</string>
-    <string name="save_successfully">Başarıyla kaydet</string>
+    <string name="save_successfully">Başarıyla Kaydedildi</string>
     <string name="state">Bildirmek</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">Oynatma ekranına dönmek için burayı aşağı kaydırın</string>
+    <string name="salt_player_smart_router">Salt Player Smart Router</string>
 </resources>

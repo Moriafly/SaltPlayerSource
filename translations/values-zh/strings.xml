@@ -350,4 +350,5 @@
     <string name="date_modified_desc">修改时间降序</string>
     <string name="digital_signal_output">数字信号输出</string>
     <string name="circle_playback_cover">圆形播放封面</string>
+    <string name="salt_player_smart_router">椒盐秒播（测试版）</string>
 </resources>

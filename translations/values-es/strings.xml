@@ -350,4 +350,5 @@
     <string name="date_modified_desc">Date modified desc</string>
     <string name="digital_signal_output">Digital signal output</string>
     <string name="circle_playback_cover">Circle playback cover</string>
+    <string name="salt_player_smart_router">Salt Player Smart Router</string>
 </resources>

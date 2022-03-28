@@ -4,7 +4,7 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-7.0.0-alpha06
+7.0.0-alpha08
 
 ## 感谢翻译
 

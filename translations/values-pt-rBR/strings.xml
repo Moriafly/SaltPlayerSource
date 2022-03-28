@@ -350,4 +350,5 @@
     <string name="circle_playback_cover">Capa do álbum na tela de reprodução em formato circular </string>
     <string name="daily_recommendation">Recomendação diária</string>
     <string name="default_audio_decoding">Decodificação áudio padrão</string>
+    <string name="salt_player_smart_router">Salt Player Smart Router</string>
 </resources>
