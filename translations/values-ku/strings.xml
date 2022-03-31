@@ -159,7 +159,6 @@
     <string name="history">Dîrok</string>
     <string name="home">Xanî</string>
     <string name="home_sentence_recommendation">Pêşniyara hevoka sereke</string>
-    <string name="hot_search">banga germ</string>
     <string name="ignore_media_store_cover">Berga dikana medyayê paşguh nekin</string>
     <string name="ignore_media_store_cover_explain">Barkirina bergê stranê guh nade bergên pirtûkxaneya medyayê ya pergalê ku dikare qalîteya bergê çêtir bike û ji bo heman albûmê qapaxên cihêreng piştgirî bike, dibe ku barkirinê hêdî bike.</string>
     <string name="image_cache">Cache wêneyê</string>
@@ -171,7 +170,6 @@
     <string name="ink_screen_mode">Moda ekrana Ink</string>
     <string name="intelligent_filter">Parzûna jîr</string>
     <string name="intelligent_filter_sub">Fîltera Smart hin pelên deng</string>
-    <string name="internet_playlist">playlist înternetê</string>
     <string name="introduction">Barhildanî</string>
     <string name="kbps">kbps</string>
     <string name="keyboard_shortcuts">Kurteyên klavyeyê</string>
@@ -186,7 +184,6 @@
     <string name="locate_the_currently_playing_song">Strana ku niha tê lîstin bibînin</string>
     <string name="lock_screen">Lock screen</string>
     <string name="login">têketin </string>
-    <string name="login_by_phone">Sign in bi telefonê</string>
     <string name="look_at_the_help">Alîkariyê bibînin</string>
     <string name="lyrics">Lyrics</string>
     <string name="lyrics_edit">Guherandina stranan</string>
@@ -254,8 +251,6 @@
     <string name="update_log">Têketinê nûve bikin</string>
     <string name="song_comment">Nirxandina stranê</string>
     <string name="playlist_recommend">Pêşniyara lîsteya lîstikê</string>
-    <string name="sentence_recommend">Şîreta hevokê</string>
-    <string name="switch_account">Hesabê biguherînin</string>
     <string name="search">Bang</string>
     <string name="version">%s(%d)</string>
     <string name="send">Şandin</string>
@@ -352,4 +347,6 @@
     <string name="state">Nûçe</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">Li vir bigerin da ku vegerin ser ekrana lêdanê</string>
     <string name="salt_player_smart_router">Salt Player Smart Router</string>
+    <string name="display_song_file_name_in_list">Display song file name in list</string>
+    <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
 </resources>

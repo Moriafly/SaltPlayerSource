@@ -22,7 +22,6 @@
     <string name="size">サイズ</string>
     <string name="follow">フォローイン</string>
     <string name="fans">ファン</string>
-    <string name="internet_playlist">オンライン歌曲</string>
     <string name="local_playlist">ローカル歌曲</string>
     <string name="new_playlist">新規リスト</string>
     <string name="import_playlist">外部からインポート</string>
@@ -37,9 +36,6 @@
     <string name="update_log">アップデートログ</string>
     <string name="song_comment">コメント</string>
     <string name="playlist_recommend">おすすめ</string>
-    <string name="sentence_recommend">センテンスおすすめ</string>
-    <string name="switch_account">アカウント切り替え</string>
-    <string name="login_by_phone">電話番号でログイン</string>
     <string name="search">検索</string>
     <string name="experimental">実験的な機能</string>
     <string name="confirm">確認</string>
@@ -47,7 +43,6 @@
     <string name="open_source_introduction">オープンソース説明</string>
     <string name="send">送信</string>
     <string name="d_songs">%d 曲</string>
-    <string name="hot_search">人気曲を検索</string>
     <string name="playlist_number">再生リスト（%d）</string>
     <string name="my_favorite_songs">お気に入り</string>
     <string name="equalizer">イコライザ</string>
@@ -351,4 +346,6 @@
     <string name="digital_signal_output">デジタル信号出力</string>
     <string name="circle_playback_cover">円形再生カバー</string>
     <string name="salt_player_smart_router">Salt Player Smart Router</string>
+    <string name="display_song_file_name_in_list">Display song file name in list</string>
+    <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
 </resources>

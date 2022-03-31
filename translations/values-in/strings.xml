@@ -21,7 +21,6 @@
     <string name="size">Ukuran</string>
     <string name="follow">Ikuti</string>
     <string name="fans">Penggemar</string>
-    <string name="internet_playlist">Daftar Putar Online</string>
     <string name="local_playlist">Daftar Putar Lokal</string>
     <string name="new_playlist">Daftar Putar Baru</string>
     <string name="import_playlist">Impor Daftar Putar</string>
@@ -36,9 +35,6 @@
     <string name="update_log">Log pembaharuan</string>
     <string name="song_comment">Komentar Lagu</string>
     <string name="playlist_recommend">Saran Daftar Putar</string>
-    <string name="sentence_recommend">Saran Kalimat</string>
-    <string name="switch_account">Beralih Akun</string>
-    <string name="login_by_phone">Masuk Dengan Telfon</string>
     <string name="search">Cari</string>
     <string name="experimental">Eksperimen</string>
     <string name="confirm">Konfirmasi</string>
@@ -46,7 +42,6 @@
     <string name="open_source_introduction">Pendahuluan sumber terbuka</string>
     <string name="send">Kirim</string>
     <string name="d_songs">%d lagu</string>
-    <string name="hot_search">Pencarian Populer</string>
     <string name="playlist_number">Daftar Putar（%d）</string>
     <string name="my_favorite_songs">Musik Favorit Saya</string>
     <string name="equalizer">Equalizer</string>
@@ -351,4 +346,6 @@
     <string name="digital_signal_output">Digital signal output</string>
     <string name="circle_playback_cover">Circle playback cover</string>
     <string name="salt_player_smart_router">Salt Player Smart Router</string>
+    <string name="display_song_file_name_in_list">Display song file name in list</string>
+    <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
 </resources>

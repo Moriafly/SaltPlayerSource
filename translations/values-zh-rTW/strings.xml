@@ -22,7 +22,6 @@
     <string name="size">大小</string>
     <string name="follow">關注</string>
     <string name="fans">粉絲</string>
-    <string name="internet_playlist">在線歌單</string>
     <string name="local_playlist">本地歌單</string>
     <string name="new_playlist">新建歌單</string>
     <string name="import_playlist">導入歌單</string>
@@ -37,9 +36,6 @@
     <string name="update_log">更新日誌</string>
     <string name="song_comment">歌曲評論</string>
     <string name="playlist_recommend">歌單推薦</string>
-    <string name="sentence_recommend">句子推薦</string>
-    <string name="switch_account">切換帳號</string>
-    <string name="login_by_phone">手機號碼登錄</string>
     <string name="search">搜尋</string>
     <string name="experimental">實驗性</string>
     <string name="confirm">確定</string>
@@ -47,7 +43,6 @@
     <string name="open_source_introduction">開源介紹</string>
     <string name="send">發送</string>
     <string name="d_songs">%d 首</string>
-    <string name="hot_search">熱門搜尋</string>
     <string name="playlist_number">播放列表（%d）</string>
     <string name="my_favorite_songs">我喜歡的歌曲</string>
     <string name="equalizer">均衡器</string>
@@ -351,4 +346,6 @@
     <string name="digital_signal_output">數碼訊號輸出</string>
     <string name="circle_playback_cover">圓形播放封面</string>
     <string name="salt_player_smart_router">Salt Player Smart Router</string>
+    <string name="display_song_file_name_in_list">Display song file name in list</string>
+    <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
 </resources>

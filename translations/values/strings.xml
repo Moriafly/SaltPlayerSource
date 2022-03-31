@@ -24,7 +24,6 @@
     <string name="size">Size</string>
     <string name="follow">Follow</string>
     <string name="fans">Fans</string>
-    <string name="internet_playlist">Internet playlist</string>
     <string name="local_playlist">Local playlist</string>
     <string name="new_playlist">New playlist</string>
     <string name="import_playlist">Import playlist</string>
@@ -39,9 +38,6 @@
     <string name="update_log">Update log</string>
     <string name="song_comment">Song comment</string>
     <string name="playlist_recommend">Playlist recommend</string>
-    <string name="sentence_recommend">Sentence recommend</string>
-    <string name="switch_account">Switch account</string>
-    <string name="login_by_phone">Login by phone</string>
     <string name="search">Search</string>
     <string name="experimental">Experimental</string>
     <string name="confirm">Confirm</string>
@@ -49,7 +45,6 @@
     <string name="open_source_introduction">Introduction of open source</string>
     <string name="send">Send</string>
     <string name="d_songs">%d songs</string>
-    <string name="hot_search">Hot search</string>
     <string name="playlist_number">Playlist（%d）</string>
     <string name="my_favorite_songs">My favorite songs</string>
     <string name="equalizer">Equalizer</string>
@@ -354,4 +349,6 @@
     <string name="digital_signal_output">Digital signal output</string>
     <string name="circle_playback_cover">Circle playback cover</string>
     <string name="salt_player_smart_router">Salt Player Smart Router</string>
+    <string name="display_song_file_name_in_list">Display song file name in list</string>
+    <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
 </resources>

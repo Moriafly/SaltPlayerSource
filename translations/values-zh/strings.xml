@@ -22,7 +22,6 @@
     <string name="size">大小</string>
     <string name="follow">关注</string>
     <string name="fans">粉丝</string>
-    <string name="internet_playlist">在线歌单</string>
     <string name="local_playlist">本地歌单</string>
     <string name="new_playlist">新建歌单</string>
     <string name="import_playlist">导入歌单</string>
@@ -37,9 +36,6 @@
     <string name="update_log">更新日志</string>
     <string name="song_comment">歌曲评论</string>
     <string name="playlist_recommend">歌单推荐</string>
-    <string name="sentence_recommend">句子推荐</string>
-    <string name="switch_account">切换账号</string>
-    <string name="login_by_phone">手机号登录</string>
     <string name="search">搜索</string>
     <string name="experimental">实验性</string>
     <string name="confirm">确定</string>
@@ -47,7 +43,6 @@
     <string name="open_source_introduction">开源介绍</string>
     <string name="send">发送</string>
     <string name="d_songs">%d 首</string>
-    <string name="hot_search">热门搜索</string>
     <string name="playlist_number">播放列表（%d）</string>
     <string name="my_favorite_songs">我喜欢的歌曲</string>
     <string name="equalizer">均衡器</string>
@@ -350,5 +345,7 @@
     <string name="date_modified_desc">修改时间降序</string>
     <string name="digital_signal_output">数字信号输出</string>
     <string name="circle_playback_cover">圆形播放封面</string>
-    <string name="salt_player_smart_router">椒盐秒播（测试版）</string>
+    <string name="salt_player_smart_router">椒盐妙播</string>
+    <string name="display_song_file_name_in_list">在列表中显示歌曲文件名</string>
+    <string name="display_song_file_name_in_list_intro">列表中的歌曲主文本显示为此歌曲的文件名称（包含拓展名）而非显示为文件内嵌的元数据标题</string>
 </resources>

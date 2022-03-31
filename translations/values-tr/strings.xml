@@ -159,7 +159,6 @@
     <string name="history">Tarih</string>
     <string name="home">Ev</string>
     <string name="home_sentence_recommendation">Ana cümle önerisi</string>
-    <string name="hot_search">Sıcak arama</string>
     <string name="ignore_media_store_cover">Medya mağazası kapağını yoksay</string>
     <string name="ignore_media_store_cover_explain">Şarkı kapağı yükleme, kapak kalitesini iyileştirebilen ve aynı albüm için farklı kapakları destekleyebilen, muhtemelen yüklemeyi yavaşlatan sistem medya kitaplığı kapaklarını yok sayar</string>
     <string name="image_cache">Görüntü önbelleği</string>
@@ -171,7 +170,6 @@
     <string name="ink_screen_mode">Ink ekranı modu</string>
     <string name="intelligent_filter">Akıllı filtre</string>
     <string name="intelligent_filter_sub">Bazı ses dosyalarını akıllı filtreleyin</string>
-    <string name="internet_playlist">İnternet çalma listesi</string>
     <string name="introduction">Tanıtım</string>
     <string name="kbps">kbps</string>
     <string name="keyboard_shortcuts">Klavye kısayolları</string>
@@ -186,7 +184,6 @@
     <string name="locate_the_currently_playing_song">Şu anda çalmakta olan şarkıyı bulun</string>
     <string name="lock_screen">Kilit ekranı</string>
     <string name="login">Giriş yapmak </string>
-    <string name="login_by_phone">Telefonla giriş yapın</string>
     <string name="look_at_the_help">Yardıma bak</string>
     <string name="lyrics">Şarkı sözleri</string>
     <string name="lyrics_edit">Şarkı sözü düzenleme</string>
@@ -254,8 +251,6 @@
     <string name="update_log">Güncelleme günlüğü</string>
     <string name="song_comment">Şarkı yorumu</string>
     <string name="playlist_recommend">Oynatma listesi tavsiyesi</string>
-    <string name="sentence_recommend">Cümle tavsiyesi</string>
-    <string name="switch_account">Hesap değiştir</string>
     <string name="search">Arama</string>
     <string name="version">%s(%d)</string>
     <string name="send">Göndermek</string>
@@ -352,4 +347,6 @@
     <string name="state">Bildirmek</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">Oynatma ekranına dönmek için burayı aşağı kaydırın</string>
     <string name="salt_player_smart_router">Salt Player Smart Router</string>
+    <string name="display_song_file_name_in_list">Display song file name in list</string>
+    <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
 </resources>

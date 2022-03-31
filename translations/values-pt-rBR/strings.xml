@@ -21,7 +21,6 @@
     <string name="size">Tamanho</string>
     <string name="follow">Seguir</string>
     <string name="fans">Fãs</string>
-    <string name="internet_playlist">Playlist da internet</string>
     <string name="local_playlist">Playlist local</string>
     <string name="new_playlist">Nova playlist</string>
     <string name="import_playlist">Importar playlist</string>
@@ -36,9 +35,6 @@
     <string name="update_log">Changelog</string>
     <string name="song_comment">Comentário da música</string>
     <string name="playlist_recommend">Recomendação de playlist</string>
-    <string name="sentence_recommend">Frase recomendada</string>
-    <string name="switch_account">Trocar de conta</string>
-    <string name="login_by_phone">Login via N° do celular</string>
     <string name="search">Procurar</string>
     <string name="experimental">Experimental</string>
     <string name="confirm">Confirmar</string>
@@ -46,7 +42,6 @@
     <string name="open_source_introduction">Introdução de código aberto</string>
     <string name="send">Enviar</string>
     <string name="d_songs">%d música</string>
-    <string name="hot_search">Pesquisas populares</string>
     <string name="playlist_number">Playlists (%d)</string>
     <string name="my_favorite_songs">Minhas músicas favoritas</string>
     <string name="equalizer">Equalizador</string>
@@ -351,4 +346,6 @@
     <string name="daily_recommendation">Recomendação diária</string>
     <string name="default_audio_decoding">Decodificação áudio padrão</string>
     <string name="salt_player_smart_router">Salt Player Smart Router</string>
+    <string name="display_song_file_name_in_list">Display song file name in list</string>
+    <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
 </resources>
