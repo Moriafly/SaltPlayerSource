@@ -1,5 +1,5 @@
 ---
-name: 易小千尘 文案功能建议提交
+name: 逆天版文案功能建议提交
 about: 逆天版提供新功能或者现有功能增强建议。
 title: ''
 labels: 增强 enhancement
