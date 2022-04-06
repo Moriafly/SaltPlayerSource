@@ -345,7 +345,7 @@
     <string name="date_modified_desc">修改日期降序</string>
     <string name="digital_signal_output">數碼訊號輸出</string>
     <string name="circle_playback_cover">圓形播放封面</string>
-    <string name="salt_player_smart_router">Salt Player Smart Router</string>
-    <string name="display_song_file_name_in_list">Display song file name in list</string>
-    <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
+    <string name="salt_player_smart_router">椒鹽妙播</string>
+    <string name="display_song_file_name_in_list">在列表中顯示歌曲檔案名</string>
+    <string name="display_song_file_name_in_list_intro">列表中歌曲的標題顯示為歌曲的檔案名（包括擴展名），而不是檔案的內聯元數據標題</string>
 </resources>
