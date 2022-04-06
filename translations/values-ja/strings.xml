@@ -345,7 +345,7 @@
     <string name="date_modified_desc">日付降順の変更</string>
     <string name="digital_signal_output">デジタル信号出力</string>
     <string name="circle_playback_cover">円形再生カバー</string>
-    <string name="salt_player_smart_router">SaltPlayerスマートルーター</string>
+    <string name="salt_player_smart_router">Salt Player スマートルーター</string>
     <string name="display_song_file_name_in_list">曲のファイル名をリストに表示する</string>
     <string name="display_song_file_name_in_list_intro">リスト内の曲のメインテキストは、ファイルのインラインメタデータタイトルではなく、曲のファイル名（拡張子を含む）として表示されます。</string>
 </resources>
