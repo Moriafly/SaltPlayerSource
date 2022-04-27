@@ -4,11 +4,11 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-7.0.0-alpha08
+7.0.0-rc04
 
 ## 感谢翻译
 
-繁體中文 (Chinese Traditional, zh-Hant) : lilin / 狐狸小宮
+繁體中文 (Chinese Traditional, zh-Hant) : lilin / 狐狸小宮 / TragicLifeHu
 
 Español (Spanish, es) : Nachogao
 

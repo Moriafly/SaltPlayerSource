@@ -47,7 +47,7 @@
     <string name="auto_eq_intro">Wekhevkera parametreya PEAKEQ bikar bînin da ku ji pirsgirêkê dûr nekevin ku hevsengiya frekansa sabît (grafîk) zehmet e ku valahiya teng û nirxa lûtkeyê ya di navbera her du bandên frekansê de telafî bike. Parametreyên rast ji pirtûkxaneya AutoEq sererast bikin da ku hestek guhdariya bêkêmasî bidin we. Tête pêşniyar kirin ku bi guhên xwe re bikar bînin.</string>
     <string name="auto_matching_of_network_album_info">Lihevhatina otomatîkî ya agahdariya albûma torê</string>
     <string name="auto_matching_of_network_lyrics">Lihevhatina otomatîkî ya stranên torê</string>
-    <string name="auto_matching_of_network_lyrics_explain">"Dema ku hûn nikaribin stranên pêvekirî (tenê heke deng di formata MP3 an FLAC de be) an pelê stranan (pelê .lrc bi heman navî pelrêça) wergirin, hewl bidin ku gotinên tevneyê bistînin."</string>
+    <string name="auto_matching_of_network_lyrics_explain">Dema ku hûn nikaribin stranên pêvekirî an pelê stranan (pelê .lrc bi heman navî pelrêça) wergirin, hewl bidin ku gotinên tevneyê bistînin.</string>
     <string name="back">Paş</string>
     <string name="background_cover_of_player_screen">Veşartina paşîn a ekrana lîstikvanê</string>
     <string name="background_cover_of_player_screen_info">Moda ronahiya diherike neçalak bike û paşxaneyek xwerû ya navbera lêdanê bikar bîne. Bala xwe bidinê ku dibe ku bişkoka pêşîn ji ber kêmbûna reng û berevajîkirina paşxanê xwedan naskirinek nebaş be. Ji kerema xwe moda ronahiya herikînê bi destan saz bikin (ronahî: rengê pêşiyê reş, tarî: rengê pêşiyê spî)</string>
@@ -349,4 +349,9 @@
     <string name="salt_player_smart_router">Salt Player Smart Router</string>
     <string name="display_song_file_name_in_list">Display song file name in list</string>
     <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
+    <string name="collapse">Collapse</string>
+    <string name="expand">Expand</string>
+    <string name="no_floating_window_permission_tip">The software has not obtained permission, you need to manually go to the settings to give the software the permission of the floating window</string>
+    <string name="float_support">Float support</string>
+    <string name="float_support_dsp">Float support DSP</string>
 </resources>

@@ -158,7 +158,7 @@
     <string name="baidu_pan">Baidu Pan</string>
     <string name="stop">Berhenti</string>
     <string name="use_music_tag_app_editing">Gunakan Aplikasi Tag Musik Untuk Menerapkan Pengeditan…</string>
-    <string name="auto_matching_of_network_lyrics_explain">Mencoba untuk mendapatkan lirik dari internet ketika tidak bisa disematkan lyrics (hanya untuk audio dalam format MP3 atau FLAC) atau file lirik (file .lrc dengan nama direktori yang sama)</string>
+    <string name="auto_matching_of_network_lyrics_explain">Mencoba untuk mendapatkan lirik dari internet ketika tidak bisa disematkan lyrics atau file lirik (file .lrc dengan nama direktori yang sama)</string>
     <string name="media_decoding_provided_by_this_device">Dekoder media yang disediakan oleh perangkat ini</string>
     <string name="attenuate_flowing_light_effect_explain">Kurangi efek rendering cahaya yang bergerak untuk meningkatkan kinerja pemutar musik</string>
     <string name="ignore_media_store_cover_explain">Mengabaikan sampul media sistem,yang dapat meningkatkan kualitas sampul dan mendukung sampul berbeda untuk album yang sama, mungkin memperlambat pemuatan</string>
@@ -348,4 +348,9 @@
     <string name="salt_player_smart_router">Salt Player Smart Router</string>
     <string name="display_song_file_name_in_list">Display song file name in list</string>
     <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
+    <string name="collapse">Collapse</string>
+    <string name="expand">Expand</string>
+    <string name="no_floating_window_permission_tip">The software has not obtained permission, you need to manually go to the settings to give the software the permission of the floating window</string>
+    <string name="float_support">Float support</string>
+    <string name="float_support_dsp">Float support DSP</string>
 </resources>

@@ -158,10 +158,10 @@
     <string name="baidu_pan">百度网盘</string>
     <string name="stop">停止</string>
     <string name="use_music_tag_app_editing">使用音乐标签应用编辑…</string>
-    <string name="auto_matching_of_network_lyrics_explain">当无法获取到内嵌（仅当音频格式为 MP3 或 FLAC）以及歌词文件（同目录同名 .lrc 文件）时尝试获取网络歌词</string>
+    <string name="auto_matching_of_network_lyrics_explain">当无法获取到内嵌以及歌词文件（同目录同名 .lrc 文件）时尝试获取网络歌词</string>
     <string name="media_decoding_provided_by_this_device">此设备提供的媒体解码</string>
     <string name="attenuate_flowing_light_effect_explain">减弱流光渲染效果以提升流光渲染性能</string>
-    <string name="ignore_media_store_cover_explain">❗此功能即将废弃，开启此功能会严重影响列表性能，若启用了的用户请关闭它，若出现封面不匹配的情况请使用音乐标签正确编辑【专辑艺术家】和【艺术家】这两个标签，并设定正确的封面。歌曲封面加载忽略系统媒体库封面，这可能会提高封面质量和支持同专辑不同封面的特性，会严重降低加载速度</string>
+    <string name="ignore_media_store_cover_explain">❗此功能不建议开启，若出现封面不匹配的情况请使用音乐标签正确编辑【标题】、【专辑】和【专辑艺术家】这三个标签，并设定正确的封面。歌曲封面加载忽略系统媒体库封面，这可能会提高封面质量和支持同专辑不同封面的特性，会严重降低加载速度</string>
     <string name="privacy_agreement_and_terms_of_use">隐私协议与软件使用条款</string>
     <string name="dialog_sleep_timer_tips">当用于睡眠，建议降低设备音量且请勿设置过长时间，以免影响听觉</string>
     <string name="direct_links">直链</string>
@@ -348,4 +348,9 @@
     <string name="salt_player_smart_router">椒盐妙播</string>
     <string name="display_song_file_name_in_list">在列表中显示歌曲文件名</string>
     <string name="display_song_file_name_in_list_intro">列表中的歌曲主文本显示为此歌曲的文件名称（包含拓展名）而非显示为文件内嵌的元数据标题</string>
+    <string name="collapse">折叠</string>
+    <string name="expand">展开</string>
+    <string name="no_floating_window_permission_tip">软件未取得权限，需要手动前往设置给予本软件悬浮窗权限</string>
+    <string name="float_support">浮点支持</string>
+    <string name="float_support_dsp">DSP 浮点支持</string>
 </resources>

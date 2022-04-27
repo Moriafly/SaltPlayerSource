@@ -156,7 +156,7 @@
     <string name="baidu_pan">Baidu Pan</string>
     <string name="stop">Parar</string>
     <string name="use_music_tag_app_editing">Use o aplicativo Music Tag para aplicar edição…</string>
-    <string name="auto_matching_of_network_lyrics_explain">Tente obter as letras online quando não tiver as letras incorporadas no arquivo (somente para arquivos em formato MP3 ou FLAC) ou arquivo de letra (.lrc com o mesmo nome no diretório da música)</string>
+    <string name="auto_matching_of_network_lyrics_explain">Tente obter as letras online quando não tiver as letras incorporadas no arquivo ou arquivo de letra (.lrc com o mesmo nome no diretório da música)</string>
     <string name="media_decoding_provided_by_this_device">Decodificação de mídia do dispositivo</string>
     <string name="attenuate_flowing_light_effect_explain">Reduza o efeito de renderização do flowing light para melhorar o desempenho do flowing light </string>
     <string name="ignore_media_store_cover_explain">Carregamento de capas online, o que pode melhorar a qualidade da capa ou trocar a capa de um mesmo álbum</string>
@@ -348,4 +348,9 @@
     <string name="salt_player_smart_router">Salt Player Smart Router</string>
     <string name="display_song_file_name_in_list">Display song file name in list</string>
     <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
+    <string name="collapse">Collapse</string>
+    <string name="expand">Expand</string>
+    <string name="no_floating_window_permission_tip">The software has not obtained permission, you need to manually go to the settings to give the software the permission of the floating window</string>
+    <string name="float_support">Float support</string>
+    <string name="float_support_dsp">Float support DSP</string>
 </resources>

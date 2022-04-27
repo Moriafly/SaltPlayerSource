@@ -158,7 +158,7 @@
     <string name="baidu_pan">百度網盤</string>
     <string name="stop">停止</string>
     <string name="use_music_tag_app_editing">使用音樂標籤應用程式編輯…</string>
-    <string name="auto_matching_of_network_lyrics_explain">當無法取得到內嵌（僅當音訊格式為 MP3 或 FLAC）以及歌詞檔案（同目錄同名 .lrc 檔案）時嘗試取得網路歌詞</string>
+    <string name="auto_matching_of_network_lyrics_explain">當無法取得到內嵌以及歌詞檔案（同目錄同名 .lrc 檔案）時嘗試取得網路歌詞</string>
     <string name="media_decoding_provided_by_this_device">此裝置提供的媒體解碼</string>
     <string name="attenuate_flowing_light_effect_explain">減弱流光繪製效果以提升流光繪製效能</string>
     <string name="ignore_media_store_cover_explain">歌曲封面載入將忽略系統媒體資料庫封面，這會提高封面品質並支援同專輯不同封面的特性，可能會降低載入速度</string>
@@ -348,4 +348,9 @@
     <string name="salt_player_smart_router">椒鹽智慧播放</string>
     <string name="display_song_file_name_in_list">在清單中顯示歌曲檔名</string>
     <string name="display_song_file_name_in_list_intro">清單中歌曲的標題顯示為歌曲的檔案名稱（包括副檔名），而不是檔案的內建中繼資料標題</string>
+    <string name="collapse">Collapse</string>
+    <string name="expand">Expand</string>
+    <string name="no_floating_window_permission_tip">The software has not obtained permission, you need to manually go to the settings to give the software the permission of the floating window</string>
+    <string name="float_support">Float support</string>
+    <string name="float_support_dsp">Float support DSP</string>
 </resources>

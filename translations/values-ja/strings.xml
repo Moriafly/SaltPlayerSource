@@ -158,7 +158,7 @@
     <string name="baidu_pan">BaiduNetdisk</string>
     <string name="stop">停止</string>
     <string name="use_music_tag_app_editing">Music Tagで編集…</string>
-    <string name="auto_matching_of_network_lyrics_explain">内蔵歌詞（オーディオフォーマットは mp3 または flac のみ）と LRC 文件を取得失敗なったら、プログラムはインターネット歌詞を取得してみて</string>
+    <string name="auto_matching_of_network_lyrics_explain">内蔵歌詞と LRC 文件を取得失敗なったら、プログラムはインターネット歌詞を取得してみて</string>
     <string name="media_decoding_provided_by_this_device">このデバイスサポートしたメディアデコード機能</string>
     <string name="attenuate_flowing_light_effect_explain">フローライト効果を減らして、レンダリング性能を向上する</string>
     <string name="ignore_media_store_cover_explain">曲カバーロード時にシステムメディアライブラリカバーを無視して、カバー品質を向上し、同じアルバムに複数のカバーをサポートしています。しかし、ロード速度の降低の可能性があります</string>
@@ -345,7 +345,12 @@
     <string name="date_modified_desc">日付降順の変更</string>
     <string name="digital_signal_output">デジタル信号出力</string>
     <string name="circle_playback_cover">円形再生カバー</string>
-    <string name="salt_player_smart_router">Salt Player スマートルーター</string>
+    <string name="salt_player_smart_router">Salt Player Smart Router</string>
     <string name="display_song_file_name_in_list">曲のファイル名をリストに表示する</string>
-    <string name="display_song_file_name_in_list_intro">リスト内の曲のメインテキストは、ファイルのインラインメタデータタイトルではなく、曲のファイル名（拡張子を含む）として表示されます。</string>
+    <string name="display_song_file_name_in_list_intro">リスト内の曲のメインテキストは、ファイルのインラインメタデータタイトルではなく、曲のファイル名（拡張子を含む）として表示されます</string>
+    <string name="collapse">Collapse</string>
+    <string name="expand">Expand</string>
+    <string name="no_floating_window_permission_tip">The software has not obtained permission, you need to manually go to the settings to give the software the permission of the floating window</string>
+    <string name="float_support">Float support</string>
+    <string name="float_support_dsp">Float support DSP</string>
 </resources>
