@@ -345,12 +345,12 @@
     <string name="date_modified_desc">日付降順の変更</string>
     <string name="digital_signal_output">デジタル信号出力</string>
     <string name="circle_playback_cover">円形再生カバー</string>
-    <string name="salt_player_smart_router">Salt Player Smart Router</string>
+    <string name="salt_player_smart_router">Salt Player スマート・ルーター</string>
     <string name="display_song_file_name_in_list">曲のファイル名をリストに表示する</string>
     <string name="display_song_file_name_in_list_intro">リスト内の曲のメインテキストは、ファイルのインラインメタデータタイトルではなく、曲のファイル名（拡張子を含む）として表示されます</string>
-    <string name="collapse">Collapse</string>
-    <string name="expand">Expand</string>
-    <string name="no_floating_window_permission_tip">The software has not obtained permission, you need to manually go to the settings to give the software the permission of the floating window</string>
-    <string name="float_support">Float support</string>
-    <string name="float_support_dsp">Float support DSP</string>
+    <string name="collapse">折り畳み</string>
+    <string name="expand">拡大</string>
+    <string name="no_floating_window_permission_tip">ソフトウェアが許可を取得していません。ソフトウェアにフローティングウィンドウの許可を与えるには、手動で設定に移動する必要があります。</string>
+    <string name="float_support">フローティングポイントのサポート</string>
+    <string name="float_support_dsp">DSP フローティングポイントのサポート</string>
 </resources>
