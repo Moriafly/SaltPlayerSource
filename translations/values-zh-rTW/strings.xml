@@ -348,9 +348,9 @@
     <string name="salt_player_smart_router">椒鹽智慧播放</string>
     <string name="display_song_file_name_in_list">在清單中顯示歌曲檔名</string>
     <string name="display_song_file_name_in_list_intro">清單中歌曲的標題顯示為歌曲的檔案名稱（包括副檔名），而不是檔案的內建中繼資料標題</string>
-    <string name="collapse">Collapse</string>
-    <string name="expand">Expand</string>
-    <string name="no_floating_window_permission_tip">The software has not obtained permission, you need to manually go to the settings to give the software the permission of the floating window</string>
-    <string name="float_support">Float support</string>
-    <string name="float_support_dsp">Float support DSP</string>
+    <string name="collapse">摺疊</string>
+    <string name="expand">展開</string>
+    <string name="no_floating_window_permission_tip">軟體未取得權限，需要手動前往設置給予本軟體懸浮窗權限。</string>
+    <string name="float_support">浮點支援</string>
+    <string name="float_support_dsp">浮點支援 DSP</string>
 </resources>
