@@ -340,17 +340,17 @@
     <string name="car_bluetooth_lyrics">lirik bluetooth mobil</string>
     <string name="car_kit">Perangkat mobil</string>
     <string name="none">Tidak ada</string>
-    <string name="car_bluetooth_lyrics_intro">Lirik akan dikirim sebagai media,dan berhati-hatilah saat mengemudi</string>
+    <string name="car_bluetooth_lyrics_intro">Lirik akan ditampilkan sebagai media,dan berhati-hatilah saat mengemudi</string>
     <string name="audio_information">Informasi audio</string>
     <string name="date_modified_desc">Tanggal diubah</string>
     <string name="digital_signal_output">Digital signal output</string>
-    <string name="circle_playback_cover">Circle playback cover</string>
+    <string name="circle_playback_cover">Cover pemutar berbentuk melingkar</string>
     <string name="salt_player_smart_router">Salt Player Smart Router</string>
-    <string name="display_song_file_name_in_list">Display song file name in list</string>
-    <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
+    <string name="display_song_file_name_in_list">Tampilkan nama file dalam daftar</string>
+    <string name="display_song_file_name_in_list_intro">Teks utama lagu dalam daftar ditampilkan sebagai nama file lagu (termasuk ekstensi) alih-alih judul metadata sebaris file </string>
     <string name="collapse">Collapse</string>
-    <string name="expand">Expand</string>
-    <string name="no_floating_window_permission_tip">The software has not obtained permission, you need to manually go to the settings to give the software the permission of the floating window</string>
+    <string name="expand">Perluas</string>
+    <string name="no_floating_window_permission_tip">Aplikasi ini belum memperoleh izin, Anda harus pergi ke pengaturan untuk memberikan izin jendela mengambang</string>
     <string name="float_support">Float support</string>
     <string name="float_support_dsp">Float support DSP</string>
 </resources>
