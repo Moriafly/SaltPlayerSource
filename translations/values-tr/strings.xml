@@ -30,8 +30,8 @@
     <string name="audio_effect">Ses efekti</string>
     <string name="audio_effect_dialog_error_tips">❗Yerel çıkışı etkinleştirmek, sistem ekolayzır veya diğer ses efekti yazılımlarıyla çalışmaz</string>
     <string name="audio_effect_dialog_tips">Salt Player, Poweramp Equalizer\'a ve diğer ses işleme yazılımlarına uyarlanmıştır</string>
-    <string name="audio_focus">Ses odak</string>
-    <string name="audio_focus_intro">Etkinleştirildiğinde, diğer uygulamalarla oynamaz</string>
+    <string name="audio_focus">Ses odağı</string>
+    <string name="audio_focus_intro">Etkinleştirildiğinde, diğer uygulamalarda çalışmaz</string>
     <string name="audio_information">Ses bilgisi</string>
     <string name="audio_of_video">Videonun sesi</string>
     <string name="audio_output">Ses çıkışı</string>
@@ -47,7 +47,7 @@
     <string name="auto_eq_intro">Sabit frekanslı (grafik) ekolayzerin iki frekans bandı arasındaki dar aralığı ve tepe değerini telafi etmesinin zor olması sorununu önlemek için PEAKEQ parametre ekolayzırını kullanın.  Size mükemmel bir dinleme hissi vermek için AutoEq kitaplığından kesin parametreleri geri yükleyin.  Kulaklık ile kullanılması tavsiye edilir.</string>
     <string name="auto_matching_of_network_album_info">Ağ albümü bilgilerinin otomatik eşleştirilmesi</string>
     <string name="auto_matching_of_network_lyrics">Ağ şarkı sözlerinin otomatik eşleştirilmesi</string>
-    <string name="auto_matching_of_network_lyrics_explain">Gömülü şarkı sözleri veya şarkı sözü dosyası (aynı dizin adına sahip .lrc dosyası) alamadığınızda web şarkı sözlerini almaya çalışın</string>
+    <string name="auto_matching_of_network_lyrics_explain">"Gömülü şarkı sözleri (yalnızca ses MP3 veya FLAC formatındaysa) veya şarkı sözü dosyası (aynı dizin adına sahip .lrc dosyası) alamadığınızda web şarkı sözlerini almaya çalışın"</string>
     <string name="back">Geri</string>
     <string name="background_cover_of_player_screen">Oynatıcı ekranının arka plan kapağı</string>
     <string name="background_cover_of_player_screen_info">Akan ışık modunu devre dışı bırakın ve oynatma arayüzünün özelleştirilmiş bir arka planını kullanın.  Ön plan düğmesinin düşük renk ve arka plan kontrastı nedeniyle zayıf tanıma olabileceğini unutmayın.  Lütfen akan ışık modunu manuel olarak ayarlayın (ışık: ön plan rengi siyah, koyu: ön plan rengi beyaz)</string>
@@ -99,7 +99,7 @@
     <string name="decoder">Şifre çözücü</string>
     <string name="default_audio_decoding">Varsayılan ses kod çözme</string>
     <string name="delete_current_image">Geçerli resmi sil</string>
-    <string name="delete_forever">Sonsuza kadar sil</string>
+    <string name="delete_forever">Kalıcı olarak sil</string>
     <string name="delete_playlist">Çalma listesini sil</string>
     <string name="delete_s_forever">%s sonsuza kadar silinsin mi?</string>
     <string name="deselect_all">Seçimi kaldır</string>
@@ -238,7 +238,6 @@
     <string name="player_configuration">Oynatıcı yapılandırması</string>
     <string name="player_interface">Oynatıcı arayüzü</string>
     <string name="player_theme_dark">✨Karanlık akan✨</string>
-
     <string name="upload">Yüklemek</string>
     <string name="playlist">Çalma listesi</string>
     <string name="settings">Ayarlar</string>
@@ -346,12 +345,20 @@
     <string name="save_successfully">Başarıyla Kaydedildi</string>
     <string name="state">Bildirmek</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">Oynatma ekranına dönmek için burayı aşağı kaydırın</string>
-    <string name="salt_player_smart_router">Salt Player Smart Router</string>
-    <string name="display_song_file_name_in_list">Display song file name in list</string>
-    <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
-    <string name="collapse">Collapse</string>
-    <string name="expand">Expand</string>
-    <string name="no_floating_window_permission_tip">The software has not obtained permission, you need to manually go to the settings to give the software the permission of the floating window</string>
-    <string name="float_support">Float support</string>
-    <string name="float_support_dsp">Float support DSP</string>
+    <string name="salt_player_smart_router">Salt Player Akıllı Yönlendirici</string>
+    <string name="display_song_file_name_in_list">Listede şarkı dosyası adını göster</string>
+    <string name="display_song_file_name_in_list_intro">Listedeki şarkının ana metni, dosyanın satır içi meta veri başlığı yerine şarkının dosya adı (uzantı dahil) olarak görüntülenir.</string>
+    <string name="collapse">Çökme</string>
+    <string name="expand">Genişletmek</string>
+    <string name="no_floating_window_permission_tip">Yazılım izin almamıştır, yazılıma kayan pencere izni vermek için ayarlara manuel olarak gitmeniz gerekir.</string>
+    <string name="float_support">Float desteği</string>
+    <string name="float_support_dsp">Float desteği DSP</string>
+    <string name="warning">⚠️WARNING</string>
+    <string name="album_cover">Album cover</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="restore_some_defaults_on_this_page">Restore some defaults on this page</string>
+    <string name="status_bar_lyrics_intro">系统级状态栏歌词，注意此需要系统支持，如魅族 Flyme 等</string>
+    <string name="lock_desktop_lyrics">Lock desktop lyrics</string>
+    <string name="restore_audio_settings_intro">The following default values will be restored, and the software will be automatically restarted after completion (modifications related to some audio settings will take effect after switching songs)</string>
 </resources>

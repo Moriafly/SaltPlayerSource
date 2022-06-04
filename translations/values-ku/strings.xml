@@ -13,7 +13,7 @@
     <string name="add_to_playlist">Lê zêde bike lîsteya lîstikê</string>
     <string name="address">Navnîşan</string>
     <string name="album">Albûm</string>
-    <string name="album_desc">ravekirina albûmê</string>
+    <string name="album_desc">Ravekirina albûmê</string>
     <string name="album_s">Album: %s</string>
     <string name="albums">Albums</string>
     <string name="alipay">Alipay</string>
@@ -47,7 +47,7 @@
     <string name="auto_eq_intro">Wekhevkera parametreya PEAKEQ bikar bînin da ku ji pirsgirêkê dûr nekevin ku hevsengiya frekansa sabît (grafîk) zehmet e ku valahiya teng û nirxa lûtkeyê ya di navbera her du bandên frekansê de telafî bike. Parametreyên rast ji pirtûkxaneya AutoEq sererast bikin da ku hestek guhdariya bêkêmasî bidin we. Tête pêşniyar kirin ku bi guhên xwe re bikar bînin.</string>
     <string name="auto_matching_of_network_album_info">Lihevhatina otomatîkî ya agahdariya albûma torê</string>
     <string name="auto_matching_of_network_lyrics">Lihevhatina otomatîkî ya stranên torê</string>
-    <string name="auto_matching_of_network_lyrics_explain">Dema ku hûn nikaribin stranên pêvekirî an pelê stranan (pelê .lrc bi heman navî pelrêça) wergirin, hewl bidin ku gotinên tevneyê bistînin.</string>
+    <string name="auto_matching_of_network_lyrics_explain">"Dema ku hûn nikaribin stranên pêvekirî (tenê heke deng di formata MP3 an FLAC de be) an pelê stranan (pelê .lrc bi heman navî pelrêça) wergirin, hewl bidin ku gotinên tevneyê bistînin."</string>
     <string name="back">Paş</string>
     <string name="background_cover_of_player_screen">Veşartina paşîn a ekrana lîstikvanê</string>
     <string name="background_cover_of_player_screen_info">Moda ronahiya diherike neçalak bike û paşxaneyek xwerû ya navbera lêdanê bikar bîne. Bala xwe bidinê ku dibe ku bişkoka pêşîn ji ber kêmbûna reng û berevajîkirina paşxanê xwedan naskirinek nebaş be. Ji kerema xwe moda ronahiya herikînê bi destan saz bikin (ronahî: rengê pêşiyê reş, tarî: rengê pêşiyê spî)</string>
@@ -137,7 +137,7 @@
     <string name="file_not_found_exception">Pelê nehat dîtin, dibe ku pel hatibe barkirin an jêbirin</string>
     <string name="find">Ji bo dîtinê</string>
     <string name="folder">Pêçek</string>
-    <string name="folders">peldankan</string>
+    <string name="folders">Peldankan</string>
     <string name="follow">Pêketin</string>
     <string name="follow_developer_on_Github">Pêşdebir li Github bişopînin</string>
     <string name="follow_or_contact_developer">Bişopînin an bi pêşdebiran re têkilî daynin</string>
@@ -241,7 +241,7 @@
 
     <string name="upload">Ji bo barkirin</string>
     <string name="playlist">Playlist</string>
-    <string name="settings">Settings</string>
+    <string name="settings">Mîhengên</string>
     <string name="source_code">Koda çavkaniyê</string>
     <string name="song_info">Agahî stran</string>
     <string name="song_id">Nasnameya stranê</string>
@@ -258,7 +258,7 @@
     <string name="translation">Werger</string>
     <string name="remove_the_song">Stran jêbirin</string>
     <string name="theme">Mijad</string>
-    <string name="user_interface">user interface</string>
+    <string name="user_interface">User interface</string>
     <string name="sponsor">Alîkar</string>
     <string name="top_list">Lîsteya herî baş</string>
     <string name="skip_wrong_song">Strana çewt derbas bikin</string>
@@ -347,11 +347,19 @@
     <string name="state">Nûçe</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">Li vir bigerin da ku vegerin ser ekrana lêdanê</string>
     <string name="salt_player_smart_router">Salt Player Smart Router</string>
-    <string name="display_song_file_name_in_list">Display song file name in list</string>
-    <string name="display_song_file_name_in_list_intro">The main text of the song in the list is displayed as the song\'s file name (including the extension) instead of the file\'s inline metadata title</string>
-    <string name="collapse">Collapse</string>
-    <string name="expand">Expand</string>
-    <string name="no_floating_window_permission_tip">The software has not obtained permission, you need to manually go to the settings to give the software the permission of the floating window</string>
-    <string name="float_support">Float support</string>
-    <string name="float_support_dsp">Float support DSP</string>
+    <string name="display_song_file_name_in_list">Navê pelê stranê di navnîşê de nîşan bide</string>
+    <string name="display_song_file_name_in_list_intro">Metna sereke ya stranê di lîsteyê de li şûna sernavê metadata xêzkirî ya pelê, wekî navê pelê stranê (tevî dirêjkirinê) tê xuyang kirin.</string>
+    <string name="collapse">Jiberhevketin</string>
+    <string name="expand">Firehkirin</string>
+    <string name="no_floating_window_permission_tip">Nermalavê destûr wernegirtiye, hûn hewce ne ku bi desta biçin mîhengan da ku destûrê bidin nermalavê pencereya herikîn.</string>
+    <string name="float_support">Piştgiriya Float</string>
+    <string name="float_support_dsp">Float piştgiriya DSP</string>
+    <string name="warning">⚠️WARNING</string>
+    <string name="album_cover">Album cover</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="restore_some_defaults_on_this_page">Restore some defaults on this page</string>
+    <string name="status_bar_lyrics_intro">系统级状态栏歌词，注意此需要系统支持，如魅族 Flyme 等</string>
+    <string name="lock_desktop_lyrics">Lock desktop lyrics</string>
+    <string name="restore_audio_settings_intro">The following default values will be restored, and the software will be automatically restarted after completion (modifications related to some audio settings will take effect after switching songs)</string>
 </resources>

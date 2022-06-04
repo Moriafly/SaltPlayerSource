@@ -352,5 +352,13 @@
     <string name="expand">展开</string>
     <string name="no_floating_window_permission_tip">软件未取得权限，需要手动前往设置给予本软件悬浮窗权限</string>
     <string name="float_support">浮点支持</string>
-    <string name="float_support_dsp">DSP 浮点支持</string>
+    <string name="float_support_dsp">数字信号输出（DSP）浮点支持</string>
+    <string name="warning">⚠️警告</string>
+    <string name="album_cover">专辑封面</string>
+    <string name="agree">同意</string>
+    <string name="disagree">拒绝</string>
+    <string name="restore_some_defaults_on_this_page">还原本页某些默认值</string>
+    <string name="status_bar_lyrics_intro">系统级状态栏歌词，注意此需要系统支持，如魅族 Flyme 等</string>
+    <string name="lock_desktop_lyrics">锁定桌面歌词</string>
+    <string name="restore_audio_settings_intro">将还原以下默认值，完成后将自动重新启动软件（部分音频设置相关的修改将在切换歌曲后生效）</string>
 </resources>

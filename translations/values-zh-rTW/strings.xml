@@ -223,7 +223,7 @@
     <string name="look_at_the_help">看看幫助吧</string>
     <string name="terms_of_use_for_software">軟體使用條款</string>
     <string name="immersion_mode">沉浸模式</string>
-    <string name="channel">管道</string>
+    <string name="channel">通道</string>
     <string name="player_theme_dark">✨深色流光✨</string>
     <string name="player_theme_light">🍉淺色流光🍨（2021 💕 夏日留念）</string>
     <string name="close">關閉</string>
@@ -353,4 +353,12 @@
     <string name="no_floating_window_permission_tip">軟體未取得權限，需要手動前往設置給予本軟體懸浮窗權限。</string>
     <string name="float_support">浮點支援</string>
     <string name="float_support_dsp">浮點支援 DSP</string>
+    <string name="warning">⚠️WARNING</string>
+    <string name="album_cover">Album cover</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="restore_some_defaults_on_this_page">重置此頁面上的一些默認設定</string>
+    <string name="status_bar_lyrics_intro">系统级状态栏歌词，注意此需要系统支持，如魅族 Flyme 等</string>
+    <string name="lock_desktop_lyrics">鎖定桌面歌詞</string>
+    <string name="restore_audio_settings_intro">將重置以下默認設定，完成後將自動重新啟動軟體（部分音訊設定相關的修改將在切換歌曲後生效）</string>
 </resources>

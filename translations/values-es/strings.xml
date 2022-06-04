@@ -353,4 +353,12 @@
     <string name="no_floating_window_permission_tip">The software has not obtained permission, you need to manually go to the settings to give the software the permission of the floating window</string>
     <string name="float_support">Float support</string>
     <string name="float_support_dsp">Float support DSP</string>
+    <string name="warning">⚠️WARNING</string>
+    <string name="album_cover">Album cover</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="restore_some_defaults_on_this_page">Restore some defaults on this page</string>
+    <string name="status_bar_lyrics_intro">系统级状态栏歌词，注意此需要系统支持，如魅族 Flyme 等</string>
+    <string name="lock_desktop_lyrics">Lock desktop lyrics</string>
+    <string name="restore_audio_settings_intro">The following default values will be restored, and the software will be automatically restarted after completion (modifications related to some audio settings will take effect after switching songs)</string>
 </resources>
