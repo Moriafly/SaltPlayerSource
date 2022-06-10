@@ -59,7 +59,7 @@
     <string name="sponsor">Sponsor</string>
     <string name="play_queue">Antrian</string>
     <string name="top_list">Daftar Teratas</string>
-    <string name="password">Sandi</string>
+    <string name="password">Kata Sandi</string>
     <string name="cellphone_number">Nomor Telfon</string>
     <string name="exit_app">Keluar</string>
     <string name="alipay">Alipay</string>
@@ -348,17 +348,17 @@
     <string name="salt_player_smart_router">Salt Player Smart Router</string>
     <string name="display_song_file_name_in_list">Tampilkan nama file dalam daftar</string>
     <string name="display_song_file_name_in_list_intro">Teks utama lagu dalam daftar ditampilkan sebagai nama file lagu (termasuk ekstensi) alih-alih judul metadata sebaris file </string>
-    <string name="collapse">Collapse</string>
+    <string name="collapse">Tutup</string>
     <string name="expand">Perluas</string>
     <string name="no_floating_window_permission_tip">Aplikasi ini belum memperoleh izin, Anda harus pergi ke pengaturan untuk memberikan izin jendela mengambang</string>
-    <string name="float_support">Float support</string>
-    <string name="float_support_dsp">Float support DSP</string>
-    <string name="warning">⚠️WARNING</string>
+    <string name="float_support">Dukungan mengembang/string>
+    <string name="float_support_dsp">Dukungan DSP mengembang</string>
+    <string name="warning">⚠️PERINGATAN</string>
     <string name="album_cover">Album cover</string>
-    <string name="agree">Agree</string>
-    <string name="disagree">Disagree</string>
-    <string name="restore_some_defaults_on_this_page">Restore some defaults on this page</string>
-    <string name="status_bar_lyrics_intro">系统级状态栏歌词，注意此需要系统支持，如魅族 Flyme 等</string>
-    <string name="lock_desktop_lyrics">Lock desktop lyrics</string>
-    <string name="restore_audio_settings_intro">The following default values will be restored, and the software will be automatically restarted after completion (modifications related to some audio settings will take effect after switching songs)</string>
+    <string name="agree">Setuju</string>
+    <string name="disagree">Tidak Setuju</string>
+    <string name="restore_some_defaults_on_this_page">Kembalikan beberapa pengaturan awal pada halaman ini</string>
+    <string name="status_bar_lyrics_intro">Lirik bilah status level sistem, perhatikan bahwa ini membutuhkan dukungan sistem, seperti Meizu Flyme, dll.</string>
+    <string name="lock_desktop_lyrics">Kunci Lirik Desktop</string>
+    <string name="restore_audio_settings_intro">Nilai default berikut ini akan dipulihkan, dan perangkat lunak akan secara otomatis dihidupkan ulang setelah selesai (modifikasi yang terkait dengan beberapa pengaturan audio akan berlaku setelah mengganti lagu)</string>
 </resources>
