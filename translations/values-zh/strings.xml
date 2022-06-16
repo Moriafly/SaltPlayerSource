@@ -358,7 +358,8 @@
     <string name="agree">同意</string>
     <string name="disagree">拒绝</string>
     <string name="restore_some_defaults_on_this_page">还原本页某些默认值</string>
-    <string name="status_bar_lyrics_intro">系统级状态栏歌词，注意此需要系统支持，如魅族 Flyme 等</string>
+    <string name="status_bar_lyrics_intro">系统级状态栏歌词，注意此需要系统支持，如魅族 Flyme 等（⚠️注意：若系统不支持，请将其保持关闭状态，不然可能会导致媒体通知显示异常）</string>
     <string name="lock_desktop_lyrics">锁定桌面歌词</string>
     <string name="restore_audio_settings_intro">将还原以下默认值，完成后将自动重新启动软件（部分音频设置相关的修改将在切换歌曲后生效）</string>
+    <string name="display_add_to_play_next_in_list">在列表中显示添加下一首播放</string>
 </resources>
