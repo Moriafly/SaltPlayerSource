@@ -3,7 +3,7 @@
     <string name="app_name">Salt Player</string>
     <string name="my">自分</string>
     <string name="home">ホーム</string>
-    <string name="about">Salt Playerについて</string>
+    <string name="about">について</string>
     <string name="check_for_updates">更新をチェックする</string>
     <string name="feedback">フィードバック</string>
     <string name="content">コンテンツ</string>
@@ -157,8 +157,8 @@
     <string name="search_songs_hint"> %d 曲の中で検索する</string>
     <string name="baidu_pan">BaiduNetdisk</string>
     <string name="stop">停止</string>
-    <string name="use_music_tag_app_editing">Music Tagで編集…</string>
-    <string name="auto_matching_of_network_lyrics_explain">内蔵歌詞とLRCファイルの取得に失敗した場合、インターネットから歌詞を取得します</string>
+    <string name="use_music_tag_app_editing">Music Tag で編集…</string>
+    <string name="auto_matching_of_network_lyrics_explain">内蔵歌詞と LRC ファイルの取得に失敗した場合、インターネットから歌詞を取得します</string>
     <string name="media_decoding_provided_by_this_device">このデバイスでサポートされているメディアデコード機能</string>
     <string name="attenuate_flowing_light_effect_explain">フローライト効果を減らして、レンダリング性能を向上させます</string>
     <string name="ignore_media_store_cover_explain">曲のカバー画像を読み込む時にシステムメディアライブラリカバーを無視して、カバー品質を向上し、同じアルバムで複数のカバー画像をサポートします。しかし、ロード速度が落ちる可能性があります</string>
@@ -187,7 +187,7 @@
     <string name="random_play">ランダム再生</string>
     <string name="random_play_d">ランダム再生(%d)</string>
     <string name="use_android_media_decoder">システムメディアデコーダーを使用</string>
-    <string name="use_android_media_decoder_intro">Salt Playerに内蔵されているデコードが音源に対応していないとき、アプリは Android とデバイス固有（通常、製造元またはチップ メーカーによって提供されます）メディア デコーダーを使用します</string>
+    <string name="use_android_media_decoder_intro">Salt Player に内蔵されているデコードが音源に対応していないとき、アプリは Android とデバイス固有（通常、製造元またはチップ メーカーによって提供されます）メディア デコーダーを使用します</string>
     <string name="media_extractor_adaptive_audio">MediaExtractor アダプティブ オーディオ</string>
     <string name="disabling_aaudio_output_intro">Android 8.0 以降バージョンで AAudio 機能を無効化し、 OpenSL ES を使用すると、安定性が向上する可能性があります</string>
     <string name="album_s">アルバム：%s</string>
@@ -337,7 +337,7 @@
     <string name="fade_in_or_out_during_play_or_pause">再生または一時停止中にフェードインまたはアウトする</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">ここを下にスワイプして再生画面に戻ります</string>
     <string name="click_check_for_updates">チェックをクリック</string>
-    <string name="car_bluetooth_lyrics">車載bluetooth歌詞</string>
+    <string name="car_bluetooth_lyrics">車載 bluetooth 歌詞</string>
     <string name="car_kit">車載</string>
     <string name="none">なし</string>
     <string name="car_bluetooth_lyrics_intro">現在の歌詞は、メディアセッションとして送信されます</string>
@@ -352,7 +352,7 @@
     <string name="expand">拡大</string>
     <string name="no_floating_window_permission_tip">ソフトウェアに権限がありません。ソフトウェアにフローティングウィンドウの権限を与えるには、手動で設定に移動する必要があります。</string>
     <string name="float_support">フローティングポイントのサポート</string>
-    <string name="float_support_dsp">浮動小数点DSPのサポート</string>
+    <string name="float_support_dsp">浮動小数点 DSP のサポート</string>
     <string name="warning">⚠️WARNING</string>
     <string name="album_cover">Album cover</string>
     <string name="agree">Agree</string>
