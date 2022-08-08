@@ -353,10 +353,10 @@
     <string name="no_floating_window_permission_tip">軟體未取得權限，需要手動前往設置給予本軟體懸浮窗權限。</string>
     <string name="float_support">浮點支援</string>
     <string name="float_support_dsp">浮點支援 DSP</string>
-    <string name="warning">⚠️WARNING</string>
-    <string name="album_cover">Album cover</string>
-    <string name="agree">Agree</string>
-    <string name="disagree">Disagree</string>
+    <string name="warning">⚠️警告</string>
+    <string name="album_cover">專輯封面</string>
+    <string name="agree">同意</string>
+    <string name="disagree">拒絕</string>
     <string name="restore_some_defaults_on_this_page">重置此頁面上的一些默認設定</string>
     <string name="status_bar_lyrics_intro">系統級狀態列歌詞，需要注意的是這需要您的系統支援此功能，如魅族 Flyme 等（注意：若您的系統不支援此功能，請不要開啟此開關，否則可能會導致媒體通知顯示出現異常！）</string>
     <string name="lock_desktop_lyrics">鎖定桌面歌詞</string>
