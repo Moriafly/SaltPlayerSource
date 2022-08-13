@@ -4,7 +4,7 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-7.0.11-release
+7.1.0
 
 ## 感谢翻译
 
@@ -12,7 +12,7 @@
 
 Español (Spanish, es) : Nachogao
 
-日本語 (Japanese, ja) : AliceMerami / 狐狸小宮
+日本語 (Japanese, ja) : AliceMerami / 狐狸小宮 / warekosoha
 
 Indonesia (Indonesia, in) : zam / Yan75 / ReikiAigawara
 
