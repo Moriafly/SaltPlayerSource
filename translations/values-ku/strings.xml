@@ -354,13 +354,14 @@
     <string name="no_floating_window_permission_tip">Nermalavê destûr wernegirtiye, hûn hewce ne ku bi desta biçin mîhengan da ku destûrê bidin nermalavê pencereya herikîn.</string>
     <string name="float_support">Piştgiriya Float</string>
     <string name="float_support_dsp">Float piştgiriya DSP</string>
-    <string name="warning">⚠️WARNING</string>
-    <string name="album_cover">Album cover</string>
-    <string name="agree">Agree</string>
-    <string name="disagree">Disagree</string>
-    <string name="restore_some_defaults_on_this_page">Restore some defaults on this page</string>
-    <string name="status_bar_lyrics_intro">系统级状态栏歌词，注意此需要系统支持，如魅族 Flyme 等（⚠️注意：若系统不支持，请将其保持关闭状态，不然可能会导致媒体通知显示异常）</string>
-    <string name="lock_desktop_lyrics">Lock desktop lyrics</string>
-    <string name="restore_audio_settings_intro">The following default values will be restored, and the software will be automatically restarted after completion (modifications related to some audio settings will take effect after switching songs)</string>
-    <string name="display_add_to_play_next_in_list">Display add to play next in list</string>
+    <string name="warning">⚠️HIŞYARÎ</string>
+    <string name="album_cover">Berga albûmê</string>
+    <string name="agree">Qebûlkirin</string>
+    <string name="disagree">Lihevderneketin</string>
+    <string name="restore_some_defaults_on_this_page">Li ser vê rûpelê hin standardan vegerînin</string>
+    <string name="status_bar_lyrics_intro">Gotinên barika rewşa asta pergalê, bala xwe bidin ku ji bo vê yekê pêdivî bi piştgirîya pergalê heye, wek Meizu Flyme, hwd. (⚠️Têbînî: Ger pergal piştgirî nade, ji kerema xwe wê nehêle, wekî din dibe ku ew bibe sedema xuyangkirina nenormal a agahdariyên medyayê)</string>
+    <string name="lock_desktop_lyrics">Gotinên sermaseyê kilît bikin</string>
+    <string name="restore_audio_settings_intro">Nirxên xwerû yên jêrîn dê werin nûve kirin, û nermalava piştî qedandinê dê bixweber ji nû ve were destpêkirin (guhartinên ku bi hin mîhengên deng ve girêdayî ne dê piştî guheztina stranan bandor bibin)</string>
+    <string name="display_add_to_play_next_in_list">Di navnîşê de lêzêdekirina lêzêdekirinê nîşan bide</string>
+    <string name="dynamic_flowing_light">Dynamic flowing light</string>
 </resources>

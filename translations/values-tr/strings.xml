@@ -353,13 +353,14 @@
     <string name="no_floating_window_permission_tip">Yazılım izin almamıştır, yazılıma kayan pencere izni vermek için ayarlara manuel olarak gitmeniz gerekir.</string>
     <string name="float_support">Float desteği</string>
     <string name="float_support_dsp">Float desteği DSP</string>
-    <string name="warning">⚠️WARNING</string>
-    <string name="album_cover">Album cover</string>
-    <string name="agree">Agree</string>
-    <string name="disagree">Disagree</string>
-    <string name="restore_some_defaults_on_this_page">Restore some defaults on this page</string>
-    <string name="status_bar_lyrics_intro">系统级状态栏歌词，注意此需要系统支持，如魅族 Flyme 等（⚠️注意：若系统不支持，请将其保持关闭状态，不然可能会导致媒体通知显示异常）</string>
-    <string name="lock_desktop_lyrics">Lock desktop lyrics</string>
-    <string name="restore_audio_settings_intro">The following default values will be restored, and the software will be automatically restarted after completion (modifications related to some audio settings will take effect after switching songs)</string>
-    <string name="display_add_to_play_next_in_list">Display add to play next in list</string>
+    <string name="warning">⚠️UYARI</string>
+    <string name="album_cover">Albüm kapağı</string>
+    <string name="agree">Kabul etmek</string>
+    <string name="disagree">Reddet</string>
+    <string name="restore_some_defaults_on_this_page">Bu sayfadaki bazı varsayılanları geri yükleyin</string>
+    <string name="status_bar_lyrics_intro">Sistem düzeyinde durum çubuğu şarkı sözleri, bunun Meizu Flyme vb. gibi sistem desteği gerektirdiğini unutmayın. (⚠️Not: Sistem desteklemiyorsa lütfen kapalı tutun, aksi takdirde medya bildirimlerinin anormal görüntülenmesine neden olabilir)</string>
+    <string name="lock_desktop_lyrics">Masaüstü şarkı sözlerini kilitle</string>
+    <string name="restore_audio_settings_intro">Aşağıdaki varsayılan değerler geri yüklenecek ve tamamlandıktan sonra yazılım otomatik olarak yeniden başlatılacaktır (şarkı değiştirdikten sonra bazı ses ayarlarıyla ilgili değişiklikler etkili olacaktır)</string>
+    <string name="display_add_to_play_next_in_list">Listede bir sonraki oynatmak için ekle\'yi göster</string>
+    <string name="dynamic_flowing_light">Dynamic flowing light</string>
 </resources>

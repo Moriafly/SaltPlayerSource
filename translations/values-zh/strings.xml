@@ -362,4 +362,5 @@
     <string name="lock_desktop_lyrics">锁定桌面歌词</string>
     <string name="restore_audio_settings_intro">将还原以下默认值，完成后将自动重新启动软件（部分音频设置相关的修改将在切换歌曲后生效）</string>
     <string name="display_add_to_play_next_in_list">在列表中显示添加下一首播放</string>
+    <string name="dynamic_flowing_light">动态流光</string>
 </resources>
