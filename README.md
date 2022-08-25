@@ -1,4 +1,4 @@
-[![Downloads](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E7%94%A8%E6%88%B7%20cumulative%20users-15%20万%2B-brightgreen)](https://github.com/Moriafly/SaltPlayerSource/releases/latest)
+[![Downloads](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E7%94%A8%E6%88%B7%20cumulative%20users-20%20万%2B-brightgreen)](https://github.com/Moriafly/SaltPlayerSource/releases/latest)
 
 <div align="center">
     <h2>椒盐音乐 Salt Player</h2>
@@ -32,11 +32,11 @@
 
 [2021-10-25 如何保护你的安卓应用？这有一些方法](https://blog.csdn.net/Moriafly/article/details/120953086)
 
-*需要帮助 [AndroidUsbAudio](https://github.com/Moriafly/AndroidUsbAudio)
+**寻求帮助** [AndroidUsbAudio](https://github.com/Moriafly/AndroidUsbAudio)
 
 ## 可以通过提交 issue 来反馈你在椒盐音乐使用中遇到的问题
 
-建议先查看应用内帮助文档，若无法解决请提交 issue 。特别注意，多问题请分开提交多个 issue ，请勿写在一起！
+建议先查看应用内帮助文档，若无法解决请提交 issue 。特别注意，多问题请分开提交多个 issue ，请勿写在一起~
 
 ## 关注进度和联系开发者
 
