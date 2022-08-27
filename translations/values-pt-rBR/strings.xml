@@ -267,7 +267,6 @@
     <string name="audio_output_mode">Modo de saída de áudio</string>
     <string name="audio_decode">Decodificação de áudio</string>
     <string name="dsp">DSP</string>
-    <string name="audio_output_intro">Foco de áudio, modo de saída, taxa de amostragem, decodificação, etc</string>
     <string name="repair">Reparar</string>
     <string name="repairing">Reparando, aguarde por favor…</string>
     <string name="d_unknown_id_songs_were_removed_successfully">%d música(s) de identificação desconhecida(s) foram removidas com sucesso</string>
@@ -363,4 +362,8 @@
     <string name="restore_audio_settings_intro">The following default values will be restored, and the software will be automatically restarted after completion (modifications related to some audio settings will take effect after switching songs)</string>
     <string name="display_add_to_play_next_in_list">Display add to play next in list</string>
     <string name="dynamic_flowing_light">Dynamic flowing light</string>
+    <string name="audio_output_settings_intro">与其他应用同时播放（音频焦点）、输出模式、采样率、解码、DSD、DSP 等</string>
+    <string name="follow_user_interface">Follow user interface</string>
+    <string name="d_selected">%d selected</string>
+    <string name="play_the_selected_queue">Play the selected queue</string>
 </resources>

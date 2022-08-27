@@ -262,7 +262,6 @@
     <string name="audio_output_tip">❗请谨慎调整以下选项，以免造成过高的电量消耗以及程序被系统杀死等其他不确定后果，以下部分选项的更改将在切换歌曲后生效</string>
     <string name="change_device_freq">尝试强制更改输出设备的采样率（实验性功能，适用于高性能 DAC 输出）</string>
     <string name="change_device_freq_intro">强制以高频率播放音频（即便输出设备不支持），请同时确保启用原生输出；请注意，大多数设备不支持 96000 Hz 以及更高频率输出，应用更高频率可能会导致播放失败</string>
-    <string name="audio_output_intro">音频焦点、输出模式、采样率、解码等</string>
     <string name="dsp">数字信号处理（DSP）</string>
     <string name="output">输出</string>
     <string name="audio_decode">音频解码</string>
@@ -363,4 +362,8 @@
     <string name="restore_audio_settings_intro">将还原以下默认值，完成后将自动重新启动软件（部分音频设置相关的修改将在切换歌曲后生效）</string>
     <string name="display_add_to_play_next_in_list">在列表中显示添加下一首播放</string>
     <string name="dynamic_flowing_light">动态流光</string>
+    <string name="audio_output_settings_intro">与其他应用同时播放（音频焦点）、输出模式、采样率、解码、DSD、DSP 等</string>
+    <string name="follow_user_interface">跟随用户界面</string>
+    <string name="d_selected">已选中 %d 项</string>
+    <string name="play_the_selected_queue">播放选中队列</string>
 </resources>

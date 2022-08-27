@@ -261,7 +261,6 @@
     <string name="audio_output_tip">❗Por favor, ajuste las siguientes opciones con cuidado para evitar el consumo de batería exorbitante y otras consecuencias inciertas como el programa es asesinado por el sistema. Todos los cambios en las siguientes opciones entrarán en vigor después de cambiar la canción</string>
     <string name="change_device_freq">Intente forzar un cambio en la tasa de muestreo del dispositivo de salida (función experimental, para la salida DAC de alto rendimiento)</string>
     <string name="change_device_freq_intro">Forzar la reproducción de audio a alta frecuencia (incluso si el dispositivo de salida no lo soporta). También asegúrese de habilitar la salida nativa;Tenga en cuenta que la mayoría de los dispositivos no admiten 96000 Hz, así como una salida de frecuencia más alta. La aplicación de una frecuencia más alta puede causar un fallo en la reproducción</string>
-    <string name="audio_output_intro">Modo de salida, frecuencia de muestreo, decodificación, etc</string>
     <string name="dsp">DSP</string>
     <string name="output">Salida</string>
     <string name="audio_decode">Decódigo de Audio</string>
@@ -363,4 +362,8 @@
     <string name="restore_audio_settings_intro">The following default values will be restored, and the software will be automatically restarted after completion (modifications related to some audio settings will take effect after switching songs)</string>
     <string name="display_add_to_play_next_in_list">Display add to play next in list</string>
     <string name="dynamic_flowing_light">Dynamic flowing light</string>
+    <string name="audio_output_settings_intro">与其他应用同时播放（音频焦点）、输出模式、采样率、解码、DSD、DSP 等</string>
+    <string name="follow_user_interface">Follow user interface</string>
+    <string name="d_selected">%d selected</string>
+    <string name="play_the_selected_queue">Play the selected queue</string>
 </resources>

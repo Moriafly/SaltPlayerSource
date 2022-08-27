@@ -36,7 +36,6 @@
     <string name="audio_of_video">Videonun sesi</string>
     <string name="audio_output">Ses çıkışı</string>
     <string name="audio_output_freq">Ses çıkış frekansı</string>
-    <string name="audio_output_intro">Ses odağı, çıkış modu, örnekleme hızı, kod çözme vb.</string>
     <string name="audio_output_mode">Ses çıkış modu</string>
     <string name="audio_output_tip">❗Aşırı güç tüketimini ve programın sistem tarafından öldürülmesi gibi diğer belirsiz sonuçları önlemek için lütfen aşağıdaki seçenekleri dikkatli bir şekilde ayarlayın.  Aşağıdaki seçeneklerdeki tüm değişiklikler şarkı değiştirildikten sonra geçerli olacaktır.</string>
     <string name="audio_output_tips">❗Yukarıdaki Ayarları değiştirmeden önce lütfen cihazınızı dikkatli bir şekilde anlayın, değişiklikler şarkı değiştirdikten sonra geçerli olacaktır, oynatıcının başlangıç ​​örnekleme hızı ayarının çok yüksek olması ciddi kaynak israfına ve güç tüketimine neden olabilir</string>
@@ -363,4 +362,8 @@
     <string name="restore_audio_settings_intro">Aşağıdaki varsayılan değerler geri yüklenecek ve tamamlandıktan sonra yazılım otomatik olarak yeniden başlatılacaktır (şarkı değiştirdikten sonra bazı ses ayarlarıyla ilgili değişiklikler etkili olacaktır)</string>
     <string name="display_add_to_play_next_in_list">Listede bir sonraki oynatmak için ekle\'yi göster</string>
     <string name="dynamic_flowing_light">Dynamic flowing light</string>
+    <string name="audio_output_settings_intro">与其他应用同时播放（音频焦点）、输出模式、采样率、解码、DSD、DSP 等</string>
+    <string name="follow_user_interface">Follow user interface</string>
+    <string name="d_selected">%d selected</string>
+    <string name="play_the_selected_queue">Play the selected queue</string>
 </resources>

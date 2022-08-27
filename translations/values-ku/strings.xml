@@ -36,7 +36,6 @@
     <string name="audio_of_video">Dengê vîdyoyê</string>
     <string name="audio_output">Derketina deng</string>
     <string name="audio_output_freq">Frekansa derketina deng</string>
-    <string name="audio_output_intro">Fokusa deng, moda derketinê, rêjeya nimûneyê, deşîfrekirin, hwd.</string>
     <string name="audio_output_mode">Moda derketina deng</string>
     <string name="audio_output_tip">❗Ji kerema xwe vebijarkên jêrîn bi baldarî eyar bikin da ku ji xerckirina hêzê ya zêde û encamên din ên nediyar ên wekî kuştina bernameyê ji hêla pergalê ve dûr bikevin. Hemî guhertinên di vebijarkên jêrîn de dê piştî ku stran were guheztin bandor bike.</string>
     <string name="audio_output_tips">❗Ji kerema xwe berî guheztina Mîhengên jorîn bi baldarî amûrê xwe fam bikin, guheztin dê piştî guheztina stranê bikeve bandorê, mîhenga rêjeya nimûneya destpêkê ya lîstikvan pir zêde ye dikare bibe sedema xerakirina çavkaniyê ya ciddî û xerckirina hêzê.</string>
@@ -364,4 +363,8 @@
     <string name="restore_audio_settings_intro">Nirxên xwerû yên jêrîn dê werin nûve kirin, û nermalava piştî qedandinê dê bixweber ji nû ve were destpêkirin (guhartinên ku bi hin mîhengên deng ve girêdayî ne dê piştî guheztina stranan bandor bibin)</string>
     <string name="display_add_to_play_next_in_list">Di navnîşê de lêzêdekirina lêzêdekirinê nîşan bide</string>
     <string name="dynamic_flowing_light">Dynamic flowing light</string>
+    <string name="audio_output_settings_intro">与其他应用同时播放（音频焦点）、输出模式、采样率、解码、DSD、DSP 等</string>
+    <string name="follow_user_interface">Follow user interface</string>
+    <string name="d_selected">%d selected</string>
+    <string name="play_the_selected_queue">Play the selected queue</string>
 </resources>
