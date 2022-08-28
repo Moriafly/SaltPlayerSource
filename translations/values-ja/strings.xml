@@ -362,7 +362,7 @@
     <string name="restore_audio_settings_intro">以下のデフォルト値が復元され、完了すると自動的にソフトウェアが再起動されます（オーディオ設定に関する一部の変更は、曲の切り替えた後に有効になります）</string>
     <string name="display_add_to_play_next_in_list">リストに次のプレイを追加する</string>
     <string name="dynamic_flowing_light">動態流光</string>
-    <string name="audio_output_settings_intro">他のアプリケーション、エクスポート・モード、受け入れ率、通訳、DSD、DSP などのサイマルキャスト (サウンド フォーカス)。</string>
+    <string name="audio_output_settings_intro">他のアプリケーション、エクスポート・モード、受け入れ率、通訳、DSD、DSP などのサイマルキャスト（サウンド フォーカス）</string>
     <string name="follow_user_interface">ユーザーインターフェースに従う</string>
     <string name="d_selected">%d 個のアイテムが選択されました</string>
     <string name="play_the_selected_queue">選択したキューを再生します</string>
