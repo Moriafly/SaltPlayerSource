@@ -361,9 +361,9 @@
     <string name="lock_desktop_lyrics">鎖定桌面歌詞</string>
     <string name="restore_audio_settings_intro">將重置以下默認設定，完成後將自動重新啟動軟體（部分音訊設定相關的修改將在切換歌曲後生效）</string>
     <string name="display_add_to_play_next_in_list">在播放佇列中顯示新增下一首播放</string>
-    <string name="dynamic_flowing_light">Dynamic flowing light</string>
-    <string name="audio_output_settings_intro">与其他应用同时播放（音频焦点）、输出模式、采样率、解码、DSD、DSP 等</string>
-    <string name="follow_user_interface">Follow user interface</string>
-    <string name="d_selected">%d selected</string>
-    <string name="play_the_selected_queue">Play the selected queue</string>
+    <string name="dynamic_flowing_light">動態流光</string>
+    <string name="audio_output_settings_intro">與其他應用程式同時播放（音頻焦點）、輸出模式、採樣率、解碼、DSD、DSP 等</string>
+    <string name="follow_user_interface">跟随用户介面</string>
+    <string name="d_selected">已選擇 %d 項</string>
+    <string name="play_the_selected_queue">播放所選隊列</string>
 </resources>
