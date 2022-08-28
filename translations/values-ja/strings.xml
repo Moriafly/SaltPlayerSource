@@ -361,9 +361,9 @@
     <string name="lock_desktop_lyrics">デスクトップの歌詞を固定する</string>
     <string name="restore_audio_settings_intro">以下のデフォルト値が復元され、完了すると自動的にソフトウェアが再起動されます（オーディオ設定に関する一部の変更は、曲の切り替えた後に有効になります）</string>
     <string name="display_add_to_play_next_in_list">リストに次のプレイを追加する</string>
-    <string name="dynamic_flowing_light">Dynamic flowing light</string>
-    <string name="audio_output_settings_intro">与其他应用同时播放（音频焦点）、输出模式、采样率、解码、DSD、DSP 等</string>
-    <string name="follow_user_interface">Follow user interface</string>
-    <string name="d_selected">%d selected</string>
-    <string name="play_the_selected_queue">Play the selected queue</string>
+    <string name="dynamic_flowing_light">動態流光</string>
+    <string name="audio_output_settings_intro">他のアプリケーション、エクスポート・モード、受け入れ率、通訳、DSD、DSP などのサイマルキャスト (サウンド フォーカス)。</string>
+    <string name="follow_user_interface">ユーザーインターフェースに従う</string>
+    <string name="d_selected">%d 個のアイテムが選択されました</string>
+    <string name="play_the_selected_queue">選択したキューを再生します</string>
 </resources>
