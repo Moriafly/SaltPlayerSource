@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Salt Player</string>
-    <string name="my">自分</string>
+    <string name="my">わたし</string>
     <string name="home">ホーム</string>
-    <string name="about">Salt Playerについて</string>
+    <string name="about">このアプリについて</string>
     <string name="check_for_updates">アップデートを確認</string>
     <string name="feedback">フィードバック</string>
     <string name="content">コンテンツ</string>
