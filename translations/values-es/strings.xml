@@ -296,7 +296,7 @@
     <string name="tablet_mode_intro">Derivado de Salt Player siempre ha sido excelente barra de estado, barra de navegación adaptación, y el uso de la nueva tecnología para construir una interfaz adaptativa. Para la versión Salt Player 5.0, tres diseños diferentes han sido diseñados para traer una experiencia más perfecta</string>
     <string name="keyboard_shortcuts_intro">Esta función solo está disponible si la interfaz Salt Player está en primer plano</string>
     <string name="laboratory">Laboratory</string>
-    <string name="laboratory_intro">欢迎使用椒盐音乐实验室，这里的功能并非稳定仅供体验，且可能随时被移除</string>
+    <string name="laboratory_intro">Welcome to Salt Player Lab, the features here are not stable for experience only and may be removed at any time</string>
     <string name="display_video_screen">显示视频页面</string>
     <string name="year">El año</string>
     <string name="subscribe_on_telegram">Suscríbete al progreso del desarrollo de Salt Player en Telegram</string>
@@ -366,4 +366,6 @@
     <string name="follow_user_interface">Follow user interface</string>
     <string name="d_selected">%d selected</string>
     <string name="play_the_selected_queue">Play the selected queue</string>
+    <string name="volume_balance">Volume balance</string>
+    <string name="volume_balance_tip">Replay Gain, scans the audio REPLAYGAIN_TRACK_GAIN and REPLAYGAIN_ALBUM_GAIN tags, and adjusts the volume based on this value. It can be adjusted by some software, such as using foolbar 2000 -> Scan per-file track gain and so on. Changes to this option will take effect after switching songs or replaying</string>
 </resources>

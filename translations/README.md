@@ -4,7 +4,7 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-7.8.3
+7.10.0-beta02
 
 ## 感谢翻译
 

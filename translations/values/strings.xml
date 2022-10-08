@@ -300,7 +300,7 @@
     <string name="tablet_mode_intro">Based on the excellent status bar and navigation bar adaptation of Salt Player, and the use of new technology to build an adaptive interface, we designed three different layouts for version 5.0 of Salt Player to bring a more perfect experience</string>
     <string name="keyboard_shortcuts_intro">This function is available only when the Salt Player interface is in the foreground</string>
     <string name="laboratory">Laboratory</string>
-    <string name="laboratory_intro">欢迎使用椒盐音乐实验室，这里的功能并非稳定仅供体验，且可能随时被移除</string>
+    <string name="laboratory_intro">Welcome to Salt Player Lab, the features here are not stable for experience only and may be removed at any time</string>
     <string name="display_video_screen">显示视频页面</string>
     <string name="year">Year</string>
     <string name="subscribe_on_telegram">Subscribe to Salt Player development progress on Telegram</string>
@@ -360,13 +360,15 @@
     <string name="agree">Agree</string>
     <string name="disagree">Disagree</string>
     <string name="restore_some_defaults_on_this_page">Restore some defaults on this page</string>
-    <string name="status_bar_lyrics_intro">System-level status bar lyrics, note that this requires system support, such as Meizu Flyme, etc. (⚠️Note: If the system does not support it, please keep it off, otherwise it may cause abnormal display of media notifications)</string>
+    <string name="status_bar_lyrics_intro">System-level status bar lyrics, note that this requires system support, such as MEIZU Flyme, etc. (⚠️Note: If the system does not support it, please keep it off, otherwise it may cause abnormal display of media notifications)</string>
     <string name="lock_desktop_lyrics">Lock desktop lyrics</string>
     <string name="restore_audio_settings_intro">The following default values will be restored, and the software will be automatically restarted after completion (modifications related to some audio settings will take effect after switching songs)</string>
     <string name="display_add_to_play_next_in_list">Display add to play next in list</string>
     <string name="dynamic_flowing_light">Dynamic flowing light</string>
-    <string name="audio_output_settings_intro">Simultaneous playback with other Apps (audio focus), output mode, sample rate, decoding, DSD, DSP, etc.</string>
+    <string name="audio_output_settings_intro">Simultaneous playback with other Apps (audio focus), output mode, sample rate, decoding, DSD, DSP, etc</string>
     <string name="follow_user_interface">Follow user interface</string>
     <string name="d_selected">%d selected</string>
     <string name="play_the_selected_queue">Play the selected queue</string>
+    <string name="volume_balance">Volume balance</string>
+    <string name="volume_balance_tip">Replay Gain, scans the audio REPLAYGAIN_TRACK_GAIN and REPLAYGAIN_ALBUM_GAIN tags, and adjusts the volume based on this value. It can be adjusted by some software, such as using foolbar 2000 -> Scan per-file track gain and so on. Changes to this option will take effect after switching songs or replaying</string>
 </resources>

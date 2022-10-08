@@ -26,27 +26,13 @@
 
 [扫描音乐帮助](help/scanmusic.md) | [歌词帮助](help/lyrics.md) | [其他帮助](help/other.md)
 
-## 会在这里分享椒盐音乐相关开发进度以及部分源代码（若可能）
+## 寻求帮助
 
-[2021-07-30 安卓拓展 MediaPlayer 实现淡入淡出效果](https://blog.csdn.net/Moriafly/article/details/119251186)
-
-[2021-10-25 如何保护你的安卓应用？这有一些方法](https://blog.csdn.net/Moriafly/article/details/120953086)
-
-**寻求帮助** [AndroidUsbAudio](https://github.com/Moriafly/AndroidUsbAudio)
+[AndroidUsbAudio](https://github.com/Moriafly/AndroidUsbAudio)
 
 ## 可以通过提交 issue 来反馈你在椒盐音乐使用中遇到的问题
 
 建议先查看应用内帮助文档哦，若无法解决请提交 issue 。特别注意，多问题请分开提交多个 issue ，请勿写在一起~
-
-## 关注进度和联系开发者
-
-QQ 频道：不要糖醋放椒盐
-
-Telegram 频道：https://t.me/saltplayerupdate
-
-开发者邮箱：moriafly@163.com
-
-`注意：酷安平台任何非开发者账号发布的有关椒盐音乐更新、发布和规划信息均不被本开发者承认。`
 
 ## 本地化适配
 
@@ -54,7 +40,7 @@ Telegram 频道：https://t.me/saltplayerupdate
 
 ## 说明
 
-椒盐音乐安装包大小约 8 MB ，解压安装后约占用 25 MB 空间（后续使用产生的用户数据不包含）。
+椒盐音乐安装包大小约 8 MB ，解压安装后约占用 30 MB 空间（后续使用产生的用户数据不包含）。
 **仅提供 64 位版本（架构 arm-v8a），需要安卓 6.0 以上。**
 
 **Google Play 版本由谷歌签名发布，与此仓库安装包不兼容。**

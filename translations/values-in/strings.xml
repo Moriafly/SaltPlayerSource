@@ -366,4 +366,6 @@
     <string name="follow_user_interface">Follow user interface</string>
     <string name="d_selected">%d selected</string>
     <string name="play_the_selected_queue">Play the selected queue</string>
+    <string name="volume_balance">Volume balance</string>
+    <string name="volume_balance_tip">Replay Gain, scans the audio REPLAYGAIN_TRACK_GAIN and REPLAYGAIN_ALBUM_GAIN tags, and adjusts the volume based on this value. It can be adjusted by some software, such as using foolbar 2000 -> Scan per-file track gain and so on. Changes to this option will take effect after switching songs or replaying</string>
 </resources>
