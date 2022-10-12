@@ -362,10 +362,10 @@
     <string name="restore_audio_settings_intro">Nilai default berikut ini akan dipulihkan, dan perangkat lunak akan secara otomatis dihidupkan ulang setelah selesai (modifikasi yang terkait dengan beberapa pengaturan audio akan berlaku setelah mengganti lagu)</string>
     <string name="display_add_to_play_next_in_list">Tampilkan tambahkan untuk diputar berikutnya dalam daftar</string>
     <string name="dynamic_flowing_light">Dynamic flowing light</string>
-    <string name="audio_output_settings_intro">与其他应用同时播放（音频焦点）、输出模式、采样率、解码、DSD、DSP 等</string>
-    <string name="follow_user_interface">Follow user interface</string>
-    <string name="d_selected">%d selected</string>
-    <string name="play_the_selected_queue">Play the selected queue</string>
-    <string name="volume_balance">Volume balance</string>
-    <string name="volume_balance_tip">Replay Gain, scans the audio REPLAYGAIN_TRACK_GAIN and REPLAYGAIN_ALBUM_GAIN tags, and adjusts the volume based on this value. It can be adjusted by some software, such as using foolbar 2000 -> Scan per-file track gain and so on. Changes to this option will take effect after switching songs or replaying</string>
+    <string name="audio_output_settings_intro">Pemutaran simultan dengan aplikasi lain (fokus audio), mode output, laju sampel, decoding, DSD, DSP, dll</string>
+    <string name="follow_user_interface">Ikuti antarmuka pengguna</string>
+    <string name="d_selected">%d dipilih</string>
+    <string name="play_the_selected_queue">Memutar antrian yang dipilih</string>
+    <string name="volume_balance">Keseimbangan volume</string>
+    <string name="volume_balance_tip">Putar ulang Gain, memindai REPLAYGAIN_TRACK_GAIN audio dan tag REPLAYGAIN_ALBUM_GAIN, dan menyesuaikan volume berdasarkan nilai ini. Ini dapat disesuaikan dengan beberapa perangkat lunak, seperti menggunakan foolbar 2000 -> Scan per-file track gain dan sebagainya. Perubahan pada opsi ini akan berlaku setelah beralih lagu atau memutar ulang</string>
 </resources>
