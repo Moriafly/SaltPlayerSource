@@ -366,6 +366,6 @@
     <string name="follow_user_interface">跟随用户介面</string>
     <string name="d_selected">已選擇 %d 項</string>
     <string name="play_the_selected_queue">播放所選隊列</string>
-    <string name="volume_balance">Volume balance</string>
-    <string name="volume_balance_tip">Replay Gain, scans the audio REPLAYGAIN_TRACK_GAIN and REPLAYGAIN_ALBUM_GAIN tags, and adjusts the volume based on this value. It can be adjusted by some software, such as using foolbar 2000 -> Scan per-file track gain and so on. Changes to this option will take effect after switching songs or replaying</string>
+    <string name="volume_balance">音量平衡</string>
+    <string name="volume_balance_tip">重放增益，掃描音頻 REPLAYGAIN_TRACK_GAIN 和 REPLAYGAIN_ALBUM_GAIN 標籤，根據這個值調整音量。 可以通過一些軟件來調整，比如用 foolbar 2000 -> Scan per-file track gain 等等。 切換歌曲或重播後對該選項的更改將生效 </string>
 </resources>
