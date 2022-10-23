@@ -367,5 +367,5 @@
     <string name="d_selected">%d 個のアイテムが選択されました</string>
     <string name="play_the_selected_queue">選択したキューを再生します</string>
     <string name="volume_balance">ボリュームバランス</string>
-    <string name="volume_balance_tip">再生ゲイン、オーディオ REPLAYGAIN_TRACK_GAIN および REPLAYGAIN_ALBUM_GAIN タグをスキャンし、この値に基づいてボリュームを調整します。 foolbar 2000 を使用するなど、一部のソフトウェアで調整できます -> ファイルごとのトラック ゲインをスキャンするなど。 このオプションへの変更は、曲の切り替えまたは再生後に有効になります</string>
+    <string name="volume_balance_tip">再生ゲイン、オーディオ REPLAYGAIN_TRACK_GAIN および REPLAYGAIN_ALBUM_GAIN タグをスキャンし、この値に基づいてボリュームを調整します。foolbar 2000 を使用するなど、一部のソフトウェアで調整できます -> ファイルごとのトラック ゲインをスキャンするなど。このオプションへの変更は、曲の切り替えまたは再生後に有効になります</string>
 </resources>
