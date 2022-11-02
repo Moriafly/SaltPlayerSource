@@ -138,7 +138,6 @@
     <string name="auto_matching_of_network_album_info">Buscar automáticamente información del álbum online</string>
     <string name="others">Otros</string>
     <string name="help">Help</string>
-    <string name="status_bar_lyrics_support">Esta función solo sorta a Flyme, exTHmUI, EvolutionX, Nortical y 凛々 AOSP Project</string>
     <string name="player_activity_theme">Temas para la interfaz del reproductor</string>
     <string name="video">Video</string>
     <string name="give_high_praise">Dar un buen comentario</string>
@@ -353,7 +352,7 @@
     <string name="float_support">Float support</string>
     <string name="float_support_dsp">Float support DSP</string>
     <string name="warning">⚠️WARNING</string>
-    <string name="album_cover">Album cover</string>
+    <string name="album_cover">Álbum cover</string>
     <string name="agree">Agree</string>
     <string name="disagree">Disagree</string>
     <string name="restore_some_defaults_on_this_page">Restore some defaults on this page</string>
@@ -363,9 +362,19 @@
     <string name="display_add_to_play_next_in_list">Display add to play next in list</string>
     <string name="dynamic_flowing_light">Dynamic flowing light</string>
     <string name="audio_output_settings_intro">与其他应用同时播放（音频焦点）、输出模式、采样率、解码、DSD、DSP 等</string>
-    <string name="follow_user_interface">Follow user interface</string>
+    <string name="follow_user_interface">Follow user interfaz</string>
     <string name="d_selected">%d selected</string>
     <string name="play_the_selected_queue">Play the selected queue</string>
     <string name="volume_balance">Volume balance</string>
     <string name="volume_balance_tip">Replay Gain, scans the audio REPLAYGAIN_TRACK_GAIN and REPLAYGAIN_ALBUM_GAIN tags, and adjusts the volume based on this value. It can be adjusted by some software, such as using foolbar 2000 -> Scan per-file track gain and so on. Changes to this option will take effect after switching songs or replaying</string>
+    <string name="compressor">Compressor</string>
+    <string name="compressor_tip">Control the level, by making loud passages quieter, and quiet passages louder</string>
+    <string name="auto_playback">Auto playback</string>
+    <string name="played_times">Played times</string>
+    <string name="statistics">Statistics</string>
+    <string name="hide_song_s">Are you sure you want to hide this song %s? This will move this song out of your music library and will lose associated playback history etc.</string>
+    <string name="max_audio_concert_hall_atmosphere">MAX Audio Concert hall atmosphere</string>
+    <string name="join_qq_channel">Join QQ channel</string>
+    <string name="quality">Quality</string>
+    <string name="average_latency">Average latency</string>
 </resources>

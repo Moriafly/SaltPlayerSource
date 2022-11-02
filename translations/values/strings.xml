@@ -141,7 +141,6 @@
     <string name="auto_matching_of_network_album_info">Auto matching of network album info</string>
     <string name="others">Others</string>
     <string name="help">Help</string>
-    <string name="status_bar_lyrics_support">Only Flyme, exTHmUI, EvolutionX, Nortical and 凛々 AOSP Project are supported</string>
     <string name="player_activity_theme">Player activity theme</string>
     <string name="video">Video</string>
     <string name="give_high_praise">Give high praise</string>
@@ -371,4 +370,14 @@
     <string name="play_the_selected_queue">Play the selected queue</string>
     <string name="volume_balance">Volume balance</string>
     <string name="volume_balance_tip">Replay Gain, scans the audio REPLAYGAIN_TRACK_GAIN and REPLAYGAIN_ALBUM_GAIN tags, and adjusts the volume based on this value. It can be adjusted by some software, such as using foolbar 2000 -> Scan per-file track gain and so on. Changes to this option will take effect after switching songs or replaying</string>
+    <string name="compressor">Compressor</string>
+    <string name="compressor_tip">Control the level, by making loud passages quieter, and quiet passages louder</string>
+    <string name="auto_playback">Auto playback</string>
+    <string name="played_times">Played times</string>
+    <string name="statistics">Statistics</string>
+    <string name="hide_song_s">Are you sure you want to hide this song %s? This will move this song out of your music library and will lose associated playback history etc.</string>
+    <string name="max_audio_concert_hall_atmosphere">MAX Audio Concert hall atmosphere</string>
+    <string name="join_qq_channel">Join QQ channel</string>
+    <string name="quality">Quality</string>
+    <string name="average_latency">Average latency</string>
 </resources>

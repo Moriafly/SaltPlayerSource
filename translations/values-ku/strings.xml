@@ -280,7 +280,6 @@
     <string name="player_ui_keep_screen_on">Ekrana navbeynkariya lîstikvanê li ser bimîne</string>
     <string name="pre_amp">Pêş-AMP</string>
     <string name="system_equalizer">Wekhevkerê pergalê</string>
-    <string name="status_bar_lyrics_support">Tenê Projeya Flyme, exTHmUI, EvolutionX, Nortical û 凛々 Projeya AOSP têne piştgirî kirin</string>
     <string name="video">Video</string>
     <string name="update">update</string>
     <string name="salt_selected">(Hilbijartî)</string>
@@ -362,11 +361,21 @@
     <string name="lock_desktop_lyrics">Gotinên sermaseyê kilît bikin</string>
     <string name="restore_audio_settings_intro">Nirxên xwerû yên jêrîn dê werin nûve kirin, û nermalava piştî qedandinê dê bixweber ji nû ve were destpêkirin (guhartinên ku bi hin mîhengên deng ve girêdayî ne dê piştî guheztina stranan bandor bibin)</string>
     <string name="display_add_to_play_next_in_list">Di navnîşê de lêzêdekirina lêzêdekirinê nîşan bide</string>
-    <string name="dynamic_flowing_light">Dynamic flowing light</string>
-    <string name="audio_output_settings_intro">与其他应用同时播放（音频焦点）、输出模式、采样率、解码、DSD、DSP 等</string>
-    <string name="follow_user_interface">Follow user interface</string>
-    <string name="d_selected">%d selected</string>
-    <string name="play_the_selected_queue">Play the selected queue</string>
-    <string name="volume_balance">Volume balance</string>
-    <string name="volume_balance_tip">Replay Gain, scans the audio REPLAYGAIN_TRACK_GAIN and REPLAYGAIN_ALBUM_GAIN tags, and adjusts the volume based on this value. It can be adjusted by some software, such as using foolbar 2000 -> Scan per-file track gain and so on. Changes to this option will take effect after switching songs or replaying</string>
+    <string name="dynamic_flowing_light">Ronahiya diherike dînamîk</string>
+    <string name="audio_output_settings_intro">Lîstina hevdemî bi serîlêdanên din re (fokusa deng), moda derketinê, rêjeya nimûneyê, dekodkirin, DSD, DSP, hwd.</string>
+    <string name="follow_user_interface">Navrûya bikarhêner bişopînin</string>
+    <string name="d_selected">%d hilbijartin</string>
+    <string name="play_the_selected_queue">Dora hilbijartî bilîzin</string>
+    <string name="volume_balance">Balansa Volume</string>
+    <string name="volume_balance_tip">Replay Gain, etîketên dengî REPLAYGAIN_TRACK_GAIN û REPLAYGAIN_ALBUM_GAIN dikole, û li gorî vê nirxê dengdanê eyar dike.  Ew dikare ji hêla hin nermalavê ve were rêve kirin, wek mînak bikaranîna foolbar 2000 -> Scan per-pelê qezenca şopê û hwd.  Guhertinên vê vebijarkê dê piştî guheztina stranan an ji nû ve lîstinê bikeve bandorê</string>
+    <string name="compressor">Compressor</string>
+    <string name="compressor_tip">Control the level, by making loud passages quieter, and quiet passages louder</string>
+    <string name="auto_playback">Auto playback</string>
+    <string name="played_times">Played times</string>
+    <string name="statistics">Statistics</string>
+    <string name="hide_song_s">Are you sure you want to hide this song %s? This will move this song out of your music library and will lose associated playback history etc.</string>
+    <string name="max_audio_concert_hall_atmosphere">MAX Audio Concert hall atmosphere</string>
+    <string name="join_qq_channel">Join QQ channel</string>
+    <string name="quality">Quality</string>
+    <string name="average_latency">Average latency</string>
 </resources>

@@ -138,7 +138,6 @@
     <string name="auto_matching_of_network_album_info">Pencocokan otomatis info album</string>
     <string name="others">Lainnya</string>
     <string name="help">Bantuan</string>
-    <string name="status_bar_lyrics_support">Hanya Mendukung Flyme, exTHmUI, EvolutionX, Nortical dan 凛々 AOSP Project</string>
     <string name="player_activity_theme">Tema pemutar</string>
     <string name="video">Video</string>
     <string name="give_high_praise">Berikan apresiasi</string>
@@ -368,4 +367,14 @@
     <string name="play_the_selected_queue">Memutar antrian yang dipilih</string>
     <string name="volume_balance">Keseimbangan volume</string>
     <string name="volume_balance_tip">Putar ulang Gain, memindai REPLAYGAIN_TRACK_GAIN audio dan tag REPLAYGAIN_ALBUM_GAIN, dan menyesuaikan volume berdasarkan nilai ini. Ini dapat disesuaikan dengan beberapa perangkat lunak, seperti menggunakan foolbar 2000 -> Scan per-file track gain dan sebagainya. Perubahan pada opsi ini akan berlaku setelah beralih lagu atau memutar ulang</string>
+    <string name="compressor">Compressor</string>
+    <string name="compressor_tip">Control the level, by making loud passages quieter, and quiet passages louder</string>
+    <string name="auto_playback">Auto playback</string>
+    <string name="played_times">Played times</string>
+    <string name="statistics">Statistics</string>
+    <string name="hide_song_s">Are you sure you want to hide this song %s? This will move this song out of your music library and will lose associated playback history etc.</string>
+    <string name="max_audio_concert_hall_atmosphere">MAX Audio Concert hall atmosphere</string>
+    <string name="join_qq_channel">Join QQ channel</string>
+    <string name="quality">Quality</string>
+    <string name="average_latency">Average latency</string>
 </resources>

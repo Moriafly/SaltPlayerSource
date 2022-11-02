@@ -138,7 +138,6 @@
     <string name="auto_matching_of_network_album_info">自动匹配网络专辑信息</string>
     <string name="others">其他</string>
     <string name="help">帮助</string>
-    <string name="status_bar_lyrics_support">仅支持 Flyme、exTHmUI、EvolutionX、Nortical 和 凛々 AOSP Project</string>
     <string name="player_activity_theme">播放界面主题</string>
     <string name="video">视频</string>
     <string name="give_high_praise">给予好评</string>
@@ -368,4 +367,14 @@
     <string name="volume_balance">音量平衡</string>
     <string name="laboratory_intro">欢迎使用椒盐音乐实验室，这里的功能并非稳定仅供体验，且可能随时被移除</string>
     <string name="volume_balance_tip">回放增益（Replay Gain），扫描音频 REPLAYGAIN_TRACK_GAIN 和 REPLAYGAIN_ALBUM_GAIN 标签，并根据此值调整音量大小。可以通过一些软件调整，如使用 foolbar 2000 -> Scan per-file track gain 等方式 。此选项的改变效果将在切换歌曲或重新播放后生效</string>
+    <string name="compressor">压限器（Compressor）</string>
+    <string name="compressor_tip">控制电平，使音乐响亮的部分更安静，而安静的部分更响亮</string>
+    <string name="auto_playback">自动播放</string>
+    <string name="played_times">播放次数</string>
+    <string name="statistics">统计</string>
+    <string name="hide_song_s">确定要隐藏此歌曲 %s 吗？这会将此歌曲移出音乐库，并会丢失相关的播放记录等</string>
+    <string name="max_audio_concert_hall_atmosphere">MAX Audio 音乐厅氛围</string>
+    <string name="join_qq_channel">加入 QQ 频道</string>
+    <string name="quality">品质</string>
+    <string name="average_latency">平均延迟</string>
 </resources>

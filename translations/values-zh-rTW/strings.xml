@@ -138,7 +138,6 @@
     <string name="auto_matching_of_network_album_info">自動匹配網路專輯資訊</string>
     <string name="others">其他</string>
     <string name="help">幫助</string>
-    <string name="status_bar_lyrics_support">僅支援 Flyme、exTHmUI、EvolutionX、Nortical 和 凛々 AOSP Project</string>
     <string name="player_activity_theme">播放頁面主題</string>
     <string name="video">影片</string>
     <string name="give_high_praise">給予正評</string>
@@ -368,4 +367,14 @@
     <string name="play_the_selected_queue">播放所選隊列</string>
     <string name="volume_balance">音量平衡</string>
     <string name="volume_balance_tip">重放增益，掃描音頻 REPLAYGAIN_TRACK_GAIN 和 REPLAYGAIN_ALBUM_GAIN 標籤，根據這個值調整音量。可以通過一些軟件來調整，比如用 foolbar 2000 -> Scan per-file track gain 等等。切換歌曲或重播後對該選項的更改將生效 </string>
+    <string name="compressor">Compressor</string>
+    <string name="compressor_tip">Control the level, by making loud passages quieter, and quiet passages louder</string>
+    <string name="auto_playback">Auto playback</string>
+    <string name="played_times">Played times</string>
+    <string name="statistics">Statistics</string>
+    <string name="hide_song_s">Are you sure you want to hide this song %s? This will move this song out of your music library and will lose associated playback history etc.</string>
+    <string name="max_audio_concert_hall_atmosphere">MAX Audio Concert hall atmosphere</string>
+    <string name="join_qq_channel">Join QQ channel</string>
+    <string name="quality">Quality</string>
+    <string name="average_latency">Average latency</string>
 </resources>
