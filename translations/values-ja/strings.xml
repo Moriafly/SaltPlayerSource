@@ -367,14 +367,14 @@
     <string name="play_the_selected_queue">選択したキューを再生します</string>
     <string name="volume_balance">ボリュームバランス</string>
     <string name="volume_balance_tip">再生ゲイン、オーディオ REPLAYGAIN_TRACK_GAIN および REPLAYGAIN_ALBUM_GAIN タグをスキャンし、この値に基づいてボリュームを調整します。foolbar 2000 を使用するなど、一部のソフトウェアで調整できます -> ファイルごとのトラック ゲインをスキャンするなど。このオプションへの変更は、曲の切り替えまたは再生後に有効になります</string>
-    <string name="compressor">Compressor</string>
-    <string name="compressor_tip">Control the level, by making loud passages quieter, and quiet passages louder</string>
-    <string name="auto_playback">Auto playback</string>
-    <string name="played_times">Played times</string>
-    <string name="statistics">Statistics</string>
-    <string name="hide_song_s">Are you sure you want to hide this song %s? This will move this song out of your music library and will lose associated playback history etc.</string>
-    <string name="max_audio_concert_hall_atmosphere">MAX Audio Concert hall atmosphere</string>
-    <string name="join_qq_channel">Join QQ channel</string>
-    <string name="quality">Quality</string>
-    <string name="average_latency">Average latency</string>
+    <string name="compressor">コンプレッサー</string>
+    <string name="compressor_tip">大きなパッセージを静かにし、静かなパッセージを大きくして、レベルを制御します</string>
+    <string name="auto_playback">自動再生</string>
+    <string name="played_times">再生回数</string>
+    <string name="statistics">スタティスティックス</string>
+    <string name="hide_song_s">この曲 %s を非表示にしてもよろしいですか? これにより、この曲が音楽ライブラリから移動され、関連する再生履歴などが失われます。</string>
+    <string name="max_audio_concert_hall_atmosphere">MAX Audio コンサートホールの雰囲気</string>
+    <string name="join_qq_channel">QQ チャンネルに参加する</string>
+    <string name="quality">クオリティ</string>
+    <string name="average_latency">平均レイテンシ</string>
 </resources>
