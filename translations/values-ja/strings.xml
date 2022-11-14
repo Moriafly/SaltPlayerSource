@@ -379,7 +379,7 @@
     <string name="average_latency">平均レイテンシ</string>
     <string name="buy_or_restore_purchase">購入または購入の復元</string>
     <string name="refresh">リフレッシュ</string>
-    <string name="internal_storage">内部記憶装置</string>
+    <string name="internal_storage">内部ストレージ</string>
     <string name="float_support_info">32 ビット浮動小数点のデコードと処理</string>
     <string name="wallpaper_of_main_interface">メインインターフェースの壁紙</string>
     <string name="floating_window_status_bar_lyrics">フローティング ウィンドウのステータス バーの歌詞</string>
@@ -397,6 +397,6 @@
     <string name="status_bar_lyrics_not_show_translation_info">歌詞の翻訳は同じタイムスタンプで識別されます</string>
     <string name="lyrics_text_left_aligned">歌詞テキスト左揃え</string>
     <string name="lyrics_text_left_aligned_info">オンにしないと、設定された歌詞の幅内で中央に配置されたままになります</string>
-    <string name="copy">Copy</string>
-    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="copy">コピー</string>
+    <string name="copied_to_clipboard">クリップボードにコピーしました</string>
 </resources>
