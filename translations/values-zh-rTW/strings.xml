@@ -380,7 +380,7 @@
     <string name="buy_or_restore_purchase">購買或恢復購買</string>
     <string name="refresh">重新整理</string>
     <string name="internal_storage">內部存儲器</string>
-    <string name="float_support_info">32位浮點解碼和處理</string>
+    <string name="float_support_info">32 位浮點解碼和處理</string>
     <string name="wallpaper_of_main_interface">主介面桌布</string>
     <string name="floating_window_status_bar_lyrics">浮動窗口狀態列歌詞</string>
     <string name="background_color">背景顏色</string>
