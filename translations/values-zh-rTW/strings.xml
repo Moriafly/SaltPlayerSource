@@ -367,14 +367,14 @@
     <string name="play_the_selected_queue">播放所選隊列</string>
     <string name="volume_balance">音量平衡</string>
     <string name="volume_balance_tip">重放增益，掃描音頻 REPLAYGAIN_TRACK_GAIN 和 REPLAYGAIN_ALBUM_GAIN 標籤，根據這個值調整音量。可以通過一些軟件來調整，比如用 foolbar 2000 -> Scan per-file track gain 等等。切換歌曲或重播後對該選項的更改將生效 </string>
-    <string name="compressor">壓縮機</string>
-    <string name="compressor_tip">控制電平，使音樂響亮的部分更安靜，而安靜的部分更響亮</string>
-    <string name="auto_playback">自動播放</string>
-    <string name="played_times">播放次數</string>
-    <string name="statistics">統計數據</string>
-    <string name="hide_song_s">您確定要隱藏這首歌 %s 嗎？ 這會將這首歌移出您的音樂庫，並會丟失相關的播放歷史記錄等。</string>
-    <string name="max_audio_concert_hall_atmosphere">MAX Audio 音樂廳氛圍</string>
-    <string name="join_qq_channel">加入 QQ 頻道</string>
-    <string name="quality">質量</string>
-    <string name="average_latency">平均延遲</string>
+    <string name="compressor">Compressor</string>
+    <string name="compressor_tip">Control the level, by making loud passages quieter, and quiet passages louder</string>
+    <string name="auto_playback">Auto playback</string>
+    <string name="played_times">Played times</string>
+    <string name="statistics">Statistics</string>
+    <string name="hide_song_s">Are you sure you want to hide this song %s? This will move this song out of your music library and will lose associated playback history etc.</string>
+    <string name="max_audio_concert_hall_atmosphere">MAX Audio Concert hall atmosphere</string>
+    <string name="join_qq_channel">Join QQ channel</string>
+    <string name="quality">Quality</string>
+    <string name="average_latency">Average latency</string>
 </resources>
