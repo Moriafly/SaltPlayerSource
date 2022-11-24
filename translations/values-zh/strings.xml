@@ -366,7 +366,7 @@
     <string name="play_the_selected_queue">播放选中队列</string>
     <string name="volume_balance">音量平衡</string>
     <string name="laboratory_intro">欢迎使用椒盐音乐实验室，这里的功能并非稳定仅供体验，且可能随时被移除</string>
-    <string name="volume_balance_tip">回放增益（Replay Gain），扫描音频 REPLAYGAIN_TRACK_GAIN 和 REPLAYGAIN_ALBUM_GAIN 标签，并根据此值调整音量大小。可以通过一些软件调整，如使用 foolbar 2000 -> Scan per-file track gain 等方式 。此选项的改变效果将在切换歌曲或重新播放后生效</string>
+    <string name="volume_balance_tip">回放增益（Replay Gain），扫描音频 REPLAYGAIN_TRACK_GAIN 和 REPLAYGAIN_ALBUM_GAIN 标签，并根据此值调整音量大小。可以通过一些软件调整，如使用 foobar 2000 -> Scan per-file track gain 等方式 。此选项的改变效果将在切换歌曲或重新播放后生效</string>
     <string name="compressor">压限器（Compressor）</string>
     <string name="compressor_tip">控制电平，使音乐响亮的部分更安静，而安静的部分更响亮</string>
     <string name="auto_playback">自动播放</string>
@@ -399,4 +399,21 @@
     <string name="lyrics_text_left_aligned_info">未开启时候将保持在设定的歌词宽度内居中对齐</string>
     <string name="copy">复制</string>
     <string name="copied_to_clipboard">已复制到剪贴板</string>
+    <string name="added_to_playlist">已添加到歌单</string>
+    <string name="number_of_characters_is_too_long">字符数过长</string>
+    <string name="remove_from_music_library">从音乐库移除</string>
+    <string name="migrate_old_playlists_from_V7">迁移 V7 旧版本歌单</string>
+    <string name="lyrics_settings_intro">车载歌词、状态栏歌词、桌面歌词等</string>
+    <string name="media_source">媒体来源</string>
+    <string name="android_media_store">Android 媒体库</string>
+    <string name="custom_folders">自定义文件夹</string>
+    <string name="remove">移除</string>
+    <string name="add_custom_folder">添加自定义文件夹</string>
+    <string name="failed_to_add_custom_folder">添加自定义文件夹失败，因为已经存在其父或子文件夹</string>
+    <string name="copy_text">复制文本</string>
+    <string name="unknown_album_artist">未知专辑艺术家</string>
+    <string name="unknown_album_title">未知专辑标题</string>
+    <string name="unknown_artist">未知艺术家</string>
+    <string name="use_android_media_store">Use Android Media Store</string>
+    <string name="android_media_store_intro">快速扫描 Android 媒体库获取歌曲，格式支持请通过椒盐音乐设置 -> 音频输出 -> 此设备提供的媒体解码，部分设备不支持 DSD / APE 格式扫描，请通过下方自定义文件夹等方式</string>
 </resources>

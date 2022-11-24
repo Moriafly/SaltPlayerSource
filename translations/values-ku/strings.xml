@@ -367,7 +367,7 @@
     <string name="d_selected">%d hilbijartin</string>
     <string name="play_the_selected_queue">Dora hilbijartî bilîzin</string>
     <string name="volume_balance">Balansa Volume</string>
-    <string name="volume_balance_tip">Replay Gain, etîketên dengî REPLAYGAIN_TRACK_GAIN û REPLAYGAIN_ALBUM_GAIN dikole, û li gorî vê nirxê dengdanê eyar dike.  Ew dikare ji hêla hin nermalavê ve were rêve kirin, wek mînak bikaranîna foolbar 2000 -> Scan per-pelê qezenca şopê û hwd.  Guhertinên vê vebijarkê dê piştî guheztina stranan an ji nû ve lîstinê bikeve bandorê</string>
+    <string name="volume_balance_tip">Replay Gain, etîketên dengî REPLAYGAIN_TRACK_GAIN û REPLAYGAIN_ALBUM_GAIN dikole, û li gorî vê nirxê dengdanê eyar dike.  Ew dikare ji hêla hin nermalavê ve were rêve kirin, wek mînak bikaranîna foobar 2000 -> Scan per-pelê qezenca şopê û hwd.  Guhertinên vê vebijarkê dê piştî guheztina stranan an ji nû ve lîstinê bikeve bandorê</string>
     <string name="compressor">Compressor</string>
     <string name="compressor_tip">Control the level, by making loud passages quieter, and quiet passages louder</string>
     <string name="auto_playback">Auto playback</string>
@@ -400,4 +400,21 @@
     <string name="lyrics_text_left_aligned_info">When not turned on, it will remain centered within the set lyric width</string>
     <string name="copy">Copy</string>
     <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="added_to_playlist">Added to playlist</string>
+    <string name="number_of_characters_is_too_long">Number of characters is too long</string>
+    <string name="remove_from_music_library">Remove from music library</string>
+    <string name="migrate_old_playlists_from_V7">Migrate old playlists from V7</string>
+    <string name="lyrics_settings_intro">Car lyrics, status bar lyrics, desktop lyrics, etc.</string>
+    <string name="media_source">Media source</string>
+    <string name="android_media_store">Android Media Store</string>
+    <string name="custom_folders">Custom folders</string>
+    <string name="remove">Remove</string>
+    <string name="add_custom_folder">Add custom folder</string>
+    <string name="failed_to_add_custom_folder">Adding a custom folder failed because its parent or subfolder already exists</string>
+    <string name="copy_text">Copy text</string>
+    <string name="unknown_album_artist">Unknown album artist</string>
+    <string name="unknown_album_title">Unknown album title</string>
+    <string name="unknown_artist">Unknown artist</string>
+    <string name="use_android_media_store">Use Android Media Store</string>
+    <string name="android_media_store_intro">Quickly scan the Android Media Store to get songs, please use Salt Player Settings -> Audio Output -> Media Decoding provided by this device for format support, some devices do not support DSD / APE format scanning, please customize the folder and other methods below</string>
 </resources>

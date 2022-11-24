@@ -366,7 +366,7 @@
     <string name="d_selected">已選擇 %d 項</string>
     <string name="play_the_selected_queue">播放所選隊列</string>
     <string name="volume_balance">音量平衡</string>
-    <string name="volume_balance_tip">重放增益，掃描音頻 REPLAYGAIN_TRACK_GAIN 和 REPLAYGAIN_ALBUM_GAIN 標籤，根據這個值調整音量。可以通過一些軟件來調整，比如用 foolbar 2000 -> Scan per-file track gain 等等。切換歌曲或重播後對該選項的更改將生效 </string>
+    <string name="volume_balance_tip">重放增益，掃描音頻 REPLAYGAIN_TRACK_GAIN 和 REPLAYGAIN_ALBUM_GAIN 標籤，根據這個值調整音量。可以通過一些軟件來調整，比如用 foobar 2000 -> Scan per-file track gain 等等。切換歌曲或重播後對該選項的更改將生效 </string>
     <string name="compressor">壓縮機</string>
     <string name="compressor_tip">控制電平，使音樂響亮的部分更安靜，而安靜的部分更響亮</string>
     <string name="auto_playback">自動播放</string>
@@ -399,4 +399,21 @@
     <string name="lyrics_text_left_aligned_info">未開啟時，在設定的歌詞寬度內保持居中</string>
     <string name="copy">複製</string>
     <string name="copied_to_clipboard">已複製到剪貼板</string>
+    <string name="added_to_playlist">Added to playlist</string>
+    <string name="number_of_characters_is_too_long">Number of characters is too long</string>
+    <string name="remove_from_music_library">Remove from music library</string>
+    <string name="migrate_old_playlists_from_V7">Migrate old playlists from V7</string>
+    <string name="lyrics_settings_intro">Car lyrics, status bar lyrics, desktop lyrics, etc.</string>
+    <string name="media_source">Media source</string>
+    <string name="android_media_store">Android Media Store</string>
+    <string name="custom_folders">Custom folders</string>
+    <string name="remove">Remove</string>
+    <string name="add_custom_folder">Add custom folder</string>
+    <string name="failed_to_add_custom_folder">Adding a custom folder failed because its parent or subfolder already exists</string>
+    <string name="copy_text">Copy text</string>
+    <string name="unknown_album_artist">Unknown album artist</string>
+    <string name="unknown_album_title">Unknown album title</string>
+    <string name="unknown_artist">Unknown artist</string>
+    <string name="use_android_media_store">Use Android Media Store</string>
+    <string name="android_media_store_intro">Quickly scan the Android Media Store to get songs, please use Salt Player Settings -> Audio Output -> Media Decoding provided by this device for format support, some devices do not support DSD / APE format scanning, please customize the folder and other methods below</string>
 </resources>
