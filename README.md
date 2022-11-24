@@ -11,7 +11,7 @@
 `请在正确的渠道下载本应用，请勿使用他人重新签名的安装文件。`
 
 |  [Github release](https://github.com/Moriafly/SaltPlayerSource/releases)   | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music)  | [酷安](https://www.coolapk.com/apk/284064) | [ApkPure](https://apkpure.com/p/com.salt.music) |
-| -- | -- | -- | -- |
+|:--:|:--:|:--:|:--:|
 | 同时发布标准渠道（Moriafly）和鸿蒙版（Hmos） | 发布谷歌渠道版本 | 首发正式版 | ApkPure 非官方上传，同谷歌渠道版本 |
 
 ## 开放文档
