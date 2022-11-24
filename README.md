@@ -1,22 +1,18 @@
-[![Downloads](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E7%94%A8%E6%88%B7%20cumulative%20users-20%20万%2B-brightgreen)](https://github.com/Moriafly/SaltPlayerSource/releases/latest)
+# 椒盐音乐 Salt Player
 
-<div align="center">
-    <h2>椒盐音乐 Salt Player</h2>
-    <br>
-    <a href="https://moriafly.xyz/HiMoriafly/salt-player" target="_blank">moriafly.xyz/HiMoriafly/salt-player</a>
+[官方网站 HiMoriafly Salt Player](moriafly.xyz/HiMoriafly/salt-player)
 
-<br>
-使用 <a href="https://developer.android.google.cn/jetpack/compose" target="_blank">Jetpack Compose</a> 开发的 Android 音乐播放器软件。
-注意本仓库是用来发布更新椒盐音乐新版本、收集反馈、发布一些通知的，而不是椒盐音乐的完整开源库。椒盐音乐属于<b>闭源软件</b>。
-</div>
+使用 Jetpack Compose 开发的 Android 音乐播放器软件。
 
----
+本仓库是用来发布更新椒盐音乐新版本、收集反馈、发布一些通知的，而不是椒盐音乐的完整项目代码开源库。椒盐音乐属于<b>闭源软件</b>。
 
 ## 下载地址
 
 `请在正确的渠道下载本应用，请勿使用他人重新签名的安装文件。`
 
-[Github release](https://github.com/Moriafly/SaltPlayerSource/releases) | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | [酷安](https://www.coolapk.com/apk/284064) | [ApkPure](https://apkpure.com/p/com.salt.music)
+|  [Github release](https://github.com/Moriafly/SaltPlayerSource/releases)   | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music)  | [酷安](https://www.coolapk.com/apk/284064) | [ApkPure](https://apkpure.com/p/com.salt.music) |
+| -- | -- | -- | -- |
+| 同时发布标准渠道（Moriafly）和鸿蒙版（Hmos） | 发布谷歌渠道版本 | 首发正式版 | ApkPure 非官方上传，同谷歌渠道版本 |
 
 ## 开放文档
 
@@ -24,7 +20,7 @@
 
 ## 使用帮助
 
-[扫描音乐帮助](help/scanmusic.md) | [歌词帮助](help/lyrics.md) | [其他帮助](help/other.md)
+[FQA](https://moriafly.xyz/HiMoriafly/docs/salt-player/FQA)
 
 ## 寻求帮助
 
@@ -32,13 +28,15 @@
 
 ## 可以通过提交 issue 来反馈你在椒盐音乐使用中遇到的问题
 
+![错误 bug](https://img.shields.io/github/issues/Moriafly/SaltPlayerSource/错误%20bug?color=d73a4a&label=错误%20bug) ![增强 enhancement](https://img.shields.io/github/issues/Moriafly/SaltPlayerSource/增强%20enhancement?color=a2eeef&label=增强%20enhancement)
+
 建议先查看应用内帮助文档哦，若无法解决请提交 issue 。特别注意，多问题请分开提交多个 issue ，请勿写在一起~
 
 ## 本地化适配
 
-可以提交到 [translations](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations) 中帮助我们翻译哦~
+可以提交到 [translations](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations) 中帮助翻译哦~
 
-## 说明
+## 版本说明
 
 椒盐音乐安装包大小约 8 MB ，解压安装后约占用 30 MB 空间（后续使用产生的用户数据不包含）。
 **仅提供 64 位版本（架构 arm-v8a），需要安卓 6.0 以上。**
