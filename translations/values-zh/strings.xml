@@ -414,6 +414,8 @@
     <string name="unknown_album_artist">未知专辑艺术家</string>
     <string name="unknown_album_title">未知专辑标题</string>
     <string name="unknown_artist">未知艺术家</string>
-    <string name="use_android_media_store">Use Android Media Store</string>
+    <string name="use_android_media_store">使用 Android 媒体库</string>
     <string name="android_media_store_intro">快速扫描 Android 媒体库获取歌曲，格式支持请通过椒盐音乐设置 -> 音频输出 -> 此设备提供的媒体解码，部分设备不支持 DSD / APE 格式扫描，请通过下方自定义文件夹等方式</string>
+    <string name="custom">自定义</string>
+    <string name="custom_folders_tip">若使用自定义文件夹功能的同时开启了使用 Android 媒体库功能，那么最终扫描到的歌曲为二者并集。如果仅需使用自定义文件夹请关闭使用 Android 媒体库功能</string>
 </resources>
