@@ -417,5 +417,9 @@
     <string name="use_android_media_store">Gunakan Android Media Store</string>
     <string name="android_media_store_intro">Pindai Android Media Store dengan cepat untuk mendapatkan lagu, silakan gunakan Pengaturan Salt Player -> Output Audio -> Decoding Media yang disediakan oleh perangkat ini untuk dukungan format, beberapa perangkat tidak mendukung pemindaian format DSD / APE, harap sesuaikan folder dan metode lain di bawah ini</string>
     <string name="custom">Kustom</string>
-    <string name="custom_folders_tip">Jika fungsi Gunakan Android Media Store diaktifkan saat menggunakan fungsi Folder kustom, lagu yang dipindai akhir akan menjadi penyatuan keduanya. Jika Anda hanya perlu menggunakan folder Kustom, harap matikan Gunakan Android Media Store</string>
+    <string name="custom_folders_tip">Jika fungsi Gunakan Android Media Store diaktifkan saat menggunakan fungsi Folder kustom, lagu yang dipindai akhir akan menjadi penyatuan keduanya. Jika Anda hanya perlu menggunakan folder Kustom, harap matikan Gunakan Android Media Store</string><string name="circle_play_mode">Circle play mode</string>
+    <string name="repeat_one_play_mode">Repeat one play mode</string>
+    <string name="random_play_mode">Random play mode</string>
+    <string name="remove_from_play_queue">Remove from play queue</string>
+    <string name="blocked_folders">Blocked folders</string>
 </resources>

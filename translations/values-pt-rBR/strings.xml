@@ -415,7 +415,12 @@
     <string name="unknown_album_title">Título do álbum desconhecido</string>
     <string name="unknown_artist">Artista desconhecido</string>
     <string name="use_android_media_store">Use Android Media Store</string>
-    <string name="android_media_store_intro">Quickly scan the Android Media Store to get songs, please use Salt Player Settings -> Audio Output -> Media Decoding provided by this device for format support, some devices do not support DSD / APE format scanning, please customize the folder and other methods below</string>
-    <string name="custom">Custom</string>
-    <string name="custom_folders_tip">If the Use Android Media Store function is enabled while using the Custom folders function, the final scanned songs will be the union of the two. If you only need to use Custom folders, please turn off Use Android Media Store</string>
+    <string name="android_media_store_intro">Escaneie rapidamente o Android Media Store para obter músicas, use Salt Player Settings -> Audio Output -> Media Decoding fornecido por este dispositivo para suporte de formato, alguns dispositivos não suportam digitalização de formato DSD / APE, personalize a pasta e outros métodos abaixo</string>
+    <string name="custom">Personalizado</string>
+    <string name="custom_folders_tip">Se a função Use Android Media Store estiver habilitada ao usar a função Custom folders, as músicas finalizadas serão a união das duas. Se você só precisa usar pastas personalizadas, desative Usar Android Media Store</string>
+    <string name="circle_play_mode">Modo de jogo circular</string>
+    <string name="repeat_one_play_mode">Repita um modo de reprodução</string>
+    <string name="random_play_mode">Modo de jogo aleatório</string>
+    <string name="remove_from_play_queue">Remover da fila de reprodução</string>
+    <string name="blocked_folders">Pastas bloqueadas</string>
 </resources>
