@@ -1,6 +1,6 @@
 # 椒盐音乐 Salt Player
 
-[官方网站 HiMoriafly Salt Player](moriafly.xyz/HiMoriafly/salt-player)
+[官方网站 HiMoriafly Salt Player](https://moriafly.xyz/HiMoriafly/)
 
 使用 Jetpack Compose 开发的 Android 音乐播放器软件。
 
