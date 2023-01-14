@@ -244,7 +244,7 @@
     <string name="v3_audio_effect">V3 音效</string>
     <string name="v3_reverb">V3 混響</string>
     <string name="introduction">介紹</string>
-    <string name="auto_eq_intro">使用 PEAKEQ 參數等化器，避免固定頻段（圖形）等化器難以補償落在兩個頻段之間的窄缺口和峰值的問題，還原來自 AutoEq 庫等地精確參數，為你帶來完美聽感，建議配合耳機使用。</string>
+    <string name="auto_eq_intro">使用 PEAKEQ 參數等化器，避免固定頻段（圖形）等化器難以補償落在兩個頻段之間的窄缺口和峰值的問題，還原來自 AutoEq 庫等地精確參數，為你帶來完美聽感，建議配合耳機使用</string>
     <string name="help_translation">幫助翻譯</string>
     <string name="audio_effect">音訊效果</string>
     <string name="remove_from_the_playlist">從此歌單中移除</string>
@@ -348,7 +348,7 @@
     <string name="display_song_file_name_in_list_intro">清單中歌曲的標題顯示為歌曲的檔案名稱（包括副檔名），而不是檔案的內建中繼資料標題</string>
     <string name="collapse">摺疊</string>
     <string name="expand">展開</string>
-    <string name="no_floating_window_permission_tip">軟體未取得權限，需要手動前往設置給予本軟體懸浮窗權限。</string>
+    <string name="no_floating_window_permission_tip">軟體未取得權限，需要手動前往設置給予本軟體懸浮窗權限</string>
     <string name="float_support">浮點支援</string>
     <string name="float_support_dsp">浮點支援 DSP</string>
     <string name="warning">⚠️警告</string>
@@ -403,7 +403,7 @@
     <string name="number_of_characters_is_too_long">字符數過長</string>
     <string name="remove_from_music_library">從音樂庫中移除</string>
     <string name="migrate_old_playlists_from_V7">從 V7 遷移舊播放清單</string>
-    <string name="lyrics_settings_intro">車載歌詞、狀態列歌詞、桌面歌詞等。</string>
+    <string name="lyrics_settings_intro">車載歌詞、狀態列歌詞、桌面歌詞等</string>
     <string name="media_source">媒體來源</string>
     <string name="android_media_store">Android 媒體庫</string>
     <string name="custom_folders">自定義資料夾</string>
