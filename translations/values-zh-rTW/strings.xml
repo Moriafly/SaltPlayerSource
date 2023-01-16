@@ -418,9 +418,9 @@
     <string name="android_media_store_intro">快速掃描 Android 媒體庫以獲取歌曲，請使用 Salt Player 設定->音訊輸出->此裝置提供的媒體解碼以獲得格式支持，某些設備不支持 DSD / APE 格式掃描，請自定義以下資料夾和其他方法</string>
     <string name="custom">自定義</string>
     <string name="custom_folders_tip">如果在使用自定義資料夾功能時啟用了使用 Android 媒體庫功能，則最終掃描的歌曲將是兩者的結合。 如果您只需要使用自定義資料夾，請關閉使用 Android 媒體庫</string>
-    <string name="circle_play_mode">Circle play mode</string>
-    <string name="repeat_one_play_mode">Repeat one play mode</string>
-    <string name="random_play_mode">Random play mode</string>
-    <string name="remove_from_play_queue">Remove from play queue</string>
-    <string name="blocked_folders">Blocked folders</string>
+    <string name="circle_play_mode">佇列循環播放模式</string>
+    <string name="repeat_one_play_mode">單曲循環播放模式</string>
+    <string name="random_play_mode">隨機播放模式</string>
+    <string name="remove_from_play_queue">從播放佇列中移除</string>
+    <string name="blocked_folders">被屏蔽的資料夾</string>
 </resources>
