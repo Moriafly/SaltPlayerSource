@@ -418,9 +418,9 @@
     <string name="android_media_store_intro">曲を取得するために Android Media Store をすばやくスキャンします。Salt Player 設定->オーディオ出力->このデバイスがサポートされているメディアデコード機能を使用してフォーマットサポートを受けてください。DSD / APE フォーマットスキャンをサポートしていないデバイスもあります。以下のフォルダとその他の方法をカスタマイズしてください</string>
     <string name="custom">カスタム</string>
     <string name="custom_folders_tip">カスタムフォルダ機能を使用するときに Android Media Store 機能の使用が有効になっている場合、最終的にスキャンされた曲は両者の結合になります。カスタムフォルダだけを使用する場合は、Android Media Store の使用をオフにしてください</string>
-    <string name="circle_play_mode">Circle play mode</string>
-    <string name="repeat_one_play_mode">Repeat one play mode</string>
-    <string name="random_play_mode">Random play mode</string>
-    <string name="remove_from_play_queue">Remove from play queue</string>
-    <string name="blocked_folders">Blocked folders</string>
+    <string name="circle_play_mode">リスト・ループ再生モード</string>
+    <string name="repeat_one_play_mode">シングル・ループ再生モード</string>
+    <string name="random_play_mode">ランダム再生モード</string>
+    <string name="remove_from_play_queue">再生キューから削除</string>
+    <string name="blocked_folders">ブロックされたフォルダ</string>
 </resources>
