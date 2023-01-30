@@ -269,7 +269,6 @@
     <string name="aaudio_intro">Nativa de alto rendimiento de baja latencia de salida, pero no puede utilizar el sonido del sistema y software de sonido de terceros</string>
     <string name="repair">Reparación</string>
     <string name="repairing">Restauración en curso, por favor espere…</string>
-    <string name="d_unknown_id_songs_were_removed_successfully">%d canciones de logotipo desconocido eliminado con éxito</string>
     <string name="web_service">Servicio web</string>
     <string name="song_settings_intro">State bar letras de canciones, web letras, portada de álbum, información del álbum, etc</string>
     <string name="language_settings_intro">Elegir un idioma, ayudar con la traducción</string>
@@ -295,7 +294,7 @@
     <string name="tablet_mode_intro">Derivado de Salt Player siempre ha sido excelente barra de estado, barra de navegación adaptación, y el uso de la nueva tecnología para construir una interfaz adaptativa. Para la versión Salt Player 5.0, tres diseños diferentes han sido diseñados para traer una experiencia más perfecta</string>
     <string name="keyboard_shortcuts_intro">Esta función solo está disponible si la interfaz Salt Player está en primer plano</string>
     <string name="laboratory">Laboratorio</string>
-    <string name="laboratory_intro">Biembenido a Salt Player Lab, las funciones mostradas estan del todo estable, solo para el uso de experiencia y pueden ser eliminados en el futuro.</string>
+    <string name="laboratory_intro">Biembenido a Salt Player Lab, las funciones mostradas están del todo estable, solo para el uso de experiencia y pueden ser eliminados en el futuro.</string>
     <string name="display_video_screen">Mostrar la página del vídeo</string>
     <string name="year">Año</string>
     <string name="subscribe_on_telegram">Suscríbete el canal de Salt Player en Telegram para seguir el progreso del desarrollo</string>
@@ -423,4 +422,12 @@
     <string name="random_play_mode">Modo de reproducción aleatoria</string>
     <string name="remove_from_play_queue">Eliminar de la cola de reproducción</string>
     <string name="blocked_folders">Carpetas bloqueadas</string>
+    <string name="file_name">File name</string>
+    <string name="song_clips">Song clips</string>
+    <string name="lyrics_view_text_bold">Lyrics view text bold</string>
+    <string name="copyright">Copyright</string>
+    <string name="mini_lyrics_in_player_ui">Mini lyrics in player UI</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
+    <string name="date_modified">Date modified</string>
 </resources>

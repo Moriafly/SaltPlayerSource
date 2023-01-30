@@ -91,7 +91,6 @@
     <string name="d_minutes">%d deqîqe(s)</string>
     <string name="d_songs">%d stran</string>
     <string name="d_songs_were_scanned">%d stran hatin skankirin</string>
-    <string name="d_unknown_id_songs_were_removed_successfully">Stranên bi nasnameya nenas %d bi serketî hatin rakirin</string>
     <string name="daily_recommendation">Pêşniyara rojane</string>
     <string name="dark">Tarî</string>
     <string name="date_modified_desc">Danasîna tarîxê hate guherandin</string>
@@ -424,4 +423,12 @@
     <string name="random_play_mode">Random play mode</string>
     <string name="remove_from_play_queue">Remove from play queue</string>
     <string name="blocked_folders">Blocked folders</string>
+    <string name="file_name">File name</string>
+    <string name="song_clips">Song clips</string>
+    <string name="lyrics_view_text_bold">Lyrics view text bold</string>
+    <string name="copyright">Copyright</string>
+    <string name="mini_lyrics_in_player_ui">Mini lyrics in player UI</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
+    <string name="date_modified">Date modified</string>
 </resources>

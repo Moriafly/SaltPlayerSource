@@ -268,7 +268,6 @@
     <string name="dsp">DSP</string>
     <string name="repair">Reparar</string>
     <string name="repairing">Reparando, aguarde por favor…</string>
-    <string name="d_unknown_id_songs_were_removed_successfully">%d música(s) de identificação desconhecida(s) foram removidas com sucesso</string>
     <string name="web_service">Serviços da web</string>
     <string name="song_settings_intro">Letras da barra de status, letras on-line,  capas de álbuns, informações de álbuns, etc</string>
     <string name="language_settings_intro">Escolha um idioma, tradução de ajuda</string>
@@ -423,4 +422,12 @@
     <string name="random_play_mode">Modo de jogo aleatório</string>
     <string name="remove_from_play_queue">Remover da fila de reprodução</string>
     <string name="blocked_folders">Pastas bloqueadas</string>
+    <string name="file_name">Nome do arquivo</string>
+    <string name="song_clips">Clipes de música</string>
+    <string name="lyrics_view_text_bold">Letras ver texto em negrito</string>
+    <string name="copyright">Copyright</string>
+    <string name="mini_lyrics_in_player_ui">Mini lyrics in player UI</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
+    <string name="date_modified">Date modified</string>
 </resources>

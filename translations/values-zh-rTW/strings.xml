@@ -269,7 +269,6 @@
     <string name="audio_track_intro">預設音軌輸出</string>
     <string name="repair">修復</string>
     <string name="repairing">修復中，請等待……</string>
-    <string name="d_unknown_id_songs_were_removed_successfully">成功移除未知標籤歌曲 %d 首</string>
     <string name="web_service">網路服務</string>
     <string name="song_settings_intro">狀態列歌詞、網路歌詞、專輯封面、專輯資訊等</string>
     <string name="language_settings_intro">選擇語言、幫助翻譯</string>
@@ -319,7 +318,7 @@
     <string name="enabled">已啟用</string>
     <string name="disabled">已禁用</string>
     <string name="decoder">解碼程式</string>
-    <string name="you_need_to_restart_the_application">您需要重新啟動應用程式</string>
+    <string name="you_need_to_restart_the_application">你需要重新啟動應用程式</string>
     <string name="notification_of_salt_player">椒鹽音樂通知</string>
     <string name="scan_music">掃描音樂</string>
     <string name="salt_player_pro">椒鹽音樂 Pro</string>
@@ -423,4 +422,12 @@
     <string name="random_play_mode">隨機播放模式</string>
     <string name="remove_from_play_queue">從播放佇列中移除</string>
     <string name="blocked_folders">被屏蔽的資料夾</string>
+    <string name="file_name">File name</string>
+    <string name="song_clips">Song clips</string>
+    <string name="lyrics_view_text_bold">歌詞介面文本加粗</string>
+    <string name="copyright">Copyright</string>
+    <string name="mini_lyrics_in_player_ui">Mini lyrics in player UI</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
+    <string name="date_modified">Date modified</string>
 </resources>

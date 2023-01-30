@@ -84,8 +84,8 @@
     <string name="help_document">Help document</string>
     <string name="single_column_playlist">Single column playlist</string>
     <string name="status_bar_lyrics">Status bar lyrics</string>
-    <string name="previous">previous</string>
-    <string name="next">next</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
     <string name="search_for_online_music">Search for online music</string>
     <string name="clear">Clear</string>
     <string name="play_music">Play music</string>
@@ -273,7 +273,6 @@
     <string name="dsp">DSP</string>
     <string name="repair">Repair</string>
     <string name="repairing">Repair, please wait…</string>
-    <string name="d_unknown_id_songs_were_removed_successfully">%d unknown id song(s) were removed successfully</string>
     <string name="web_service">Web service</string>
     <string name="song_settings_intro">Status bar lyrics, online lyrics, album covers, album info, etc</string>
     <string name="language_settings_intro">Choose a language, help translation</string>
@@ -283,7 +282,7 @@
     <string name="hide_folder_intro">Do you want to hide all songs in folder %s and its subfolders?</string>
     <string name="developer_email">Developer email</string>
     <string name="technical_support">Technical support</string>
-    <string name="salt_player_official">Salt Player official</string>
+    <string name="salt_player_official">Salt Player Official</string>
     <string name="update_software">Update software</string>
     <string name="from_album">From album</string>
     <string name="miui_status_bar_lyrics">Status bar lyrics for MIUI</string>
@@ -426,4 +425,12 @@
     <string name="random_play_mode">Random play mode</string>
     <string name="remove_from_play_queue">Remove from play queue</string>
     <string name="blocked_folders">Blocked folders</string>
+    <string name="file_name">File name</string>
+    <string name="song_clips">Song clips</string>
+    <string name="lyrics_view_text_bold">Lyrics view text bold</string>
+    <string name="copyright">Copyright</string>
+    <string name="mini_lyrics_in_player_ui">Mini lyrics in player UI</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
+    <string name="date_modified">Date modified</string>
 </resources>

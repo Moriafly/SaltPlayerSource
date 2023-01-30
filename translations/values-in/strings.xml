@@ -269,7 +269,6 @@
     <string name="dsp">DSP</string>
     <string name="repair">Perbaiki</string>
     <string name="repairing">Sedang memperbaiki, harap tunggu…</string>
-    <string name="d_unknown_id_songs_were_removed_successfully">%d id lagu yang tidak dikenal berhasil dihapus</string>
     <string name="web_service">layanan web</string>
     <string name="song_settings_intro">Lirik bilah status, lirik online, sampul album, info album, dll</string>
     <string name="language_settings_intro">Pilih bahasa,dan bantu terjemahan</string>
@@ -422,4 +421,12 @@
     <string name="random_play_mode">Random play mode</string>
     <string name="remove_from_play_queue">Remove from play queue</string>
     <string name="blocked_folders">Blocked folders</string>
+    <string name="file_name">File name</string>
+    <string name="song_clips">Song clips</string>
+    <string name="lyrics_view_text_bold">Lyrics view text bold</string>
+    <string name="copyright">Copyright</string>
+    <string name="mini_lyrics_in_player_ui">Mini lyrics in player UI</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
+    <string name="date_modified">Date modified</string>
 </resources>

@@ -270,7 +270,6 @@
     <string name="audio_track_intro">默认音轨输出</string>
     <string name="repair">修复</string>
     <string name="repairing">修复中，请等待……</string>
-    <string name="d_unknown_id_songs_were_removed_successfully">成功移除未知标识歌曲 %d 首</string>
     <string name="web_service">网络服务</string>
     <string name="song_settings_intro">状态栏歌词、网络歌词、专辑封面、专辑信息等</string>
     <string name="language_settings_intro">选择语言、帮助翻译</string>
@@ -423,4 +422,12 @@
     <string name="random_play_mode">随机播放模式</string>
     <string name="remove_from_play_queue">从播放队列中移除</string>
     <string name="blocked_folders">被屏蔽的文件夹</string>
+    <string name="file_name">文件名</string>
+    <string name="song_clips">歌曲片段</string>
+    <string name="lyrics_view_text_bold">歌词视图文本加粗</string>
+    <string name="copyright">版权</string>
+    <string name="mini_lyrics_in_player_ui">播放界面迷你歌词</string>
+    <string name="accessibility">无障碍</string>
+    <string name="accessibility_intro">为视力障碍用户提供更好的软件服务</string>
+    <string name="date_modified">修改时间</string>
 </resources>

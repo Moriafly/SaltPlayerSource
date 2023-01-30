@@ -269,7 +269,6 @@
     <string name="audio_track_intro">デフォルトトラック出力</string>
     <string name="repair">修復</string>
     <string name="repairing">修復中です、お待ちください……</string>
-    <string name="d_unknown_id_songs_were_removed_successfully">不明なIDが付与された %d 曲の削除が完了しました</string>
     <string name="web_service">ネットワーク サービス</string>
     <string name="song_settings_intro">ステータスバー歌詞、インターネット歌詞、アルバムジャケット、アルバム情報など</string>
     <string name="language_settings_intro">言語の選択、翻訳を手伝う</string>
@@ -418,9 +417,17 @@
     <string name="android_media_store_intro">曲を取得するために Android Media Store をすばやくスキャンします。Salt Player 設定->オーディオ出力->このデバイスがサポートされているメディアデコード機能を使用してフォーマットサポートを受けてください。DSD / APE フォーマットスキャンをサポートしていないデバイスもあります。以下のフォルダとその他の方法をカスタマイズしてください</string>
     <string name="custom">カスタム</string>
     <string name="custom_folders_tip">カスタムフォルダ機能を使用するときに Android Media Store 機能の使用が有効になっている場合、最終的にスキャンされた曲は両者の結合になります。カスタムフォルダだけを使用する場合は、Android Media Store の使用をオフにしてください</string>
-    <string name="circle_play_mode">リスト・ループ再生モード</string>
-    <string name="repeat_one_play_mode">シングル・ループ再生モード</string>
-    <string name="random_play_mode">ランダム再生モード</string>
+    <string name="circle_play_mode">サークルプレイモード</string>
+    <string name="repeat_one_play_mode">繰り返しプレイモード</string>
+    <string name="random_play_mode">ランダムプレイモード</string>
     <string name="remove_from_play_queue">再生キューから削除</string>
-    <string name="blocked_folders">ブロックされたフォルダ</string>
+    <string name="blocked_folders">ブロックされたフォルダー</string>
+    <string name="file_name">ファイル名</string>
+    <string name="song_clips">ソングクリップ</string>
+    <string name="lyrics_view_text_bold">歌詞表示テキスト太字</string>
+    <string name="copyright">Copyright</string>
+    <string name="mini_lyrics_in_player_ui">Mini lyrics in player UI</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
+    <string name="date_modified">Date modified</string>
 </resources>

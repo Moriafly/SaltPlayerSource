@@ -4,7 +4,7 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-8.2.3
+8.3.0
 
 ## 感谢翻译
 
@@ -21,6 +21,8 @@ Portuguese-BR (Portuguese, pt-BR) : Ricardo Sousa 🇧🇷
 Turkish (Turkish, tr) : Fırat Cann
 
 Kurdish (Kurdish, ku) : Fırat Cann
+
+Deutsch (German, de) : zxy
 
 ## 翻译须知
 
