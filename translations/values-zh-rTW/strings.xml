@@ -422,12 +422,12 @@
     <string name="random_play_mode">隨機播放模式</string>
     <string name="remove_from_play_queue">從播放佇列中移除</string>
     <string name="blocked_folders">被屏蔽的資料夾</string>
-    <string name="file_name">File name</string>
-    <string name="song_clips">Song clips</string>
+    <string name="file_name">檔案名</string>
+    <string name="song_clips">歌曲片段</string>
     <string name="lyrics_view_text_bold">歌詞介面文本加粗</string>
-    <string name="copyright">Copyright</string>
-    <string name="mini_lyrics_in_player_ui">Mini lyrics in player UI</string>
-    <string name="accessibility">Accessibility</string>
-    <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
-    <string name="date_modified">Date modified</string>
+    <string name="copyright">版權</string>
+    <string name="mini_lyrics_in_player_ui">播放介面迷你歌詞</string>
+    <string name="accessibility">無障礙</string>
+    <string name="accessibility_intro">為視力障礙用戶提供更好的軟件服務</string>
+    <string name="date_modified">修改時間</string>
 </resources>
