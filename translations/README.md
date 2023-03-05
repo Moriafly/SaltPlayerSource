@@ -8,7 +8,7 @@
 
 ## 感谢翻译
 
-繁體中文 (Chinese Traditional, zh-Hant) : lilin / 狐狸小宮 / TragicLifeHu
+繁體中文 (Chinese Traditional, zh-Hant) : lilin / 狐狸小宮 / TragicLifeHu / Dedicatus5457
 
 Español (Spanish, es) : Nachogao
 
