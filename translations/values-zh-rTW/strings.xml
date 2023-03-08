@@ -408,7 +408,7 @@
     <string name="custom_folders">自定義資料夾</string>
     <string name="remove">移除</string>
     <string name="add_custom_folder">添加自定義資料夾</string>
-    <string name="failed_to_add_custom_folder">添加自定義文件夾失敗，因為其父文件夾或子文件夾已存在</string>
+    <string name="failed_to_add_custom_folder">添加自定義資料夾失敗，因為其父資料夾或子資料夾已存在</string>
     <string name="copy_text">複製文字</string>
     <string name="unknown_album_artist">未知專輯藝術家</string>
     <string name="unknown_album_title">未知專輯名稱</string>
