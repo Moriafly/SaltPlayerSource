@@ -426,8 +426,8 @@
     <string name="song_clips">ソングクリップ</string>
     <string name="lyrics_view_text_bold">歌詞表示テキスト太字</string>
     <string name="copyright">Copyright</string>
-    <string name="mini_lyrics_in_player_ui">Mini lyrics in player UI</string>
-    <string name="accessibility">Accessibility</string>
-    <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
-    <string name="date_modified">Date modified</string>
+    <string name="mini_lyrics_in_player_ui">プレーヤー UI のミニ歌詞</string>
+    <string name="accessibility">ユーザー補助</string>
+    <string name="accessibility_intro">視覚障害のあるユーザーにより良いソフトウェア・サービスを提供する</string>
+    <string name="date_modified">変更時間</string>
 </resources>
