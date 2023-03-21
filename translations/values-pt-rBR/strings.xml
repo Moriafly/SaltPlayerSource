@@ -430,4 +430,17 @@
     <string name="accessibility">Accessibility</string>
     <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
     <string name="date_modified">Date modified</string>
+    <string name="automatically_extend_to_the_end_of_the_whole_song">Automatically extend to the end of the whole song</string>
+    <string name="sort_album_track">Album (Track)</string>
+    <string name="register">Register</string>
+    <string name="nickname">Nickname</string>
+    <string name="system_level_status_bar_lyrics">System-level status bar lyrics</string>
+    <string name="logout">Logout</string>
+    <string name="zoom_display_size">Zoom display size</string>
+    <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen">Hi-Res LOGO in the lower left corner of album cover of customized play screen</string>
+    <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen_tip">Select the small icon you like (only the square playback screen works). It is not recommended to use too large image files</string>
+    <string name="export">Export</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="participating_artists">Participating artists</string>
+    <string name="sleep_timer_stopped">Sleep timer stopped</string>
 </resources>

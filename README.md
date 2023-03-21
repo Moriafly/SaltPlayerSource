@@ -42,23 +42,4 @@
 
 ## 版权信息
 
-Copyright © 2022-2023 Salt Player Team
-
-Copyright © 2020-2023 Moriafly
-
-Copyright © 2022-2023 Xunxun Technology (Shanghai) Co., Ltd.
-
-Copyright © 2021 TEAM 403 STUDIO
-
-The App architecture technology is supported by TEAM 403 STUDIO.
-
-BASS SHAREWARE LICENCE AGREEMENT
-
-Rev. 25-Jun-21
-
-The audio technology associated with the App is licensed by Un4seen Developments Ltd.
-
-Some image resources are from icon8.com.
-iOS Glyphs / Material.
-
 相关法律信息请在软件内部即相关网站查询。

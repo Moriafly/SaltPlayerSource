@@ -430,4 +430,17 @@
     <string name="accessibility">无障碍</string>
     <string name="accessibility_intro">为视力障碍用户提供更好的软件服务</string>
     <string name="date_modified">修改时间</string>
+    <string name="automatically_extend_to_the_end_of_the_whole_song">自动延长到整首歌播完</string>
+    <string name="sort_album_track">专辑（音轨）</string>
+    <string name="register">注册</string>
+    <string name="nickname">昵称</string>
+    <string name="system_level_status_bar_lyrics">系统级状态栏歌词</string>
+    <string name="logout">退出登录</string>
+    <string name="zoom_display_size">显示大小缩放</string>
+    <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen">自定义播放界面专辑封面左下角 Hi-Res LOGO</string>
+    <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen_tip">选择自己喜欢的小图标（仅方形播放界面生效），不推荐使用过大的图片文件</string>
+    <string name="export">导出</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="participating_artists">参与创作的艺术家</string>
+    <string name="sleep_timer_stopped">睡眠定时被停止</string>
 </resources>
