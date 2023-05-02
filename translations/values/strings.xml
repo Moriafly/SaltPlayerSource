@@ -372,7 +372,7 @@
     <string name="compressor">Compressor</string>
     <string name="compressor_tip">Control the level, by making loud passages quieter, and quiet passages louder</string>
     <string name="auto_playback">Auto playback</string>
-    <string name="played_times">Played times</string>
+    <string name="played_times">Times played</string>
     <string name="statistics">Statistics</string>
     <string name="hide_song_s">Are you sure you want to hide this song %s? This will move this song out of your music library and will lose associated playback history etc.</string>
     <string name="max_audio_concert_hall_atmosphere">MAX Audio Concert hall atmosphere</string>
