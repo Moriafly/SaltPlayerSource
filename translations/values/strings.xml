@@ -80,7 +80,7 @@
     <string name="intelligent_filter_sub">Intelligent filter out some audio files</string>
     <string name="skip_wrong_song">Skip wrong song</string>
     <string name="sliding_animation_of_songs_in_the_playlist">Sliding animation of songs in the playlist</string>
-    <string name="next_play">Next play</string>
+    <string name="next_play">Play next</string>
     <string name="help_document">Help document</string>
     <string name="single_column_playlist">Single column playlist</string>
     <string name="status_bar_lyrics">Status bar lyrics</string>
@@ -111,11 +111,11 @@
     <string name="unknown">Unknown</string>
     <string name="title">Title</string>
     <string name="title_desc">Title desc</string>
-    <string name="add_time">Add time</string>
+    <string name="add_time">Date added</string>
     <string name="add_time_desc">Add time desc</string>
     <string name="album_desc">Album desc</string>
     <string name="artist_desc">Artist desc</string>
-    <string name="delete_forever">Delete forever</string>
+    <string name="delete_forever">Delete permanently</string>
     <string name="hide">Hide</string>
     <string name="salt_audio_effect">Salt audio effect</string>
     <string name="duration">Duration</string>
@@ -132,7 +132,7 @@
     <string name="pre_amp">Pre AMP</string>
     <string name="system_equalizer">System equalizer</string>
     <string name="fade_in_out">Fade in out</string>
-    <string name="player_ui_keep_screen_on">Player UI keep screen on</string>
+    <string name="player_ui_keep_screen_on">Keep screen on</string>
     <string name="path">Path</string>
     <string name="kbps">kbps</string>
     <string name="lyrics_view_text_size">Lyrics view text size</string>
@@ -243,7 +243,7 @@
     <string name="no_playlists_have_been_created">No playlists have been created</string>
     <string name="enter_the_playlist_name_here">Enter the playlist name here</string>
     <string name="playlist_name_must_not_be_empty">Playlist name must not be empty</string>
-    <string name="successfully_added_to_next_play">Successfully added to next play</string>
+    <string name="successfully_added_to_next_play">Queued next</string>
     <string name="artist_s">Artist: %s</string>
     <string name="v3_audio_effect">V3 Audio Effect</string>
     <string name="v3_reverb">V3 Reverb</string>
