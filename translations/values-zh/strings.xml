@@ -71,7 +71,7 @@
     <string name="custom_background">自定义背景</string>
     <string name="custom_home_page_background">自定义主页背景</string>
     <string name="clear_background">清除背景</string>
-    <string name="audio_focus">音频焦点</string>
+    <string name="audio_focus">不与其他应用一起播放（音频焦点）</string>
     <string name="audio_focus_intro">开启后将不会与其他应用一起播放，注意此功能可能受你的设备系统影响而不起作用，如 MIUI 中在声音助手中开启允许多声音选项会导致此开启状态失效</string>
     <string name="auto_matching_of_network_lyrics">自动匹配网络歌词</string>
     <string name="intelligent_filter">智能过滤</string>
@@ -152,7 +152,7 @@
     <string name="sleep_timer">睡眠定时</string>
     <string name="start">开始</string>
     <string name="d_minutes">%d 分钟</string>
-    <string name="audio_effect_dialog_tips">椒盐音乐已适配 Poweramp Equalizer 等音效处理软件</string>
+    <string name="audio_effect_dialog_tips">软件已适配 Poweramp Equalizer 等音效处理软件</string>
     <string name="search_songs_hint">在 %d 首歌曲中搜索</string>
     <string name="baidu_pan">百度网盘</string>
     <string name="stop">停止</string>
@@ -186,7 +186,7 @@
     <string name="random_play">随机播放</string>
     <string name="random_play_d">随机播放(%d)</string>
     <string name="use_android_media_decoder">使用系统媒体解码器</string>
-    <string name="use_android_media_decoder_intro">当音频为椒盐音乐内置解码不支持的格式时使用 Android 平台提供的媒体解码器和特定于此设备（一般由厂家或者芯片制造商提供）的媒体解码器解码此音频</string>
+    <string name="use_android_media_decoder_intro">当音频为本软件内置解码不支持的格式时使用 Android 平台提供的媒体解码器和特定于此设备（一般由厂家或者芯片制造商提供）的媒体解码器解码此音频</string>
     <string name="media_extractor_adaptive_audio">MediaExtractor 自适应音频</string>
     <string name="disabling_aaudio_output_intro">在 Android 8.0 及更新系统禁用 AAudio 输出而使用 OpenSL ES 输出，可能带来更好的稳定性</string>
     <string name="album_s">专辑：%s</string>
@@ -318,7 +318,7 @@
     <string name="disabled">已禁用</string>
     <string name="decoder">解码器</string>
     <string name="you_need_to_restart_the_application">你需要重启本应用</string>
-    <string name="notification_of_salt_player">椒盐音乐通知</string>
+    <string name="notification_of_salt_player">音乐媒体通知</string>
     <string name="scan_music">扫描音乐</string>
     <string name="salt_player_pro">椒盐音乐 Pro</string>
     <string name="do_not_scan_audio_below_60_seconds">不扫描 60 秒以下音频</string>
@@ -443,4 +443,12 @@
     <string name="confirm_password">确认密码</string>
     <string name="participating_artists">参与创作的艺术家</string>
     <string name="sleep_timer_stopped">睡眠定时被停止</string>
+    <string name="automatically_extend_to_the_end_of_the_whole_song_intro">延长时间会以类似 +5:20 的形式标识（加号）；时长会受到播放速率的影响（不支持倒放模式）；若进入此状态手动暂停、切歌均会取消定时关闭（会以弹窗形式告知）</string>
+    <string name="system_accessibility_settings">系统无障碍设置</string>
+    <string name="startup_and_backend">启动与后台</string>
+    <string name="song_list">歌曲列表</string>
+    <string name="display_song_cover_in_list">在列表中显示歌曲封面</string>
+    <string name="follow_us">关注我们</string>
+    <string name="sort_by_duration">时长（短→长）</string>
+    <string name="sort_by_duration_desc">时长（长→短）</string>
 </resources>
