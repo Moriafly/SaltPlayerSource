@@ -112,7 +112,7 @@
     <string name="title">Title</string>
     <string name="title_desc">Title desc</string>
     <string name="add_time">Date added</string>
-    <string name="add_time_desc">Add time desc</string>
+    <string name="add_time_desc">Date added desc</string>
     <string name="album_desc">Album desc</string>
     <string name="artist_desc">Artist desc</string>
     <string name="delete_forever">Delete permanently</string>
@@ -132,7 +132,7 @@
     <string name="pre_amp">Pre AMP</string>
     <string name="system_equalizer">System equalizer</string>
     <string name="fade_in_out">Fade in out</string>
-    <string name="player_ui_keep_screen_on">Keep screen on</string>
+    <string name="player_ui_keep_screen_on">Keep player screen on</string>
     <string name="path">Path</string>
     <string name="kbps">kbps</string>
     <string name="lyrics_view_text_size">Lyrics view text size</string>
@@ -446,4 +446,12 @@
     <string name="confirm_password">Confirm password</string>
     <string name="participating_artists">Participating artists</string>
     <string name="sleep_timer_stopped">Sleep timer stopped</string>
+    <string name="automatically_extend_to_the_end_of_the_whole_song_intro">The extended time will be marked in a form similar to +5:20 (plus sign); The duration will be affected by the playback rate (rewind mode is not supported); If you enter this state and manually pause or cut the song, it will be canceled and timed to close (it will be notified in the form of a pop-up window)</string>
+    <string name="system_accessibility_settings">System accessibility settings</string>
+    <string name="startup_and_backend">Startup and backend</string>
+    <string name="song_list">Song list</string>
+    <string name="display_song_cover_in_list">Display song cover in list</string>
+    <string name="follow_us">Follow us</string>
+    <string name="sort_by_duration">Duration (Short→Long)</string>
+    <string name="sort_by_duration_desc">Duration (Long→Short)</string>
 </resources>

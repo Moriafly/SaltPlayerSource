@@ -4,9 +4,11 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-8.6.0-beta02
+8.8.0
 
 ## 感谢翻译
+
+English (English, en) : Suriya T / lloyd
 
 繁體中文 (Chinese Traditional, zh-Hant) : lilin / 狐狸小宮 / TragicLifeHu / Dedicatus5457
 
@@ -23,6 +25,8 @@ Turkish (Turkish, tr) : Fırat Cann
 Kurdish (Kurdish, ku) : Fırat Cann
 
 Deutsch (German, de) : zxy
+
+Français (French, fr) : Mathias Zhang
 
 ## 翻译须知
 
