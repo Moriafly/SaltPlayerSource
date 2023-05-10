@@ -283,7 +283,7 @@
     <string name="developer_email">Developer email</string>
     <string name="technical_support">Technical support</string>
     <string name="salt_player_official">Salt Player Official</string>
-    <string name="update_software">Update software</string>
+    <string name="update_software">Check for updates</string>
     <string name="from_album">From album</string>
     <string name="miui_status_bar_lyrics">Status bar lyrics for MIUI</string>
     <string name="miui_status_bar_lyrics_intro">Make sure the Xposed module is installed before enabling this option, please visit the link below for details</string>
