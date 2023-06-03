@@ -452,4 +452,14 @@
     <string name="follow_us">Follow us</string>
     <string name="sort_by_duration">Duration (Short→Long)</string>
     <string name="sort_by_duration_desc">Duration (Long→Short)</string>
+    <string name="lyrics_view_blur">Lyrics view blur</string>
+    <string name="hd_custom_background_cover">HD custom background cover</string>
+    <string name="activate">Activate</string>
+    <string name="search_for_s_on_the_internet">Search for %s on the internet</string>
+    <string name="no_song_playing">No song playing</string>
+    <string name="standard_music_player">Standard music player</string>
+    <string name="refresh_and_restart_the_main_screen">Refresh and restart the main screen</string>
+    <string name="zoom_display_size_info">Suitable for other situations where the display of interface elements on some large screen car equipment is too small and inconvenient to operate. Note that this scaling is not perfect, and some elements do not currently support this feature</string>
+    <string name="zoom_display_size_tip">⚠️ There may be some interfaces that cannot immediately respond to changes in screen display size. Please click the restart button below or manually restart the software</string>
+    <string name="get_album_art_when_embedded_cover_art_is_not_available">Try to get album art in the same folder when embedded cover art is not available</string>
 </resources>
