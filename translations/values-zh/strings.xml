@@ -451,4 +451,14 @@
     <string name="follow_us">关注我们</string>
     <string name="sort_by_duration">时长（短→长）</string>
     <string name="sort_by_duration_desc">时长（长→短）</string>
+    <string name="lyrics_view_blur">歌词视图模糊</string>
+    <string name="hd_custom_background_cover">高清自定义背景图片</string>
+    <string name="activate">激活</string>
+    <string name="search_for_s_on_the_internet">在互联网上搜索%s</string>
+    <string name="no_song_playing">无播放歌曲</string>
+    <string name="standard_music_player">标准音乐播放器</string>
+    <string name="refresh_and_restart_the_main_screen">刷新并重启主界面</string>
+    <string name="zoom_display_size_info">适用于一些大屏车机设备上界面元素显示显示过小不方便操作等其他情况，注意此缩放不是完美的，有些元素暂不支持此特性</string>
+    <string name="zoom_display_size_tip">⚠️可能存在一些界面无法立刻响应界面显示大小变化，请点击下方重启按钮或手动重启软件</string>
+    <string name="get_album_art_when_embedded_cover_art_is_not_available">当无法获取内嵌封面时尝试获取同文件夹专辑封面</string>
 </resources>
