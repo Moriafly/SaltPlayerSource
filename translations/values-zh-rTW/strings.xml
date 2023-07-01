@@ -459,6 +459,6 @@
     <string name="standard_music_player">標準音樂播放器</string>
     <string name="refresh_and_restart_the_main_screen">重新整理並重新啟動主介面</string>
     <string name="zoom_display_size_info">適用於某些大屏車載設備上介面元素顯示過小、操作不便的其他情況。 請注意，這種縮放並不完美，並且某些元素目前暫時不支援此功能</string>
-    <string name="zoom_display_size_tip">⚠️ 可能有些介面無法立即響應介面顯示大小的變化。 請點擊下方重啟按鈕或手動重啟軟體</string>
+    <string name="zoom_display_size_tip">⚠️可能有些介面無法立即響應介面顯示大小的變化。 請點擊下方重啟按鈕或手動重啟軟體</string>
     <string name="get_album_art_when_embedded_cover_art_is_not_available">當嵌入式封面不可用時，嘗試將專輯封面放在同一資料夾中</string>
 </resources>
