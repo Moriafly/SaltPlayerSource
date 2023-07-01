@@ -427,7 +427,7 @@
     <string name="lyrics_view_text_bold">歌詞介面文本加粗</string>
     <string name="copyright">版權</string>
     <string name="mini_lyrics_in_player_ui">播放介面迷你歌詞</string>
-    <string name="accessibility">無障礙</string>
+    <string name="accessibility">輔助功能</string>
     <string name="accessibility_intro">為視力障礙用戶提供更好的軟件服務</string>
     <string name="date_modified">修改時間</string>
     <string name="automatically_extend_to_the_end_of_the_whole_song">自動延伸到整首歌曲的結尾</string>
