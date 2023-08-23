@@ -288,7 +288,7 @@
     <string name="use_classic_lyrics_view">クラシックな歌詞画面を使用する</string>
     <string name="lyrics_view_text_align_center">歌詞のテキストを中央に揃える</string>
     <string name="player_interface">再生画面</string>
-    <string name="tablet_mode" >タブレットモード</string>
+    <string name="tablet_mode">タブレットモード</string>
     <string name="keyboard_shortcuts">キーボードショートカット</string>
     <string name="space_bar_play_or_pause_music">スペースキーで音楽の再生 / 一時停止</string>
     <string name="tablet_mode_intro">Salt Player 5.0 では、ステータスバーとナビゲーションバーの優れた適応性をベースに、新しい技術を使って適応性のあるインターフェースを構築し、より完璧な体験をもたらす3種類のレイアウトをデザインしました。</string>
@@ -461,4 +461,18 @@
     <string name="zoom_display_size_info">一部の大画面車載機器のインターフェイス要素の表示が小さすぎて操作に不便なその他の状況に適しています。 このスケーリングは完全ではなく、一部の要素は現在この機能をサポートしていないことに注意してください。</string>
     <string name="zoom_display_size_tip">⚠️一部のインターフェイスでは画面表示サイズの変更に即時に対応できない場合があります。 下の再起動ボタンをクリックするか、ソフトウェアを手動で再起動してください</string>
     <string name="get_album_art_when_embedded_cover_art_is_not_available">埋め込まれたカバーアートが利用できない場合は、同じフォルダー内のアルバムアートを取得してみてください</string>
+    <string name="help_and_feedback">ヘルプとフィードバック</string>
+    <string name="panel">パネルパネル</string>
+    <string name="player_interface_for_car">車載プレーヤーインタフェース</string>
+    <string name="player_interface_for_car_intro">タブレットモードがアクティブな場合にのみ使用可能</string>
+    <string name="authorization_description">権限の説明</string>
+    <string name="authorization_description_for_read_external_storage">共有ストレージ内のオーディオファイルを読み込み（写真、ビデオの読み込みは含まれておらず、システム要求の説明に含まれている場合は、Android 12 および以下のシステムのための権限が細分化されていないので統一的に記述されている）、許可されてから ANDROID MEDIA STORE オーディオファイル情報などを取得することができます。このセッションに同意した後にシステム承認の問い合わせがない場合は、ソフトウェアのこの権限が「拒否して再プロンプトしない」に設定されている可能性があります。手動でシステム設定の変更に移動してください</string>
+    <string name="error">エラー</string>
+    <string name="unable_to_start_system_accessibility_settings">Unable to start system accessibility settings</string>
+    <string name="xposed_lyric_getter_tip">⚠️ Enabling this function will automatically turn off the [System Level Status Bar Lyrics] function to ensure that the media notification cover is normal</string>
+    <string name="play_preferences">Play preferences</string>
+    <string name="automatically_disrupt_the_random_play_queue">Automatically disrupt the random play queue</string>
+    <string name="app_recommendation">App recommendation</string>
+    <string name="irregular_cover_allowed">Irregular cover allowed</string>
+    <string name="sort_artist_album">Artist (Album)</string>
 </resources>

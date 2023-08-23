@@ -128,7 +128,7 @@
     <string name="bass_boost">Penguatan Bass</string>
     <string name="pre_amp">Pre AMP</string>
     <string name="system_equalizer">Equalizer Sistem</string>
-    <string name="fade_in_out">Fade In/Out</string>
+    <string name="fade_in_out">Fade In / Out</string>
     <string name="player_ui_keep_screen_on">Pertahankan Layar Tetap Aktif</string>
     <string name="path">Jalur</string>
     <string name="kbps">kbps</string>
@@ -269,7 +269,7 @@
     <string name="open_sl_es_intro">Output berkinerja tinggi rendah-latensi asli, stabil, tetapi tidak dapat digunakan bersama efek audio sistem atau perangkat lunak efek audio pihak ketiga.</string>
     <string name="audio_track_intro">Output trek audio default</string>
     <string name="repair">Perbaikan</string>
-    <string name="repairing">Sedang Memperbaiki, Harap Tunggu...</string>
+    <string name="repairing">Sedang Memperbaiki, Harap Tunggu…</string>
     <string name="web_service">Layanan Web</string>
     <string name="song_settings_intro">Lirik status bar, lirik web, sampul album, informasi album, dll.</string>
     <string name="language_settings_intro">Pilih bahasa, bantu terjemahkan</string>
@@ -460,5 +460,18 @@
     <string name="refresh_and_restart_the_main_screen">Segarkan dan Mulai Ulang Layar Utama</string>
     <string name="zoom_display_size_info">Digunakan untuk beberapa perangkat yang memiliki layar besar dalam mobil, di mana elemen antarmuka mungkin terlalu kecil untuk diakses dengan mudah. Harap diingat bahwa penyesuaian ukuran mungkin tidak sempurna dan beberapa elemen mungkin tidak mendukung fitur ini</string>
     <string name="zoom_display_size_tip">⚠️ Beberapa elemen antarmuka mungkin tidak merespons perubahan ukuran secara instan. Jika terjadi masalah, silakan klik tombol mulai ulang di bawah atau restart aplikasi secara manual</string>
-    <string name="get_album_art_when_embedded_cover_art_is_not_available">Ambil Sampul Album jika Sampul Tersemat Tidak Tersedia</string>
+    <string name="get_album_art_when_embedded_cover_art_is_not_available">Ambil Sampul Album jika Sampul Tersemat Tidak Tersedia</string><string name="help_and_feedback">Help and feedback</string>
+    <string name="panel">Panel</string>
+    <string name="player_interface_for_car">Player interface for car</string>
+    <string name="player_interface_for_car_intro">Only available when activating tablet mode</string>
+    <string name="authorization_description">Authorization Description</string>
+    <string name="authorization_description_for_read_external_storage">Read the audio file in the shared storage (not including the reading of photos and videos, if it is included in the System request description, it is a unified description because Android 12 and the following systems have not subdivided permissions), and obtain the ANDROID MEDIA STORE audio file information after authorization. If there is no system authorization inquiry after agreeing to this conversation, it may be that the permission of this App has been set to \"reject and no longer prompt\". Please manually go to the system settings to change it</string>
+    <string name="error">Error</string>
+    <string name="unable_to_start_system_accessibility_settings">Unable to start system accessibility settings</string>
+    <string name="xposed_lyric_getter_tip">⚠️ Enabling this function will automatically turn off the [System Level Status Bar Lyrics] function to ensure that the media notification cover is normal</string>
+    <string name="play_preferences">Play preferences</string>
+    <string name="automatically_disrupt_the_random_play_queue">Automatically disrupt the random play queue</string>
+    <string name="app_recommendation">App recommendation</string>
+    <string name="irregular_cover_allowed">Irregular cover allowed</string>
+    <string name="sort_artist_album">Artist (Album)</string>
 </resources>

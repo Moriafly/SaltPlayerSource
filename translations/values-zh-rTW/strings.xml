@@ -458,7 +458,21 @@
     <string name="no_song_playing">沒有播放歌曲</string>
     <string name="standard_music_player">標準音樂播放器</string>
     <string name="refresh_and_restart_the_main_screen">重新整理並重新啟動主介面</string>
-    <string name="zoom_display_size_info">適用於某些大屏車載設備上介面元素顯示過小、操作不便的其他情況。 請注意，這種縮放並不完美，並且某些元素目前暫時不支援此功能</string>
-    <string name="zoom_display_size_tip">⚠️可能有些介面無法立即響應介面顯示大小的變化。 請點擊下方重啟按鈕或手動重啟軟體</string>
+    <string name="zoom_display_size_info">適用於某些大屏車載設備上介面元素顯示過小、操作不便的其他情況。請注意，這種縮放並不完美，並且某些元素目前暫時不支援此功能</string>
+    <string name="zoom_display_size_tip">⚠️可能有些介面無法立即響應介面顯示大小的變化。請點擊下方重啟按鈕或手動重啟軟體</string>
     <string name="get_album_art_when_embedded_cover_art_is_not_available">當嵌入式封面不可用時，嘗試將專輯封面放在同一資料夾中</string>
+    <string name="help_and_feedback">Help and feedback</string>
+    <string name="panel">Panel</string>
+    <string name="player_interface_for_car">Player interface for car</string>
+    <string name="player_interface_for_car_intro">Only available when activating tablet mode</string>
+    <string name="authorization_description">Authorization Description</string>
+    <string name="authorization_description_for_read_external_storage">Read the audio file in the shared storage (not including the reading of photos and videos, if it is included in the System request description, it is a unified description because Android 12 and the following systems have not subdivided permissions), and obtain the ANDROID MEDIA STORE audio file information after authorization. If there is no system authorization inquiry after agreeing to this conversation, it may be that the permission of this App has been set to \"reject and no longer prompt\". Please manually go to the system settings to change it</string>
+    <string name="error">Error</string>
+    <string name="unable_to_start_system_accessibility_settings">Unable to start system accessibility settings</string>
+    <string name="xposed_lyric_getter_tip">⚠️ Enabling this function will automatically turn off the [System Level Status Bar Lyrics] function to ensure that the media notification cover is normal</string>
+    <string name="play_preferences">Play preferences</string>
+    <string name="automatically_disrupt_the_random_play_queue">Automatically disrupt the random play queue</string>
+    <string name="app_recommendation">App recommendation</string>
+    <string name="irregular_cover_allowed">Irregular cover allowed</string>
+    <string name="sort_artist_album">Artist (Album)</string>
 </resources>

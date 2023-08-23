@@ -461,4 +461,18 @@
     <string name="zoom_display_size_info">适用于一些大屏车机设备上界面元素显示显示过小不方便操作等其他情况，注意此缩放不是完美的，有些元素暂不支持此特性</string>
     <string name="zoom_display_size_tip">⚠️可能存在一些界面无法立刻响应界面显示大小变化，请点击下方重启按钮或手动重启软件</string>
     <string name="get_album_art_when_embedded_cover_art_is_not_available">当无法获取内嵌封面时尝试获取同文件夹专辑封面</string>
+    <string name="help_and_feedback">帮助与反馈</string>
+    <string name="panel">面板</string>
+    <string name="player_interface_for_car">车机播放界面</string>
+    <string name="player_interface_for_car_intro">仅激活平板模式时可用</string>
+    <string name="authorization_description">权限授权说明</string>
+    <string name="authorization_description_for_read_external_storage">读取共享存储中的音频文件（不包含对照片、视频的读取，若见系统请求说明中包含，为 Android 12 及以下系统未细分权限故而统一描述），授权后才可获取 ANDROID MEDIA STORE 音频文件信息等。若同意此对话后未见系统授权询问，可能是本软件的此权限被设定为“拒绝并不再提示”，请手动前往系统设置更改</string>
+    <string name="error">错误</string>
+    <string name="unable_to_start_system_accessibility_settings">无法启动系统无障碍设置</string>
+    <string name="xposed_lyric_getter_tip">⚠️启用此功能会自动关闭【系统级状态栏歌词】功能，以保证媒体通知封面正常</string>
+    <string name="play_preferences">播放偏好</string>
+    <string name="automatically_disrupt_the_random_play_queue">自动打乱随机播放队列</string>
+    <string name="app_recommendation">应用推荐</string>
+    <string name="irregular_cover_allowed">允许不规则封面</string>
+    <string name="sort_artist_album">艺术家（专辑）</string>
 </resources>
