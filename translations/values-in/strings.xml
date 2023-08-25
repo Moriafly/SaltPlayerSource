@@ -369,7 +369,7 @@
     <string name="compressor">Compressor</string>
     <string name="compressor_tip">Kontrol tingkat, menjadikan bagian musik yang keras menjadi lebih tenang dan bagian yang tenang menjadi lebih keras</string>
     <string name="auto_playback">Pemutaran Otomatis</string>
-    <string name="played_times">Diputar %d kali</string>
+    <string name="played_times">Jumlah Putar</string>
     <string name="statistics">Statistik</string>
     <string name="hide_song_s">Apakah Anda yakin ingin menyembunyikan lagu %s ini? Ini akan mengeluarkan lagu dari perpustakaan musik dan menghapus riwayat pemutaran terkait</string>
     <string name="max_audio_concert_hall_atmosphere">Suasana Hall Konser Audio MAX</string>
