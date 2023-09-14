@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="text_view" translatable="false">text_view</string>
-    <string name="web_dav" translatable="false">WebDAV</string>
-    <string name="help_translation_intro" translatable="false">Salt Player is committed to bringing good user experience to users from different countries and regions around the world, but as a personal work, it is difficult to perfect the language translation. If you are interested in helping me, click \"CONFIRM\" to visit the translation repository to submit your translation</string>
     <string name="my">Moi</string>
     <string name="home">Accueil</string>
     <string name="about">À propos</string>
