@@ -475,4 +475,20 @@
     <string name="app_recommendation">应用推荐</string>
     <string name="irregular_cover_allowed">允许不规则封面</string>
     <string name="sort_artist_album">艺术家（专辑）</string>
+    <string name="true_random_mode">真随机模式</string>
+    <string name="true_random_mode_intro">每次上一首或下一首都将始终从现有播放队列中随机选取一项，注意开启此功能后迷你播放条左右滑动显示的上一首或下一首将不准确</string>
+    <string name="follow_system_font_scale">跟随系统字体缩放</string>
+    <string name="desktop_lyrics">桌面歌词</string>
+    <string name="guess_you_are_looking_for">猜你在找</string>
+    <string name="native_file_manager">原生文件管理器</string>
+    <string name="usb_disk">U 盘</string>
+    <string name="background_music_protection">后台音乐保护</string>
+    <string name="dynamic_color_theme">动态颜色主题</string>
+    <string name="only_android_d_and_later_systems_are_supported">仅支持 Android %d 及更新系统版本</string>
+    <string name="success">成功</string>
+    <string name="readable_check_items">可读取检查项</string>
+    <string name="self_check_items">自行检查项</string>
+    <string name="auto_start_permission_on_miui">在 MIUI 上的自启动权限</string>
+    <string name="auto_start_permission_on_miui_intro">在桌面上长按本软件图标弹出选择菜单，点击“应用信息”选项，找到“权限相关”分类项小标题，开启名为“自启动”的开关。打开自启动权限有助于软件在后台稳定运行（检测适用于 MIUI 10 至 14）</string>
+    <string name="official_website">官方网站</string>
 </resources>

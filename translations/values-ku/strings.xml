@@ -476,4 +476,20 @@
     <string name="app_recommendation">App recommendation</string>
     <string name="irregular_cover_allowed">Irregular cover allowed</string>
     <string name="sort_artist_album">Artist (Album)</string>
+    <string name="true_random_mode">True random mode</string>
+    <string name="true_random_mode_intro">Each time, the previous or next song will always be randomly selected from the existing playing queue. Note that the previous or next song displayed by the mini player bar will be inaccurate when this function is enabled</string>
+    <string name="follow_system_font_scale">Follow system font scale</string>
+    <string name="desktop_lyrics">Desktop lyrics</string>
+    <string name="guess_you_are_looking_for">Guess you are looking for</string>
+    <string name="native_file_manager">Native file manager</string>
+    <string name="usb_disk">USB disk</string>
+    <string name="background_music_protection">Background Music Protection</string>
+    <string name="dynamic_color_theme">Dynamic color theme</string>
+    <string name="only_android_d_and_later_systems_are_supported">Only Android %d and later systems are supported</string>
+    <string name="success">Success</string>
+    <string name="readable_check_items">Readable check items</string>
+    <string name="self_check_items">Self check items</string>
+    <string name="auto_start_permission_on_miui">Auto start permission on MIUI</string>
+    <string name="auto_start_permission_on_miui_intro">On the desktop, long press the icon of this App to pop up the selection menu, click the \"Application Information\" option, find the \"Permission Related\" category item subtitle, and turn on the switch named \"Auto Start\". Opening the auto start permission helps the App run stably in the background (detection is applicable to MIUI 10-14)</string>
+    <string name="official_website">Official website</string>
 </resources>

@@ -4,7 +4,7 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-8.14.2
+8.16.0
 
 ## 感谢翻译 Thanks
 
@@ -12,7 +12,7 @@ English (English, en) : Suriya T / lloyd
 
 繁體中文 (Chinese Traditional, zh-Hant) : lilin / 狐狸小宮 / TragicLifeHu / Dedicatus5457
 
-Español (Spanish, es) : Nachogao
+Español (Spanish, es) : Nachogao / MRGABOZ
 
 日本語 (Japanese, ja) : AliceMerami / 狐狸小宮 / warekosoha / tgw314
 
