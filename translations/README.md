@@ -16,7 +16,7 @@ Español (Spanish, es) : Nachogao / MRGABOZ
 
 日本語 (Japanese, ja) : AliceMerami / 狐狸小宮 / warekosoha / tgw314
 
-Indonesia (Indonesia, in) : zam / Yan75 / ReikiAigawara
+Indonesia (Indonesia, id) : zam / Yan75 / ReikiAigawara / Relvin Arsenio
 
 Portuguese-BR (Portuguese, pt-BR) : Ricardo Sousa 🇧🇷
 
