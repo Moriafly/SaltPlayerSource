@@ -491,4 +491,5 @@
     <string name="auto_start_permission_on_miui">在 MIUI 上的自启动权限</string>
     <string name="auto_start_permission_on_miui_intro">在桌面上长按本软件图标弹出选择菜单，点击“应用信息”选项，找到“权限相关”分类项小标题，开启名为“自启动”的开关。打开自启动权限有助于软件在后台稳定运行（检测适用于 MIUI 10 至 14）</string>
     <string name="official_website">官方网站</string>
+    <string name="windows_subsystem_for_android">适用于 Android™ 的 Windows 子系统</string>
 </resources>

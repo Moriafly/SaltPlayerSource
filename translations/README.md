@@ -4,7 +4,7 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-8.16.0
+8.16.5.3
 
 ## 感谢翻译 Thanks
 
@@ -16,7 +16,7 @@ Español (Spanish, es) : Nachogao / MRGABOZ
 
 日本語 (Japanese, ja) : AliceMerami / 狐狸小宮 / warekosoha / tgw314
 
-Indonesia (Indonesia, in) : zam / Yan75 / ReikiAigawara
+Indonesia (Indonesia, id (in) ) : zam / Yan75 / ReikiAigawara / Relvin Arsenio
 
 Portuguese-BR (Portuguese, pt-BR) : Ricardo Sousa 🇧🇷
 

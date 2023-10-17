@@ -492,4 +492,5 @@
     <string name="auto_start_permission_on_miui">Auto start permission on MIUI</string>
     <string name="auto_start_permission_on_miui_intro">On the desktop, long press the icon of this App to pop up the selection menu, click the \"Application Information\" option, find the \"Permission Related\" category item subtitle, and turn on the switch named \"Auto Start\". Opening the auto start permission helps the App run stably in the background (detection is applicable to MIUI 10-14)</string>
     <string name="official_website">Official website</string>
+    <string name="windows_subsystem_for_android">Windows Subsystem for Android</string>
 </resources>

@@ -489,6 +489,7 @@
     <string name="readable_check_items">Options lisibles</string>
     <string name="self_check_items">Éléments d\'auto-vérification</string>
     <string name="auto_start_permission_on_miui">Permission de démarrage automatique sur MIUI</string>
-    <string name="auto_start_permission_on_miui_intro">Sur le bureau, appuyez longuement sur l\'icône de cette application pour faire apparaître le menu de sélection, cliquez sur l\'option \"Informations sur l\'application\", trouvez la sous-catégorie \"Autorisations liées\" et activez le commutateur nommé \"Démarrage automatique\". L\'activation des autorisations d\'auto-démarrage permet à l\'application de fonctionner de manière stable en arrière-plan. (détecté pour MIUI 10 à 14)</string>
+    <string name="auto_start_permission_on_miui_intro">Sur le bureau, appuyez longuement sur l\'icône de cette application pour faire apparaître le menu de sélection, cliquez sur l\'option \"Informations sur l\'application\", trouvez la sous-catégorie \"Autorisations liées\" et activez le commutateur nommé \"Démarrage automatique\". L\'activation des autorisations d\'auto-démarrage permet à l\'application de fonctionner de manière stable en arrière-plan (détecté pour MIUI 10 à 14)</string>
     <string name="official_website">Site Web officiel</string>
+    <string name="windows_subsystem_for_android">Windows Subsystem for Android</string>
 </resources>
