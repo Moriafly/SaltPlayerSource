@@ -4,11 +4,11 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-8.16.5.3
+8.16.6
 
 ## 感谢翻译 Thanks
 
-English (English, en) : Suriya T / lloyd
+English (English, en) : Moriafly / Suriya T / lloyd
 
 繁體中文 (Chinese Traditional, zh-Hant) : lilin / 狐狸小宮 / TragicLifeHu / Dedicatus5457
 
@@ -27,6 +27,10 @@ Kurdish (Kurdish, ku) : Fırat Cann
 Deutsch (German, de) : zxy
 
 Français (French, fr) : Mathias Zhang
+
+한국어 (Korean, ko) : 橙子 / mocacocoa
+
+Русский язык (Russian, ru) : Moriafly
 
 ## 翻译须知 Notes
 

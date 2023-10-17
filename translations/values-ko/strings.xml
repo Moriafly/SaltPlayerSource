@@ -140,7 +140,7 @@
     <string name="help">도움말</string>
     <string name="player_activity_theme">플레이어 화면 테마</string>
     <string name="video">비디오</string>
-    <string name="give_high_praise">높은 평가 하기/string>
+    <string name="give_high_praise">높은 평가 하기</string>
     <string name="lock_screen">잠금 화면 표시</string>
     <string name="ignore_media_store_cover">미디어 저장소 커버 무시</string>
     <string name="player">플레이어</string>
@@ -156,7 +156,7 @@
     <string name="search_songs_hint">%d 노래 중에서 검색</string>
     <string name="baidu_pan">바이두 클라우드</string>
     <string name="stop">중지</string>
-    <string name="use_music_tag_app_editing">음악 태그 앱에서 수정하기...</string>
+    <string name="use_music_tag_app_editing">음악 태그 앱에서 수정하기…</string>
     <string name="auto_matching_of_network_lyrics_explain">내장 가사와 같은 디렉터리의 동일한 이름의 .lrc 파일을 가져올 수 없을 때 온라인 가사를 가져오려고 합니다.</string>
     <string name="media_decoding_provided_by_this_device">이 기기에서 제공하는 미디어 디코딩</string>
     <string name="attenuate_flowing_light_effect_explain">흐르는 빛 렌더링 효과를 감소시켜 흐르는 빛 렌더링 성능을 높입니다</string>
@@ -269,7 +269,7 @@
     <string name="open_sl_es_intro">기본 고성능 저지연 출력, 높은 안정성, 시스템 사운드 효과 및 타사 사운드 효과 소프트웨어와 호환되지 않음</string>
     <string name="audio_track_intro">기본 오디오 트랙 출력</string>
     <string name="repair">복구</string>
-    <string name="repairing">복구 중, 기다려주세요...</string>
+    <string name="repairing">복구 중, 기다려주세요…</string>
     <string name="web_service">웹 서비스</string>
     <string name="song_settings_intro">상태 표시줄 가사、네트워크 가사、앨범 커버、앨범 정보 등</string>
     <string name="language_settings_intro">언어를 선택하고 번역을 도와주세요</string>
@@ -365,7 +365,7 @@
     <string name="play_the_selected_queue">선택된 대기열 재생</string>
     <string name="volume_balance">볼륨 균형</string>
     <string name="laboratory_intro">Salt Player 실험실에 오신 것을 환영합니다. 여기의 기능은 일시적이고 언제든지 제거될 수 있습니다.</string>
-    <string name="volume_balance_tip">재생 이득(Replay Gain), 오디오 REPLAYGAIN_TRACK_GAIN 및 REPLAYGAIN_ALBUM_GAIN 태그를 스캔하고 값을 사용하여 볼륨 크기 조정하여 일부 소프트웨어를 조정할 수 있습니다. 예를 들어, foobar 2000 -&gt; Scan per-file track gain과 같은 방식입니다. 이 옵션의 변경 결과는 다른 곡으로 전환하거나 다시 진행 한 후에 적용됩니다.</string>
+    <string name="volume_balance_tip">재생 이득 (Replay Gain), 오디오 REPLAYGAIN_TRACK_GAIN 및 REPLAYGAIN_ALBUM_GAIN 태그를 스캔하고 값을 사용하여 볼륨 크기 조정하여 일부 소프트웨어를 조정할 수 있습니다. 예를 들어, foobar 2000 -&gt; Scan per-file track gain과 같은 방식입니다. 이 옵션의 변경 결과는 다른 곡으로 전환하거나 다시 진행 한 후에 적용됩니다.</string>
     <string name="compressor">프리 컴프레</string>
     <string name="compressor_tip">음량 조절로 음악의 큰 부분을 조용히하고 조용한 부분을 더 크게합니다.</string>
     <string name="auto_playback">자동 재생</string>
@@ -489,7 +489,7 @@
     <string name="readable_check_items">Readable check items</string>
     <string name="self_check_items">Self check items</string>
     <string name="auto_start_permission_on_miui">Auto start permission on MIUI</string>
-    <string name="auto_start_permission_on_miui_intro">On the desktop, long press the icon of this App to pop up the selection menu, click the \"Application Information\" option, find the \"Permission Related\" category item subtitle, and turn on the switch named \"Auto Start\". Opening the auto start permission helps the App run stably in the background (detection is applicable to MIUI 10-14)</string>
+    <string name="auto_start_permission_on_miui_intro">On the desktop, long press the icon of this App to pop up the selection menu, click the \"Application Information\" option, find the \"Permission Related\" category item subtitle, and turn on the switch named \"Auto Start\". Opening the auto start permission helps the App run stably in the background (detection is applicable to MIUI 10–14)</string>
     <string name="official_website">Official website</string>
     <string name="windows_subsystem_for_android">Windows Subsystem for Android</string>
 </resources>
