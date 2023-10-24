@@ -77,7 +77,7 @@
     <string name="intelligent_filter">스마트 필터링</string>
     <string name="intelligent_filter_sub">일부 오디오 파일을 스마트하게 필터링</string>
     <string name="skip_wrong_song">재생 오류 노래 건너뛰기</string>
-    <string name="sliding_animation_of_songs_in_the_playlist">재생목록 내 노래의 슬라이드드 애니메이션</string>
+    <string name="sliding_animation_of_songs_in_the_playlist">재생목록 내 노래의 슬라이드 애니메이션</string>
     <string name="next_play">다음 노래 재생</string>
     <string name="help_document">도움말 문서</string>
     <string name="single_column_playlist">단일 열 재생목록</string>
