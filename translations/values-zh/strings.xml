@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">椒盐音乐</string>
+    <string name="app_name">Salt Player</string>
     <string name="my">我的</string>
     <string name="home">首页</string>
     <string name="about">关于</string>
@@ -492,4 +492,27 @@
     <string name="auto_start_permission_on_miui_intro">在桌面上长按本软件图标弹出选择菜单，点击“应用信息”选项，找到“权限相关”分类项小标题，开启名为“自启动”的开关。打开自启动权限有助于软件在后台稳定运行（检测适用于 MIUI 10 至 14）</string>
     <string name="official_website">官方网站</string>
     <string name="windows_subsystem_for_android">适用于 Android™ 的 Windows 子系统</string>
+    <string name="album_list_settings">专辑列表设置</string>
+    <string name="minimum_number_of_columns">最小列数</string>
+    <string name="hide_on_player_screen">在播放界面隐藏</string>
+    <string name="unable_to_start_native_file_manager">无法启动原生文件管理器</string>
+    <string name="unable_to_start_native_file_manager_intro">软件使用原生文件管理器进行对文件夹的授权\n1. 检查是否有禁用原生文件管理器（具体名称可能在不同原始设备制造商系统上有所不同，包名唯一：com.google.android.documentsui）\n2. 可能是原生文件管理器（DocumentsUI，Android 系统内置应用）被原始设备制造商（OEM）进行了可选择的替换，多见于一些车机设备\n* 原生文件管理器可在谷歌 Play 商店接受补丁</string>
+    <string name="album_artist">专辑艺术家</string>
+    <string name="lyricist">作词</string>
+    <string name="composer">作曲</string>
+    <string name="arranger">编曲</string>
+    <string name="mixer">混音</string>
+    <string name="manage">管理</string>
+    <string name="manage_external_storage_permission">管理外部存储权限</string>
+    <string name="system_recommended_output_sample_rate">系统推荐输出采样率</string>
+    <string name="desktop_lyrics_unlocked">桌面歌词已解锁</string>
+    <string name="desktop_lyrics_locked">桌面歌词已锁定</string>
+    <string name="desktop_lyrics_closed">桌面歌词已关闭</string>
+    <string name="desktop_lyrics_opened">桌面歌词已打开</string>
+    <string name="audio_focus_is_occupied_by_other_app">音频焦点正在被其他软件占用</string>
+    <string name="return_to_desktop">返回桌面</string>
+    <string name="app_tag">数十万用户选择的本地音乐播放器</string>
+    <string name="credits">制作人员</string>
+    <string name="sample_rate_range_supported_by_audio_track_of_this_system">此系统 AudioTrack 支持的采样率范围</string>
+    <string name="player_theme">Player theme</string>
 </resources>

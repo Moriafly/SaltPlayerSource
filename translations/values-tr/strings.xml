@@ -492,4 +492,27 @@
     <string name="auto_start_permission_on_miui_intro">On the desktop, long press the icon of this App to pop up the selection menu, click the \"Application Information\" option, find the \"Permission Related\" category item subtitle, and turn on the switch named \"Auto Start\". Opening the auto start permission helps the App run stably in the background (detection is applicable to MIUI 10-14)</string>
     <string name="official_website">Official website</string>
     <string name="windows_subsystem_for_android">Windows Subsystem for Android</string>
+    <string name="album_list_settings">Album list settings</string>
+    <string name="minimum_number_of_columns">Minimum number of columns</string>
+    <string name="hide_on_player_screen">Hide on player screen</string>
+    <string name="unable_to_start_native_file_manager">Unable to start native file manager</string>
+    <string name="unable_to_start_native_file_manager_intro">The App uses the native file manager to authorize folders\n1. Check whether the native file manager is disabled (the specific name may be different on different OEM systems, and the package name is unique: com.google.android.documentsui)\n2. It may be that the native file manager (DocumentsUI, built-in application of Android system) has been selectively replaced by the original equipment manufacturer (OEM), which is mostly found in some car equipment\n* Native File Manager can accept patches in Google Play Store</string>
+    <string name="album_artist">Album artist</string>
+    <string name="lyricist">Lyricist</string>
+    <string name="composer">Composer</string>
+    <string name="arranger">Arranger</string>
+    <string name="mixer">Mixer</string>
+    <string name="manage">Manage</string>
+    <string name="manage_external_storage_permission">Manage external storage permission</string>
+    <string name="system_recommended_output_sample_rate">System recommended output sample rate</string>
+    <string name="desktop_lyrics_unlocked">Desktop lyrics unlocked</string>
+    <string name="desktop_lyrics_locked">Desktop lyrics locked</string>
+    <string name="desktop_lyrics_closed">Desktop lyrics closed</string>
+    <string name="desktop_lyrics_opened">Desktop lyrics opened</string>
+    <string name="audio_focus_is_occupied_by_other_app">Audio focus is occupied by other App</string>
+    <string name="return_to_desktop">Return to desktop</string>
+    <string name="app_tag">The local music player chosen by hundreds of thousands of users</string>
+    <string name="credits">Credits</string>
+    <string name="sample_rate_range_supported_by_audio_track_of_this_system">Sample rate range supported by AudioTrack of this system</string>
+    <string name="player_theme">Player theme</string>
 </resources>

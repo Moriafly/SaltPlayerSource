@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">椒鹽音樂</string>
+    <string name="app_name">Salt Player</string>
     <string name="my">我的</string>
     <string name="home">首頁</string>
     <string name="about">關於</string>
@@ -470,13 +470,13 @@
     <string name="error">錯誤</string>
     <string name="unable_to_start_system_accessibility_settings">無法啟動系統輔助功能設定</string>
     <string name="xposed_lyric_getter_tip">⚠️開啟此功能會自動關閉【系統級狀態列歌詞】功能，保證媒體通知封面正常</string>
-    <string name="play_preferences">播放偏好</string> 
+    <string name="play_preferences">播放偏好</string>
     <string name="automatically_disrupt_the_random_play_queue">自動打亂隨機播放佇列</string>
     <string name="app_recommendation">應用程式推薦</string>
     <string name="irregular_cover_allowed">允許不規則封面</string>
     <string name="sort_artist_album">藝術家 (專輯)</string>
     <string name="true_random_mode">真·隨機模式</string>
-    <string name="true_random_mode_intro">每次，上一首或下一首歌曲總是從現有的播放佇列中隨機選擇。 請注意，啟用此功能後，迷你播放器列顯示的上一首或下一首歌曲將不準確</string>
+    <string name="true_random_mode_intro">每次，上一首或下一首歌曲總是從現有的播放佇列中隨機選擇。請注意，啟用此功能後，迷你播放器列顯示的上一首或下一首歌曲將不準確</string>
     <string name="follow_system_font_scale">遵循系統字體比例</string>
     <string name="desktop_lyrics">桌面歌詞</string>
     <string name="guess_you_are_looking_for">猜你正在尋找</string>
@@ -484,7 +484,7 @@
     <string name="usb_disk">USB 隨身磁碟</string>
     <string name="background_music_protection">後台音樂播放保護</string>
     <string name="dynamic_color_theme">動態色彩主題</string>
-    <string name="only_android_d_and_later_systems_are_supported">僅支援 Android %d 及更高版本的系統</string> 
+    <string name="only_android_d_and_later_systems_are_supported">僅支援 Android %d 及更高版本的系統</string>
     <string name="success">成功</string>
     <string name="readable_check_items">可讀檢查項目</string>
     <string name="self_check_items">自檢項目</string>
@@ -492,4 +492,27 @@
     <string name="auto_start_permission_on_miui_intro">在桌面上長按本軟體圖示彈出選擇選單，點選「應用資訊」選項，找到「權限相關」分類項小標題，開啟名為「自啟動」的開關。 開啟自啟動權限有助於軟體在後台穩定運作（偵測適用於 MIUI 10 至 14）</string>
     <string name="official_website">官方網站</string>
     <string name="windows_subsystem_for_android">適用於 Android™ 的 Windows 子系統️</string>
+    <string name="album_list_settings">Album list settings</string>
+    <string name="minimum_number_of_columns">Minimum number of columns</string>
+    <string name="hide_on_player_screen">Hide on player screen</string>
+    <string name="unable_to_start_native_file_manager">Unable to start native file manager</string>
+    <string name="unable_to_start_native_file_manager_intro">The App uses the native file manager to authorize folders\n1. Check whether the native file manager is disabled (the specific name may be different on different OEM systems, and the package name is unique: com.google.android.documentsui)\n2. It may be that the native file manager (DocumentsUI, built-in application of Android system) has been selectively replaced by the original equipment manufacturer (OEM), which is mostly found in some car equipment\n* Native File Manager can accept patches in Google Play Store</string>
+    <string name="album_artist">Album artist</string>
+    <string name="lyricist">Lyricist</string>
+    <string name="composer">Composer</string>
+    <string name="arranger">Arranger</string>
+    <string name="mixer">Mixer</string>
+    <string name="manage">Manage</string>
+    <string name="manage_external_storage_permission">Manage external storage permission</string>
+    <string name="system_recommended_output_sample_rate">System recommended output sample rate</string>
+    <string name="desktop_lyrics_unlocked">Desktop lyrics unlocked</string>
+    <string name="desktop_lyrics_locked">Desktop lyrics locked</string>
+    <string name="desktop_lyrics_closed">Desktop lyrics closed</string>
+    <string name="desktop_lyrics_opened">Desktop lyrics opened</string>
+    <string name="audio_focus_is_occupied_by_other_app">Audio focus is occupied by other App</string>
+    <string name="return_to_desktop">Return to desktop</string>
+    <string name="app_tag">The local music player chosen by hundreds of thousands of users</string>
+    <string name="credits">Credits</string>
+    <string name="sample_rate_range_supported_by_audio_track_of_this_system">Sample rate range supported by AudioTrack of this system</string>
+    <string name="player_theme">Player theme</string>
 </resources>
