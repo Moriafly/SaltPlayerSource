@@ -1,4 +1,4 @@
-# 椒盐音乐 Salt Player Source
+# 椒盐音乐 Salt Player 数十万用户选择的本地音乐播放器
 
 椒盐音乐是一款 Android 平台本地音乐播放软件。本仓库是用来发布更新椒盐音乐新版本、收集反馈、发布一些通知
 
@@ -13,6 +13,10 @@
 ## 开放文档
 
 [点击查看开放文档](open/open.md)
+
+## 库开源包
+
+见 Moriafly/SaltUI 和 Moriafly/SaltKit 等
 
 ## 使用帮助
 
