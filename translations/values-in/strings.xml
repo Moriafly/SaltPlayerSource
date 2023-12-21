@@ -491,7 +491,7 @@
     <string name="auto_start_permission_on_miui">Izin Auto-start di MIUI</string>
     <string name="auto_start_permission_on_miui_intro">Di layar utama, tahan ikon aplikasi ini, lalu pilih "Informasi Aplikasi." Cari kategori "Izin Terkait" dan aktifkan opsi yang bernama "Auto-start." Mengaktifkan izin auto-start dapat membantu aplikasi berjalan dengan stabil di latar belakang (berlaku untuk MIUI 10 hingga 14).</string>
     <string name="official_website">Situs Resmi</string>
-    <string name="windows_subsystem_for_android">Windows Subsystem for Android</string>
+    <string name="windows_subsystem_for_android">Windows Subsystem untuk Android</string>
     <string name="album_list_settings">Pengaturan daftar album</string>
     <string name="minimum_number_of_columns">Jumlah minimum kolom</string>
     <string name="hide_on_player_screen">Sembunyikan di layar pemutar</string>
