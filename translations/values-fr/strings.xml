@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="text_view" translatable="false">text_view</string>
-    <string name="web_dav" translatable="false">WebDAV</string>
-    <string name="help_translation_intro" translatable="false">Salt Player is committed to bringing good user experience to users from different countries and regions around the world, but as a personal work, it is difficult to perfect the language translation. If you are interested in helping me, click \"CONFIRM\" to visit the translation repository to submit your translation</string>
     <string name="my">Moi</string>
     <string name="home">Accueil</string>
     <string name="about">À propos</string>
@@ -464,4 +461,58 @@
     <string name="zoom_display_size_info">Adapté à d\'autres situations où l\'affichage des éléments d\'interface sur certains équipements de voiture à grand écran est trop petit et peu pratique à manipuler. Veuillez noter que cette mise à l\'échelle n\'est pas parfaite et que certains éléments ne prennent pas en charge cette fonctionnalité pour le moment</string>
     <string name="zoom_display_size_tip">⚠️ Il se peut que certaines interfaces ne puissent pas réagir immédiatement aux changements de taille d\'affichage à l\'écran. Veuillez cliquer sur le bouton de redémarrage ci-dessous ou redémarrer manuellement le logiciel</string>
     <string name="get_album_art_when_embedded_cover_art_is_not_available">Essayer de récupérer la pochette de l\'album dans le même dossier lorsque la pochette intégrée n\'est pas disponible</string>
+    <string name="help_and_feedback">Aide et commentaires</string>
+    <string name="panel">Panneau</string>
+    <string name="player_interface_for_car">Interface de lecteur pour voiture</string>
+    <string name="player_interface_for_car_intro">Disponible uniquement lorsque le mode tablette est activé</string>
+    <string name="authorization_description">Description d\'autorisation</string>
+    <string name="authorization_description_for_read_external_storage">Lire le fichier audio dans le stockage partagé (ne comprend pas la lecture de photos et de vidéos, si cela est inclus dans la description de la demande du système, c\'est une description unifiée car Android 12 et les systèmes suivants n\'ont pas subdivisé les autorisations), et obtenir les informations du fichier audio de ANDROID MEDIA STORE après autorisation. Si aucune demande d\'autorisation système n\'apparaît après avoir accepté cette conversation, il se peut que l\'autorisation de cette application ait été définie sur \"refuser et ne plus demander\". Veuillez vous rendre manuellement dans les paramètres du système pour la modifier</string>
+    <string name="error">Erreur</string>
+    <string name="unable_to_start_system_accessibility_settings">Impossible de démarrer les paramètres d\'accessibilité du système</string>
+    <string name="xposed_lyric_getter_tip">⚠️ Activer cette fonction désactivera automatiquement la fonction [Paroles dans la barre d\'état de niveau système] pour garantir que la couverture de la notification multimédia soit normale</string>
+    <string name="play_preferences">Préférences de lecture</string>
+    <string name="automatically_disrupt_the_random_play_queue">Interrompre automatiquement la file de lecture aléatoire</string>
+    <string name="app_recommendation">Recommandation d\'application</string>
+    <string name="irregular_cover_allowed">Couverture irrégulière autorisée</string>
+    <string name="sort_artist_album">Artiste (Album)</string>
+    <string name="true_random_mode">Mode Vraiment Aléatoire</string>
+    <string name="true_random_mode_intro">À chaque fois, la chanson précédente ou suivante sera toujours sélectionnée de manière aléatoire dans la file de lecture en cours. Notez que la chanson précédente ou suivante affichée par la barre du mini lecteur sera incorrecte lorsque cette fonction est activée</string>
+    <string name="follow_system_font_scale">Suivre l\'échelle de police système</string>
+    <string name="desktop_lyrics">Paroles sur le bureau</string>
+    <string name="guess_you_are_looking_for">Devinez ce que vous recherchez</string>
+    <string name="native_file_manager">Gestionnaire de fichiers natif</string>
+    <string name="usb_disk">Disque USB</string>
+    <string name="background_music_protection">Protection de la musique en arrière-plan</string>
+    <string name="dynamic_color_theme">Thème couleur dynamique</string>
+    <string name="only_android_d_and_later_systems_are_supported">Seuls les systèmes Android %d et ultérieurs sont pris en charge</string>
+    <string name="success">Succès</string>
+    <string name="readable_check_items">Options lisibles</string>
+    <string name="self_check_items">Éléments d\'auto-vérification</string>
+    <string name="auto_start_permission_on_miui">Permission de démarrage automatique sur MIUI</string>
+    <string name="auto_start_permission_on_miui_intro">Sur le bureau, appuyez longuement sur l\'icône de cette application pour faire apparaître le menu de sélection, cliquez sur l\'option \"Informations sur l\'application\", trouvez la sous-catégorie \"Autorisations liées\" et activez le commutateur nommé \"Démarrage automatique\". L\'activation des autorisations d\'auto-démarrage permet à l\'application de fonctionner de manière stable en arrière-plan (détecté pour MIUI 10 à 14)</string>
+    <string name="official_website">Site Web officiel</string>
+    <string name="windows_subsystem_for_android">Windows Subsystem for Android</string>
+    <string name="album_list_settings">Album list settings</string>
+    <string name="minimum_number_of_columns">Minimum number of columns</string>
+    <string name="hide_on_player_screen">Hide on player screen</string>
+    <string name="unable_to_start_native_file_manager">Unable to start native file manager</string>
+    <string name="unable_to_start_native_file_manager_intro">The App uses the native file manager to authorize folders\n1. Check whether the native file manager is disabled (the specific name may be different on different OEM systems, and the package name is unique: com.google.android.documentsui)\n2. It may be that the native file manager (DocumentsUI, built-in application of Android system) has been selectively replaced by the original equipment manufacturer (OEM), which is mostly found in some car equipment\n* Native File Manager can accept patches in Google Play Store</string>
+    <string name="album_artist">Album artist</string>
+    <string name="lyricist">Lyricist</string>
+    <string name="composer">Composer</string>
+    <string name="arranger">Arranger</string>
+    <string name="mixer">Mixer</string>
+    <string name="manage">Manage</string>
+    <string name="manage_external_storage_permission">Manage external storage permission</string>
+    <string name="system_recommended_output_sample_rate">System recommended output sample rate</string>
+    <string name="desktop_lyrics_unlocked">Desktop lyrics unlocked</string>
+    <string name="desktop_lyrics_locked">Desktop lyrics locked</string>
+    <string name="desktop_lyrics_closed">Desktop lyrics closed</string>
+    <string name="desktop_lyrics_opened">Desktop lyrics opened</string>
+    <string name="audio_focus_is_occupied_by_other_app">Audio focus is occupied by other App</string>
+    <string name="return_to_desktop">Return to desktop</string>
+    <string name="app_tag">The local music player chosen by hundreds of thousands of users</string>
+    <string name="credits">Credits</string>
+    <string name="sample_rate_range_supported_by_audio_track_of_this_system">Sample rate range supported by AudioTrack of this system</string>
+    <string name="player_theme">Player theme</string>
 </resources>

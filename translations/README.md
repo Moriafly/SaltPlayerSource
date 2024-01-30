@@ -4,19 +4,19 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-8.10.0
+10.0.0-beta01
 
 ## 感谢翻译 Thanks
 
-English (English, en) : Suriya T / lloyd
+English (English, en) : Moriafly / Suriya T / lloyd
 
 繁體中文 (Chinese Traditional, zh-Hant) : lilin / 狐狸小宮 / TragicLifeHu / Dedicatus5457
 
-Español (Spanish, es) : Nachogao
+Español (Spanish, es) : Nachogao / MRGABOZ
 
 日本語 (Japanese, ja) : AliceMerami / 狐狸小宮 / warekosoha / tgw314
 
-Indonesia (Indonesia, in) : zam / Yan75 / ReikiAigawara
+Indonesia (Indonesia, id (in) ) : zam / Yan75 / ReikiAigawara / Relvin Arsenio
 
 Portuguese-BR (Portuguese, pt-BR) : Ricardo Sousa 🇧🇷
 
@@ -27,6 +27,10 @@ Kurdish (Kurdish, ku) : Fırat Cann
 Deutsch (German, de) : zxy
 
 Français (French, fr) : Mathias Zhang
+
+한국어 (Korean, ko) : 橙子 / mocacocoa
+
+Русский (Russian, ru) : Moriafly / aircgroup
 
 ## 翻译须知 Notes
 
