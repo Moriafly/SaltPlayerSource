@@ -514,5 +514,15 @@
     <string name="app_tag">数十万用户选择的本地音乐播放器</string>
     <string name="credits">制作人员</string>
     <string name="sample_rate_range_supported_by_audio_track_of_this_system">此系统 AudioTrack 支持的采样率范围</string>
-    <string name="player_theme">Player theme</string>
+    <string name="player_theme">播放器主题</string>
+    <string name="sort_folder_title">文件夹（标题）</string>
+    <string name="developer_report">开发者报告</string>
+    <string name="auto_start_on_boot">开机自启</string>
+    <string name="count">数量</string>
+    <string name="emo_scroll">心事卷轴</string>
+    <string name="hide_lyrics_interface_control_panel">隐藏歌词界面控制面板</string>
+    <string name="on">开</string>
+    <string name="off">关</string>
+    <string name="file_not_found">无法找到文件</string>
+    <string name="usb_storage">USB 存储</string>
 </resources>
