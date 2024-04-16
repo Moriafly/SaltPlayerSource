@@ -2,7 +2,7 @@
 <resources>
     <string name="text_view" translatable="false">text_view</string>
     <string name="web_dav" translatable="false">WebDAV</string>
-    <string name="help_translation_intro" translatable="false">Salt Player is committed to provide better user experience to users from different countries and regions around the world, but as a personal work, it is difficult to perfect the language translation. If you are interested in helping me, click \"CONFIRM\" to visit the translation repository to submit your translation.</string>
+    <string name="help_translation_intro" translatable="false">Salt Player is committed to provide better user experience to users from different countries and regions around the world, but as a personal work, it is difficult to perfect the language translation. If you are interested in helping me, click \"CONFIRM\" to visit the translation repository to submit your translation</string>
     <string name="my">My</string>
     <string name="home">Home</string>
     <string name="about">About</string>
@@ -165,7 +165,7 @@
     <string name="attenuate_flowing_light_effect_explain">Reduce flowing light rendering effect to improve flowing light rendering performance</string>
     <string name="ignore_media_store_cover_explain">This setting ignores system media library covers, which can improve cover quality and support different covers for the same album, possibly slowing down loading</string>
     <string name="privacy_agreement_and_terms_of_use">Privacy Agreement and Terms of Use</string>
-    <string name="dialog_sleep_timer_tips">When used for sleep, you are advised to lower the device volume and not set it high for a long time. Prolonged exposure to high volumes can cause hearing damage.</string>
+    <string name="dialog_sleep_timer_tips">When used for sleep, you are advised to lower the device volume and not set it high for a long time. Prolonged exposure to high volumes can cause hearing damage</string>
     <string name="direct_links">Direct links</string>
     <string name="add">Add</string>
     <string name="add_single_direct_link_song">Add single direct link song</string>
@@ -191,7 +191,7 @@
     <string name="use_android_media_decoder">Use the system media decoder</string>
     <string name="use_android_media_decoder_intro">Use the media decoder provided by the Android platform and the device-specific media decoder (usually provided by the manufacturer or chip manufacturer) to decode the audio when the audio is in a format not supported by the built-in decoding of Salt Player</string>
     <string name="media_extractor_adaptive_audio">MediaExtractor adaptive to audio</string>
-    <string name="disabling_aaudio_output_intro">For devices running Android 8.0 or newer, it is recommended to use OpenSL ES instead of AAudio output, as this may improve stability.</string>
+    <string name="disabling_aaudio_output_intro">For devices running Android 8.0 or newer, it is recommended to use OpenSL ES instead of AAudio output, as this may improve stability</string>
     <string name="album_s">Album: %s</string>
     <string name="enable_or_disable_desktop_lyrics">Enable / disable desktop lyrics</string>
     <string name="songs">Songs</string>
@@ -248,7 +248,7 @@
     <string name="v3_audio_effect">V3 Audio Effect</string>
     <string name="v3_reverb">V3 Reverb</string>
     <string name="introduction">Introduction</string>
-    <string name="auto_eq_intro">Use PEAKEQ parameter equalizer to avoid the problem that the fixed frequency (graphic) equalizer is difficult to compensate the narrow gap and peak value between the two frequency bands. Restore the precise parameters from AutoEq library to bring you a perfect listening feeling. It is recommended to use it with headphones.</string>
+    <string name="auto_eq_intro">Use PEAKEQ parameter equalizer to avoid the problem that the fixed frequency (graphic) equalizer is difficult to compensate the narrow gap and peak value between the two frequency bands. Restore the precise parameters from AutoEq library to bring you a perfect listening feeling. It is recommended to use it with headphones</string>
     <string name="help_translation">Help translate the app</string>
     <string name="audio_effect">Audio effect</string>
     <string name="remove_from_the_playlist">Remove from the playlist</string>
@@ -295,10 +295,10 @@
     <string name="tablet_mode">Tablet mode</string>
     <string name="keyboard_shortcuts">Keyboard shortcuts</string>
     <string name="space_bar_play_or_pause_music">Space bar to play or pause music</string>
-    <string name="tablet_mode_intro">To enhance user experience, we've designed three new layouts for Salt Player 5.0, inspired by the adaptive interface technology and excellent status bar and navigation bar adaptation.</string>
+    <string name="tablet_mode_intro">To enhance user experience, we\'ve designed three new layouts for Salt Player 5.0, inspired by the adaptive interface technology and excellent status bar and navigation bar adaptation</string>
     <string name="keyboard_shortcuts_intro">This function is available only when the Salt Player interface is in foreground</string>
     <string name="laboratory">Laboratory </string>
-    <string name="laboratory_intro">Welcome to the Salt Player Lab, features found here are not stable and are for experience only. Features may be removed at any time.</string>
+    <string name="laboratory_intro">Welcome to the Salt Player Lab, features found here are not stable and are for experience only. Features may be removed at any time</string>
     <string name="display_video_screen">显示视频页面</string>
     <string name="year">Year</string>
     <string name="subscribe_on_telegram">Subscribe to Salt Player development progress on Telegram</string>
@@ -315,7 +315,7 @@
     <string name="background_cover_of_player_screen">Background cover of player screen</string>
     <string name="select_image">Select image</string>
     <string name="delete_current_image">Delete current image</string>
-    <string name="background_cover_of_player_screen_info">Disable flowing light mode and use a customized background of the playback interface. Note that it may be poor to recognize the forgeground buttons due to low color and background contrast. Please adjust the flowing light mode manually (Light: the foreground color is black, Dark: the foreground color is white)</string>
+    <string name="background_cover_of_player_screen_info">Disable flowing light mode and use a customized background of the playback interface. Note that it may be poor to recognize the foreground buttons due to low color and background contrast. Please adjust the flowing light mode manually (Light: the foreground color is black, Dark: the foreground color is white)</string>
     <string name="xposed_status_bar_lyrics">Xposed status bar lyrics</string>
     <string name="hide_status_bar">Hide status bar</string>
     <string name="enabled">Enabled</string>
@@ -518,4 +518,14 @@
     <string name="credits">Credits</string>
     <string name="sample_rate_range_supported_by_audio_track_of_this_system">AudioTrack sample rate range supported by the system</string>
     <string name="player_theme">Player theme</string>
+    <string name="sort_folder_title">Folder (Title)</string>
+    <string name="developer_report">Developer Report</string>
+    <string name="auto_start_on_boot">Auto start on boot</string>
+    <string name="count">Count</string>
+    <string name="emo_scroll">Emo Scroll</string>
+    <string name="hide_lyrics_interface_control_panel">Hide lyrics interface control panel</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="file_not_found">File not found</string>
+    <string name="usb_storage">USB Storage</string>
 </resources>

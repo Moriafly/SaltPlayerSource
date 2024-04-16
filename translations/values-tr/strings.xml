@@ -515,4 +515,14 @@
     <string name="credits">Credits</string>
     <string name="sample_rate_range_supported_by_audio_track_of_this_system">Sample rate range supported by AudioTrack of this system</string>
     <string name="player_theme">Player theme</string>
+    <string name="sort_folder_title">Folder (Title)</string>
+    <string name="developer_report">Developer Report</string>
+    <string name="auto_start_on_boot">Auto start on boot</string>
+    <string name="count">Count</string>
+    <string name="emo_scroll">Emo Scroll</string>
+    <string name="hide_lyrics_interface_control_panel">Hide lyrics interface control panel</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="file_not_found">File not found</string>
+    <string name="usb_storage">USB Storage</string>
 </resources>

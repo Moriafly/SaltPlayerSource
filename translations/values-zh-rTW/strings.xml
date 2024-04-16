@@ -515,4 +515,14 @@
     <string name="credits">製作人員</string>
     <string name="sample_rate_range_supported_by_audio_track_of_this_system">本系統 AudioTrack 所支援的採樣率範圍</string>
     <string name="player_theme">播放器主題</string>
+    <string name="sort_folder_title">資料夾（標題）</string>
+    <string name="developer_report">開發者報告</string>
+    <string name="auto_start_on_boot">開機自啟</string>
+    <string name="count">數量</string>
+    <string name="emo_scroll">心事捲軸</string>
+    <string name="hide_lyrics_interface_control_panel">隱藏歌詞介面控制面板</string>
+    <string name="on">開</string>
+    <string name="off"></string>
+    <string name="file_not_found">找不到檔案</string>
+    <string name="usb_storage">USB 随身碟</string>
 </resources>

@@ -515,4 +515,14 @@
     <string name="credits">Kredit</string>
     <string name="sample_rate_range_supported_by_audio_track_of_this_system">Rentang sample rate yang didukung oleh AudioTrack sistem ini</string>
     <string name="player_theme">Tema pemutar</string>
+    <string name="sort_folder_title">Folder (Judul)</string>
+    <string name="developer_report">Laporan Pengembang</string>
+    <string name="auto_start_on_boot">Mulai otomatis saat boot</string>
+    <string name="count">Jumlah</string>
+    <string name="emo_scroll">Gulir Emo</string>
+    <string name="hide_lyrics_interface_control_panel">Sembunyikan panel kontrol antarmuka lirik</string>
+    <string name="on">Aktif</string>
+    <string name="off">Nonaktif</string>
+    <string name="file_not_found">File tidak ditemukan</string>
+    <string name="usb_storage">Penyimpanan USB</string>
 </resources>

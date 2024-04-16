@@ -16,7 +16,7 @@
 
 ## 库开源包
 
-见 Moriafly/SaltUI 和 Moriafly/SaltKit 等
+见 [Moriafly/SaltUI](https://github.com/Moriafly/SaltUI) 和 Moriafly/SaltKit 等
 
 ## 使用帮助
 
