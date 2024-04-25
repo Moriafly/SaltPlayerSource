@@ -4,7 +4,7 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-10.2.1
+10.2.9.1
 
 ## 感谢翻译 Thanks
 

@@ -522,7 +522,13 @@
     <string name="emo_scroll">心事捲軸</string>
     <string name="hide_lyrics_interface_control_panel">隱藏歌詞介面控制面板</string>
     <string name="on">開</string>
-    <string name="off"></string>
+    <string name="off">关</string>
     <string name="file_not_found">找不到檔案</string>
     <string name="usb_storage">USB 随身碟</string>
+    <string name="special_thanks">Special thanks</string>
+    <string name="translators">Translators</string>
+    <string name="publisher">Publisher</string>
+    <string name="developer">Developer</string>
+    <string name="hidden_songs">Hidden songs</string>
+    <string name="font_weight">Font weight</string>
 </resources>

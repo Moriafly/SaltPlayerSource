@@ -525,4 +525,10 @@
     <string name="off">Désactivé</string>
     <string name="file_not_found">Fichier non trouvé</string>
     <string name="usb_storage">Stockage USB</string>
+    <string name="special_thanks">Special thanks</string>
+    <string name="translators">Translators</string>
+    <string name="publisher">Publisher</string>
+    <string name="developer">Developer</string>
+    <string name="hidden_songs">Hidden songs</string>
+    <string name="font_weight">Font weight</string>
 </resources>

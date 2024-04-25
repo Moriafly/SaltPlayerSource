@@ -525,4 +525,10 @@
     <string name="off">Nonaktif</string>
     <string name="file_not_found">File tidak ditemukan</string>
     <string name="usb_storage">Penyimpanan USB</string>
+    <string name="special_thanks">Special thanks</string>
+    <string name="translators">Translators</string>
+    <string name="publisher">Publisher</string>
+    <string name="developer">Developer</string>
+    <string name="hidden_songs">Hidden songs</string>
+    <string name="font_weight">Font weight</string>
 </resources>
