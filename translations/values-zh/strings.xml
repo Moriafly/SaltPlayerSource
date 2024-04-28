@@ -241,7 +241,7 @@
     <string name="enter_the_playlist_name_here">在此输入歌单名称</string>
     <string name="playlist_name_must_not_be_empty">歌单名称不得为空</string>
     <string name="successfully_added_to_next_play">成功添加到下一首播放</string>
-    <string name="artist_s">艺术家: %s</string>
+    <string name="artist_s">艺术家：%s</string>
     <string name="v3_audio_effect">V3 音效</string>
     <string name="v3_reverb">V3 混响</string>
     <string name="introduction">介绍</string>
@@ -525,4 +525,10 @@
     <string name="off">关</string>
     <string name="file_not_found">无法找到文件</string>
     <string name="usb_storage">USB 存储</string>
+    <string name="special_thanks">特别感谢</string>
+    <string name="translators">翻译人员</string>
+    <string name="publisher">发行商</string>
+    <string name="developer">开发商</string>
+    <string name="hidden_songs">被隐藏的歌曲</string>
+    <string name="font_weight">字体粗细</string>
 </resources>

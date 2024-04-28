@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="help_translation_intro">Salt Player стремится обеспечить хороший опыт взаимодействия для пользователей из разных стран и регионов по всему миру, но в одиночку трудно усовершенствовать языковой перевод. Если вы заинтересованы в том, чтобы помочь мне, нажмите \"ПОДТВЕРЖДАЮ\", чтобы перейти в хранилище переводов и предложить свой перевод.</string>
     <string name="my">Мой</string>
     <string name="home">Домой</string>
     <string name="about">О нас</string>
@@ -526,4 +525,10 @@
     <string name="off">Off</string>
     <string name="file_not_found">File not found</string>
     <string name="usb_storage">USB Storage</string>
+    <string name="special_thanks">Special thanks</string>
+    <string name="translators">Translators</string>
+    <string name="publisher">Publisher</string>
+    <string name="developer">Developer</string>
+    <string name="hidden_songs">Hidden songs</string>
+    <string name="font_weight">Font weight</string>
 </resources>

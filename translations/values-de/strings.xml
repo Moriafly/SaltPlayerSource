@@ -286,7 +286,7 @@
     <string name="start">Start</string>
     <string name="search_songs_hint">Suche in %d Songs</string>
     <string name="stop">Hör auf damit.</string>
-    <string name="use_music_tag_app_editing">Verwenden Sie die Music Tag App, um die Bearbeitung...</string>
+    <string name="use_music_tag_app_editing">Verwenden Sie die Music Tag App, um die Bearbeitung…</string>
     <string name="privacy_agreement_and_terms_of_use">Privacy Agreement und Software Nutzungsbedingungen</string>
     <string name="source_address">Ressourcenadresse</string>
     <string name="title_not_empty">Titel kann nicht leer sein</string>
@@ -479,8 +479,8 @@
     <string name="true_random_mode_intro">Each time, the previous or next song will always be randomly selected from the existing playing queue. Note that the previous or next song displayed by the mini player bar will be inaccurate when this function is enabled</string>
     <string name="follow_system_font_scale">Follow system font scale</string>
     <string name="desktop_lyrics">Desktop lyrics</string>
-    <string name="guess_you_are_looking_for">Guess you are looking for</string>
-    <string name="native_file_manager">Native file manager</string>
+    <string name="guess_you_are_looking_for">Ich schätze, Sie suchen nach</string>
+    <string name="native_file_manager">Nativer Dateimanager</string>
     <string name="usb_disk">USB disk</string>
     <string name="background_music_protection">Background Music Protection</string>
     <string name="dynamic_color_theme">Dynamic color theme</string>
@@ -503,8 +503,8 @@
     <string name="arranger">Arranger</string>
     <string name="mixer">Mixer</string>
     <string name="manage">Manage</string>
-    <string name="manage_external_storage_permission">Manage external storage permission</string>
-    <string name="system_recommended_output_sample_rate">System recommended output sample rate</string>
+    <string name="manage_external_storage_permission">Externe Speicherberechtigungen verwalten</string>
+    <string name="system_recommended_output_sample_rate">System empfohlene Abtastrate</string>
     <string name="desktop_lyrics_unlocked">Desktop lyrics unlocked</string>
     <string name="desktop_lyrics_locked">Desktop lyrics locked</string>
     <string name="desktop_lyrics_closed">Desktop lyrics closed</string>
@@ -523,6 +523,12 @@
     <string name="hide_lyrics_interface_control_panel">Hide lyrics interface control panel</string>
     <string name="on">On</string>
     <string name="off">Off</string>
-    <string name="file_not_found">File not found</string>
-    <string name="usb_storage">USB Storage</string>
+    <string name="file_not_found">Datei nicht gefunden</string>
+    <string name="usb_storage">USB-Speicher</string>
+    <string name="special_thanks">Besonderer Dank</string>
+    <string name="translators">Übersetzer</string>
+    <string name="publisher">Herausgeber</string>
+    <string name="developer">Entwickler</string>
+    <string name="hidden_songs">Versteckte Lieder</string>
+    <string name="font_weight">Schriftgröße</string>
 </resources>
