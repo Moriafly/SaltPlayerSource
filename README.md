@@ -2,6 +2,8 @@
 
 > [Данный текст доступен на русском языке](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-RU.md)
 
+> [Teks ini tersedia dalam bahasa Indonesia](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-ID.md)
+
 [椒盐音乐 Salt Player](https://sakawish.github.io/apps/salt-player/) 是一款 Android 平台本地音乐播放软件。本仓库是用来发布更新椒盐音乐新版本、收集反馈、发布一些通知。
 
 ## 下载地址

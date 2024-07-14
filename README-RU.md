@@ -2,6 +2,8 @@
 
 > [此文本有中文版本](https://github.com/Moriafly/SaltPlayerSource/blob/main/README.md)
 
+> [Teks ini tersedia dalam bahasa Indonesia](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-ID.md)
+
 [Salt and Pepper Music или Salt Player](https://sakawish.github.io/apps/salt-player/) - это программа для воспроизведения музыки на платформе Android. Этот репозиторий используется для публикации обновлений новой версии Salt and Pepper Music, сбора отзывов и уведомлений.
 
 ## Скачивание
