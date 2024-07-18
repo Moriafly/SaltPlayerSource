@@ -321,7 +321,7 @@
     <string name="you_need_to_restart_the_application">Необходимо перезапустить приложение</string>
     <string name="notification_of_salt_player">Уведомления Salt Player</string>
     <string name="scan_music">Сканирование музыки</string>
-    <string name="salt_player_pro">Salt Player Premium</string>
+    <string name="salt_player_pro">Salt Player Pro</string>
     <string name="do_not_scan_audio_below_60_seconds">Не добавлять песни короче 60 секунд</string>
     <string name="start_scan">Начать сканирование.</string>
     <string name="save_to_the_media_library">Сохранить в библеотеке</string>
