@@ -292,7 +292,7 @@
     <string name="tablet_mode">Режим планшета</string>
     <string name="keyboard_shortcuts">Сочетания клавиш</string>
     <string name="space_bar_play_or_pause_music">Пробел воспроизведение или пауза музыки</string>
-    <string name="tablet_mode_intro">Основываясь на отличной адаптации строки состояния и панели навигации Salt Player, а также использовании новых технологий для создания адаптивного интерфейса, мы разработали три различных макета для версии 5.0 Salt Player, чтобы обеспечить более совершенный опыт</string>
+    <string name="tablet_mode_intro">Основываясь на отличной адаптации строки состояния и панели навигации Salt Player, а также использовании новых технологий для создания адаптивного интерфейса, разработано три различных макета для версии 5.0 Salt Player, чтобы обеспечить более совершенный опыт</string>
     <string name="keyboard_shortcuts_intro">Эта функция доступна только тогда, когда интерфейс Salt Player находится на переднем плане</string>
     <string name="laboratory">Лаборатория</string>
     <string name="laboratory_intro">Добро пожаловать в лаболаторию Salt Player, здесь есть функции которые только на стадии тестирования и вы можете их отключить в любое время</string>
@@ -318,7 +318,7 @@
     <string name="enabled">Включено</string>
     <string name="disabled">Отключено</string>
     <string name="decoder">Дешифровщик</string>
-    <string name="you_need_to_restart_the_application">Вам необходимо перезапустить приложение</string>
+    <string name="you_need_to_restart_the_application">Необходимо перезапустить приложение</string>
     <string name="notification_of_salt_player">Уведомления Salt Player</string>
     <string name="scan_music">Сканирование музыки</string>
     <string name="salt_player_pro">Salt Player Premium</string>
@@ -347,7 +347,7 @@
     <string name="display_song_file_name_in_list_intro">Основной строка песни в списке отображается в виде имени файла песни (включая расширение) вместо заголовка встроенных метаданных файла</string>
     <string name="collapse">Свернуть</string>
     <string name="expand">Развернуть</string>
-    <string name="no_floating_window_permission_tip">У плеера нет разрешения на создание всплывающих окон, вам нужно вручную перейти в настройки, чтобы предоставить приложению разрешение на создание плавающего окна</string>
+    <string name="no_floating_window_permission_tip">У плеера нет разрешения на создание всплывающих окон, нужно вручную перейти в настройки, чтобы предоставить приложению разрешение на создание плавающего окна</string>
     <string name="float_support">Float support</string>
     <string name="float_support_dsp">Поддержка плавающей ЦОС</string>
     <string name="warning">⚠️Внимание</string>
@@ -416,7 +416,7 @@
     <string name="use_android_media_store">Использовать Android Media Store</string>
     <string name="android_media_store_intro">Если какой-то файл не находится с помощью Android Media Store, пожалуйста зайдите настройки Salt Player -> Вывод звука -> Декодирование звука, проверьте предоставляемое этим устройством декодеры и поддерживаемые форматы, так как некоторые устройства не поддерживают файлы формата DSD / APE, если требуемый кодек отсутствует, пожалуйста, используйте настройки и другие методы, указанные ниже</string>
     <string name="custom">Вручную</string>
-    <string name="custom_folders_tip">Если функция \"Использовать Android Media Store\" включена при использовании функции пользовательских папок, окончательные отсканированные песни будут объединены из двух папок. Если вам нужно использовать только пользовательские папки, пожалуйста, отключите \"Использовать Android Media Store\"</string>
+    <string name="custom_folders_tip">Если функция \"Использовать Android Media Store\" включена при использовании функции пользовательских папок, окончательные отсканированные песни будут объединены из двух папок. Если нужно использовать только пользовательские папки, пожалуйста, отключите \"Использовать Android Media Store\"</string>
     <string name="circle_play_mode">Повтор всей очереди</string>
     <string name="repeat_one_play_mode">Повтор текущей песни</string>
     <string name="random_play_mode">Случайный порядок очереди</string>
@@ -438,7 +438,7 @@
     <string name="logout">Выйти из аккаунта</string>
     <string name="zoom_display_size">Масштабирование экрана</string>
     <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen">Лого Hi-Res в левом нижнем углу обложки альбома в экране воспроизведения</string>
-    <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen_tip">Выберите маленький значок, который вам нравится (работает только в соотношении 1:1). Не рекомендуется использовать слишком большие по размеру файлы изображений</string>
+    <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen_tip">Выберите маленький значок, который предпочитаете (работает только в соотношении 1:1). Не рекомендуется использовать слишком большие по размеру файлы изображений</string>
     <string name="export">Экспорт</string>
     <string name="confirm_password">Потвердить пароль</string>
     <string name="participating_artists">Участвующие артисты</string>
@@ -451,7 +451,7 @@
     <string name="follow_us">Подпишитесь на нас</string>
     <string name="sort_by_duration">Продолжительности (Короткое к длинному)</string>
     <string name="sort_by_duration_desc">Продолжительности (Длинное к короткому)</string>
-    <string name="lyrics_view_blur">Заблюлировать не активные строки</string>
+    <string name="lyrics_view_blur">Размыть неактивные строки</string>
     <string name="hd_custom_background_cover">Использовать картинку фона в высоком качестве</string>
     <string name="activate">Активировать</string>
     <string name="search_for_s_on_the_internet">Искать %s в интернете</string>
