@@ -1,8 +1,8 @@
 ---
-name: 错误问题反馈 Bug report
+name: 错误问题反馈 Bug Report
 about: 反馈你遇到的问题。Issue template for a bug report.
 title: ''
-labels: 错误 bug
+labels: Bug
 assignees: ''
 ---
 

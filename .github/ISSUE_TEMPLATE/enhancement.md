@@ -1,8 +1,8 @@
 ---
-name: 增强 enhancement
-about: 提供新功能或者现有功能增强建议。Suggest new features or enhancements to existing features.
+name: 增强 Enhancement
+about: 提供新功能或者现有功能增强建议 Suggest new features or enhancements to existing features
 title: ''
-labels: 增强 enhancement
+labels: Enhancement
 assignees: ''
 ---
 
