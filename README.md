@@ -22,7 +22,7 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 
 ### Windows
 
-![SPW](src/spw.png)
+<img src="src/spw.png" height="56px" style="border-radius: 12px"/>
 
 详见 [SPW](https://github.com/Moriafly/SPW) 说明文件
 
