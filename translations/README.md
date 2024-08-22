@@ -6,7 +6,7 @@
 
 ## 当前翻译使用版本 The version currently used for translation
 
-10.2.9.1
+10.5.0
 
 ## 感谢翻译 Thanks
 
@@ -47,3 +47,5 @@ Français (French, fr) : Mathias Zhang
 - 长文本翻译时省略结尾句号
 
 - 翻译的版权由仓库所有者和翻译人员共同持有
+
+[更多参考](https://sakawish.github.io/open-source/salt-ui/tdts/)

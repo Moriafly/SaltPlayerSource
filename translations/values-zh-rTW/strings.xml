@@ -504,9 +504,9 @@
     <string name="mixer">混音</string>
     <string name="manage">管理</string>
     <string name="manage_external_storage_permission">管理外部儲存權限</string>
-    <string name="system_recommended_output_sample_rate">系統推薦輸出採樣率</string> 
+    <string name="system_recommended_output_sample_rate">系統推薦輸出採樣率</string>
     <string name="desktop_lyrics_unlocked">桌面歌詞已解鎖</string>
-    <string name="desktop_lyrics_locked">桌面歌詞已鎖定</string> 
+    <string name="desktop_lyrics_locked">桌面歌詞已鎖定</string>
     <string name="desktop_lyrics_closed">桌面歌詞已關閉</string>
     <string name="desktop_lyrics_opened">桌面歌詞已開啟</string>
     <string name="audio_focus_is_occupied_by_other_app">音訊焦點被其他 App 使用中</string>
@@ -522,7 +522,7 @@
     <string name="emo_scroll">心事捲軸</string>
     <string name="hide_lyrics_interface_control_panel">隱藏歌詞介面控制面板</string>
     <string name="on">開</string>
-    <string name="off">關</string>
+    <string name="off">关</string>
     <string name="file_not_found">找不到檔案</string>
     <string name="usb_storage">USB 随身碟</string>
     <string name="special_thanks">特別鳴謝</string>
@@ -531,4 +531,11 @@
     <string name="developer">開發者</string>
     <string name="hidden_songs">已隱藏的歌曲</string>
     <string name="font_weight">字型粗細</string>
+    <string name="download_it_on_coolapk">Download it on Coolapk</string>
+    <string name="optional_updates">Optional Updates</string>
+    <string name="additional_pro_features_intro">Additional Pro features are found across the settings screen, check the specific category screen for details</string>
+    <string name="front_cover">Front Cover</string>
+    <string name="back_cover">Back Cover</string>
+    <string name="album_artwork">Album Artwork</string>
+    <string name="unknown_error">Unknown Error</string>
 </resources>

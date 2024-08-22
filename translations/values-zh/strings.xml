@@ -531,4 +531,11 @@
     <string name="developer">开发商</string>
     <string name="hidden_songs">被隐藏的歌曲</string>
     <string name="font_weight">字体粗细</string>
+    <string name="download_it_on_coolapk">去酷安下载</string>
+    <string name="optional_updates">可选更新</string>
+    <string name="additional_pro_features_intro">更多 Pro 功能散落在设置页面的各个角落，可以前往专门的分类页面查看</string>
+    <string name="front_cover">封面</string>
+    <string name="back_cover">封底</string>
+    <string name="album_artwork">专辑视觉设计</string>
+    <string name="unknown_error">未知错误</string>
 </resources>

@@ -534,4 +534,11 @@
     <string name="developer">Developer</string>
     <string name="hidden_songs">Hidden songs</string>
     <string name="font_weight">Font weight</string>
+    <string name="download_it_on_coolapk">Download it on Coolapk</string>
+    <string name="optional_updates">Optional Updates</string>
+    <string name="additional_pro_features_intro">Additional Pro features are found across the settings screen, check the specific category screen for details</string>
+    <string name="front_cover">Front Cover</string>
+    <string name="back_cover">Back Cover</string>
+    <string name="album_artwork">Album Artwork</string>
+    <string name="unknown_error">Unknown Error</string>
 </resources>
