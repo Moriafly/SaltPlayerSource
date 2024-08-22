@@ -18,8 +18,6 @@ Salt Player 是一款 Android 平台本地音乐播放软件，本仓库用来�
 
 ## 开源相关
 
-Salt Player 属于闭源软件，但在开发中开源了部分相关代码，详见：
-
 1. [Moriafly/SaltUI](https://github.com/Moriafly/SaltUI)
 
 ## 本地化适配
