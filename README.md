@@ -4,7 +4,9 @@
 
 Salt Player 是一款本地音乐播放软件，本仓库用来发布新版本、收集反馈和发布通知
 
-## Android 平台下载渠道
+## 下载渠道
+
+### Android
 
 Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a 以及 armeabi-v7a 架构
 
@@ -18,7 +20,7 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 1. 请在正确的渠道下载本应用，请勿使用未知签名来源的安装文件
 2. Google Play 版本由谷歌签名发布，与此仓库安装包不兼容
 
-## Windows 平台下载渠道
+### Windows
 
 详见 [SPW](https://github.com/Moriafly/SPW) 说明文件
 
