@@ -531,11 +531,11 @@
     <string name="developer">開發者</string>
     <string name="hidden_songs">已隱藏的歌曲</string>
     <string name="font_weight">字型粗細</string>
-    <string name="download_it_on_coolapk">Download it on Coolapk</string>
-    <string name="optional_updates">Optional Updates</string>
-    <string name="additional_pro_features_intro">Additional Pro features are found across the settings screen, check the specific category screen for details</string>
-    <string name="front_cover">Front Cover</string>
-    <string name="back_cover">Back Cover</string>
-    <string name="album_artwork">Album Artwork</string>
-    <string name="unknown_error">Unknown Error</string>
+    <string name="download_it_on_coolapk">前往酷安下載</string>
+    <string name="optional_updates">可選更新</string>
+    <string name="additional_pro_features_intro">更多 Pro 功能可在設定畫面中找到，請查看特定類別畫面以了解詳細資訊</string>
+    <string name="front_cover">封面</string>
+    <string name="back_cover">封底</string>
+    <string name="album_artwork">專輯視覺設計</string>
+    <string name="unknown_error">未知錯誤</string>
 </resources>
