@@ -525,17 +525,17 @@
     <string name="off">オフ</string>
     <string name="file_not_found">ファイルが見つかりません</string>
     <string name="usb_storage">USB ストレージ</string>
-    <string name="special_thanks">スペシャルサンクス</string>
+    <string name="special_thanks">スペシャル・サンクス</string>
     <string name="translators">翻訳者</string>
     <string name="publisher">パブリッシャー</string>
     <string name="developer">デベロッパー</string>
     <string name="hidden_songs">隠し曲</string>
     <string name="font_weight">フォントのウェイト</string>
-    <string name="download_it_on_coolapk">Download it on Coolapk</string>
-    <string name="optional_updates">Optional Updates</string>
-    <string name="additional_pro_features_intro">Additional Pro features are found across the settings screen, check the specific category screen for details</string>
-    <string name="front_cover">Front Cover</string>
-    <string name="back_cover">Back Cover</string>
-    <string name="album_artwork">Album Artwork</string>
-    <string name="unknown_error">Unknown Error</string>
+    <string name="download_it_on_coolapk">Coolapk でダウンロード</string>
+    <string name="optional_updates">オプション・アップデート</string>
+    <string name="additional_pro_features_intro">追加の Pro 機能は設定画面にあります。詳細については特定のカテゴリ画面を確認してください。</string>
+    <string name="front_cover">表紙</string>
+    <string name="back_cover">裏表紙</string>
+    <string name="album_artwork">アルバム・アートワーク</string>
+    <string name="unknown_error">未知のエラー</string>
 </resources>
