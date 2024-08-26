@@ -320,7 +320,7 @@
     <string name="you_need_to_restart_the_application">你需要重启本应用</string>
     <string name="notification_of_salt_player">音乐媒体通知</string>
     <string name="scan_music">扫描音乐</string>
-    <string name="salt_player_pro">椒盐音乐 Pro</string>
+    <string name="salt_player_pro">Salt Player Pro</string>
     <string name="do_not_scan_audio_below_60_seconds">不扫描 60 秒以下音频</string>
     <string name="start_scan">开始扫描</string>
     <string name="save_to_the_media_library">保存到媒体库</string>

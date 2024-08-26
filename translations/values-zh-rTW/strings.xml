@@ -321,7 +321,7 @@
     <string name="you_need_to_restart_the_application">你需要重新啟動應用程式</string>
     <string name="notification_of_salt_player">椒鹽音樂通知</string>
     <string name="scan_music">掃描音樂</string>
-    <string name="salt_player_pro">椒鹽音樂 Pro</string>
+    <string name="salt_player_pro">Salt Player Pro</string>
     <string name="do_not_scan_audio_below_60_seconds">不掃描低於 60 秒的音訊檔案</string>
     <string name="start_scan">開始掃描</string>
     <string name="save_to_the_media_library">儲存至音樂庫</string>
