@@ -63,7 +63,7 @@
     <string name="password">パスワード</string>
     <string name="cellphone_number">電話番号</string>
     <string name="exit_app">閉じる</string>
-    <string name="alipay">Alipay</string>
+    <string name="alipay">アリペイ (Alipay)</string>
     <string name="basic_information">基本的な情報</string>
     <string name="personal_profile">個人紹介</string>
     <string name="good_comments">すばらしいコメント</string>
@@ -166,10 +166,10 @@
     <string name="direct_links">直接リンク</string>
     <string name="add">追加</string>
     <string name="add_single_direct_link_song">単一の直接リンクの曲を追加</string>
-    <string name="cover_address">Cover address</string>
+    <string name="cover_address">カバーアドレス</string>
     <string name="source_address">ソースアドレス</string>
     <string name="title_not_empty">タイトルは空にできません</string>
-    <string name="direct_link">Direct link</string>
+    <string name="direct_link">直接リンク</string>
     <string name="direct_link_cannot_empty">The direct link cannot be empty</string>
     <string name="native_output">ネイティブ出力</string>
     <string name="native_output_intro">Android 8.0 以降では AAudio 出力を、それ以前のバージョンでは OpenSL ES 出力を使用します。低いレイテンシーと音質の向上が期待できますが、システムイコライザとの互換性がなく、バッテリーの消耗も激しくなります</string>
