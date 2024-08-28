@@ -292,12 +292,12 @@
     <string name="tablet_mode" >平板模式</string>
     <string name="keyboard_shortcuts">键盘快捷键</string>
     <string name="space_bar_play_or_pause_music">空格键播放 / 暂停音乐</string>
-    <string name="tablet_mode_intro">源自椒盐音乐一直以来出色的状态栏、导航栏适配，并运用新技术构建自适应界面，为椒盐音乐 5.0（愿逐月华流照君）版本设计了三款不同的布局，带来更加完美的体验</string>
-    <string name="keyboard_shortcuts_intro">此功能仅当椒盐音乐界面在前台时可用</string>
+    <string name="tablet_mode_intro">源自 Salt Player（原椒盐音乐）一直以来出色的状态栏、导航栏适配，并运用新技术构建自适应界面，为 Salt Player（原椒盐音乐）5.0（愿逐月华流照君）版本设计了三款不同的布局，带来更加完美的体验</string>
+    <string name="keyboard_shortcuts_intro">此功能仅当 Salt Player 界面在前台时可用</string>
     <string name="laboratory">实验室</string>
     <string name="display_video_screen">显示视频页面</string>
     <string name="year">年份</string>
-    <string name="subscribe_on_telegram">在 Telegram 上订阅椒盐音乐开发进度</string>
+    <string name="subscribe_on_telegram">在 Telegram 上订阅 Salt Player 开发进度</string>
     <string name="github_salt_player_source">访问 SaltPlayerSource 获取最新版本，查看最新动态与分享</string>
     <string name="web_dav_settings">WebDAV 设置</string>
     <string name="audio_of_video">视频音频</string>
