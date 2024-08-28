@@ -1,3 +1,5 @@
+<img src="src/App GitHub Header.png" width="100%"/>
+
 # Salt Player 数十万用户选择的本地音乐播放器
 
 本页翻译：[Русский](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-RU.md)，[Indonesia](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-ID.md)
@@ -34,6 +36,12 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 
 详见 [Translations](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations) 说明文件
 
-## 版权信息
+## 法律信息
 
-相关法律信息请在软件内部以及相关网站查询
+Android 是 Google LLC 的商标
+
+Android 机器人是在 Google 原创及共享成果的基础上再创作或修改而成，须遵照[知识共享](https://creativecommons.org/licenses/by/3.0/)署名 3.0 许可所述条款付诸应用
+
+Salt Player 是寻浔科技（上海）有限公司在中华人民共和国的注册商标
+
+更多相关法律信息请在软件内部以及相关网站查询
