@@ -66,7 +66,7 @@
     <string name="basic_information">Базовая информация</string>
     <string name="personal_profile">Личный профиль</string>
     <string name="good_comments">Хорошие комментарии</string>
-    <string name="home_sentence_recommendation">Home sentence recommendation</string>
+    <string name="home_sentence_recommendation">Рекомендация к домашнему предложению</string>
     <string name="custom_background">Свой фон</string>
     <string name="custom_home_page_background">Изменить фон главной страницы</string>
     <string name="clear_background">Очистить фон</string>
@@ -124,7 +124,7 @@
     <string name="lyrics_edit">Редактировать текст песни</string>
     <string name="save">Сохранить</string>
     <string name="menu">Меню</string>
-    <string name="beautify">Beautify</string>
+    <string name="beautify">Красота</string>
     <string name="bass_boost">Басс буст</string>
     <string name="pre_amp">Pre AMP</string>
     <string name="system_equalizer">Системный эквалайзер</string>
@@ -134,13 +134,13 @@
     <string name="kbps">кбит/с</string>
     <string name="lyrics_view_text_size">Размер текста песни</string>
     <string name="audio_decoding">Декодирование звука</string>
-    <string name="default_audio_decoding">Default audio decoding</string>
-    <string name="auto_matching_of_network_album_info">Auto matching of network album info</string>
+    <string name="default_audio_decoding">Декодирование звука по умолчанию</string>
+    <string name="auto_matching_of_network_album_info">Автоматическое сопоставление информации о сетевых альбомах</string>
     <string name="others">Другие</string>
     <string name="help">Помощь</string>
-    <string name="player_activity_theme">Player activity theme</string>
+    <string name="player_activity_theme">Тема активности игрока</string>
     <string name="video">Видео</string>
-    <string name="give_high_praise">Give high praise</string>
+    <string name="give_high_praise">Дайте высокую оценку</string>
     <string name="lock_screen">Блокировка экрана</string>
     <string name="ignore_media_store_cover">Игнорировать обложку в Media Store</string>
     <string name="player">Плеер</string>
@@ -159,8 +159,8 @@
     <string name="use_music_tag_app_editing">Изменить теги</string>
     <string name="auto_matching_of_network_lyrics_explain">Попробовать получить веб-текст песни, если невозможно найти встроенный текст песни или файл текста песни (.lrc-файл с тем же именем каталога).</string>
     <string name="media_decoding_provided_by_this_device">Декодеры предоставляемые данным устройством</string>
-    <string name="attenuate_flowing_light_effect_explain">Reduce flowing light rendering effect to improve flowing light rendering performance</string>
-    <string name="ignore_media_store_cover_explain">This setting ignores system media library covers, which can improve cover quality and support different covers for the same album, possibly slowing down loading</string>
+    <string name="attenuate_flowing_light_effect_explain">Уменьшите эффект рендеринга струящегося света, чтобы повысить производительность рендеринга струящегося света</string>
+    <string name="ignore_media_store_cover_explain">Этот параметр игнорирует обложки системной медиатеки, что может улучшить качество обложек и поддерживать разные обложки для одного альбома, возможно, замедляя загрузку.</string>
     <string name="privacy_agreement_and_terms_of_use">Соглашение конфиденциальности и условия использования</string>
     <string name="dialog_sleep_timer_tips">При использовании во время сна рекомендуется снизить громкость и не устанавливать ее на высокую в течение длительного времени. Длительное воздействие звука высокой громкости может привести к повреждению слуха</string>
     <string name="direct_links">Основные ссылки</string>
@@ -180,7 +180,7 @@
     <string name="source_of_lyrics">Источник текста</string>
     <string name="see_lyrics_help">See lyrics help</string>
     <string name="player_configuration">Конфигурация плеера</string>
-    <string name="audio_output_tips">❗Please understand your device carefully before changing the above Settings, the changes will take effect after switching songs, too high the player initial sampling rate setting may cause serious resource waste and power consumption</string>
+    <string name="audio_output_tips">❗Пожалуйста, внимательно изучите устройство перед изменением вышеуказанных настроек, изменения вступят в силу после переключения песен, слишком высокая начальная частота дискретизации плеера может привести к серьезным потерям ресурсов и энергопотребления</string>
     <string name="audio_output">Вывод звука</string>
     <string name="file_not_found_exception">Невозможно найти файл, может быть он был перемещен или удален</string>
     <string name="random_play">Случайное воспроизведение</string>
@@ -230,7 +230,7 @@
     <string name="delete_s_forever">Удалить %s навсегда?</string>
     <string name="delete_playlist">Удалить плейлист</string>
     <string name="add_to_playlist">Добавить в плейлист</string>
-    <string name="access_link">Access link</string>
+    <string name="access_link">Ссылка на доступ</string>
     <string name="move_up">Выше</string>
     <string name="move_down">Ниже</string>
     <string name="play_queue_d">Очередь воспроизведения (%d)</string>
@@ -333,7 +333,7 @@
     <string name="d_songs_were_scanned">%d песен были просканированы</string>
     <string name="fade_in_or_out_during_play_or_pause">Возрастание и затухание звука во время пауз</string>
     <string name="swipe_down_here_to_return_to_the_playback_screen">Свайпните вниз чтобы вернуться на экран воспроизведения</string>
-    <string name="click_check_for_updates">Click check for updates</string>
+    <string name="click_check_for_updates">Нажмите кнопку проверить наличие обновлений</string>
     <string name="car_bluetooth_lyrics">Передавать текст песни по bluetooth</string>
     <string name="car_kit">Автомобильный режим</string>
     <string name="none">Пусто</string>
@@ -342,7 +342,7 @@
     <string name="date_modified_desc">Дате обновления описания</string>
     <string name="digital_signal_output">Выход цифрового сигнала</string>
     <string name="circle_playback_cover">Округленная обложка</string>
-    <string name="salt_player_smart_router">Salt Player Smart Router</string>
+    <string name="salt_player_smart_router">Солевой плеер Smart Router</string>
     <string name="display_song_file_name_in_list">Отобразить имя файла в списке</string>
     <string name="display_song_file_name_in_list_intro">Основной строка песни в списке отображается в виде имени файла песни (включая расширение) вместо заголовка встроенных метаданных файла</string>
     <string name="collapse">Свернуть</string>
@@ -531,11 +531,11 @@
     <string name="developer">Разработчик</string>
     <string name="hidden_songs">Скрытые песни</string>
     <string name="font_weight">Насыщенность шрифта</string>
-    <string name="download_it_on_coolapk">Download it on CoolApk</string>
-    <string name="optional_updates">Optional Updates</string>
-    <string name="additional_pro_features_intro">Additional Pro features are found across the settings screen, check the specific category screen for details</string>
-    <string name="front_cover">Front Cover</string>
-    <string name="back_cover">Back Cover</string>
-    <string name="album_artwork">Album Artwork</string>
-    <string name="unknown_error">Unknown Error</string>
+    <string name="download_it_on_coolapk">Скачать на CoolApk</string>
+    <string name="optional_updates">Дополнительные обновления</string>
+    <string name="additional_pro_features_intro">Дополнительные функции Pro доступны на всех экранах настроек, подробнее смотрите на экране конкретной категории</string>
+    <string name="front_cover">Передняя обложка</string>
+    <string name="back_cover">Задняя обложка</string>
+    <string name="album_artwork">Оформление альбома</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
 </resources>
