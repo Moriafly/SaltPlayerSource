@@ -28,7 +28,7 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 
 ## 开源相关
 
-[SaltUI](https://github.com/Moriafly/SaltUI)
+[Salt UI](https://github.com/Moriafly/SaltUI)
 
 ## 本地化适配
 
