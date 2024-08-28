@@ -342,7 +342,7 @@
     <string name="date_modified_desc">Дате обновления описания</string>
     <string name="digital_signal_output">Выход цифрового сигнала</string>
     <string name="circle_playback_cover">Округленная обложка</string>
-    <string name="salt_player_smart_router">Солевой плеер Smart Router</string>
+    <string name="salt_player_smart_router">Salt Player Smart Router</string>
     <string name="display_song_file_name_in_list">Отобразить имя файла в списке</string>
     <string name="display_song_file_name_in_list_intro">Основной строка песни в списке отображается в виде имени файла песни (включая расширение) вместо заголовка встроенных метаданных файла</string>
     <string name="collapse">Свернуть</string>
