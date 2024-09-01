@@ -45,7 +45,7 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 | 华为鸿蒙 | 音乐控制中心 | 🔴 不支持 | 白名单控制以及未发现适配文档 |
 | vivo OriginOS/Funtouch OS | Hi-Fi | 🔵 手动 | 1. 通过 adb 的方式输入 `settings put global game_support_hifi_list com.salt.music` 添加 <br> 2. 添加 Salt Player 进入 Hi-Fi 列表后，进入系统设置 > 声音与振动 > Hi-Fi 页面启用 <br> 3. 设备是否支持 Hi-Fi 功能，请前往 vivo 官网产品页面了解 |
 | | joviincar 智能车载 | 🟢 支持 | 1. 2024 年 8 月 29 日 vivo 智能车载 V4.0.7.3 版本添加了对 Salt Player 的支持，感谢向 vivo 反馈的用户和 vivo 的官方支持 <br> 2. 体验版，暂时不支持 joviincar 的歌词显示（不清楚适配方法），可通过车载蓝牙歌词模拟 |
-| | 原子随身听 | 🔴 不支持 | 疑似白名单，未找到适配文档 |
+| | 原子随身听 | 🔴 不支持 | 疑似白名单，未找到适配文档 <br> #749 |
 | OPPO ColorOS | 流体云 | 🟠 跟进中 | 需要企业资格审核后进行特殊适配开发，请等待 |
 | 魅族 Flyme | 状态栏歌词 | 🟢 支持 | |
 | | 灵动环 | 🔴 不支持 | 疑似白名单，未找到适配文档 |
