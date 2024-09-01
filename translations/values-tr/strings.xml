@@ -48,7 +48,7 @@
     <string name="auto_matching_of_network_lyrics">Ağ şarkı sözlerinin otomatik eşleştirilmesi</string>
     <string name="auto_matching_of_network_lyrics_explain">"Gömülü şarkı sözleri (yalnızca ses MP3 veya FLAC formatındaysa) veya şarkı sözü dosyası (aynı dizin adına sahip .lrc dosyası) alamadığınızda web şarkı sözlerini almaya çalışın"</string>
     <string name="back">Geri</string>
-    <string name="background_cover_of_player_screen">Oynatıcı ekranının arka plan kapağı</string>
+    <string name="background_cover_of_playback_screen">Oynatıcı ekranının arka plan kapağı</string>
     <string name="background_cover_of_player_screen_info">Akan ışık modunu devre dışı bırakın ve oynatma arayüzünün özelleştirilmiş bir arka planını kullanın.  Ön plan düğmesinin düşük renk ve arka plan kontrastı nedeniyle zayıf tanıma olabileceğini unutmayın.  Lütfen akan ışık modunu manuel olarak ayarlayın (ışık: ön plan rengi siyah, koyu: ön plan rengi beyaz)</string>
     <string name="baidu_pan">Baidu Pan</string>
     <string name="basic_information">Temel bilgiler</string>
@@ -65,7 +65,7 @@
     <string name="change_device_freq">Çıkış cihazının örnekleme hızındaki değişiklikleri zorlamayı deneyin (yüksek performanslı DAC çıkışları için deneysel özellik)</string>
     <string name="change_device_freq_intro">Sesi yüksek frekansta oynatmaya zorlayın (çıkış aygıtı desteklemese bile) ve yerel çıkışın etkinleştirildiğinden emin olun;  Lütfen çoğu cihazın 96000 Hz ve daha yüksek frekans çıkışını desteklemediğini ve daha yüksek frekansın uygulanmasının oynatma hatasına neden olabileceğini unutmayın.</string>
     <string name="change_the_language">Dili değiştir</string>
-    <string name="change_to_you_like">Beğendiğin gibi değiştir</string>
+    <string name="change_to_your_like">Beğendiğin gibi değiştir</string>
     <string name="channel">Kanal</string>
     <string name="channel_count">Kanal sayısı</string>
     <string name="channel_information">Kanal bilgileri</string>
@@ -185,7 +185,7 @@
     <string name="look_at_the_help">Yardıma bak</string>
     <string name="lyrics">Şarkı sözleri</string>
     <string name="lyrics_edit">Şarkı sözü düzenleme</string>
-    <string name="lyrics_interface">Şarkı arayüzü</string>
+    <string name="lyrics_screen">Şarkı arayüzü</string>
     <string name="lyrics_settings">Şarkı sözleri ayarları</string>
     <string name="lyrics_view_text_align_center">Şarkı sözleri metnini ortaya hizala</string>
     <string name="lyrics_view_text_size">Şarkı sözleri metin boyutunu görüntüle</string>
@@ -232,9 +232,9 @@
     <string name="play_queue_d">Sırayı oynat (%d)</string>
     <string name="play_queue_is_empty">Çalma sırası boş</string>
     <string name="player">Oynatıcı</string>
-    <string name="player_activity_theme">Oynatıcı aktivite teması</string>
+    <string name="playback_screen_theme">Oynatıcı aktivite teması</string>
     <string name="player_configuration">Oynatıcı yapılandırması</string>
-    <string name="player_interface">Oynatıcı arayüzü</string>
+    <string name="playback_screen">Oynatıcı arayüzü</string>
     <string name="player_theme_dark">✨Karanlık akan✨</string>
     <string name="upload">Yüklemek</string>
     <string name="playlist">Çalma listesi</string>
@@ -286,7 +286,7 @@
     <string name="search_songs_hint">%d Şarkı ara</string>
     <string name="stop">Durdur</string>
     <string name="use_music_tag_app_editing">Düzenlemeyi uygulamak için Müzik Etiketi uygulamasını kullanın…</string>
-    <string name="privacy_agreement_and_terms_of_use">Gizlilik Sözleşmesi ve Kullanım Koşulları</string>
+    <string name="privacy_policy_and_terms_of_use">Gizlilik Sözleşmesi ve Kullanım Koşulları</string>
     <string name="source_address">Kaynak adresi</string>
     <string name="title_not_empty">Şarkı sözlerinin kaynağı</string>
     <string name="source_of_lyrics">Source of lyrics</string>
@@ -334,7 +334,7 @@
     <string name="system_language">Sistem dili</string>
     <string name="select_image">Fotoğraf seç</string>
     <string name="xposed_status_bar_lyrics">Xposed durum çubuğu şarkı sözleri</string>
-    <string name="you_need_to_restart_the_application">Uygulamayı yeniden başlatmanız gerekiyor</string>
+    <string name="you_need_to_restart_the_app">Uygulamayı yeniden başlatmanız gerekiyor</string>
     <string name="scan_music">Müziği tara</string>
     <string name="salt_player_pro">Salt Player Pro</string>
     <string name="start_scan">Taramayı başlat</string>
@@ -380,7 +380,7 @@
     <string name="refresh">Refresh</string>
     <string name="internal_storage">Internal storage</string>
     <string name="float_support_info">32 bit floating-point decoding and processing</string>
-    <string name="wallpaper_of_main_interface">Wallpaper of main interface</string>
+    <string name="wallpaper_of_main_screen">Wallpaper of main interface</string>
     <string name="floating_window_status_bar_lyrics">Floating window status bar lyrics</string>
     <string name="background_color">Background color</string>
     <string name="storage_occupancy">Storage occupancy</string>
@@ -417,16 +417,16 @@
     <string name="android_media_store_intro">Quickly scan the Android Media Store to get songs, please use Salt Player Settings -> Audio Output -> Media Decoding provided by this device for format support, some devices do not support DSD / APE format scanning, please customize the folder and other methods below</string>
     <string name="custom">Custom</string>
     <string name="custom_folders_tip">If the Use Android Media Store function is enabled while using the Custom folders function, the final scanned songs will be the union of the two. If you only need to use Custom folders, please turn off Use Android Media Store</string>
-    <string name="circle_play_mode">Circle play mode</string>
-    <string name="repeat_one_play_mode">Repeat one play mode</string>
-    <string name="random_play_mode">Random play mode</string>
-    <string name="remove_from_play_queue">Remove from play queue</string>
+    <string name="circle_playback_mode">Circle play mode</string>
+    <string name="repeat_one_playback_mode">Repeat one play mode</string>
+    <string name="random_playback_mode">Random play mode</string>
+    <string name="remove_from_playback_queue">Remove from play queue</string>
     <string name="blocked_folders">Blocked folders</string>
     <string name="file_name">File name</string>
     <string name="song_clips">Song clips</string>
     <string name="lyrics_view_text_bold">Lyrics view text bold</string>
     <string name="copyright">Copyright</string>
-    <string name="mini_lyrics_in_player_ui">Mini lyrics in player UI</string>
+    <string name="mini_lyrics_in_player_screen">Mini lyrics in player UI</string>
     <string name="accessibility">Accessibility</string>
     <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
     <string name="date_modified">Date modified</string>
@@ -463,8 +463,8 @@
     <string name="get_album_art_when_embedded_cover_art_is_not_available">Try to get album art in the same folder when embedded cover art is not available</string>
     <string name="help_and_feedback">Help and feedback</string>
     <string name="panel">Panel</string>
-    <string name="player_interface_for_car">Player interface for car</string>
-    <string name="player_interface_for_car_intro">Only available when activating tablet mode</string>
+    <string name="player_screen_for_car">Player interface for car</string>
+    <string name="player_screen_for_car_intro">Only available when activating tablet mode</string>
     <string name="authorization_description">Authorization Description</string>
     <string name="authorization_description_for_read_external_storage">Read the audio file in the shared storage (not including the reading of photos and videos, if it is included in the System request description, it is a unified description because Android 12 and the following systems have not subdivided permissions), and obtain the ANDROID MEDIA STORE audio file information after authorization. If there is no system authorization inquiry after agreeing to this conversation, it may be that the permission of this App has been set to \"reject and no longer prompt\". Please manually go to the system settings to change it</string>
     <string name="error">Error</string>
@@ -520,7 +520,7 @@
     <string name="auto_start_on_boot">Auto start on boot</string>
     <string name="count">Count</string>
     <string name="emo_scroll">Emo Scroll</string>
-    <string name="hide_lyrics_interface_control_panel">Hide lyrics interface control panel</string>
+    <string name="hide_lyrics_screen_control_panel">Hide lyrics interface control panel</string>
     <string name="on">On</string>
     <string name="off">Off</string>
     <string name="file_not_found">File not found</string>

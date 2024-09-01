@@ -48,7 +48,7 @@
     <string name="auto_matching_of_network_lyrics">Lihevhatina otomatîkî ya stranên torê</string>
     <string name="auto_matching_of_network_lyrics_explain">"Dema ku hûn nikaribin stranên pêvekirî (tenê heke deng di formata MP3 an FLAC de be) an pelê stranan (pelê .lrc bi heman navî pelrêça) wergirin, hewl bidin ku gotinên tevneyê bistînin."</string>
     <string name="back">Paş</string>
-    <string name="background_cover_of_player_screen">Veşartina paşîn a ekrana lîstikvanê</string>
+    <string name="background_cover_of_playback_screen">Veşartina paşîn a ekrana lîstikvanê</string>
     <string name="background_cover_of_player_screen_info">Moda ronahiya diherike neçalak bike û paşxaneyek xwerû ya navbera lêdanê bikar bîne. Bala xwe bidinê ku dibe ku bişkoka pêşîn ji ber kêmbûna reng û berevajîkirina paşxanê xwedan naskirinek nebaş be. Ji kerema xwe moda ronahiya herikînê bi destan saz bikin (ronahî: rengê pêşiyê reş, tarî: rengê pêşiyê spî)</string>
     <string name="baidu_pan">Baidu Pan</string>
     <string name="basic_information">Zanîna bingehîn</string>
@@ -65,7 +65,7 @@
     <string name="change_device_freq">Bi zorê guhertinên di rêjeya nimûneya cîhaza derketinê de biceribînin (taybetmendiya ceribandinê ji bo derketinên DAC-ê yên performansa bilind)</string>
     <string name="change_device_freq_intro">Bi zorê deng bidin ku bi frekansa bilind bilîze (tevî ku cîhaza derketinê wê piştgirî neke) û pê ewle bin ku derketina herêmî çalak e; Ji kerema xwe bala xwe bidin ku piraniya cîhazên 96000 Hz û hilberîna frekansa bilindtir piştgirî nakin, û sepandina frekansa bilind dibe ku bibe sedema xeletiya lêdanê.</string>
     <string name="change_the_language">Ziman biguherînin</string>
-    <string name="change_to_you_like">wekî ku hûn dixwazin biguherînin</string>
+    <string name="change_to_your_like">wekî ku hûn dixwazin biguherînin</string>
     <string name="channel">Qenal</string>
     <string name="channel_count">Hejmara kanalan</string>
     <string name="channel_information">Agahdariya kanalê</string>
@@ -185,7 +185,7 @@
     <string name="look_at_the_help">Alîkariyê bibînin</string>
     <string name="lyrics">Lyrics</string>
     <string name="lyrics_edit">Guherandina stranan</string>
-    <string name="lyrics_interface">Navrûya stranê</string>
+    <string name="lyrics_screen">Navrûya stranê</string>
     <string name="lyrics_settings">Mîhengên Lyrics</string>
     <string name="lyrics_view_text_align_center">Navenda stranan nivîsê li hev dike</string>
     <string name="lyrics_view_text_size">Mezinahiya nivîsa stranan bibînin</string>
@@ -232,9 +232,9 @@
     <string name="play_queue_d">Dora lîstikê (%d)</string>
     <string name="play_queue_is_empty">Dora lîstikê vala ye</string>
     <string name="player">Lîstikvan</string>
-    <string name="player_activity_theme">Mijara çalakiya lîstikvanê</string>
+    <string name="playback_screen_theme">Mijara çalakiya lîstikvanê</string>
     <string name="player_configuration">Veavakirina Player</string>
-    <string name="player_interface">Interface Player</string>
+    <string name="playback_screen">Interface Player</string>
     <string name="player_theme_dark">✨Tarî diherike✨</string>
 
     <string name="upload">Ji bo barkirin</string>
@@ -287,7 +287,7 @@
     <string name="search_songs_hint">%d Li stranan bigerin</string>
     <string name="stop">Rawestan</string>
     <string name="use_music_tag_app_editing">Ji bo sepandina guherandinê sepana Tag Muzîkê bikar bînin…</string>
-    <string name="privacy_agreement_and_terms_of_use">Peymana Nepenîtiyê û Mercên Bikaranînê</string>
+    <string name="privacy_policy_and_terms_of_use">Peymana Nepenîtiyê û Mercên Bikaranînê</string>
     <string name="source_address">Navnîşana çavkaniyê</string>
     <string name="title_not_empty">Çavkaniya stranan</string>
     <string name="source_of_lyrics">Source of lyrics</string>
@@ -335,7 +335,7 @@
     <string name="system_language">Zimanê sîstemê</string>
     <string name="select_image">Wêneyê hilbijêre</string>
     <string name="xposed_status_bar_lyrics">Gotinên barê rewşa Xposed</string>
-    <string name="you_need_to_restart_the_application">Pêdivî ye ku hûn serîlêdanê ji nû ve bidin destpêkirin</string>
+    <string name="you_need_to_restart_the_app">Pêdivî ye ku hûn serîlêdanê ji nû ve bidin destpêkirin</string>
     <string name="scan_music">Muzîkê bişopînin</string>
     <string name="salt_player_pro">Salt Player Pro</string>
     <string name="start_scan">Lêgerînê dest pê bike</string>
@@ -381,7 +381,7 @@
     <string name="refresh">Refresh</string>
     <string name="internal_storage">Internal storage</string>
     <string name="float_support_info">32 bit floating-point decoding and processing</string>
-    <string name="wallpaper_of_main_interface">Wallpaper of main interface</string>
+    <string name="wallpaper_of_main_screen">Wallpaper of main interface</string>
     <string name="floating_window_status_bar_lyrics">Floating window status bar lyrics</string>
     <string name="background_color">Background color</string>
     <string name="storage_occupancy">Storage occupancy</string>
@@ -418,16 +418,16 @@
     <string name="android_media_store_intro">Quickly scan the Android Media Store to get songs, please use Salt Player Settings -> Audio Output -> Media Decoding provided by this device for format support, some devices do not support DSD / APE format scanning, please customize the folder and other methods below</string>
     <string name="custom">Custom</string>
     <string name="custom_folders_tip">If the Use Android Media Store function is enabled while using the Custom folders function, the final scanned songs will be the union of the two. If you only need to use Custom folders, please turn off Use Android Media Store</string>
-    <string name="circle_play_mode">Circle play mode</string>
-    <string name="repeat_one_play_mode">Repeat one play mode</string>
-    <string name="random_play_mode">Random play mode</string>
-    <string name="remove_from_play_queue">Remove from play queue</string>
+    <string name="circle_playback_mode">Circle play mode</string>
+    <string name="repeat_one_playback_mode">Repeat one play mode</string>
+    <string name="random_playback_mode">Random play mode</string>
+    <string name="remove_from_playback_queue">Remove from play queue</string>
     <string name="blocked_folders">Blocked folders</string>
     <string name="file_name">File name</string>
     <string name="song_clips">Song clips</string>
     <string name="lyrics_view_text_bold">Lyrics view text bold</string>
     <string name="copyright">Copyright</string>
-    <string name="mini_lyrics_in_player_ui">Mini lyrics in player UI</string>
+    <string name="mini_lyrics_in_player_screen">Mini lyrics in player UI</string>
     <string name="accessibility">Accessibility</string>
     <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
     <string name="date_modified">Date modified</string>
@@ -464,8 +464,8 @@
     <string name="get_album_art_when_embedded_cover_art_is_not_available">Try to get album art in the same folder when embedded cover art is not available</string>
     <string name="help_and_feedback">Help and feedback</string>
     <string name="panel">Panel</string>
-    <string name="player_interface_for_car">Player interface for car</string>
-    <string name="player_interface_for_car_intro">Only available when activating tablet mode</string>
+    <string name="player_screen_for_car">Player interface for car</string>
+    <string name="player_screen_for_car_intro">Only available when activating tablet mode</string>
     <string name="authorization_description">Authorization Description</string>
     <string name="authorization_description_for_read_external_storage">Read the audio file in the shared storage (not including the reading of photos and videos, if it is included in the System request description, it is a unified description because Android 12 and the following systems have not subdivided permissions), and obtain the ANDROID MEDIA STORE audio file information after authorization. If there is no system authorization inquiry after agreeing to this conversation, it may be that the permission of this App has been set to \"reject and no longer prompt\". Please manually go to the system settings to change it</string>
     <string name="error">Error</string>
@@ -521,7 +521,7 @@
     <string name="auto_start_on_boot">Auto start on boot</string>
     <string name="count">Count</string>
     <string name="emo_scroll">Emo Scroll</string>
-    <string name="hide_lyrics_interface_control_panel">Hide lyrics interface control panel</string>
+    <string name="hide_lyrics_screen_control_panel">Hide lyrics interface control panel</string>
     <string name="on">On</string>
     <string name="off">Off</string>
     <string name="file_not_found">File not found</string>

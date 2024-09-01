@@ -49,7 +49,7 @@
     <string name="auto_matching_of_network_lyrics">Online-Texte automatisch abgleichen</string>
     <string name="auto_matching_of_network_lyrics_explain">Versuchen Sie, Netzwerklyrics zu erhalten, wenn die eingebettete und die Lyrics-Datei (.lrc-Datei mit dem gleichen Namen wie das Verzeichnis) nicht abgerufen werden können</string>
     <string name="back">Rückkehr</string>
-    <string name="background_cover_of_player_screen">Hintergrundbild der Wiedergabeschnittstelle</string>
+    <string name="background_cover_of_playback_screen">Hintergrundbild der Wiedergabeschnittstelle</string>
     <string name="background_cover_of_player_screen_info">Deaktivieren Sie den Streamer und verwenden Sie den benutzerdefinierten Hintergrund der Wiedergabeschnittstelle. Beachten Sie, dass die Erkennung aufgrund der schwachen Farbe und des Hintergrundkontrastes der Vordergrundtaste schlecht sein kann. Bitte passen Sie den Streamer-Effekt manuell an (heller Streamer: Vordergrundfarbe ist schwarz, dunkler Streamer: Vordergrundfarbe ist weiß)</string>
     <string name="baidu_pan">Baidu-Netzdiskette</string>
     <string name="basic_information">wesentliche Informationen</string>
@@ -66,7 +66,7 @@
     <string name="change_device_freq">Versuchen Sie, die Abtastrate des Ausgabegeräts gewaltsam zu ändern (experimentelle Funktion, anwendbar auf Hochleistungs-DAC-Ausgang)</string>
     <string name="change_device_freq_intro">Wird gezwungen, Audio mit hoher Frequenz abzuspielen (auch wenn das Ausgabegerät es nicht unterstützt), stellen Sie bitte auch sicher, dass die native Ausgabe aktiviert ist; Bitte beachten Sie, dass die meisten Geräte keine 96000 Hz und höhere Frequenzen unterstützen.</string>
     <string name="change_the_language">Sprache ändern</string>
-    <string name="change_to_you_like">Ändern Sie, was Sie mögen</string>
+    <string name="change_to_your_like">Ändern Sie, was Sie mögen</string>
     <string name="channel">Kanal</string>
     <string name="channel_count">Anzahl der Kanäle</string>
     <string name="channel_information">Kanalinformationen streamen</string>
@@ -186,7 +186,7 @@
     <string name="look_at_the_help">Sieh dir die Hilfe an.</string>
     <string name="lyrics">Lyrisch</string>
     <string name="lyrics_edit">Lyrische Bearbeitung</string>
-    <string name="lyrics_interface">Textschnittstelle</string>
+    <string name="lyrics_screen">Textschnittstelle</string>
     <string name="lyrics_settings">Texteinstellung</string>
     <string name="lyrics_view_text_align_center">Text zentriert anzeigen</string>
     <string name="lyrics_view_text_size">Schriftgröße der Textansicht</string>
@@ -233,9 +233,9 @@
     <string name="play_queue_d">Warteschlange abspielen (%d)</string>
     <string name="play_queue_is_empty">Die Abspielwarteschlange ist leer</string>
     <string name="player">Spieler</string>
-    <string name="player_activity_theme">Schnittstellenthema abspielen</string>
+    <string name="playback_screen_theme">Schnittstellenthema abspielen</string>
     <string name="player_configuration">Player-Konfiguration</string>
-    <string name="player_interface">Player-Schnittstelle</string>
+    <string name="playback_screen">Player-Schnittstelle</string>
     <string name="player_theme_dark">✨ Dunkler Streamer ✨</string>
     <string name="upload">Upload</string>
     <string name="playlist">Wiedergabeliste</string>
@@ -287,7 +287,7 @@
     <string name="search_songs_hint">Suche in %d Songs</string>
     <string name="stop">Hör auf damit.</string>
     <string name="use_music_tag_app_editing">Verwenden Sie die Music Tag App, um die Bearbeitung…</string>
-    <string name="privacy_agreement_and_terms_of_use">Privacy Agreement und Software Nutzungsbedingungen</string>
+    <string name="privacy_policy_and_terms_of_use">Privacy Agreement und Software Nutzungsbedingungen</string>
     <string name="source_address">Ressourcenadresse</string>
     <string name="title_not_empty">Titel kann nicht leer sein</string>
     <string name="source_of_lyrics">Quelle der Texte</string>
@@ -335,7 +335,7 @@
     <string name="system_language">Systemsprache</string>
     <string name="select_image">Bild auswählen</string>
     <string name="xposed_status_bar_lyrics">Xposed Statusleiste Lyrics</string>
-    <string name="you_need_to_restart_the_application">Sie müssen diese App neu starten</string>
+    <string name="you_need_to_restart_the_app">Sie müssen diese App neu starten</string>
     <string name="scan_music">Musik scannen</string>
     <string name="salt_player_pro">Salt Player Pro</string>
     <string name="start_scan">Scannen starten</string>
@@ -380,7 +380,7 @@
     <string name="refresh">Aktualisieren</string>
     <string name="internal_storage">Interne Lagerung</string>
     <string name="float_support_info">32-Bit Gleitkomma-Decodierung und -Verarbeitung</string>
-    <string name="wallpaper_of_main_interface">Hintergrundbild der Hauptoberfläche</string>
+    <string name="wallpaper_of_main_screen">Hintergrundbild der Hauptoberfläche</string>
     <string name="floating_window_status_bar_lyrics">Text der Statusleiste des schwebenden Fensters</string>
     <string name="background_color">Hintergrundfarbe</string>
     <string name="storage_occupancy">Lagerbelegung</string>
@@ -417,16 +417,16 @@
     <string name="android_media_store_intro">Scannen Sie schnell die Android-Mediathek, um Songs zu erhalten. Für Formatunterstützung verwenden Sie bitte die Salt and Pepper-Musikeinstellungen ->Audioausgabe ->Mediendekodierung, die von diesem Gerät bereitgestellt wird. Einige Geräte unterstützen das Scannen des DSD/APE-Formats nicht, passen Sie bitte den folgenden Ordner an.</string>
     <string name="custom">Kundenspezifisch</string>
     <string name="custom_folders_tip">Wenn die Funktion der Verwendung der Android-Mediathek während der Verwendung der benutzerdefinierten Ordnerfunktion aktiviert ist, werden die zuletzt gescannten Songs die Kombination der beiden sein. Wenn Sie nur benutzerdefinierte Ordner verwenden müssen, deaktivieren Sie bitte die Funktion der Verwendung der Android-Mediathek</string>
-    <string name="circle_play_mode">Listenschleifenmodus</string>
-    <string name="repeat_one_play_mode">Einspuriger Looping-Modus</string>
-    <string name="random_play_mode">Zufallsspielmodus</string>
-    <string name="remove_from_play_queue">Aus Abspielwarteschlange entfernen</string>
+    <string name="circle_playback_mode">Listenschleifenmodus</string>
+    <string name="repeat_one_playback_mode">Einspuriger Looping-Modus</string>
+    <string name="random_playback_mode">Zufallsspielmodus</string>
+    <string name="remove_from_playback_queue">Aus Abspielwarteschlange entfernen</string>
     <string name="blocked_folders">Blockierter Ordner</string>
     <string name="file_name">Dateiname</string>
     <string name="song_clips">Songclips</string>
     <string name="lyrics_view_text_bold">Text fett anzeigen</string>
     <string name="copyright">Urheberrecht</string>
-    <string name="mini_lyrics_in_player_ui">Play interface mini lyrics</string>
+    <string name="mini_lyrics_in_player_screen">Play interface mini lyrics</string>
     <string name="accessibility">Zugänglichkeit</string>
     <string name="accessibility_intro">Bereitstellen warmer App-Dienste für sehbehinderte Benutzer</string>
     <string name="date_modified">Date modified</string>
@@ -463,8 +463,8 @@
     <string name="get_album_art_when_embedded_cover_art_is_not_available">Try to get album art in the same folder when embedded cover art is not available</string>
     <string name="help_and_feedback">Help and feedback</string>
     <string name="panel">Panel</string>
-    <string name="player_interface_for_car">Player interface for car</string>
-    <string name="player_interface_for_car_intro">Only available when activating tablet mode</string>
+    <string name="player_screen_for_car">Player interface for car</string>
+    <string name="player_screen_for_car_intro">Only available when activating tablet mode</string>
     <string name="authorization_description">Authorization Description</string>
     <string name="authorization_description_for_read_external_storage">Read the audio file in the shared storage (not including the reading of photos and videos, if it is included in the System request description, it is a unified description because Android 12 and the following systems have not subdivided permissions), and obtain the ANDROID MEDIA STORE audio file information after authorization. If there is no system authorization inquiry after agreeing to this conversation, it may be that the permission of this App has been set to \"reject and no longer prompt\". Please manually go to the system settings to change it</string>
     <string name="error">Error</string>
@@ -520,7 +520,7 @@
     <string name="auto_start_on_boot">Auto start on boot</string>
     <string name="count">Count</string>
     <string name="emo_scroll">Emo Scroll</string>
-    <string name="hide_lyrics_interface_control_panel">Hide lyrics interface control panel</string>
+    <string name="hide_lyrics_screen_control_panel">Hide lyrics interface control panel</string>
     <string name="on">On</string>
     <string name="off">Off</string>
     <string name="file_not_found">Datei nicht gefunden</string>
