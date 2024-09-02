@@ -55,7 +55,7 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 
 | 功能 | 说明 |
 |:--|:--|
-| DSD 音频（.dsf/.dff） | 视为过时格式，推荐更换为 FLAC |
+| DSD 音频（.dsf/.dff） | 视为过时格式，推荐更换为 FLAC <br> 详见 [Salt Player 终止对 DSD 格式的维护和支持](https://github.com/Moriafly/SaltPlayerSource/blob/main/articles/240902_Deprecated_DSD.md) |
 
 ## 法律信息
 
