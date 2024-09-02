@@ -51,6 +51,12 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 | 魅族 Flyme | 状态栏歌词 | 🟢 支持 | |
 | | 灵动环 | 🔴 不支持 | 疑似白名单，未找到适配文档 |
 
+## 不再维护或支持的功能
+
+| 功能 | 说明 |
+|:--|:--|
+| DSD 音频（.dsf/.dff） | 视为过时格式，推荐更换为 FLAC |
+
 ## 法律信息
 
 Android 是 Google LLC 的商标
