@@ -426,7 +426,7 @@
     <string name="song_clips">Klip Lagu</string>
     <string name="lyrics_view_text_bold">Teks Tampilan Lirik Tebal</string>
     <string name="copyright">Hak Cipta</string>
-    <string name="mini_lyrics_in_player_screen">Lirik Mini dalam Antarmuka Pemutar</string>
+    <string name="mini_lyrics_in_playback_screen">Lirik Mini dalam Antarmuka Pemutar</string>
     <string name="accessibility">Aksesibilitas</string>
     <string name="accessibility_intro">Memberikan layanan yang lebih baik untuk pengguna dengan hambatan visual</string>
     <string name="date_modified">Tanggal Diubah</string>
@@ -463,8 +463,8 @@
     <string name="get_album_art_when_embedded_cover_art_is_not_available">Ambil Sampul Album jika Sampul Tersemat Tidak Tersedia</string>
     <string name="help_and_feedback">Bantuan dan Umpan Balik</string>
     <string name="panel">Panel</string>
-    <string name="player_screen_for_car">Antarmuka pemutar untuk mobil</string>
-    <string name="player_screen_for_car_intro">Hanya tersedia saat mengaktifkan mode tablet</string>
+    <string name="playback_screen_for_car">Antarmuka pemutar untuk mobil</string>
+    <string name="playback_screen_for_car_intro">Hanya tersedia saat mengaktifkan mode tablet</string>
     <string name="authorization_description">Deskripsi izin otorisasi</string>
     <string name="authorization_description_for_read_external_storage">Membaca file audio dari penyimpanan bersama (tidak termasuk membaca foto dan video, jika diminta dalam permintaan sistem, ini adalah deskripsi izin yang lebih umum untuk sistem Android 12 dan sebelumnya). Setelah izin diberikan, informasi file audio dari ANDROID MEDIA STORE dapat diakses. Jika setuju namun tidak ada permintaan izin dari sistem, kemungkinan izin ini dalam perangkat lunak diatur sebagai "Tolak dan Jangan Tampilkan Lagi". Silakan masuk ke pengaturan sistem dan ubahnya secara manual jika perlu</string>
     <string name="error">Kesalahan</string>
@@ -494,7 +494,7 @@
     <string name="windows_subsystem_for_android">Windows Subsystem untuk Android</string>
     <string name="album_list_settings">Pengaturan daftar album</string>
     <string name="minimum_number_of_columns">Jumlah minimum kolom</string>
-    <string name="hide_on_player_screen">Sembunyikan di layar pemutar</string>
+    <string name="hide_on_playback_screen">Sembunyikan di layar pemutar</string>
     <string name="unable_to_start_native_file_manager">Tidak dapat memulai pengelola file bawaan</string>
     <string name="unable_to_start_native_file_manager_intro">Aplikasi menggunakan pengelola file bawaan untuk memberikan izin pada folder\n1. Periksa apakah pengelola file bawaan dinonaktifkan (nama spesifik mungkin berbeda pada sistem OEM yang berbeda, dan nama paketnya unik: com.google.android.documentsui)\n2. Mungkin pengelola file bawaan (DocumentsUI, aplikasi bawaan sistem Android) telah digantikan secara selektif oleh pabrikan peralatan asli (OEM), yang biasanya ditemukan pada beberapa peralatan mobil\n* Pengelola File Bawaan dapat diperbarui di Google Play Store</string>
     <string name="album_artist">Artis album</string>

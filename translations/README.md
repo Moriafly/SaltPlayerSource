@@ -26,7 +26,7 @@ Turkish (Turkish, tr) : Fırat Cann
 
 Kurdish (Kurdish, ku) : Fırat Cann
 
-Deutsch (German, de) : zxy
+Deutsch (German, de) : zxy / Vamsi
 
 Français (French, fr) : Mathias Zhang
 

@@ -426,7 +426,7 @@
     <string name="song_clips">노래 클립</string>
     <string name="lyrics_view_text_bold">가사 뷰 텍스트 볼드</string>
     <string name="copyright">저작권</string>
-    <string name="mini_lyrics_in_player_screen">플레이어 UI에서 가사 미니</string>
+    <string name="mini_lyrics_in_playback_screen">플레이어 UI에서 가사 미니</string>
     <string name="accessibility">접근성</string>
     <string name="accessibility_intro">시각 장애인에게 더 나은 소프트웨어 서비스를 제공합니다</string>
     <string name="date_modified">수정 날짜</string>
@@ -463,8 +463,8 @@
     <string name="get_album_art_when_embedded_cover_art_is_not_available">임베디드 커버 아트를 가져올 수 없을 때 같은 폴더의 앨범 아트를 시도합니다</string>
     <string name="help_and_feedback">도움말과 피드백</string>
     <string name="panel">패널</string>
-    <string name="player_screen_for_car">차를 위한 플레이어 인터페이스</string>
-    <string name="player_screen_for_car_intro">태블릿 모드를 활성화 했을때만 적용됩니다</string>
+    <string name="playback_screen_for_car">차를 위한 플레이어 인터페이스</string>
+    <string name="playback_screen_for_car_intro">태블릿 모드를 활성화 했을때만 적용됩니다</string>
     <string name="authorization_description">권한 부여 설명</string>
     <string name="authorization_description_for_read_external_storage">공유 저장소에 있는 오디오 파일을 읽기 위해(사진 및 동영상 읽기 포함, 시스템 요청 설명에 포함되어 있다면 Android 12 및 그 이하의 시스템에서 권한을 세분화하지 않았기 때문에 통일된 설명입니다), 권한 부여 후 ANDROY MEDIA STORE 오디오 파일 정보를 얻으십시오. 이 대화에 동의한 후 시스템 권한 조회가 없으면 본 앱의 권한이 \"거부 및 더 이상 확인되지 않음\"으로 설정되어 있을 수 있습니다. 수동으로 시스템 설정으로 이동하여 변경하십시오</string>
     <string name="error">에러</string>
@@ -494,7 +494,7 @@
     <string name="windows_subsystem_for_android">Windows Subsystem for Android</string>
     <string name="album_list_settings">Album list settings</string>
     <string name="minimum_number_of_columns">Minimum number of columns</string>
-    <string name="hide_on_player_screen">Hide on player screen</string>
+    <string name="hide_on_playback_screen">Hide on player screen</string>
     <string name="unable_to_start_native_file_manager">Unable to start native file manager</string>
     <string name="unable_to_start_native_file_manager_intro">The App uses the native file manager to authorize folders\n1. Check whether the native file manager is disabled (the specific name may be different on different OEM systems, and the package name is unique: com.google.android.documentsui)\n2. It may be that the native file manager (DocumentsUI, built-in application of Android system) has been selectively replaced by the original equipment manufacturer (OEM), which is mostly found in some car equipment\n* Native File Manager can accept patches in Google Play Store</string>
     <string name="album_artist">Album artist</string>

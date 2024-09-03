@@ -426,7 +426,7 @@
     <string name="song_clips">歌曲片段</string>
     <string name="lyrics_view_text_bold">歌詞介面文本加粗</string>
     <string name="copyright">版權</string>
-    <string name="mini_lyrics_in_player_screen">播放介面迷你歌詞</string>
+    <string name="mini_lyrics_in_playback_screen">播放介面迷你歌詞</string>
     <string name="accessibility">輔助功能</string>
     <string name="accessibility_intro">為視力障礙用戶提供更好的軟件服務</string>
     <string name="date_modified">修改時間</string>
@@ -463,8 +463,8 @@
     <string name="get_album_art_when_embedded_cover_art_is_not_available">當嵌入式封面不可用時，嘗試將專輯封面放在同一資料夾中</string>
     <string name="help_and_feedback">幫助和回饋</string>
     <string name="panel">控制台</string>
-    <string name="player_screen_for_car">車載播放器介面</string>
-    <string name="player_screen_for_car_intro">僅在啟動平板電腦模式時才可用</string>
+    <string name="playback_screen_for_car">車載播放器介面</string>
+    <string name="playback_screen_for_car_intro">僅在啟動平板電腦模式時才可用</string>
     <string name="authorization_description">授權說明</string>
     <string name="authorization_description_for_read_external_storage">讀取共享儲存中的音訊檔案（不包括照片和影片的讀取，如果包含在系統請求描述中，則為統一描述，因為 Android 12 及以下系統沒有細分權限），並取得 ANDROID MEDIA STORE 授權後的音訊檔案資訊。 如果同意本次通話後沒有系統授權詢問，則可能是本App的權限已設定為「拒絕並不再提示」，請手動進入系統設定進行更改</string>
     <string name="error">錯誤</string>
@@ -494,7 +494,7 @@
     <string name="windows_subsystem_for_android">適用於 Android™ 的 Windows 子系統️</string>
     <string name="album_list_settings">專輯列表設定</string>
     <string name="minimum_number_of_columns">最小列數</string>
-    <string name="hide_on_player_screen">在播放介面隱藏</string>
+    <string name="hide_on_playback_screen">在播放介面隱藏</string>
     <string name="unable_to_start_native_file_manager">無法啟動原生檔案管理器</string>
     <string name="unable_to_start_native_file_manager_intro">軟體使用原生檔案管理器進行資料夾的授權\n1. 檢查是否有停用原生檔案管理器（具體名稱可能在不同原始裝置製造商系統上有所不同，套件名稱唯一：com.google.android.documentsui）\n2. 可能是原生檔案管理器（DocumentsUI，Android 系統內建應用程式）被原始裝置製造商（OEM）進行了可選擇的替換，多見於一些車機設備\n* 原生檔案管理器可在 Google Play 商店接受補丁</string>
     <string name="album_artist">專輯藝術家</string>

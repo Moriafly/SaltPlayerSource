@@ -426,7 +426,7 @@
     <string name="song_clips">ソングクリップ</string>
     <string name="lyrics_view_text_bold">歌詞表示テキスト太字</string>
     <string name="copyright">Copyright</string>
-    <string name="mini_lyrics_in_player_screen">プレーヤー UI のミニ歌詞</string>
+    <string name="mini_lyrics_in_playback_screen">プレーヤー UI のミニ歌詞</string>
     <string name="accessibility">ユーザー補助</string>
     <string name="accessibility_intro">視覚障害のあるユーザーにより良いソフトウェア・サービスを提供する</string>
     <string name="date_modified">変更時間</string>
@@ -463,8 +463,8 @@
     <string name="get_album_art_when_embedded_cover_art_is_not_available">埋め込まれたカバーアートが利用できない場合は、同じフォルダー内のアルバムアートを取得してみてください</string>
     <string name="help_and_feedback">ヘルプとフィードバック</string>
     <string name="panel">パネルパネル</string>
-    <string name="player_screen_for_car">車載プレーヤーインタフェース</string>
-    <string name="player_screen_for_car_intro">タブレットモードがアクティブな場合にのみ使用可能</string>
+    <string name="playback_screen_for_car">車載プレーヤーインタフェース</string>
+    <string name="playback_screen_for_car_intro">タブレットモードがアクティブな場合にのみ使用可能</string>
     <string name="authorization_description">権限の説明</string>
     <string name="authorization_description_for_read_external_storage">共有ストレージ内のオーディオファイルを読み込み（写真、ビデオの読み込みは含まれておらず、システム要求の説明に含まれている場合は、Android 12 および以下のシステムのための権限が細分化されていないので統一的に記述されている）、許可されてから ANDROID MEDIA STORE オーディオファイル情報などを取得することができます。このセッションに同意した後にシステム承認の問い合わせがない場合は、ソフトウェアのこの権限が「拒否して再プロンプトしない」に設定されている可能性があります。手動でシステム設定の変更に移動してください</string>
     <string name="error">エラー</string>
@@ -494,7 +494,7 @@
     <string name="windows_subsystem_for_android">Android の Windows サブシステム</string>
     <string name="album_list_settings">アルバム・リストの設定</string>
     <string name="minimum_number_of_columns">列の最小数</string>
-    <string name="hide_on_player_screen">プレーヤー画面上に隠す</string>
+    <string name="hide_on_playback_screen">プレーヤー画面上に隠す</string>
     <string name="unable_to_start_native_file_manager">ネイティブ ファイル マネージャーを起動できません</string>
     <string name="unable_to_start_native_file_manager_intro">ソフトウェアはネイティブ ファイル マネージャーを使用してフォルダーを認証します\n1. ネイティブ ファイル マネージャーが無効になっているかどうかを確認します (特定の名前は OEM システムによって異なる場合があり、パッケージ名は唯一です：com.google.android.documentsui)\n2. ネイティブ ファイル マネージャー (DocumentsUI、Android システムの組み込みアプリケーション) が、一部の車載機器で一般的である相手先商標製品製造業者 (OEM) によってオプションで置き換えられた可能性があります\n* ネイティブ ファイル マネージャー Google Play ストアで見つけることができますパッチを受け入れます</string>
     <string name="album_artist">アルバム・アーティスト</string>

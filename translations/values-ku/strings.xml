@@ -427,7 +427,7 @@
     <string name="song_clips">Song clips</string>
     <string name="lyrics_view_text_bold">Lyrics view text bold</string>
     <string name="copyright">Copyright</string>
-    <string name="mini_lyrics_in_player_screen">Mini lyrics in player UI</string>
+    <string name="mini_lyrics_in_playback_screen">Mini lyrics in player UI</string>
     <string name="accessibility">Accessibility</string>
     <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
     <string name="date_modified">Date modified</string>
@@ -464,8 +464,8 @@
     <string name="get_album_art_when_embedded_cover_art_is_not_available">Try to get album art in the same folder when embedded cover art is not available</string>
     <string name="help_and_feedback">Help and feedback</string>
     <string name="panel">Panel</string>
-    <string name="player_screen_for_car">Player interface for car</string>
-    <string name="player_screen_for_car_intro">Only available when activating tablet mode</string>
+    <string name="playback_screen_for_car">Player interface for car</string>
+    <string name="playback_screen_for_car_intro">Only available when activating tablet mode</string>
     <string name="authorization_description">Authorization Description</string>
     <string name="authorization_description_for_read_external_storage">Read the audio file in the shared storage (not including the reading of photos and videos, if it is included in the System request description, it is a unified description because Android 12 and the following systems have not subdivided permissions), and obtain the ANDROID MEDIA STORE audio file information after authorization. If there is no system authorization inquiry after agreeing to this conversation, it may be that the permission of this App has been set to \"reject and no longer prompt\". Please manually go to the system settings to change it</string>
     <string name="error">Error</string>
@@ -495,7 +495,7 @@
     <string name="windows_subsystem_for_android">Windows Subsystem for Android</string>
     <string name="album_list_settings">Album list settings</string>
     <string name="minimum_number_of_columns">Minimum number of columns</string>
-    <string name="hide_on_player_screen">Hide on player screen</string>
+    <string name="hide_on_playback_screen">Hide on player screen</string>
     <string name="unable_to_start_native_file_manager">Unable to start native file manager</string>
     <string name="unable_to_start_native_file_manager_intro">The App uses the native file manager to authorize folders\n1. Check whether the native file manager is disabled (the specific name may be different on different OEM systems, and the package name is unique: com.google.android.documentsui)\n2. It may be that the native file manager (DocumentsUI, built-in application of Android system) has been selectively replaced by the original equipment manufacturer (OEM), which is mostly found in some car equipment\n* Native File Manager can accept patches in Google Play Store</string>
     <string name="album_artist">Album artist</string>

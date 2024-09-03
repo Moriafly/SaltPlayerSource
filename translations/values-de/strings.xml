@@ -426,7 +426,7 @@
     <string name="song_clips">Songclips</string>
     <string name="lyrics_view_text_bold">Text fett anzeigen</string>
     <string name="copyright">Urheberrecht</string>
-    <string name="mini_lyrics_in_player_screen">Play interface mini lyrics</string>
+    <string name="mini_lyrics_in_playback_screen">Play interface mini lyrics</string>
     <string name="accessibility">Zugänglichkeit</string>
     <string name="accessibility_intro">Bereitstellen warmer App-Dienste für sehbehinderte Benutzer</string>
     <string name="date_modified">Änderungsdatum</string>
@@ -463,8 +463,8 @@
     <string name="get_album_art_when_embedded_cover_art_is_not_available">Versuchen Sie, Albumcover in denselben Ordner zu laden, wenn keine eingebetteten Cover verfügbar sind</string>
     <string name="help_and_feedback">Hilfe und Feedback</string>
     <string name="panel">Bedienfeld</string>
-    <string name="player_screen_for_car">Player-Schnittstelle für Auto</string>
-    <string name="player_screen_for_car_intro">Nur verfügbar, wenn der Tablet-Modus aktiviert ist</string>
+    <string name="playback_screen_for_car">Player-Schnittstelle für Auto</string>
+    <string name="playback_screen_for_car_intro">Nur verfügbar, wenn der Tablet-Modus aktiviert ist</string>
     <string name="authorization_description">Autorisierungsbeschreibung</string>
     <string name="authorization_description_for_read_external_storage">Lesen Sie die Audiodatei im gemeinsam genutzten Speicher (ausgenommen das Lesen von Fotos und Videos, wenn es in der Systemanforderungsbeschreibung enthalten ist, handelt es sich um eine einheitliche Beschreibung, da Android 12 und die folgenden Systeme keine unterteilten Berechtigungen haben) und erhalten Sie nach der Autorisierung die Audiodateiinformationen von ANDROID MEDIA STORE. Wenn nach der Zustimmung zu dieser Konversation keine Systemautorisierungsanfrage erfolgt, kann es sein, dass die Berechtigung dieser App auf „Ablehnen und nicht mehr nachfragen“ eingestellt wurde. Bitte gehen Sie manuell zu den Systemeinstellungen, um dies zu ändern</string>
     <string name="error">Fehler</string>
@@ -494,7 +494,7 @@
     <string name="windows_subsystem_for_android">Windows-Subsystem für Android</string>
     <string name="album_list_settings">Albumlisteneinstellungen</string>
     <string name="minimum_number_of_columns">Mindestanzahl von Spalten</string>
-    <string name="hide_on_player_screen">Auf dem Player-Bildschirm ausblenden</string>
+    <string name="hide_on_playback_screen">Auf dem Player-Bildschirm ausblenden</string>
     <string name="unable_to_start_native_file_manager">Der native Dateimanager kann nicht gestartet werden.</string>
     <string name="unable_to_start_native_file_manager_intro">Die App verwendet den nativen Dateimanager, um Ordner zu autorisieren\n1. Überprüfen Sie, ob der native Dateimanager deaktiviert ist (der spezifische Name kann auf verschiedenen OEM-Systemen unterschiedlich sein und der Paketname ist eindeutig: com.google.android.documentsui)\n2. Es kann sein, dass der native Dateimanager (DocumentsUI, integrierte Anwendung des Android-Systems) selektiv vom Originalgerätehersteller (OEM) ersetzt wurde, was hauptsächlich in einigen Autogeräten zu finden ist\n* Der native Dateimanager kann Patches im Google Play Store akzeptieren</string>
     <string name="album_artist">Künstler des Albums</string>

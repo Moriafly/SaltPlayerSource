@@ -277,7 +277,7 @@
     <string name="song_settings_intro">Status Bar Lyrics, Online Lyrics, Album covers, Album info, etc</string>
     <string name="language_settings_intro">Choose a Language, Help translation</string>
     <string name="about_settings_intro">Software information, software usage rules, privacy agreements, open source licenses, contact developers, etc</string>
-    <string name="user_interface_intro">Player Screen Theme, Immersion Mode, etc</string>
+    <string name="user_interface_intro">Playback Screen Theme, Immersion Mode, etc</string>
     <string name="hide_folder">Hide Folder</string>
     <string name="hide_folder_intro">Do you want to hide all songs in folder %s and its subfolders?</string>
     <string name="developer_email">Developer Email</string>
@@ -292,7 +292,7 @@
     <string name="use_classic_lyrics_view">Use the Classic Lyrics View</string>
     <string name="lyrics_view_text_align_center">Make Lyrics Text Centered</string>
     <string name="playback_screen">Playback Screen</string>
-    <string name="tablet_mode">Tablet mode</string>
+    <string name="tablet_mode">Tablet Mode</string>
     <string name="keyboard_shortcuts">Keyboard Shortcuts</string>
     <string name="space_bar_play_or_pause_music">Space Bar to Play or Pause Music</string>
     <string name="tablet_mode_intro">To enhance user experience, we\'ve designed three new layouts for Salt Player 5.0, inspired by the adaptive interface technology and excellent status bar and navigation bar adaptation</string>
@@ -429,7 +429,7 @@
     <string name="song_clips">Song Clips</string>
     <string name="lyrics_view_text_bold">Make Lyrics Text Bold</string>
     <string name="copyright">Copyright</string>
-    <string name="mini_lyrics_in_player_screen">Mini Lyrics in Player Screen</string>
+    <string name="mini_lyrics_in_playback_screen">Mini Lyrics in Playback Screen</string>
     <string name="accessibility">Accessibility</string>
     <string name="accessibility_intro">Provide Better App Experience for Users with Visual Impairment</string>
     <string name="date_modified">Date Modified</string>
@@ -466,8 +466,8 @@
     <string name="get_album_art_when_embedded_cover_art_is_not_available">Try to get album art from the same folder when embedded cover art is not available</string>
     <string name="help_and_feedback">Help and Feedback</string>
     <string name="panel">Panel</string>
-    <string name="player_screen_for_car">Player Screen for Car</string>
-    <string name="player_screen_for_car_intro">Only Available when Activating Tablet Mode</string>
+    <string name="playback_screen_for_car">Playback Screen for Car</string>
+    <string name="playback_screen_for_car_intro">Only Available when Activating Tablet Mode</string>
     <string name="authorization_description">Authorization Description</string>
     <string name="authorization_description_for_read_external_storage">Read the Audio File in the Shared Storage (not including the reading of photos and videos, if it is included in the System request description, it is a unified description because Android 12 and the following systems have not subdivided permissions), and obtain the ANDROID MEDIA STORE audio file information after authorization. If there is no system authorization inquiry after agreeing to this conversation, it may be that the permission of this App has been set to \"reject and no longer prompt\". Please manually go to the system settings to change it</string>
     <string name="error">Error</string>
@@ -497,7 +497,7 @@
     <string name="windows_subsystem_for_android">Windows Subsystem for Android</string>
     <string name="album_list_settings">Album List Settings</string>
     <string name="minimum_number_of_columns">Minimum Number of Columns</string>
-    <string name="hide_on_player_screen">Hide on player screen</string>
+    <string name="hide_on_playback_screen">Hide on playback screen</string>
     <string name="unable_to_start_native_file_manager">Unable to Start Native File Manager</string>
     <string name="unable_to_start_native_file_manager_intro">The App uses the native file manager to authorize folders\n1. Check whether the native file manager is disabled (the specific name may be different on different OEM systems, and the package name is unique: com.google.android.documentsui)\n2. It may be that the native file manager (DocumentsUI, built-in application of Android system) has been selectively replaced by the original equipment manufacturer (OEM), which is mostly found in some car equipment\n* Native File Manager can accept patches in Google Play Store</string>
     <string name="album_artist">Album Artist</string>

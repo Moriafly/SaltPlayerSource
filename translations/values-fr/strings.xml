@@ -426,7 +426,7 @@
     <string name="song_clips">Extraits de morceaux</string>
     <string name="lyrics_view_text_bold">Rendre le texte des paroles en gras</string>
     <string name="copyright">Droits d\'auteur</string>
-    <string name="mini_lyrics_in_player_screen">Mini-paroles dans l\'interface de l\'application</string>
+    <string name="mini_lyrics_in_playback_screen">Mini-paroles dans l\'interface de l\'application</string>
     <string name="accessibility">Accessibilité</string>
     <string name="accessibility_intro">Offrir de meilleurs services d\'application pour les utilisateurs ayant une déficience visuelle</string>
     <string name="date_modified">Date de modification</string>
@@ -463,8 +463,8 @@
     <string name="get_album_art_when_embedded_cover_art_is_not_available">Essayer de récupérer la pochette de l\'album dans le même dossier lorsque la pochette intégrée n\'est pas disponible</string>
     <string name="help_and_feedback">Aide et commentaires</string>
     <string name="panel">Panneau</string>
-    <string name="player_screen_for_car">Interface de lecteur pour voiture</string>
-    <string name="player_screen_for_car_intro">Disponible uniquement lorsque le mode tablette est activé</string>
+    <string name="playback_screen_for_car">Interface de lecteur pour voiture</string>
+    <string name="playback_screen_for_car_intro">Disponible uniquement lorsque le mode tablette est activé</string>
     <string name="authorization_description">Description d\'autorisation</string>
     <string name="authorization_description_for_read_external_storage">Lire le fichier audio dans le stockage partagé (ne comprend pas la lecture de photos et de vidéos, si cela est inclus dans la description de la demande du système, c\'est une description unifiée car Android 12 et les systèmes suivants n\'ont pas subdivisé les autorisations), et obtenir les informations du fichier audio de ANDROID MEDIA STORE après autorisation. Si aucune demande d\'autorisation système n\'apparaît après avoir accepté cette conversation, il se peut que l\'autorisation de cette application ait été définie sur \"refuser et ne plus demander\". Veuillez vous rendre manuellement dans les paramètres du système pour la modifier</string>
     <string name="error">Erreur</string>
@@ -494,7 +494,7 @@
     <string name="windows_subsystem_for_android">Sous-système Windows pour Android</string>
     <string name="album_list_settings">Paramètres de la liste des albums</string>
     <string name="minimum_number_of_columns">Nombre minimum de colonnes</string>
-    <string name="hide_on_player_screen">Masquer sur l\'écran du lecteur</string>
+    <string name="hide_on_playback_screen">Masquer sur l\'écran du lecteur</string>
     <string name="unable_to_start_native_file_manager">Impossible de démarrer le gestionnaire de fichiers natif</string>
     <string name="unable_to_start_native_file_manager_intro">L\'application utilise le gestionnaire de fichiers natif pour autoriser les dossiers\n1. Vérifiez si le gestionnaire de fichiers natif est désactivé (le nom spécifique peut varier selon les systèmes OEM, et le nom du paquet est unique : com.google.android.documentsui)\n2. Il se peut que le gestionnaire de fichiers natif (DocumentsUI, application intégrée du système Android) ait été sélectivement remplacé par le fabricant d\'équipement d\'origine (OEM), ce qui se trouve principalement dans certains équipements automobiles\n* Le gestionnaire de fichiers natif peut accepter des correctifs dans Google Play Store</string>
     <string name="album_artist">Artiste de l\'album</string>
