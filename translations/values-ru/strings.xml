@@ -135,10 +135,10 @@
     <string name="lyrics_view_text_size">Размер текста песни</string>
     <string name="audio_decoding">Декодирование звука</string>
     <string name="default_audio_decoding">Декодирование звука по умолчанию</string>
-    <string name="auto_matching_of_network_album_info">Автоматическое сопоставление информации о сетевых альбомах</string>
+    <string name="auto_matching_of_network_album_info">Автоматическое сопоставление информации альбомов в сети</string>
     <string name="others">Другие</string>
     <string name="help">Помощь</string>
-    <string name="playback_screen_theme">Тема активности игрока</string>
+    <string name="playback_screen_theme">Тема экрана воспроизведения</string>
     <string name="video">Видео</string>
     <string name="give_high_praise">Дайте высокую оценку</string>
     <string name="lock_screen">Блокировка экрана</string>
@@ -159,8 +159,8 @@
     <string name="use_music_tag_app_editing">Изменить теги</string>
     <string name="auto_matching_of_network_lyrics_explain">Попробовать получить веб–текст песни, если невозможно найти встроенный текст песни или файл текста песни (LRC–файл с тем же именем каталога).</string>
     <string name="media_decoding_provided_by_this_device">Декодеры предоставляемые данным устройством</string>
-    <string name="attenuate_flowing_light_effect_explain">Уменьшите эффект рендеринга струящегося света, чтобы повысить производительность рендеринга струящегося света</string>
-    <string name="ignore_media_store_cover_explain">Этот параметр игнорирует обложки системной медиатеки, что может улучшить качество обложек и поддерживать разные обложки для одного альбома, возможно, замедляя загрузку</string>
+    <string name="attenuate_flowing_light_effect_explain">Уменьшает эффект меняющиеся цветов, чтобы повысить производительность</string>
+    <string name="ignore_media_store_cover_explain">Этот параметр игнорирует обложки из Media Store, что может улучшить качество обложек и поддерживать разные обложки для одного альбома но замедляет быстродействие</string>
     <string name="privacy_policy_and_terms_of_use">Соглашение конфиденциальности и условия использования</string>
     <string name="dialog_sleep_timer_tips">При использовании во время сна рекомендуется снизить громкость и не устанавливать ее на высокую в течение длительного времени. Длительное воздействие звука высокой громкости может привести к повреждению слуха</string>
     <string name="direct_links">Основные ссылки</string>
@@ -180,7 +180,7 @@
     <string name="source_of_lyrics">Источник текста</string>
     <string name="see_lyrics_help">See lyrics help</string>
     <string name="player_configuration">Конфигурация плеера</string>
-    <string name="audio_output_tips">❗Пожалуйста, внимательно изучите устройство перед изменением вышеуказанных настроек, изменения вступят в силу после переключения песен, слишком высокая начальная частота дискретизации плеера может привести к серьезным потерям ресурсов и энергопотребления</string>
+    <string name="audio_output_tips">❗Пожалуйста, внимательно изучите характеристики устройства перед изменением вышеуказанных настроек, изменения вступят в силу после переключения песни, слишком высокая частота дискретизации может привести к более быстрому перегреву или энергопотреблению</string>
     <string name="audio_output">Вывод звука</string>
     <string name="file_not_found_exception">Невозможно найти файл, может быть он был перемещен или удален</string>
     <string name="random_play">Случайное воспроизведение</string>
