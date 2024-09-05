@@ -6,11 +6,13 @@
 
 ## Версия которая актуальна для перевода
 
-10.2.9.1
+10.5.0
 
 # Большое спасибо тем кто переводил
 
 На Английский (English, en): Moriafly / Suriya T / lloyd
+
+На Традиционный Китайский (Chinese Traditional, zh-Hant) : lilin / 狐狸小宮 / TragicLifeHu / Dedicatus5457
 
 На Испанский (Spanish, es): Nachogao / MRGABOZ
 
@@ -45,3 +47,5 @@
 - Добавляйте точку при переводе длинного текста
 
 - Авторские права на перевод принадлежат разработчику и переводчику ПО
+
+[更多参考](https://sakawish.github.io/open-source/salt-ui/tdts/)
