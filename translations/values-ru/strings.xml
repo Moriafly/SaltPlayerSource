@@ -120,7 +120,7 @@
     <string name="bitrate">Битрейт</string>
     <string name="sample_rate">Частота дискретизации</string>
     <string name="channel_count">Количество каналов</string>
-    <string name="no_lyrics">Не обнаружен текст песни</string>
+    <string name="no_lyrics">Не найден текст песни</string>
     <string name="lyrics_edit">Редактировать текст песни</string>
     <string name="save">Сохранить</string>
     <string name="menu">Меню</string>
@@ -140,7 +140,7 @@
     <string name="help">Помощь</string>
     <string name="playback_screen_theme">Тема активности игрока</string>
     <string name="video">Видео</string>
-    <string name="give_high_praise">Give high praise</string>
+    <string name="give_high_praise">Дайте высокую оценку</string>
     <string name="lock_screen">Блокировка экрана</string>
     <string name="ignore_media_store_cover">Игнорировать обложку в Media Store</string>
     <string name="player">Плеер</string>
@@ -157,7 +157,7 @@
     <string name="baidu_pan">Baidu Pan</string>
     <string name="stop">Стоп</string>
     <string name="use_music_tag_app_editing">Изменить теги</string>
-    <string name="auto_matching_of_network_lyrics_explain">Попробовать получить веб-текст песни, если невозможно найти встроенный текст песни или файл текста песни (.lrc-файл с тем же именем каталога).</string>
+    <string name="auto_matching_of_network_lyrics_explain">Попробовать получить веб–текст песни, если невозможно найти встроенный текст песни или файл текста песни (LRC–файл с тем же именем каталога).</string>
     <string name="media_decoding_provided_by_this_device">Декодеры предоставляемые данным устройством</string>
     <string name="attenuate_flowing_light_effect_explain">Уменьшите эффект рендеринга струящегося света, чтобы повысить производительность рендеринга струящегося света</string>
     <string name="ignore_media_store_cover_explain">Этот параметр игнорирует обложки системной медиатеки, что может улучшить качество обложек и поддерживать разные обложки для одного альбома, возможно, замедляя загрузку</string>
