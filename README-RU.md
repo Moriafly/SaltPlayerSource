@@ -4,7 +4,7 @@
 
 Переводы：[中文](https://github.com/Moriafly/SaltPlayerSource/blob/main/README.md)，[Indonesia](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-ID.md)
 
-[Salt and Pepper Music или Salt Player](https://sakawish.github.io/apps/salt-player/) - это программа для воспроизведения музыки на платформе Android. Этот репозиторий используется для публикации обновлений новой версии Salt and Pepper Music, сбора отзывов и отправки уведомлений.
+Salt Player - это программа для воспроизведения музыки на платформе Android. Этот репозиторий используется для публикации обновлений новой версии Salt and Pepper Music, сбора отзывов и отправки уведомлений
 
 ## Скачивание
 
@@ -14,13 +14,13 @@ Salt Player *для Android* требуется система на Android 6.0 
 
 | Источники | Версия | Источники |
 |:--|:--|:--|
-| Moriafly | Стандартная версия | [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> [CoolApk](https://www.coolapk.com/apk/284064)(только на ARM-v8a) |
+| Moriafly | Стандартная версия | [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> [CoolApk](https://www.coolapk.com/apk/284064) (только на ARM-v8a) |
 | Google Play | Версия от Google | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) |
 
 Внимание：
 
-1. Пожалуйста, скачивайте это приложение только с офицальных источников, пожалуйста, не используйте установочные файлы из неизвестных источников.
-2. Версия Google Play подписана и выпущена компанией Google и несовместима со стандартной версией.
+1. Пожалуйста, скачивайте это приложение только с офицальных источников, пожалуйста, не используйте установочные файлы из неизвестных источников
+2. Версия Google Play подписана и выпущена компанией Google и несовместима со стандартной версией
 
 ### Windows
 
@@ -59,10 +59,10 @@ Salt Player *для Android* требуется система на Android 6.0 
 
 ## Юридическая информация
 
-Торговая марка Android принадлежит компании Google LLC.
+Торговая марка Android принадлежит компании Google LLC
 
 Логотип Android созданная Google воссоздан или изменен на основе оригинальных и общедоступных результатов интелектуальной собственности при условии соблюдения [Сreative Сommons](https://creativecommons.org/licenses/by/3.0/) и должны применяться условия лицензии версии 3.0
 
-Salt Player является зарегистрированной торговой маркой компании Xunxun Technology (Shanghai) Co., Ltd. в Китайской Народной Республике.
+Salt Player является зарегистрированной торговой маркой компании Xunxun Technology (Shanghai) Co., Ltd. в Китайской Народной Республике
 
 Для получения более подробной юридической информации, пожалуйста, ознакомьтесь с политикой программнного обеспечения и связанными с ним ресурсами сети интернет
