@@ -220,7 +220,7 @@
     <string name="change_to_your_like">Modifier selon vos préférences</string>
     <string name="hidden_songs_and_folders">Les morceaux et les dossiers cachés</string>
     <string name="look_at_the_help">Consulter l\'aide</string>
-    <string name="terms_of_use_for_software">Conditions d\'utilisation du logiciel</string>
+    <string name="terms_of_use">Conditions d\'utilisation du logiciel</string>
     <string name="immersion_mode">Mode immersion</string>
     <string name="channel">Chaîne</string>
     <string name="player_theme_dark">✨Flux sombre✨</string>
@@ -538,4 +538,5 @@
     <string name="back_cover">Back Cover</string>
     <string name="album_artwork">Album Artwork</string>
     <string name="unknown_error">Unknown Error</string>
+    <string name="app_registration_number">App Registration Number</string>
 </resources>

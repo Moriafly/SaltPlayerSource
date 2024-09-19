@@ -303,7 +303,7 @@
     <string name="some_information">Biraz bilgi</string>
     <string name="use_better">Daha iyi kullan</string>
     <string name="status_bar_lyrics_not_show_translation">Durum çubuğu şarkı sözleri çeviriyi göstermiyor</string>
-    <string name="terms_of_use_for_software">Yazılım için kullanım koşulları</string>
+    <string name="terms_of_use">Yazılım için kullanım koşulları</string>
     <string name="player_theme_light">🍉Işık akıyor🍨（2021 💕 Yaz hatırası olarak）</string>
     <string name="some_image_resources_from">Bazı görüntü kaynakları</string>
     <string name="whether_to_clear_the_current_playback_queue">Mevcut çalma kuyruğu temizlensin mi?</string>
@@ -538,4 +538,5 @@
     <string name="back_cover">Back Cover</string>
     <string name="album_artwork">Album Artwork</string>
     <string name="unknown_error">Unknown Error</string>
+    <string name="app_registration_number">App Registration Number</string>
 </resources>

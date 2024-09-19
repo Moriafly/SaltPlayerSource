@@ -220,7 +220,7 @@
     <string name="change_to_your_like">Ubah Sesuai Keinginan Anda</string>
     <string name="hidden_songs_and_folders">Lagu dan Folder Tersembunyi</string>
     <string name="look_at_the_help">Lihat Bantuan</string>
-    <string name="terms_of_use_for_software">Syarat Penggunaan Perangkat Lunak</string>
+    <string name="terms_of_use">Syarat Penggunaan Perangkat Lunak</string>
     <string name="immersion_mode">Mode Imersi</string>
     <string name="channel">Saluran</string>
     <string name="player_theme_dark">✨Tema Gelap yang Indah✨</string>
@@ -538,4 +538,5 @@
     <string name="back_cover">Cover Belakang</string>
     <string name="album_artwork">Karya Seni Album</string>
     <string name="unknown_error">Kesalahan Tidak Diketahui</string>
+    <string name="app_registration_number">App Registration Number</string>
 </resources>

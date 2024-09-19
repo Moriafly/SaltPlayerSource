@@ -220,7 +220,7 @@
     <string name="change_to_your_like">Change to you like</string>
     <string name="hidden_songs_and_folders">Скрытые песни и папки</string>
     <string name="look_at_the_help">Look at the help</string>
-    <string name="terms_of_use_for_software">Пользовательское соглашение</string>
+    <string name="terms_of_use">Пользовательское соглашение</string>
     <string name="immersion_mode">Режим погружения</string>
     <string name="channel">Канал</string>
     <string name="player_theme_dark">✨Темная палитра✨</string>
@@ -538,4 +538,5 @@
     <string name="back_cover">Задняя обложка</string>
     <string name="album_artwork">Оформление альбома</string>
     <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="app_registration_number">App Registration Number</string>
 </resources>

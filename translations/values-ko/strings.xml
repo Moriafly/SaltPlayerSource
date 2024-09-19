@@ -220,7 +220,7 @@
     <string name="change_to_your_like">좋아하는 것으로 변경</string>
     <string name="hidden_songs_and_folders">숨겨진 노래와 폴더</string>
     <string name="look_at_the_help">도움말을 참조하세요</string>
-    <string name="terms_of_use_for_software">소프트웨어 사용 약관</string>
+    <string name="terms_of_use">소프트웨어 사용 약관</string>
     <string name="immersion_mode">몰입 모드</string>
     <string name="channel">채널</string>
     <string name="player_theme_dark">✨진한 색상 흐름✨</string>
@@ -538,4 +538,5 @@
     <string name="back_cover">Back Cover</string>
     <string name="album_artwork">Album Artwork</string>
     <string name="unknown_error">Unknown Error</string>
+    <string name="app_registration_number">App Registration Number</string>
 </resources>

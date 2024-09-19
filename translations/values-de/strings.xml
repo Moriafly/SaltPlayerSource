@@ -304,7 +304,7 @@
     <string name="some_information">Einige Informationen</string>
     <string name="use_better">Bessere Nutzung</string>
     <string name="status_bar_lyrics_not_show_translation">Songtexte in der Statusleiste zeigen keine Übersetzung an</string>
-    <string name="terms_of_use_for_software">Vorschriften zur Softwarenutzung</string>
+    <string name="terms_of_use">Vorschriften zur Softwarenutzung</string>
     <string name="player_theme_light">🍉 Leichter Streamer 🍨 （2021  💕  Sommersouvenir)</string>
     <string name="some_image_resources_from">Einige Bildressourcen stammen aus</string>
     <string name="whether_to_clear_the_current_playback_queue">Möchten Sie die aktuelle Warteschlange leeren?</string>
@@ -538,4 +538,5 @@
     <string name="back_cover">Rückseite</string>
     <string name="album_artwork">Albumcover</string>
     <string name="unknown_error">Unbekannter Fehler</string>
+    <string name="app_registration_number">App Registration Number</string>
 </resources>

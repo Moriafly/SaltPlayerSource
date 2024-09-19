@@ -220,7 +220,7 @@
     <string name="change_to_your_like">改成你喜欢的</string>
     <string name="hidden_songs_and_folders">隐藏的歌曲和文件夹</string>
     <string name="look_at_the_help">看看帮助吧</string>
-    <string name="terms_of_use_for_software">软件使用条例</string>
+    <string name="terms_of_use">软件使用条款</string>
     <string name="immersion_mode">沉浸模式</string>
     <string name="channel">渠道</string>
     <string name="player_theme_dark">✨深色流光✨</string>
@@ -538,4 +538,5 @@
     <string name="back_cover">封底</string>
     <string name="album_artwork">专辑视觉设计</string>
     <string name="unknown_error">未知错误</string>
+    <string name="app_registration_number">App 备案号</string>
 </resources>

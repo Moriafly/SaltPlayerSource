@@ -220,7 +220,7 @@
     <string name="change_to_your_like">あなたの好きにしてください</string>
     <string name="hidden_songs_and_folders">隠した曲とフォルダー</string>
     <string name="look_at_the_help">ヘルプを見てみる</string>
-    <string name="terms_of_use_for_software">ソフトウェア利用規約</string>
+    <string name="terms_of_use">ソフトウェア利用規約</string>
     <string name="immersion_mode">没入モード</string>
     <string name="channel">チャンネル</string>
     <string name="player_theme_dark">✨ダーク流光✨</string>
@@ -538,4 +538,5 @@
     <string name="back_cover">裏表紙</string>
     <string name="album_artwork">アルバム・アートワーク</string>
     <string name="unknown_error">未知のエラー</string>
+    <string name="app_registration_number">App Registration Number</string>
 </resources>

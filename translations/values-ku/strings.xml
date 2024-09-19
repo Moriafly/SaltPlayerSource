@@ -304,7 +304,7 @@
     <string name="some_information">Agahiyek piçûk</string>
     <string name="use_better">Çêtir bikar bînin</string>
     <string name="status_bar_lyrics_not_show_translation">Bara statûyê wergera stranan nayê nîşandan</string>
-    <string name="terms_of_use_for_software">Mercên karanîna ji bo nermalavê</string>
+    <string name="terms_of_use">Mercên karanîna ji bo nermalavê</string>
     <string name="player_theme_light">🍉Ronahî diherike🍨（2021 💕 Wek bîranîneke havînê）</string>
     <string name="some_image_resources_from">Hin çavkaniyên wêneyê</string>
     <string name="whether_to_clear_the_current_playback_queue">Dora lîstikê ya heyî hat paqijkirin?</string>
@@ -539,4 +539,5 @@
     <string name="back_cover">Back Cover</string>
     <string name="album_artwork">Album Artwork</string>
     <string name="unknown_error">Unknown Error</string>
+    <string name="app_registration_number">App Registration Number</string>
 </resources>
