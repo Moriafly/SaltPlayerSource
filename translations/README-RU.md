@@ -6,7 +6,7 @@
 
 ## Версия которая актуальна для перевода
 
-10.5.0
+10.5.0.1
 
 # Большое спасибо тем кто переводил
 
@@ -18,7 +18,7 @@
 
 На Японский (Japanese, ja): AliceMerami / 狐狸小宮 / warekosoha / tgw314
 
-На Индонезийский (Indonesia, id (in)) : zam / Yan75 / ReikiAigawara / Relvin Arsenio
+На Индонезийский (Indonesia, id (in)) : zam / Yan75 / ReikiAigawara / Relvin Arsenio / Fandy Fathurrohman
 
 На Португальский (Portuguese, pt-BR) : Ricardo Sousa 🇧🇷
 
