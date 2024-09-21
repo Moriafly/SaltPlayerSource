@@ -14,7 +14,7 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 
 | 渠道 | 发布 | 介绍 | ⚠️ 注意 |
 |:--|:--|:--|:--|
-| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [酷安](https://www.coolapk.com/apk/284064) | 标准包 | 1. 酷安发布仅提供 arm64-v8a 架构 <br> 2. release 代表正式版，beta/alpha 代表测试版本 |
+| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [酷安](https://www.coolapk.com/apk/284064) | 标准包 | 1. 酷安发布仅提供 arm64-v8a 架构 <br> 2. release 代表稳定版本，beta/alpha 代表测试版本 |
 | Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | 谷歌 Play 商店渠道包 | 1. 动态下发 arm64-v8a/armeabi-v7a 架构 <br> 2. Google Play 版本由谷歌签名发布，与此标准包**不兼容** <br> 3. 会选用特殊的稳定版本或特殊制作版本，与标准包更新策略不同 |
 | Official | 1. OPPO 应用商店 <br> 2. 荣耀应用商店 <br> 3. 小米应用商店 | 中国大陆商店渠道包 | 1. 仅提供 arm64-v8a 架构 <br> 2. 仅面向中国大陆提供支持 <br> 3. 会选用特殊的稳定版本或特殊制作版本，与标准包更新策略不同 |
 
