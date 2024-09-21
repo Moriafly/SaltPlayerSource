@@ -4,7 +4,7 @@
 
 本页翻译：[Русский](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-RU.md)，[Indonesia](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-ID.md)
 
-Salt Player 是一款本地音乐播放软件，本仓库用来发布新版本、收集反馈和发布通知
+Salt Player（椒盐音乐）是一款本地音乐播放软件，本仓库用来发布新版本、收集反馈和发布通知
 
 ## 下载渠道
 
@@ -14,9 +14,9 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 
 | 渠道 | 发布 | 介绍 | ⚠️ 注意 |
 |:--|:--|:--|:--|
-| Moriafly | [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> [酷安](https://www.coolapk.com/apk/284064) | 标准包 | 1. 酷安发布仅提供 arm64-v8a 架构 <br> 2. release 代表正式版，beta/alpha 代表测试版本 |
+| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [酷安](https://www.coolapk.com/apk/284064) | 标准包 | 1. 酷安发布仅提供 arm64-v8a 架构 <br> 2. release 代表正式版，beta/alpha 代表测试版本 |
 | Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | 谷歌 Play 商店渠道包 | 1. 动态下发 arm64-v8a/armeabi-v7a 架构 <br> 2. Google Play 版本由谷歌签名发布，与此标准包**不兼容** <br> 3. 会选用特殊的稳定版本或特殊制作版本，与标准包更新策略不同 |
-| Official | OPPO 应用商店 <br> 荣耀应用商店 | 中国大陆商店渠道包 | 1. 仅提供 arm64-v8a 架构 <br> 2. 仅面向中国大陆提供支持 <br> 3. 会选用特殊的稳定版本或特殊制作版本，与标准包更新策略不同 |
+| Official | 1. OPPO 应用商店 <br> 2. 荣耀应用商店 <br> 3. 小米应用商店 | 中国大陆商店渠道包 | 1. 仅提供 arm64-v8a 架构 <br> 2. 仅面向中国大陆提供支持 <br> 3. 会选用特殊的稳定版本或特殊制作版本，与标准包更新策略不同 |
 
 注意：请在正确的渠道下载本应用，请勿使用未知签名来源的安装文件
 
