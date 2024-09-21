@@ -14,11 +14,23 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 
 | 渠道 | 发布 | 介绍 | ⚠️ 注意 |
 |:--|:--|:--|:--|
-| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [酷安](https://www.coolapk.com/apk/284064) | 标准包 | 1. 酷安发布仅提供 arm64-v8a 架构 <br> 2. release 代表稳定版本，beta/alpha 代表测试版本 |
+| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [酷安](https://www.coolapk.com/apk/284064) | 标准包 | 酷安发布仅提供 arm64-v8a 架构 |
 | Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | 谷歌 Play 商店渠道包 | 1. 动态下发 arm64-v8a/armeabi-v7a 架构 <br> 2. Google Play 版本由谷歌签名发布，与此标准包**不兼容** <br> 3. 会选用特殊的稳定版本或特殊制作版本，与标准包更新策略不同 |
-| Official | 1. OPPO 应用商店 <br> 2. 荣耀应用商店 <br> 3. 小米应用商店 | 中国大陆商店渠道包 | 1. 仅提供 arm64-v8a 架构 <br> 2. 仅面向中国大陆提供支持 <br> 3. 会选用特殊的稳定版本或特殊制作版本，与标准包更新策略不同 |
+| Official | 1. OPPO 应用商店 <br> 2. 荣耀应用商店 <br> 3. 小米应用商店 | 中国大陆商店渠道包 | 1. 仅提供 arm64-v8a 架构 <br> 2. 仅面向中国大陆提供支持 <br> 3. 会选用特殊的稳定版本或特殊制作版本，与标准包更新策略不同 <br> 4. 受审核或其他原因，不同应用商店更新速度或版本号可能存在差异 |
 
 注意：请在正确的渠道下载本应用，请勿使用未知签名来源的安装文件
+
+#### 版本（文件）命名规则
+
+例如 Apk 文件名 10.5.0.2-release-2024091902-moriafly-arm64-v8a，含义为：
+
+| 文本 | 代表 | 介绍 |
+|:--|:--|:--|
+| 10.5.0.2 | 版本名称 | 10 表示大版本，5 表示次要版本，0 表示小版本，2 表示紧急修复次数（通常记录为 0 而省略，如直接填写 10.4.4 版本） |
+| release | 版本类型 | 1. release 代表稳定版本，beta 代表公开测试版本，alpha 代表内部测试版本 <br> 2. release 类型一般省略不写，alpha 版本也可能公开发布但表示稳定性较低 <br> 3. 稳定性 release > beta > alpha（存在主观判断） |
+| 2024091902 | 版本代码 | Salt Player *for Android* 的版本代码具有含义，2024091902 表示此版本是 2024 年 8 月 19 日第 2 次构建的 |
+| moriafly | 渠道编号 | 见渠道表 |
+| arm64-v8a | 架构 | 见渠道表 |
 
 
 ### Windows
