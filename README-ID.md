@@ -4,21 +4,20 @@
 
 Halaman terjemahan lain: [中文](https://github.com/Moriafly/SaltPlayerSource/blob/main/README.md), [Русский](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-RU.md)
 
-Salt Player adalah aplikasi pemutar musik lokal. Repositori ini dipakai buat ngeluarin versi baru, ngumpulin feedback, dan ngasih pengumuman.
+Salt Player adalah aplikasi pemutar musik lokal. Repositori ini dipakai buat ngeluarin versi baru, ngumpulin feedback, dan ngasih pengumuman
 
 ## Cara Download
 
 ### Android
 
-Salt Player *untuk Android* butuh Android 6.0 ke atas dan support buat arsitektur arm-v8a dan armeabi-v7a.
+Salt Player *untuk Android* butuh Android 6.0 ke atas dan support buat arsitektur arm-v8a dan armeabi-v7a
 
 | Channel | Rilis | Keterangan | ⚠️ Catatan |
 |:--|:--|:--|:--|
 | Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [Coolapk](https://www.coolapk.com/apk/284064) | Paket standar | Rilis di Coolapk cuma support arm64-v8a |
 | Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | Paket dari Play Store | 1. Google Play nyesuaiin arsitektur arm64-v8a/armeabi-v7a <br> 2. Versi Google Play ditandatangani sama Google, jadi gak kompatibel sama paket standar di repositori ini <br> 3. Versi di Play Store kadang versi stabil khusus, update bisa beda sama paket standar |
-| Official | 1. OPPO App Store <br> 2. Honor App Store <br> 3. Xiaomi App Store | Paket dari store Tiongkok | 1. Cuma support arm64-v8a <br> 2. Hanya didukung di Tiongkok <br> 3. Versi stabil khusus, update beda sama paket standar <br> 4. Karena review atau alasan lain, versi dan kecepatan update di tiap store bisa beda-beda |
 
-Catatan: Pastikan download aplikasi ini dari sumber yang bener, jangan pakai file instalasi dari sumber yang gak jelas.
+Catatan: Pastikan download aplikasi ini dari sumber yang bener, jangan pakai file instalasi dari sumber yang gak jelas
 
 #### Aturan Penamaan Versi (File)
 
@@ -37,15 +36,15 @@ Misalnya nama file Apk 10.5.0.2-release-2024091902-moriafly-arm64-v8a, artinya:
 
 <img src="src/spw.png" height="128px"/>
 
-Lihat lebih lanjut di [SPW](https://github.com/Moriafly/SPW) untuk panduannya.
+Lihat lebih lanjut di [SPW](https://github.com/Moriafly/SPW) untuk panduannya
 
 ## Tentang Open Source
 
-Lihat [Salt UI](https://github.com/Moriafly/SaltUI).
+Lihat [Salt UI](https://github.com/Moriafly/SaltUI)
 
 ## Penyesuaian Bahasa
 
-Lihat lebih lanjut di [Translations](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations).
+Lihat lebih lanjut di [Translations](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations)
 
 ## Kompatibilitas Sistem
 
@@ -58,7 +57,7 @@ Lihat lebih lanjut di [Translations](https://github.com/Moriafly/SaltPlayerSourc
 | vivo OriginOS/Funtouch OS | joviincar Smart Car Mode | 🟢 Didukung | 1. Pada 29 Agustus 2024, vivo Smart Car V4.0.7.3 udah support Salt Player. Terima kasih buat feedback pengguna vivo dan dukungan resmi vivo <br> 2. Versi uji coba, belum support tampilan lirik di joviincar, bisa pakai Bluetooth mobil buat lirik |
 | | Hi-Fi | 🔵 Manual | 1. Tambahin lewat adb dengan perintah `settings put global game_support_hifi_list com.salt.music` <br> 2. Setelah masuk daftar Hi-Fi, buka Pengaturan > Suara & Getaran > Halaman Hi-Fi buat aktifin <br> 3. Untuk cek perangkat kamu support Hi-Fi atau gak, cek di website resmi vivo |
 | | Atom Walkman | 🔴 Tidak didukung | Kemungkinan butuh whitelist, dokumentasi penyesuaian gak ditemukan <br> [#749](https://github.com/Moriafly/SaltPlayerSource/issues/749) |
-| OPPO ColorOS | Cloud Fluid | 🟠 Sedang diproses | Butuh review kualifikasi perusahaan sebelum penyesuaian khusus bisa dikembangkan, harap ditunggu |
+| OPPO ColorOS | Fluid Cloud | 🟠 Sedang diproses | Butuh review kualifikasi perusahaan sebelum penyesuaian khusus bisa dikembangkan, harap ditunggu |
 | Meizu Flyme | Lirik di Status Bar | 🟢 Didukung | |
 | | Smart Ring | 🔴 Tidak didukung | Kemungkinan butuh whitelist, dokumentasi penyesuaian gak ditemukan |
 
@@ -70,10 +69,10 @@ Lihat lebih lanjut di [Translations](https://github.com/Moriafly/SaltPlayerSourc
 
 ## Informasi Hukum
 
-Android adalah merek dagang dari Google LLC.
+Android adalah merek dagang dari Google LLC
 
-Robot Android adalah karya turunan yang dibuat dan dibagikan oleh Google, dan penggunaannya mengikuti lisensi [Creative Commons](https://creativecommons.org/licenses/by/3.0/) Atribusi 3.0.
+Robot Android adalah karya turunan yang dibuat dan dibagikan oleh Google, dan penggunaannya mengikuti lisensi [Creative Commons](https://creativecommons.org/licenses/by/3.0/) Atribusi 3.0
 
-Salt Player adalah merek dagang yang terdaftar atas nama Xunxun Technology (Shanghai) Co., Ltd di Republik Rakyat Tiongkok.
+Salt Player adalah merek dagang yang terdaftar atas nama Xunxun Technology (Shanghai) Co., Ltd di Republik Rakyat Tiongkok
 
-Untuk info hukum lebih lanjut, silakan cek di dalam aplikasi atau situs terkait.
+Untuk info hukum lebih lanjut, silakan cek di dalam aplikasi atau situs terkait
