@@ -16,7 +16,7 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 |:--|:--|:--|:--|
 | Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [酷安](https://www.coolapk.com/apk/284064) | 标准包 | 酷安发布仅提供 arm64-v8a 架构 |
 | Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | 谷歌 Play 商店渠道包 | 1. 动态下发 arm64-v8a/armeabi-v7a 架构 <br> 2. Google Play 版本由谷歌签名发布，与此标准包**不兼容** <br> 3. 会选用特殊的稳定版本或特殊制作版本，与标准包更新策略不同 |
-| Official | 1. OPPO 应用商店 <br> 2. 荣耀应用商店 <br> 3. 小米应用商店 | 中国大陆商店渠道包 | 1. 仅提供 arm64-v8a 架构 <br> 2. 仅面向中国大陆提供支持 <br> 3. 会选用特殊的稳定版本或特殊制作版本，与标准包更新策略不同 <br> 4. 受审核或其他原因，不同应用商店更新速度或版本号可能存在差异 |
+| Official | 1. OPPO 软件商店 <br> 2. [荣耀应用市场](https://appmarket-h5.cloud.honor.com/h5/share/latest/index.html?shareId=1842107500028387328&shareTo=copyLink) <br> 3. [小米应用商店](http://app.xiaomi.com/detail/1610743) <br> 4. [华为应用市场](https://url.cloud.huawei.com/sztUvRf1XW) <br> *以上序号按上架先后顺序排序，暂未找到 OPPO 软件商店 Salt Player 的分享链接* | 中国大陆商店渠道包 | 1. 仅提供 arm64-v8a 架构 <br> 2. 仅面向中国大陆提供支持 <br> 3. 会选用特殊的稳定版本或特殊制作版本，与标准包更新策略不同 <br> 4. 受审核或其他原因，不同应用商店更新速度或版本号可能存在差异 |
 
 注意：请在正确的渠道下载本应用，请勿使用未知签名来源的安装文件
 
