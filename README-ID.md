@@ -16,6 +16,8 @@ Salt Player *untuk Android* butuh Android 6.0 ke atas dan support buat arsitektu
 |:--|:--|:--|:--|
 | Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [Coolapk](https://www.coolapk.com/apk/284064) | Paket standar | Rilis di Coolapk cuma support arm64-v8a |
 | Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | Paket dari Play Store | 1. Google Play nyesuaiin arsitektur arm64-v8a/armeabi-v7a <br> 2. Versi Google Play ditandatangani sama Google, jadi gak kompatibel sama paket standar di repositori ini <br> 3. Versi di Play Store kadang versi stabil khusus, update bisa beda sama paket standar |
+| Official | 1. OPPO Software Store <br> 2. [Honor App Market](https://appmarket-h5.cloud.honor.com/h5/share/latest/index.html?shareId=1842107500028387328&shareTo=copyLink) <br> 3. [Xiaomi App Store](http://app.xiaomi.com/detail/1610743) <br> 4. [Huawei App Market](https://url.cloud.huawei.com/sztUvRf1XW) <br> *Urutannya berdasarkan yang paling duluan rilis, belum nemu link share Salt Player di OPPO Software Store* | Channel Store Tiongkok Daratan | 1. Cuma support arsitektur arm64-v8a <br> 2. Hanya buat pengguna di Tiongkok Daratan <br> 3. Bisa pakai versi stabil khusus atau versi custom, beda sama update strategi paket standar <br> 4. Karena proses review atau alasan lain, kecepatan update dan versi mungkin beda di tiap app store |
+
 
 Catatan: Pastikan download aplikasi ini dari sumber yang bener, jangan pakai file instalasi dari sumber yang gak jelas
 
