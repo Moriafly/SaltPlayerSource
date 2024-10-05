@@ -67,6 +67,12 @@ Lihat lebih lanjut di [Translations](https://github.com/Moriafly/SaltPlayerSourc
 |:--|:--|:--|
 | Audio DSD (.dsf/.dff) | 2024 | Dianggap format lama, disarankan ganti ke FLAC <br> Lihat lebih lanjut di [Salt Player Menghentikan Dukungan untuk Format DSD](https://github.com/Moriafly/SaltPlayerSource/blob/main/articles/240902_Deprecated_DSD.md) |
 
+## Kontributor repositori ini
+
+<a href="https://github.com/Moriafly/SaltPlayerSource/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Moriafly/SaltPlayerSource&columns=12" />
+</a>
+
 ## Informasi Hukum
 
 Android adalah merek dagang dari Google LLC
