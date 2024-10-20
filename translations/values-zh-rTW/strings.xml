@@ -35,7 +35,7 @@
     <string name="artist">演出者</string>
     <string name="update_log">更新日誌</string>
     <string name="song_comment">歌曲評論</string>
-    <string name="playlist_recommend">歌單推薦</string>
+    <string name="playlist_recommend">歌單推薦</string>  
     <string name="search">搜尋</string>
     <string name="experimental">實驗性</string>
     <string name="confirm">確定</string>
@@ -506,7 +506,7 @@
     <string name="manage_external_storage_permission">管理外部儲存權限</string>
     <string name="system_recommended_output_sample_rate">系統推薦輸出採樣率</string>
     <string name="desktop_lyrics_unlocked">桌面歌詞已解鎖</string>
-    <string name="desktop_lyrics_locked">桌面歌詞已鎖定</string>
+    <string name="desktop_lyrics_locked">桌面歌詞已鎖定</string>  
     <string name="desktop_lyrics_closed">桌面歌詞已關閉</string>
     <string name="desktop_lyrics_opened">桌面歌詞已開啟</string>
     <string name="audio_focus_is_occupied_by_other_app">音訊焦點被其他 App 使用中</string>
@@ -520,7 +520,7 @@
     <string name="auto_start_on_boot">開機自啟</string>
     <string name="count">數量</string>
     <string name="emo_scroll">心事捲軸</string>
-    <string name="hide_lyrics_screen_control_panel">隱藏歌詞介面控制面板</string>
+    <string name="hide_lyrics_screen_control_panel">隱藏歌詞介面控制面板</string>  
     <string name="on">開</string>
     <string name="off">关</string>
     <string name="file_not_found">找不到檔案</string>
@@ -538,5 +538,5 @@
     <string name="back_cover">封底</string>
     <string name="album_artwork">專輯視覺設計</string>
     <string name="unknown_error">未知錯誤</string>
-    <string name="app_registration_number">App Registration Number</string>
+    <string name="app_registration_number">應用程式註冊號碼</string>      
 </resources>
