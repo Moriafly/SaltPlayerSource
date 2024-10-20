@@ -519,7 +519,7 @@
     <string name="developer_report">開発者レポート</string>
     <string name="auto_start_on_boot">起動時に自動起動</string>
     <string name="count">カウント</string>
-    <string name="emo_scroll">Emo Scroll</string>
+    <string name="emo_scroll">エモ・スクロール</string>
     <string name="hide_lyrics_screen_control_panel">歌詞インターフェイスのコントロールパネルを非表示にする</string>
     <string name="on">オン</string>
     <string name="off">オフ</string>
@@ -538,5 +538,5 @@
     <string name="back_cover">裏表紙</string>
     <string name="album_artwork">アルバム・アートワーク</string>
     <string name="unknown_error">未知のエラー</string>
-    <string name="app_registration_number">App Registration Number</string>
+    <string name="app_registration_number">アプリ登録番号</string>
 </resources>
