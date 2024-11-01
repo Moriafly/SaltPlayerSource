@@ -4,7 +4,7 @@ title: ""
 labels: ["Bug"]
 assignees: ""
 
-body
+body:
   - type: markdown
     attributes:
       value: |
@@ -12,7 +12,6 @@ body
         Only give feedback on one usage problem encountered, please resubmit another issue
 
   - type: checkboxes
-    id: terms
     attributes:
       label: 在反馈此问题前请注意
       description: 在提交此反馈前请确认以下内容
@@ -21,8 +20,27 @@ body
           required: true
         - label: 尝试在仓库 issue 搜索你要反馈的问题，避免重复反馈 Try to search for your feedback in the warehouse issue to avoid repeated feedback
           required: true
+
+  - type: input
+    attributes:
+      label: 设备型号
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: 系统版本
+      description: OEM 系统版本以及 Android 系统版本
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: 软件版本
+    validations:
+      required: true
+
   - type: textarea
-    id: issue
     attributes:
       label: 描述问题
       description: |
@@ -32,6 +50,3 @@ body
       placeholder: 在此输入你遇到的问题，必填 Enter the problem you encountered here. Required
     validations:
       required: true
-
-软件版本 Software version：<软件版本 Software version>
-系统版本 System version：<系统版本 System version>
