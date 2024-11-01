@@ -1,8 +1,8 @@
 name: 错误问题反馈 Bug Report
 description: 反馈遇到的问题 Feedback the encountered issues
-title: ""
+title: "Bug"
 labels: ["Bug"]
-assignees: ""
+assignees: "Moriafly"
 
 body:
   - type: markdown
