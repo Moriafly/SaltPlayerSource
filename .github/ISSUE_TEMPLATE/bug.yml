@@ -1,6 +1,5 @@
 name: 错误问题反馈 Bug Report
 description: 反馈遇到的问题 Feedback the encountered issues
-title: "Bug"
 labels: ["Bug"]
 assignees: "Moriafly"
 
@@ -13,40 +12,38 @@ body:
 
   - type: checkboxes
     attributes:
-      label: 在反馈此问题前请注意
-      description: 在提交此反馈前请确认以下内容
+      label: 在反馈此问题前请注意 Please note before reporting this issue
+      description: 在提交此反馈前请确认以下内容 Please confirm the following items before submitting this feedback
       options:
-        - label: 详细阅读椒盐音乐帮助内容 Read more about the Salt Player help content
+        - label: 已经查看相关帮助内容 Read more about the Salt Player help content
           required: true
-        - label: 尝试在仓库 issue 搜索你要反馈的问题，避免重复反馈 Try to search for your feedback in the warehouse issue to avoid repeated feedback
+        - label: 已经在本仓库搜索相关内容（避免重复反馈）Already searched for related content in this repository (to avoid duplicate feedback)
           required: true
 
   - type: input
     attributes:
-      label: 设备型号
+      label: 设备型号 Device Model
     validations:
       required: true
 
   - type: input
     attributes:
-      label: 系统版本
-      description: OEM 系统版本以及 Android 系统版本
+      label: 系统版本 System Version
+      description: OEM 以及 Android 系统版本 OEM and Android system version
     validations:
       required: true
 
   - type: input
     attributes:
-      label: 软件版本
+      label: 软件版本 App Version
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: 描述问题
+      label: 描述问题 Describe issue
       description: |
-        尽量详细的描述问题 Describe the problem as detailed as possible
-        提供出现此问题的椒盐音乐版本号 Provide the version number of Salt Player where this issue occurred
-        建议提供机型、系统版本 You are advised to provide the model and system version
-      placeholder: 在此输入你遇到的问题，必填 Enter the problem you encountered here. Required
+        尽量详细的描述问题 Describe as detailed as possible
+      placeholder: 在此输入遇到的问题，必填 Enter the issue encountered here, Required
     validations:
       required: true
