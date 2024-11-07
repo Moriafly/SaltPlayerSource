@@ -80,6 +80,6 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 
 **Android 机器人**是在 Google 原创及共享成果的基础上再创作或修改而成，须遵照[知识共享](https://creativecommons.org/licenses/by/3.0/)署名 3.0 许可所述条款付诸应用
 
-**Salt Player** 和 **糖醋音乐** 均是寻浔科技（上海）有限公司在中华人民共和国的注册商标
+**Salt Player** 和**糖醋音乐**均是寻浔科技（上海）有限公司在中华人民共和国的注册商标
 
 更多相关法律信息请在软件内部以及相关网站查询
