@@ -4,28 +4,28 @@
 
 Halaman terjemahan lain: [中文](https://github.com/Moriafly/SaltPlayerSource/blob/main/README.md), [Русский](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-RU.md)
 
-Salt Player adalah aplikasi pemutar musik lokal. Repositori ini dipakai buat ngeluarin versi baru, ngumpulin feedback, dan ngasih pengumuman
+Salt Player adalah aplikasi pemutar musik lokal. Repositori ini dipakai buat merilis versi terbaru, ngumpulin feedback, dan ngasih pengumuman.
 
 ## Cara Download
 
 ### Android
 
-Salt Player *untuk Android* butuh Android 6.0 ke atas dan support buat arsitektur arm-v8a dan armeabi-v7a
+Salt Player *buat Android* butuh Android 6.0 ke atas dan support arsitektur arm-v8a dan armeabi-v7a.
 
 | Channel | Rilis | Keterangan | ⚠️ Catatan |
 |:--|:--|:--|:--|
 | Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [Coolapk](https://www.coolapk.com/apk/284064) | Paket standar | Rilis di Coolapk cuma support arm64-v8a |
 | Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | Paket dari Play Store | 1. Google Play nyesuaiin arsitektur arm64-v8a/armeabi-v7a <br> 2. Versi Google Play ditandatangani sama Google, jadi gak kompatibel sama paket standar di repositori ini <br> 3. Versi di Play Store kadang versi stabil khusus, update bisa beda sama paket standar |
 
-Catatan: Pastikan download aplikasi ini dari sumber yang bener, jangan pakai file instalasi dari sumber yang gak jelas
+**Catatan:** Pastikan download aplikasi ini dari sumber yang bener, jangan pakai file instalasi dari sumber yang gak jelas.
 
 #### Aturan Penamaan Versi (File)
 
-Misalnya nama file Apk 10.5.0.2-release-2024091902-moriafly-arm64-v8a, artinya:
+Misalnya nama file Apk `10.5.0.2-release-2024091902-moriafly-arm64-v8a`, artinya:
 
 | Teks | Arti | Keterangan |
 |:--|:--|:--|
-| 10.5.0.2 | Nama versi | 10 buat versi mayor, 5 buat versi minor, 0 buat revisi, 2 buat patch emergency (kalau 0 biasanya gak ditulis, kayak langsung versi 10.4.4) |
+| 10.5.0.2 | Nama versi | 10 buat versi mayor, 5 buat versi minor, 0 buat revisi, 2 buat patch darurat (kalau 0 biasanya gak ditulis, kayak langsung versi 10.4.4) |
 | release | Tipe versi | 1. release buat versi stabil, beta buat versi uji coba publik, alpha buat versi internal <br> 2. Tipe release biasanya gak ditulis, tapi alpha kadang dirilis publik meski stabilitasnya rendah <br> 3. Stabilitas: release > beta > alpha (ini subjektif sih) |
 | 2024091902 | Kode versi | Kode versi Salt Player *untuk Android*, 2024091902 artinya build kedua di tanggal 19 September 2024 |
 | moriafly | Kode channel | Lihat di tabel channel |
@@ -35,15 +35,15 @@ Misalnya nama file Apk 10.5.0.2-release-2024091902-moriafly-arm64-v8a, artinya:
 
 <img src="src/spw.png" height="128px"/>
 
-Lihat lebih lanjut di [SPW](https://github.com/Moriafly/SPW) untuk panduannya
+Lihat lebih lanjut di [SPW](https://github.com/Moriafly/SPW) untuk panduannya.
 
 ## Tentang Open Source
 
-Lihat [Salt UI](https://github.com/Moriafly/SaltUI)
+Lihat [Salt UI](https://github.com/Moriafly/SaltUI).
 
 ## Penyesuaian Bahasa
 
-Lihat lebih lanjut di [Translations](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations)
+Lihat lebih lanjut di [Translations](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations).
 
 ## Kompatibilitas Sistem
 
@@ -80,4 +80,4 @@ Robot Android adalah karya turunan yang dibuat dan dibagikan oleh Google, dan pe
 
 Salt Player adalah merek dagang yang terdaftar atas nama Xunxun Technology (Shanghai) Co., Ltd di Republik Rakyat Tiongkok
 
-Untuk info hukum lebih lanjut, silakan cek di dalam aplikasi atau situs terkait
+Untuk info hukum lebih lanjut, silakan cek di dalam aplikasi atau situs terkait.
