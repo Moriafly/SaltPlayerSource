@@ -65,7 +65,7 @@ Salt Player *для Android* требуется система на Android 6.0 
 
 | Функция | Дата | Подробнее |
 |:--|:--|:--|
-| DSD аудио（.dsf/.dff）| 2024 год | Рассматриваемый как устаревший формат, рекомендуется заменить его на FLAC <br> Смотрите подробности для получения дополнительной информации [Salt Player завершает работу поддержку формата DSD](https://github.com/Moriafly/SaltPlayerSource/blob/main/articles/240902_Deprecated_DSD.md) |
+| DSD аудио（.dsf/.dff）| 2024 год | Рассматриваемый как устаревший формат, рекомендуется заменить его на FLAC <br> Смотрите подробности для получения дополнительной информации [Salt Player завершает работу поддержку формата DSD](https://github.com/Moriafly/SaltPlayerSource/blob/main/articles/240902_Deprecated_DSD.md) [(Перевод)](https://github.com/Moriafly/SaltPlayerSource/blob/main/articles/241123_Deprecated_DSD_russian_translate.md) |
 
 ## Контрибуторы
 
