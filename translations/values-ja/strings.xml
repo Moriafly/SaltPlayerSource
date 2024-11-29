@@ -175,7 +175,7 @@
     <string name="native_output_intro">Android 8.0 以降では AAudio 出力を、それ以前のバージョンでは OpenSL ES 出力を使用します。低いレイテンシーと音質の向上が期待できますが、システムイコライザーとの互換性がなく、バッテリーの消耗も激しくなります</string>
     <string name="audio_effect_dialog_error_tips">❗ネイティブ出力を有効にすると、システムイコライザーとサードパーティ製のオーディオエフェクトソフトウェアは使用できなくなります</string>
     <string name="codec">コーデック</string>
-    <string name="options_for_audiophile">オーディオオタク向けのオプション</string>
+    <string name="options_for_audiophile">オーディオマニア向けのオプション</string>
     <string name="audio_output_freq">オーディオ出力サンプリング周波数</string>
     <string name="source_of_lyrics">歌詞のソース</string>
     <string name="see_lyrics_help">歌詞に関するヘルプを表示する</string>
@@ -532,7 +532,7 @@
     <string name="hidden_songs">隠し曲</string>
     <string name="font_weight">フォントのウェイト</string>
     <string name="download_it_on_coolapk">CoolApk でダウンロード</string>
-    <string name="optional_updates">オプション・アップデート</string>
+    <string name="optional_updates">任意アップデート</string>
     <string name="additional_pro_features_intro">追加の Pro 機能は設定画面にあります、詳細については特定のカテゴリ画面を確認してください</string>
     <string name="front_cover">表紙</string>
     <string name="back_cover">裏表紙</string>
