@@ -105,7 +105,7 @@
     <string name="folder">フォルダ</string>
     <string name="share">共有</string>
     <string name="language">言語</string>
-    <string name="unknown">未知</string>
+    <string name="unknown">不明</string>
     <string name="title">タイトル</string>
     <string name="title_desc">タイトル降順</string>
     <string name="add_time">時間を追加</string>
@@ -537,6 +537,6 @@
     <string name="front_cover">表紙</string>
     <string name="back_cover">裏表紙</string>
     <string name="album_artwork">アルバム・アートワーク</string>
-    <string name="unknown_error">未知のエラー</string>
+    <string name="unknown_error">不明なエラー</string>
     <string name="app_registration_number">アプリ登録番号</string>
 </resources>
