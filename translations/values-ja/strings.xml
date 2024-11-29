@@ -226,7 +226,7 @@
     <string name="player_theme_dark">✨ダーク流光✨</string>
     <string name="player_theme_light">🍉ライト流光🍨（2021 💕 夏祭り）</string>
     <string name="close">閉じる</string>
-    <string name="immersion_mode_explain">ステータスバーを隠して、再生画面ではジャケット、歌詞、基本的なコントロールボタンだけを表示して、音楽に没入します。一時停止ボタンを長押しして没入モードを ON / OFF できます</string>
+    <string name="immersion_mode_explain">ステータスバーを隠して、再生画面ではアルバムカバー、歌詞、基本的なコントロールボタンだけを表示して、音楽に没入します。一時停止ボタンを長押しして没入モードを ON / OFF できます</string>
     <string name="delete_s_forever">%s を永久に削除しますか?</string>
     <string name="delete_playlist">プレイリストを削除</string>
     <string name="add_to_playlist">プレイリストに追加</string>
@@ -437,7 +437,7 @@
     <string name="system_level_status_bar_lyrics">システムレベルのステータスバーの歌詞</string>
     <string name="logout">ログアウト</string>
     <string name="zoom_display_size">拡大表示サイズ</string>
-    <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen">カスタマイズ再生画面のアルバムジャケット左下隅に Hi-Res ロゴを表示</string>
+    <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen">カスタマイズ再生画面のアルバムカバー左下隅に Hi-Res ロゴを表示</string>
     <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen_tip">好きな小さいアイコンを選択します（正方形の再生画面のみ機能します）。 大きすぎる画像ファイルの使用はお勧めしません</string>
     <string name="export">輸出</string>
     <string name="confirm_password">パスワードを認証する</string>
