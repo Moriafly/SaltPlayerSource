@@ -539,4 +539,23 @@
     <string name="album_artwork">專輯視覺設計</string>
     <string name="unknown_error">未知錯誤</string>
     <string name="app_registration_number">應用程式註冊號碼</string>
+    <string name="scanning_in_progress_please_wait">Scanning in progress please wait</string>
+    <string name="notification">Notification</string>
+    <string name="close_button">Close Button</string>
+    <string name="ask">Ask</string>
+    <string name="terminate_app_process">Terminate App Process</string>
+    <string name="show_close_button">Show Close Button</string>
+    <string name="show_desktop_lyrics_button">Desktop Lyrics Button</string>
+    <string name="show_desktop_lyrics_button_intro">When Salt Player is playing, display a desktop lyrics button in the system music notification bar or control center music panel. The desktop lyrics feature requires the overlay permission</string>
+    <string name="show_close_button_intro">On some systems, there may not be an explicit notification bar action to close the music app process. This button can forcefully terminate the Salt Player process. On early MIUI systems, there may be issues with residual notifications, and in specific system interfaces, you may not immediately notice changes in the app\'s process state</string>
+    <string name="notification_screen_warning">The order of actionable buttons displayed by Salt Player in the system music notification bar or control center music panel is determined by the current system settings. These buttons may be default-folded to three, with the play/pause button either at the front or in the middle. When only one Salt Player controllable button is enabled, this button may be placed in an uncertain position</string>
+    <string name="also_close_desktop_lyrics">Also Close Desktop Lyrics?</string>
+    <string name="also_close_desktop_lyrics_intro">Even if the desktop lyrics button is not displayed in the system music notification bar or control center music panel, it can be controlled directly through the desktop lyrics button in the settings</string>
+    <string name="production">Production</string>
+    <string name="design">Design</string>
+    <string name="engineering">Engineering</string>
+    <string name="testing">Testing</string>
+    <string name="marking_and_promotion">Marking and Promotion</string>
+    <string name="project_collaboration">Project Collaboration</string>
+    <string name="project_initiation_date_and_location">August 2020 · Jiangxi, China</string>
 </resources>

@@ -539,4 +539,23 @@
     <string name="album_artwork">专辑视觉设计</string>
     <string name="unknown_error">未知错误</string>
     <string name="app_registration_number">App 备案号</string>
+    <string name="scanning_in_progress_please_wait">正在扫描请等待</string>
+    <string name="notification">通知</string>
+    <string name="close_button">关闭按钮</string>
+    <string name="ask">询问</string>
+    <string name="terminate_app_process">终止 App 进程</string>
+    <string name="show_close_button">显示关闭按钮</string>
+    <string name="show_desktop_lyrics_button">显示桌面歌词按钮</string>
+    <string name="show_desktop_lyrics_button_intro">当 Salt Player 播放时，在系统音乐通知栏或控制中心音乐面板显示 Salt Player 的桌面歌词按钮，桌面歌词功能需要悬浮窗权限</string>
+    <string name="show_close_button_intro">在某些系统上可能没有显式关闭音乐软件进程的通知栏操作，此按钮可以强制终止 Salt Player 进程，在早期 MIUI 系统上可能存在通知残留的问题以及在特定的系统界面可能无法立刻感知到软件进程状态变化的问题</string>
+    <string name="notification_screen_warning">Salt Player 在系统音乐通知栏或控制中心音乐面板中显示的可操作按钮的排序由当前系统设定，可能被默认折叠为 3 个，可能播放暂停按钮在最前也可能播放暂停按钮在中间。当仅开启了一个 Salt Player 可控显示按钮时，此按钮可能被布局到不确定位置</string>
+    <string name="also_close_desktop_lyrics">同时关闭桌面歌词？</string>
+    <string name="also_close_desktop_lyrics_intro">即便桌面歌词按钮不显示在系统音乐通知栏或控制中心音乐面板，也可通过设置中桌面歌词按钮直接控制</string>
+    <string name="production">出品</string>
+    <string name="design">设计</string>
+    <string name="engineering">工程</string>
+    <string name="testing">测试</string>
+    <string name="marking_and_promotion">宣发</string>
+    <string name="project_collaboration">项目协力</string>
+    <string name="project_initiation_date_and_location">2020 年 8 月 · 中国江西</string>
 </resources>

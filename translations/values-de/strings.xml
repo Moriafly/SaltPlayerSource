@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Salt Player</string>
+    <string name="my">Meine</string>
+    <string name="home">Startseite</string>
+    <string name="about">Über</string>
+    <string name="check_for_updates">Nach Updates suchen</string>
+    <string name="feedback">Feedback</string>
+    <string name="content">Inhalt</string>
+    <string name="upload">Upload</string>
+    <string name="contact">Kontakt</string>
     <string name="disagree">Ablehnen</string>
     <string name="aaudio_intro">Native Hochleistungsausgabe mit niedriger Latenz, kann aber nicht mit System-Soundeffekten und Soundeffekt-Software von Drittanbietern verwendet werden</string>
-    <string name="about">Über</string>
     <string name="about_settings_intro">Softwareinformationen, Softwarenutzungsbedingungen, Datenschutzvereinbarungen, Open-Source-Lizenzen, Kontaktaufnahme mit Entwicklern usw.</string>
     <string name="access_link">Zugangslink</string>
     <string name="actual_output_of_device">Die tatsächliche Ausgabe des Geräts</string>
@@ -19,7 +27,6 @@
     <string name="albums">Alben</string>
     <string name="alipay">Alipay</string>
     <string name="all_audio_information">Alle Audioinformationen</string>
-    <string name="app_name">Salt Player</string>
     <string name="artist">Künstler</string>
     <string name="artist_desc">Künstlerbeschreibung</string>
     <string name="artist_s">Künstler: %s</string>
@@ -70,7 +77,6 @@
     <string name="channel">Kanal</string>
     <string name="channel_count">Anzahl der Kanäle</string>
     <string name="channel_information">Kanalinformationen streamen</string>
-    <string name="check_for_updates">Nach Updates suchen</string>
     <string name="circle_playback_cover">Rundes Playback Cover</string>
     <string name="clear">Löschen</string>
     <string name="clear_background">Hintergrund löschen</string>
@@ -82,9 +88,7 @@
     <string name="codec">Codec</string>
     <string name="comment">Kommentar</string>
     <string name="confirm">Bestätigen</string>
-    <string name="contact">Kontakt</string>
     <string name="contact_author">Autor kontaktieren</string>
-    <string name="content">Inhalt</string>
     <string name="cover_address">Deckungsadresse</string>
     <string name="current_version">Aktuelle Version</string>
     <string name="custom_background">Benutzerdefinierter Hintergrund</string>
@@ -132,7 +136,6 @@
     <string name="fade_in_or_out_during_play_or_pause">Ein- und Ausblenden bei Pause der Wiedergabe</string>
     <string name="fade_in_out">Einblenden Ausblenden Ausblenden</string>
     <string name="fans">Lüfter</string>
-    <string name="feedback">Feedback</string>
     <string name="file_not_found_exception">Diese Datei kann nicht gefunden werden. Möglicherweise wurde sie verschoben oder gelöscht.</string>
     <string name="find">Suchen</string>
     <string name="folder">Ordner</string>
@@ -156,7 +159,6 @@
     <string name="hide_folder_intro">Möchten Sie alle Songs im Ordner %s und seinen Unterordnern ausblenden?</string>
     <string name="hide_status_bar">Statusleiste ausblenden</string>
     <string name="history">Geschichte</string>
-    <string name="home">Startseite</string>
     <string name="home_sentence_recommendation">Empfehlung des Ausgangssatzes</string>
     <string name="ignore_media_store_cover">Bibliotheksabdeckung ignorieren</string>
     <string name="ignore_media_store_cover_explain">❗ Wenn das Cover nicht übereinstimmt, verwenden Sie bitte das Musiklabel, um die drei Labels [Titel], [Album] und [Album Artist] korrekt zu bearbeiten und das richtige Cover einzustellen. Beim Laden des Song-Covers wird das Cover der Systemmedienbibliothek ignoriert, wodurch die Coverqualität verbessert und die Funktionen verschiedener Covers desselben Albums unterstützt werden und die Ladegeschwindigkeit erheblich reduziert wird</string>
@@ -204,7 +206,6 @@
     <string name="multiple_choice">Mehrfachauswahl</string>
     <string name="music">Musik</string>
     <string name="music_library">Musikbibliothek</string>
-    <string name="my">Meine</string>
     <string name="my_favorite_songs">Meine Lieblingslieder</string>
     <string name="native_output">Native Ausgabe</string>
     <string name="native_output_intro">Das Aktivieren der AAudio-Ausgabe auf Android 8.0- und neueren Systemen und der OpenSL ES-Ausgabe auf Systemen mit niedrigerem Android 8.0-Ausgang kann zu geringerer Latenz und besserer Klangqualität im Vergleich zur Soundtrack-Ausgabe führen, aber es wird nicht in der Lage sein, System-Equalizer oder andere Soundeffekt-Software zusammen mit einem höheren Stromverbrauch zu verwenden.</string>
@@ -237,7 +238,6 @@
     <string name="player_configuration">Player-Konfiguration</string>
     <string name="playback_screen">Player-Schnittstelle</string>
     <string name="player_theme_dark">✨ Dunkler Streamer ✨</string>
-    <string name="upload">Upload</string>
     <string name="playlist">Wiedergabeliste</string>
     <string name="settings">Einstellungen</string>
     <string name="source_code">Quellcode</string>
@@ -539,4 +539,23 @@
     <string name="album_artwork">Albumcover</string>
     <string name="unknown_error">Unbekannter Fehler</string>
     <string name="app_registration_number">App Registration Number</string>
+    <string name="scanning_in_progress_please_wait">Scanning in progress please wait</string>
+    <string name="notification">Notification</string>
+    <string name="close_button">Close Button</string>
+    <string name="ask">Ask</string>
+    <string name="terminate_app_process">Terminate App Process</string>
+    <string name="show_close_button">Show Close Button</string>
+    <string name="show_desktop_lyrics_button">Desktop Lyrics Button</string>
+    <string name="show_desktop_lyrics_button_intro">When Salt Player is playing, display a desktop lyrics button in the system music notification bar or control center music panel. The desktop lyrics feature requires the overlay permission</string>
+    <string name="show_close_button_intro">On some systems, there may not be an explicit notification bar action to close the music app process. This button can forcefully terminate the Salt Player process. On early MIUI systems, there may be issues with residual notifications, and in specific system interfaces, you may not immediately notice changes in the app\'s process state</string>
+    <string name="notification_screen_warning">The order of actionable buttons displayed by Salt Player in the system music notification bar or control center music panel is determined by the current system settings. These buttons may be default-folded to three, with the play/pause button either at the front or in the middle. When only one Salt Player controllable button is enabled, this button may be placed in an uncertain position</string>
+    <string name="also_close_desktop_lyrics">Also Close Desktop Lyrics?</string>
+    <string name="also_close_desktop_lyrics_intro">Even if the desktop lyrics button is not displayed in the system music notification bar or control center music panel, it can be controlled directly through the desktop lyrics button in the settings</string>
+    <string name="production">Production</string>
+    <string name="design">Design</string>
+    <string name="engineering">Engineering</string>
+    <string name="testing">Testing</string>
+    <string name="marking_and_promotion">Marking and Promotion</string>
+    <string name="project_collaboration">Project Collaboration</string>
+    <string name="project_initiation_date_and_location">August 2020 · Jiangxi, China</string>
 </resources>
