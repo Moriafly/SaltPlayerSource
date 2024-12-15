@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Salt Player</string>
     <string name="aaudio_intro">Yerel yüksek performanslı düşük gecikmeli çıkış, ancak sistem sesini ve üçüncü taraf ses yazılımını kullanamaz </string>
     <string name="about">Hakkında</string>
     <string name="about_settings_intro">Yazılım bilgileri, yazılım kullanım kuralları, gizlilik sözleşmeleri, açık kaynak lisansları, geliştiricilerle iletişim kurma vb.</string>
@@ -18,7 +19,6 @@
     <string name="albums">Albümler</string>
     <string name="alipay">Alipay</string>
     <string name="all_audio_information">Tüm ses bilgileri</string>
-    <string name="app_name">Salt Player</string>
     <string name="artist">Sanatçı</string>
     <string name="artist_desc">Sanatçı açıklaması</string>
     <string name="artist_s">Sanatçı: %s</string>
@@ -48,7 +48,7 @@
     <string name="auto_matching_of_network_lyrics">Ağ şarkı sözlerinin otomatik eşleştirilmesi</string>
     <string name="auto_matching_of_network_lyrics_explain">"Gömülü şarkı sözleri (yalnızca ses MP3 veya FLAC formatındaysa) veya şarkı sözü dosyası (aynı dizin adına sahip .lrc dosyası) alamadığınızda web şarkı sözlerini almaya çalışın"</string>
     <string name="back">Geri</string>
-    <string name="background_cover_of_player_screen">Oynatıcı ekranının arka plan kapağı</string>
+    <string name="background_cover_of_playback_screen">Oynatıcı ekranının arka plan kapağı</string>
     <string name="background_cover_of_player_screen_info">Akan ışık modunu devre dışı bırakın ve oynatma arayüzünün özelleştirilmiş bir arka planını kullanın.  Ön plan düğmesinin düşük renk ve arka plan kontrastı nedeniyle zayıf tanıma olabileceğini unutmayın.  Lütfen akan ışık modunu manuel olarak ayarlayın (ışık: ön plan rengi siyah, koyu: ön plan rengi beyaz)</string>
     <string name="baidu_pan">Baidu Pan</string>
     <string name="basic_information">Temel bilgiler</string>
@@ -65,7 +65,7 @@
     <string name="change_device_freq">Çıkış cihazının örnekleme hızındaki değişiklikleri zorlamayı deneyin (yüksek performanslı DAC çıkışları için deneysel özellik)</string>
     <string name="change_device_freq_intro">Sesi yüksek frekansta oynatmaya zorlayın (çıkış aygıtı desteklemese bile) ve yerel çıkışın etkinleştirildiğinden emin olun;  Lütfen çoğu cihazın 96000 Hz ve daha yüksek frekans çıkışını desteklemediğini ve daha yüksek frekansın uygulanmasının oynatma hatasına neden olabileceğini unutmayın.</string>
     <string name="change_the_language">Dili değiştir</string>
-    <string name="change_to_you_like">Beğendiğin gibi değiştir</string>
+    <string name="change_to_your_like">Beğendiğin gibi değiştir</string>
     <string name="channel">Kanal</string>
     <string name="channel_count">Kanal sayısı</string>
     <string name="channel_information">Kanal bilgileri</string>
@@ -185,7 +185,7 @@
     <string name="look_at_the_help">Yardıma bak</string>
     <string name="lyrics">Şarkı sözleri</string>
     <string name="lyrics_edit">Şarkı sözü düzenleme</string>
-    <string name="lyrics_interface">Şarkı arayüzü</string>
+    <string name="lyrics_screen">Şarkı arayüzü</string>
     <string name="lyrics_settings">Şarkı sözleri ayarları</string>
     <string name="lyrics_view_text_align_center">Şarkı sözleri metnini ortaya hizala</string>
     <string name="lyrics_view_text_size">Şarkı sözleri metin boyutunu görüntüle</string>
@@ -232,9 +232,9 @@
     <string name="play_queue_d">Sırayı oynat (%d)</string>
     <string name="play_queue_is_empty">Çalma sırası boş</string>
     <string name="player">Oynatıcı</string>
-    <string name="player_activity_theme">Oynatıcı aktivite teması</string>
+    <string name="playback_screen_theme">Oynatıcı aktivite teması</string>
     <string name="player_configuration">Oynatıcı yapılandırması</string>
-    <string name="player_interface">Oynatıcı arayüzü</string>
+    <string name="playback_screen">Oynatıcı arayüzü</string>
     <string name="player_theme_dark">✨Karanlık akan✨</string>
     <string name="upload">Yüklemek</string>
     <string name="playlist">Çalma listesi</string>
@@ -286,7 +286,7 @@
     <string name="search_songs_hint">%d Şarkı ara</string>
     <string name="stop">Durdur</string>
     <string name="use_music_tag_app_editing">Düzenlemeyi uygulamak için Müzik Etiketi uygulamasını kullanın…</string>
-    <string name="privacy_agreement_and_terms_of_use">Gizlilik Sözleşmesi ve Kullanım Koşulları</string>
+    <string name="privacy_policy_and_terms_of_use">Gizlilik Sözleşmesi ve Kullanım Koşulları</string>
     <string name="source_address">Kaynak adresi</string>
     <string name="title_not_empty">Şarkı sözlerinin kaynağı</string>
     <string name="source_of_lyrics">Source of lyrics</string>
@@ -303,7 +303,7 @@
     <string name="some_information">Biraz bilgi</string>
     <string name="use_better">Daha iyi kullan</string>
     <string name="status_bar_lyrics_not_show_translation">Durum çubuğu şarkı sözleri çeviriyi göstermiyor</string>
-    <string name="terms_of_use_for_software">Yazılım için kullanım koşulları</string>
+    <string name="terms_of_use">Yazılım için kullanım koşulları</string>
     <string name="player_theme_light">🍉Işık akıyor🍨（2021 💕 Yaz hatırası olarak）</string>
     <string name="some_image_resources_from">Bazı görüntü kaynakları</string>
     <string name="whether_to_clear_the_current_playback_queue">Mevcut çalma kuyruğu temizlensin mi?</string>
@@ -334,7 +334,7 @@
     <string name="system_language">Sistem dili</string>
     <string name="select_image">Fotoğraf seç</string>
     <string name="xposed_status_bar_lyrics">Xposed durum çubuğu şarkı sözleri</string>
-    <string name="you_need_to_restart_the_application">Uygulamayı yeniden başlatmanız gerekiyor</string>
+    <string name="you_need_to_restart_the_app">Uygulamayı yeniden başlatmanız gerekiyor</string>
     <string name="scan_music">Müziği tara</string>
     <string name="salt_player_pro">Salt Player Pro</string>
     <string name="start_scan">Taramayı başlat</string>
@@ -380,7 +380,7 @@
     <string name="refresh">Refresh</string>
     <string name="internal_storage">Internal storage</string>
     <string name="float_support_info">32 bit floating-point decoding and processing</string>
-    <string name="wallpaper_of_main_interface">Wallpaper of main interface</string>
+    <string name="wallpaper_of_main_screen">Wallpaper of main interface</string>
     <string name="floating_window_status_bar_lyrics">Floating window status bar lyrics</string>
     <string name="background_color">Background color</string>
     <string name="storage_occupancy">Storage occupancy</string>
@@ -417,16 +417,16 @@
     <string name="android_media_store_intro">Quickly scan the Android Media Store to get songs, please use Salt Player Settings -> Audio Output -> Media Decoding provided by this device for format support, some devices do not support DSD / APE format scanning, please customize the folder and other methods below</string>
     <string name="custom">Custom</string>
     <string name="custom_folders_tip">If the Use Android Media Store function is enabled while using the Custom folders function, the final scanned songs will be the union of the two. If you only need to use Custom folders, please turn off Use Android Media Store</string>
-    <string name="circle_play_mode">Circle play mode</string>
-    <string name="repeat_one_play_mode">Repeat one play mode</string>
-    <string name="random_play_mode">Random play mode</string>
-    <string name="remove_from_play_queue">Remove from play queue</string>
+    <string name="circle_playback_mode">Circle play mode</string>
+    <string name="repeat_one_playback_mode">Repeat one play mode</string>
+    <string name="random_playback_mode">Random play mode</string>
+    <string name="remove_from_playback_queue">Remove from play queue</string>
     <string name="blocked_folders">Blocked folders</string>
     <string name="file_name">File name</string>
     <string name="song_clips">Song clips</string>
     <string name="lyrics_view_text_bold">Lyrics view text bold</string>
     <string name="copyright">Copyright</string>
-    <string name="mini_lyrics_in_player_ui">Mini lyrics in player UI</string>
+    <string name="mini_lyrics_in_playback_screen">Mini lyrics in player UI</string>
     <string name="accessibility">Accessibility</string>
     <string name="accessibility_intro">Provide better App services for users with visual impairment</string>
     <string name="date_modified">Date modified</string>
@@ -463,8 +463,8 @@
     <string name="get_album_art_when_embedded_cover_art_is_not_available">Try to get album art in the same folder when embedded cover art is not available</string>
     <string name="help_and_feedback">Help and feedback</string>
     <string name="panel">Panel</string>
-    <string name="player_interface_for_car">Player interface for car</string>
-    <string name="player_interface_for_car_intro">Only available when activating tablet mode</string>
+    <string name="playback_screen_for_car">Player interface for car</string>
+    <string name="playback_screen_for_car_intro">Only available when activating tablet mode</string>
     <string name="authorization_description">Authorization Description</string>
     <string name="authorization_description_for_read_external_storage">Read the audio file in the shared storage (not including the reading of photos and videos, if it is included in the System request description, it is a unified description because Android 12 and the following systems have not subdivided permissions), and obtain the ANDROID MEDIA STORE audio file information after authorization. If there is no system authorization inquiry after agreeing to this conversation, it may be that the permission of this App has been set to \"reject and no longer prompt\". Please manually go to the system settings to change it</string>
     <string name="error">Error</string>
@@ -494,7 +494,7 @@
     <string name="windows_subsystem_for_android">Windows Subsystem for Android</string>
     <string name="album_list_settings">Album list settings</string>
     <string name="minimum_number_of_columns">Minimum number of columns</string>
-    <string name="hide_on_player_screen">Hide on player screen</string>
+    <string name="hide_on_playback_screen">Hide on player screen</string>
     <string name="unable_to_start_native_file_manager">Unable to start native file manager</string>
     <string name="unable_to_start_native_file_manager_intro">The App uses the native file manager to authorize folders\n1. Check whether the native file manager is disabled (the specific name may be different on different OEM systems, and the package name is unique: com.google.android.documentsui)\n2. It may be that the native file manager (DocumentsUI, built-in application of Android system) has been selectively replaced by the original equipment manufacturer (OEM), which is mostly found in some car equipment\n* Native File Manager can accept patches in Google Play Store</string>
     <string name="album_artist">Album artist</string>
@@ -520,7 +520,7 @@
     <string name="auto_start_on_boot">Auto start on boot</string>
     <string name="count">Count</string>
     <string name="emo_scroll">Emo Scroll</string>
-    <string name="hide_lyrics_interface_control_panel">Hide lyrics interface control panel</string>
+    <string name="hide_lyrics_screen_control_panel">Hide lyrics interface control panel</string>
     <string name="on">On</string>
     <string name="off">Off</string>
     <string name="file_not_found">File not found</string>
@@ -531,4 +531,31 @@
     <string name="developer">Developer</string>
     <string name="hidden_songs">Hidden songs</string>
     <string name="font_weight">Font weight</string>
+    <string name="download_it_on_coolapk">Download it on CoolApk</string>
+    <string name="optional_updates">Optional Updates</string>
+    <string name="additional_pro_features_intro">Additional Pro features are found across the settings screen, check the specific category screen for details</string>
+    <string name="front_cover">Front Cover</string>
+    <string name="back_cover">Back Cover</string>
+    <string name="album_artwork">Album Artwork</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="app_registration_number">App Registration Number</string>
+    <string name="scanning_in_progress_please_wait">Scanning in progress please wait</string>
+    <string name="notification">Notification</string>
+    <string name="close_button">Close Button</string>
+    <string name="ask">Ask</string>
+    <string name="terminate_app_process">Terminate App Process</string>
+    <string name="show_close_button">Show Close Button</string>
+    <string name="show_desktop_lyrics_button">Desktop Lyrics Button</string>
+    <string name="show_desktop_lyrics_button_intro">When Salt Player is playing, display a desktop lyrics button in the system music notification bar or control center music panel. The desktop lyrics feature requires the overlay permission</string>
+    <string name="show_close_button_intro">On some systems, there may not be an explicit notification bar action to close the music app process. This button can forcefully terminate the Salt Player process. On early MIUI systems, there may be issues with residual notifications, and in specific system interfaces, you may not immediately notice changes in the app\'s process state</string>
+    <string name="notification_screen_warning">The order of actionable buttons displayed by Salt Player in the system music notification bar or control center music panel is determined by the current system settings. These buttons may be default-folded to three, with the play/pause button either at the front or in the middle. When only one Salt Player controllable button is enabled, this button may be placed in an uncertain position</string>
+    <string name="also_close_desktop_lyrics">Also Close Desktop Lyrics?</string>
+    <string name="also_close_desktop_lyrics_intro">Even if the desktop lyrics button is not displayed in the system music notification bar or control center music panel, it can be controlled directly through the desktop lyrics button in the settings</string>
+    <string name="production">Production</string>
+    <string name="design">Design</string>
+    <string name="engineering">Engineering</string>
+    <string name="testing">Testing</string>
+    <string name="marking_and_promotion">Marking and Promotion</string>
+    <string name="project_collaboration">Project Collaboration</string>
+    <string name="project_initiation_date_and_location">August 2020 · Jiangxi, China</string>
 </resources>
