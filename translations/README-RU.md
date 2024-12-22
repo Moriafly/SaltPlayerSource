@@ -1,6 +1,6 @@
 # Помогите нам перевести Salt Player
 
-Select Language：[简体中文](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations/README.md)
+Select Language: [简体中文](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations/README.md)
 
 Вы можете помочь с переводом для этого просто переводите строки и отправьте нам.
 

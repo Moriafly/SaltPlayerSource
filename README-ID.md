@@ -2,7 +2,7 @@
 
 # Salt Player - Pemutar Musik Lokal Pilihan Ratusan Ribu Pengguna
 
-Halaman terjemahan lain: [中文](https://github.com/Moriafly/SaltPlayerSource/blob/main/README.md), [Русский](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-RU.md)
+Select Language: [中文](https://github.com/Moriafly/SaltPlayerSource/blob/main/README.md), [Русский](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-RU.md)
 
 Salt Player adalah aplikasi pemutar musik lokal. Repositori ini dipakai buat ngeluarin versi baru, ngumpulin feedback, dan ngasih pengumuman
 

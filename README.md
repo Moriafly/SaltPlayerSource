@@ -2,7 +2,7 @@
 
 # Salt Player 数十万用户选择的本地音乐播放器
 
-本页翻译：[Русский](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-RU.md)，[Indonesia](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-ID.md)
+Select Language: [Русский](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-RU.md)，[Indonesia](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-ID.md)
 
 Salt Player（椒盐音乐）是一款本地音乐播放软件，本仓库用来发布新版本、收集反馈和发布通知
 

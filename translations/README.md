@@ -1,6 +1,6 @@
 # 帮助椒盐音乐翻译 Help us to translate Salt Player
 
-本页翻译：[Русский](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations/README-RU.md)
+Select Language: [Русский](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations/README-RU.md)
 
 可以提交 PR 翻译哦  Submit pr translation
 
