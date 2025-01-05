@@ -45,7 +45,7 @@ body:
     attributes:
       label: 描述问题 Describe issue
       description: |
-        尽量详细的描述问题 Describe as detailed as possible
+        尽量详细地描述问题 Describe as detailed as possible
       placeholder: 在此输入遇到的问题，必填 Enter the issue encountered here, Required
     validations:
       required: true
