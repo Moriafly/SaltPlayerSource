@@ -50,4 +50,4 @@ Français (Французский, fr): Mathias Zhang
 
 - Авторские права на переводы принадлежат совместно владельцу репозитория и переводчикам
 
-[Дополнительная информация](https://sakawish.github.io/open-source/salt-ui/tdts/)
+[Доп. информация](https://sakawish.github.io/open-source/salt-ui/tdts/)
