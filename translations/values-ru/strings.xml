@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string name="app_name">Salt Player</string>
     <string name="my">Моё</string>
     <string name="home">Главная</string>
@@ -364,7 +364,8 @@
     <string name="d_selected">Выбрано: %d</string>
     <string name="play_the_selected_queue">Воспроизвести выбранное</string>
     <string name="volume_balance">Баланс громкости</string>
-    <string name="volume_balance_tip">Использует теги REPLAYGAIN_TRACK_GAIN и REPLAYGAIN_ALBUM_GAIN для нормализации громкости. Значения можно настроить с помощью программ вроде foobar2000 -> Scan per-file track gain. Изменения вступят в силу после переключения песни</string>
+    <string name="laboratory_intro">Добро пожаловать в лабораторию Salt Player. Функции здесь экспериментальные, предназначены только для тестирования и могут быть удалены в любое время</string>
+<string name="volume_balance_tip">Использует теги REPLAYGAIN_TRACK_GAIN и REPLAYGAIN_ALBUM_GAIN для нормализации громкости. Значения можно настроить с помощью программ вроде foobar2000 -&gt; Scan per-file track gain. Изменения вступят в силу после переключения песни</string>
     <string name="compressor">Компрессор</string>
     <string name="compressor_tip">Управляет динамическим диапазоном, делая громкие части тише, а тихие громче</string>
     <string name="auto_playback">Автовоспроизведение</string>
@@ -413,7 +414,7 @@
     <string name="unknown_album_title">Неизвестное название альбома</string>
     <string name="unknown_artist">Неизвестный исполнитель</string>
     <string name="use_android_media_store">Использовать медиатеку Android</string>
-    <string name="android_media_store_intro">Быстрое сканирование медиатеки Android. Поддерживаемые форматы можно посмотреть в настройках Salt Player -> Вывод звука -> Поддерживаемые форматы декодирования. Некоторые устройства не поддерживают сканирование DSD/APE, используйте пользовательские папки</string>
+    <string name="android_media_store_intro">Быстрое сканирование медиатеки Android. Поддерживаемые форматы можно посмотреть в настройках Salt Player -&gt; Вывод звука -&gt; Поддерживаемые форматы декодирования. Некоторые устройства не поддерживают сканирование DSD/APE, используйте пользовательские папки</string>
     <string name="custom">Пользовательский</string>
     <string name="custom_folders_tip">При одновременном использовании медиатеки Android и пользовательских папок результаты сканирования будут объединены. Если нужны только пользовательские папки, отключите медиатеку Android</string>
     <string name="circle_playback_mode">Режим повтора всех</string>
@@ -488,7 +489,7 @@
     <string name="readable_check_items">Проверяемые элементы</string>
     <string name="self_check_items">Элементы для самопроверки</string>
     <string name="auto_start_permission_on_miui">Разрешение автозапуска в MIUI</string>
-    <string name="auto_start_permission_on_miui_intro">Долгое нажатие на иконку приложения -> Сведения о приложении -> Разрешения -> включить "Автозапуск". Это помогает стабильной работе в фоне (для MIUI 10-14)</string>
+    <string name="auto_start_permission_on_miui_intro">Долгое нажатие на иконку приложения -&gt; Сведения о приложении -&gt; Разрешения -&gt; включить "Автозапуск". Это помогает стабильной работе в фоне (для MIUI 10-14)</string>
     <string name="official_website">Официальный сайт</string>
     <string name="windows_subsystem_for_android">Подсистема Windows для Android™</string>
     <string name="album_list_settings">Настройки списка альбомов</string>
@@ -557,5 +558,4 @@
     <string name="marking_and_promotion">Маркетинг и продвижение</string>
     <string name="project_collaboration">Сотрудничество</string>
     <string name="project_initiation_date_and_location">Август 2020 · Цзянси, Китай</string>
-    <string name="laboratory_intro">Добро пожаловать в лабораторию Salt Player. Функции здесь экспериментальные, предназначены только для тестирования и могут быть удалены в любое время.</string>
-</resources>
+    </resources>
