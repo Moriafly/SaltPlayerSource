@@ -32,7 +32,7 @@ Français (French, fr) : Mathias Zhang
 
 한국어 (Korean, ko) : 橙子，mocacocoa
 
-Русский (Russian, ru) : Moriafly，AircGroup, Master290
+Русский (Russian, ru) : Moriafly，AircGroup，Master290
 
 ## 翻译须知 Notes
 
