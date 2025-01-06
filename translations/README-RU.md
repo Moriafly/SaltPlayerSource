@@ -1,6 +1,6 @@
-# Помогите перевести Salt Player
+# Помогите перевести Salt Player!
 
-Выберите язык: [中文](https://github.com/Moriafly/SaltPlayerSource/blob/main/translations/README.md)
+Select language: [中文](https://github.com/Moriafly/SaltPlayerSource/blob/main/translations/README.md)
 
 Вы можете помочь с переводом, отправив Pull Request.
 
