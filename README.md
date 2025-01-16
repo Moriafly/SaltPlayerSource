@@ -53,7 +53,7 @@ For details, see the [Translations](translations) documentation.
 | | CarWith | 🟢 Support | December 26, 2024 CarWith V3.3.6 support, thanks to Xiaomi official support. |
 | | Cover screen display (e.g. Mix Flip) | 🟢 Support | |
 | | MIUI/Hyper OS widget | 🟠 Follow-up | Waiting for development. |
-| Huawei HarmonyOS | Music Control Center | 🔴 Not supported | Whitelist control and no adaptation documents found, contact and communication are fruitless. |
+| HUAWEI HarmonyOS | Music Control Center | 🔴 Not supported | Whitelist control and no adaptation documents found, contact and communication are fruitless. |
 | vivo OriginOS/Funtouch OS  | Joviincar Smart Car | 🟢 Support | 1. August 29, 2024 vivo Smart Car V4.0.7.3 version adds support for Salt Player, thanks to users who have given feedback to vivo and vivo's official support. <br> 2. The trial version, the lyrics display of joviincar is not supported for the time being (the adaptation method is not clear), and the lyrics can be simulated through the car Bluetooth lyrics. |
 | | Hi-Fi | 🔵 Manual | 1. Add `settings put global game_support_hifi_list com.salt.music` via adb. <br> 2. Add Salt Player after entering the Hi-Fi list, go to System Settings > Sound & Vibration > Enable Hi-Fi. <br> 3. Whether the device supports the Hi-Fi function, please go to the product page of vivo official website to understand. |
 | | Atomic Walkman | 🔴 Not supported | Suspected whitelist, no adaptation document found. <br> [#749](https://github.com/Moriafly/SaltPlayerSource/issues/749) |
