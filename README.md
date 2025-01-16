@@ -1,86 +1,84 @@
 <img src="src/App GitHub Header.png" width="100%"/>
 
-# Salt Player 数十万用户选择的本地音乐播放器
+# Salt Player - A local music player trusted and chosen by hundreds of thousands of users
 
-Select Language: [Русский](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-RU.md)，[Indonesia](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-ID.md)
+Select Language: [简体中文](README-zh-hans.md), [Русский](README-ru.md), [Indonesia](README-id.md)
 
-Salt Player（椒盐音乐）是一款本地音乐播放软件，本仓库用来发布新版本、收集反馈和发布通知
+Salt Player is a local music playback app. This repository is used for releasing new versions, collecting feedback, and posting announcements.
 
-## 下载渠道
+## Download Channel
 
 ### Android
 
-Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a 以及 armeabi-v7a 架构
+Salt Player *for Android* requires Android 6.0 or higher and supports the arm64-v8a and armeabi-v7a architectures.
 
-| 渠道 | 发布 | 介绍 | ⚠️ 注意 |
+| Channel | Release | Introduction | ⚠️ Note |
 |:--|:--|:--|:--|
-| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [酷安](https://www.coolapk.com/apk/284064) | 标准包 | 酷安发布仅提供 arm64-v8a 架构 |
-| Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | 谷歌 Play 商店渠道包 | 1. 动态下发 arm64-v8a/armeabi-v7a 架构 <br> 2. Google Play 版本由谷歌签名发布，与此标准包**不兼容** <br> 3. 会选用特殊的稳定版本或特殊制作版本，与标准包更新策略不同 |
-| Official | 1. OPPO 软件商店 <br> 2. [荣耀应用市场](https://appmarket-h5.cloud.honor.com/h5/share/latest/index.html?shareId=1842107500028387328&shareTo=copyLink) <br> 3. [小米应用商店](http://app.xiaomi.com/detail/1610743) <br> 4. [华为应用市场](https://url.cloud.huawei.com/sztUvRf1XW) <br> *以上序号按上架先后顺序排序，暂未找到 OPPO 软件商店 Salt Player 的分享链接* | 中国大陆商店渠道包 | 1. 仅提供 arm64-v8a 架构 <br> 2. 仅面向中国大陆提供支持 <br> 3. 会选用特殊的稳定版本或特殊制作版本，与标准包更新策略不同 <br> 4. 受审核或其他原因，不同应用商店更新速度或版本号可能存在差异 |
+| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [CoolApk](https://www.coolapk.com/apk/284064) | Standard Package | The release on Coolapk is available only for the arm64-v8a architecture. |
+| Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | Google Play Store Channel Package | 1. Supports dynamic distribution of the arm64-v8a and armeabi-v7a architectures. <br> 2. The Google Play version is signed and released by Google, which makes it **incompatible** with the standard package. <br> 3. Selects special stable releases or custom-built versions, following a different update strategy compared to the standard package. |
 
-注意：请在正确的渠道下载本应用，请勿使用未知签名来源的安装文件
+Note: Please download this app from the official channels. Do not use installation files with unknown or unverified signatures.
 
-#### 版本（文件）命名规则
+#### Version (File) Naming Convention
 
-例如 Apk 文件名 10.5.0.2-release-2024091902-moriafly-arm64-v8a，含义为：
+For example, the APK filename 10.5.0.2-release-2024091902-moriafly-arm64-v8a has the following meaning:
 
-| 文本 | 代表 | 介绍 |
+| Text | Represent | Introduction |
 |:--|:--|:--|
-| 10.5.0.2 | 版本名称 | 10 表示大版本，5 表示次要版本，0 表示小版本，2 表示紧急修复次数（通常记录为 0 而省略，如直接填写 10.4.4 版本） |
-| release | 版本类型 | 1. release 代表稳定版本，beta 代表公开测试版本，alpha 代表内部测试版本 <br> 2. release 类型一般省略不写，alpha 版本也可能公开发布但表示稳定性较低 <br> 3. 稳定性 release > beta > alpha（存在主观判断） |
-| 2024091902 | 版本代码 | Salt Player *for Android* 的版本代码具有含义，2024091902 表示此版本是 2024 年 9 月 19 日第 2 次构建的 |
-| moriafly | 渠道编号 | 见渠道表 |
-| arm64-v8a | 架构 | 见渠道表 |
-
+| 10.5.0.2 | Version Name | 10 represents the major version, 5 represents the minor version, 0 represents the patch version, and 2 represents the emergency fix count (usually omitted if 0, for example, directly writing the version as 10.4.4). |
+| release | Version Type | 1. The release represents a stable version, beta represents a public testing version, and alpha represents an internal testing version. <br> 2. The release type is usually omitted, and alpha versions may also be publicly released but indicate lower stability. <br> 3. Stability order: release > beta > alpha (subjective judgment may apply). |
+| 2024091902 | Version Code | The version code of Salt Player *for Android* has specific meaning. For example, 2024091902 indicates that this version was built for the second time on September 19, 2024. |
+| moriafly | Channel ID | See channel table. |
+| arm64-v8a | Architecture | See channel table. |
 
 ### Windows
 
 <img src="src/spw.png" height="128px"/>
 
-详见 [SPW](https://github.com/Moriafly/SPW) 说明文件
+For details, see the [SPW](https://github.com/Moriafly/SPW) documentation.
 
-## 开源相关
+## Open Source Related
 
-[Salt UI](https://github.com/Moriafly/SaltUI)
+[Salt UI](https://github.com/Moriafly/SaltUI) *UI Components for Compose Multiplatform (Android/Desktop/iOS).*
 
-## 本地化适配
+## Localization Adaptation
 
-详见 [Translations](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations) 说明文件
+For details, see the [Translations](translations) documentation.
 
-## 系统适配
+## System Adaptation
 
-| 系统 | 功能 | 状态 | 说明 |
+| System | Features | Status | Description |
 |:--|:--|:--|:--|
-| 小米 MIUI/Hyper OS | 小米妙播 | 🟢 支持 | 1. 调用小米妙播功能需要 MIUI 12 及以上版本，点击 Salt Player 播放界面右上角按钮自动跳转 <br> 2. 此功能基于小米投屏相关系统组件，若无效请检测是否禁用了相关组件 |
-| | CarWith | 🟢 支持 | 2024 年 12 月 26 日 CarWith 3.3.6 版本支持，感谢小米官方支持 |
-| | 外屏显示（如 Mix Flip） | 🟢 支持 | |
-| | MIUI/Hyper OS 小部件 | 🟠 跟进中 | 等待开发 |
-| 华为鸿蒙 | 音乐控制中心 | 🔴 不支持 | 白名单控制以及未发现适配文档，联系沟通无果 |
-| vivo OriginOS/Funtouch OS  | joviincar 智能车载 | 🟢 支持 | 1. 2024 年 8 月 29 日 vivo 智能车载 V4.0.7.3 版本添加了对 Salt Player 的支持，感谢向 vivo 反馈的用户和 vivo 的官方支持 <br> 2. 体验版，暂时不支持 joviincar 的歌词显示（不清楚适配方法），可通过车载蓝牙歌词模拟 |
-| | Hi-Fi | 🔵 手动 | 1. 通过 adb 的方式输入 `settings put global game_support_hifi_list com.salt.music` 添加 <br> 2. 添加 Salt Player 进入 Hi-Fi 列表后，进入系统设置 > 声音与振动 > Hi-Fi 页面启用 <br> 3. 设备是否支持 Hi-Fi 功能，请前往 vivo 官网产品页面了解 |
-| | 原子随身听 | 🔴 不支持 | 疑似白名单，未找到适配文档 <br> [#749](https://github.com/Moriafly/SaltPlayerSource/issues/749) |
-| OPPO ColorOS | 流体云 | 🟢 支持 | 2024 年 11 月 4 日起逐步灰度测试，感谢 OPPO 官方支持 |
-| 魅族 Flyme | 状态栏歌词 | 🟢 支持 | |
-| | 灵动环 | 🔴 不支持 | 疑似白名单，未找到适配文档 |
+| Xiaomi MIUI/Hyper OS | Mi Magic Broadcast | 🟢 Support | 1. MIUI 12 or above is required to call the Mi Cast function, click the button in the upper right corner of the Salt Player playback screen to automatically jump. <br> 2. This function is based on the relevant system components of Mi Screen Projection, if it is invalid, please check whether the related components are disabled. |
+| | CarWith | 🟢 Support | December 26, 2024 CarWith V3.3.6 support, thanks to Xiaomi official support. |
+| | Cover screen display (e.g. Mix Flip) | 🟢 Support | |
+| | MIUI/Hyper OS widget | 🟠 Follow-up | Waiting for development. |
+| Huawei HarmonyOS | Music Control Center | 🔴 Not supported | Whitelist control and no adaptation documents found, contact and communication are fruitless. |
+| vivo OriginOS/Funtouch OS  | Joviincar Smart Car | 🟢 Support | 1. August 29, 2024 vivo Smart Car V4.0.7.3 version adds support for Salt Player, thanks to users who have given feedback to vivo and vivo's official support. <br> 2. The trial version, the lyrics display of joviincar is not supported for the time being (the adaptation method is not clear), and the lyrics can be simulated through the car Bluetooth lyrics. |
+| | Hi-Fi | 🔵 Manual | 1. Add `settings put global game_support_hifi_list com.salt.music` via adb. <br> 2. Add Salt Player after entering the Hi-Fi list, go to System Settings > Sound & Vibration > Enable Hi-Fi. <br> 3. Whether the device supports the Hi-Fi function, please go to the product page of vivo official website to understand. |
+| | Atomic Walkman | 🔴 Not supported | Suspected whitelist, no adaptation document found. <br> [#749](https://github.com/Moriafly/SaltPlayerSource/issues/749) |
+| OPPO ColorOS | Fluid Cloud | 🟢 Support | Grayscale testing will be carried out from November 4, 2024, thanks to OPPO's official support. |
+| Meizu Flyme | Status bar lyrics | 🟢 Support | |
+| | Dynamic Ring | 🔴 Not supported | Suspected whitelist, no adaptation document found. |
 
-## 不再维护或支持的功能
+## Features That Are No Longer Maintained or Supported
 
-| 功能 | 废弃时间 | 说明 |
+| Feature | Deprecation time | Description |
 |:--|:--|:--|
-| DSD 音频（.dsf/.dff）| 2024 年 | 视为过时格式，推荐更换为 FLAC <br> 详见 [Salt Player 终止对 DSD 格式的维护和支持](https://github.com/Moriafly/SaltPlayerSource/blob/main/articles/240902_Deprecated_DSD.md) |
+| DSD Audio (.dsf/.dff) | 2024 | Considered an obsolete format, it is recommended to replace it with FLAC <br> For details, see [Salt Player ends maintenance and support for DSD format](articles/240902_Deprecated_DSD.md). |
 
-## 本仓库贡献者
+## Repository Contributors
 
 <a href="https://github.com/Moriafly/SaltPlayerSource/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=Moriafly/SaltPlayerSource&columns=12" />
 </a>
 
-## 法律信息
+## Legal Information
 
-**Android** 是 Google LLC 的商标
+**Android** is a trademark of Google LLC.
 
-**Android 机器人**是在 Google 原创及共享成果的基础上再创作或修改而成，须遵照[知识共享](https://creativecommons.org/licenses/by/3.0/)署名 3.0 许可所述条款付诸应用
+**Android Robot** is a re-creation or modification based on Google's original creation and shared achievements, and must comply with the terms of the [Creative Commons](https://creativecommons.org/licenses/by/3.0/) Attribution 3.0 License.
 
-**Salt Player** 和**糖醋音乐**均是寻浔科技（上海）有限公司在中华人民共和国的注册商标
+**Salt Player** and **糖醋音乐** are registered trademarks of Xunxun Technology (Shanghai) Co., Ltd. in the People's Republic of China.
 
-更多相关法律信息请在软件内部以及相关网站查询
+For more legal information, please refer to the software itself and related websites.

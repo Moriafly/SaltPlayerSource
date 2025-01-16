@@ -2,8 +2,6 @@
 
 # Salt Player - музыкальный плеер, выбранный сотнями тысяч пользователей
 
-Select Language: [中文](https://github.com/Moriafly/SaltPlayerSource/blob/main/README.md)，[Indonesia](https://github.com/Moriafly/SaltPlayerSource/tree/main/README-ID.md)
-
 Salt Player - это приложение для воспроизведения музыки на платформе Android. Этот репозиторий используется для публикации обновлений новой версии Salt and Pepper Music, сбора отзывов и отправки уведомлений
 
 ## Скачивание
