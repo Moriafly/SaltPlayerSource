@@ -2,7 +2,7 @@
 
 # Salt Player - A local music player trusted and chosen by hundreds of thousands of users
 
-Select Language: [简体中文](README-zh-hans.md), [Русский](README-ru.md), [Indonesia](README-id.md)
+Select Language: [简体中文](README-zh-hans.md), [Русский](README-ru.md), [Indonesia](README-id.md), [हिन्दी](README-hi.md)
 
 Salt Player is a local music playback app. This repository is used for releasing new versions, collecting feedback, and posting announcements.
 
