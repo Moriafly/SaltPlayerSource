@@ -76,14 +76,14 @@
     <string name="auto_matching_of_network_lyrics">Автоматическое сопоставление текстов песней в сети</string>
     <string name="intelligent_filter">Умный фильтр</string>
     <string name="intelligent_filter_sub">Интеллектуальная фильтрация некоторых аудиофайлов</string>
-    <string name="skip_wrong_song">Пропустить невозможные воспроизвести песни</string>
+    <string name="skip_wrong_song">Пропускать невозможные произведению песни</string>
     <string name="sliding_animation_of_songs_in_the_playlist">Скользящая анимация песни в плейлисте</string>
     <string name="next_play">Воспроизвести следующую</string>
     <string name="help_document">Справочная информация</string>
     <string name="single_column_playlist">плейлист в одну колонку</string>
     <string name="status_bar_lyrics">Текст песни в строке состояния</string>
-    <string name="previous">Прев.</string>
-    <string name="next">След.</string>
+    <string name="previous">Предыдущее</string>
+    <string name="next">Следующее</string>
     <string name="search_for_online_music">Поиск музыки в интернете</string>
     <string name="clear">Очистить</string>
     <string name="play_music">Играть</string>
