@@ -2,6 +2,8 @@
 
 # Salt Player - музыкальный плеер, выбранный сотнями тысяч пользователей
 
+Select Language: [简体中文](README-zh-hans.md), [English](README.md), [Indonesia](README-id.md), [हिन्दी](README-hi.md)
+
 Salt Player - это приложение для воспроизведения музыки. Этот репозиторий используется для публикации новых версий, сбора отзывов и объявлений.
 
 ## Скачивание
@@ -62,7 +64,7 @@ Salt Player *для Android* требуется устройство на Androi
 
 | Функция | Дата прекращения | Примечание |
 |:--|:--|:--|
-| DSD аудио (.dsf/.dff) | 2024 | Считается устаревшим форматом, рекомендуется перейти на FLAC <br> Подробнее в [Salt Player прекращает поддержку формата DSD](https://github.com/Moriafly/SaltPlayerSource/blob/main/articles/240902_Deprecated_DSD.md) [(Перевод)](https://github.com/Moriafly/SaltPlayerSource/blob/main/articles/241123_Deprecated_DSD_russian_translate.md) |
+| DSD аудио (.dsf/.dff) | 2024 | Считается устаревшим форматом, рекомендуется перейти на FLAC <br> Подробнее в [Salt Player прекращает поддержку формата DSD](articles/240902_Deprecated_DSD.md) [(Перевод)](articles/241123_Deprecated_DSD_russian_translate.md) |
 
 ## Контрибьюторы
 
