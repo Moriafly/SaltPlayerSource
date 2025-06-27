@@ -18,6 +18,8 @@ body:
           required: true
         - label: 已经在本仓库搜索相关内容（避免重复反馈）Already searched for related content in this repository (to avoid duplicate feedback)
           required: true
+        - label: 确认仅将提交一个问题（多个问题或者备注提及另外的问题请重新提交新的）Confirm to submit only one issue (if multiple issues or notes mention other issues, please submit a new one separately)
+          required: true
 
   - type: textarea
     attributes:
