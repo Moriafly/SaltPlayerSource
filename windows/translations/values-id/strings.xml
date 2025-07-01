@@ -252,7 +252,6 @@
     <string name="disc_number">Nomor Disk</string>
     <string name="track_number">Nomor Trek</string>
     <plurals name="d_songs">
-        <item quantity="one">%1$d lagu</item>
         <item quantity="other">%1$d lagu</item>
     </plurals>
     <string name="play_all">Putar Semua</string>
