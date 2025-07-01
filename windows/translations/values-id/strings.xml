@@ -184,7 +184,6 @@
     <string name="font_weight">Ketebalan Font</string>
     <string name="remove_from_music_library">Hapus dari Perpustakaan Musik</string>
     <plurals name="remove_from_music_library_dialog_content">
-        <item quantity="one">Konfirmasi hapus %1$d lagu dari perpustakaan musik?</item>
         <item quantity="other">Konfirmasi hapus %1$d lagu dari perpustakaan musik?</item>
     </plurals>
     <string name="lyrics_screen_footer">Teks lirik gaya demonstrasi dari ZARD 'My Friend'</string>
