@@ -41,6 +41,8 @@ For details, see the [SPW](https://github.com/Moriafly/SPW) documentation.
 
 [Salt UI](https://github.com/Moriafly/SaltUI) *UI Components for Compose Multiplatform (Android/Desktop/iOS).*
 
+[Media Kit](https://github.com/Moriafly/media-kit) *Salt Player for Android media services, notification management foundation, including detailed handling of various OEM systems.*
+
 ## Localization Adaptation
 
 For details, see the [Translations](translations) documentation.
