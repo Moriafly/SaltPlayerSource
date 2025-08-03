@@ -383,7 +383,7 @@
     <string name="wallpaper_of_main_screen">Wallpaper of Main Screen</string>
     <string name="floating_window_status_bar_lyrics">Floating Window Status Bar Lyrics</string>
     <string name="background_color">Background Color</string>
-    <string name="storage_occupancy">Selected background image size</string>
+    <string name="storage_occupancy">Storage Occupancy</string>
     <string name="wallpaper_of_main_interface_info">Choose a background color that ensures clear visibility. Avoid using the system default unless you're specifically following the system theme</string>
     <string name="floating_window_status_bar_lyrics_info">Simulate status bar lyrics by displaying a mini-floating window in the blank space of the status bar</string>
     <string name="floating_window_status_bar_lyrics_tip">This function requires the permission of the floating window. When the song is paused, the lyrics display of the floating window will be automatically hidden. In the playback state and the lyrics are scrolled, it is convenient to adjust the lyrics</string>
