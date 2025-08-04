@@ -70,8 +70,8 @@
     <string name="windows_volume_synthesizer">Windows Volume Synthesizer</string>
     <string name="open_in_explorer">Open in Explorer</string>
     <string name="delete">Delete</string>
-    <string name="modified_time">Modified Time</string>
-    <string name="added_time">Added Time</string>
+    <string name="modified_time">Time Modified</string>
+    <string name="added_time">Time Added</string>
     <string name="folder_path">Folder Path</string>
     <string name="oem">OEM (Original Equipment Manufacturer)</string>
     <string name="cache">Cache</string>
@@ -271,4 +271,44 @@
     <string name="close_main_window">Close Main Window</string>
     <string name="minimize_to_notification_area">Minimize to Notification Area (System Tray)</string>
     <string name="exit_salt_player">Exit Salt Player</string>
+    <string name="blur_inactive_lyrics">Blur Inactive Lyrics</string>
+    <string name="cd_toolkit">CD Toolkit</string>
+    <string name="no_items">No Items</string>
+    <string name="custom_folders">Custom Folders</string>
+    <string name="scan_files">Scan Files</string>
+    <string name="scan_folder">Scan Folder</string>
+    <string name="remove">Remove</string>
+    <string name="description">Description</string>
+    <string name="render_information">Render Information</string>
+    <string name="app_data">App Data</string>
+    <string name="lyrics_alignment">Lyrics Alignment</string>
+    <string name="align_center">Align Center</string>
+    <string name="align_start">Align Left</string>
+    <string name="title_cannot_be_empty">Title cannot be empty</string>
+    <string name="steam_account">Steam Account</string>
+    <string name="rich_presence_listening_to">Rich Presence: Listening to</string>
+    <string name="added_to_playlist_time">Time Added to Playlist</string>
+    <string name="edit_playlist">Edit Playlist</string>
+    <string name="remove_from_music_library_tip">⚠️ Removing songs from the music library will also remove them from all associated playlists</string>
+    <string name="remove_from_playlist">Remove from the Playlist</string>
+    <plurals name="remove_from_playlist_dialog_content">
+        <item quantity="one">Confirm remove this %1$d song from the playlist?</item>
+        <item quantity="other">Confirm remove these %1$d songs from the playlist?</item>
+    </plurals>
+    <plurals name="selected_d_items">
+        <item quantity="one">Selected %1$d Item</item>
+        <item quantity="other">Selected %1$d Items</item>
+    </plurals>
+    <string name="no_items_found">No Items Found</string>
+    <string name="has_unreadable_track">Has Unreadable Track</string>
+    <string name="has_unreadable_track_intro">Unable to read current track. This may be caused by restricted file access permissions, disconnected disk drives, or the file being moved/renamed. Please note: SPW may have recorded playback history, custom data, and other important information for this track, which may also be included in relevant playlists. These associated data are crucial. You may choose appropriate actions based on your needs, or perform operations directly from the track list</string>
+    <string name="ignore_and_exit_this_screen">Ignore and Exit this Screen</string>
+    <string name="ignore_and_do_not_show_this_prompt_in_caption_bar_again">Ignore and Do Not Show This Prompt in Caption Bar Again</string>
+    <string name="remove_all_unreadable_tracks">Remove All Unreadable Tracks (Data Loss May Occur As Mentioned Above)</string>
+    <string name="show_has_unreadable_tracks_prompt_in_caption_bar">Show has unreadable tracks prompt in caption bar</string>
+    <string name="output">Output</string>
+    <string name="perfect_sample_rate">Perfect Sample Rate</string>
+    <string name="perfect_sample_rate_intro">Adaptive track file sample rate, automatically converts with high quality when the device is unsupported. Please note:\n⚠️Enabling this feature will re-request the hardware sample rate when switching tracks, causing a slight stutter and disabling gapless playback functionality</string>
+    <string name="unable_to_add_duplicate_to_playlist">Unable to add duplicate to playlist</string>
+    <string name="successfully_added_to_playlist">Successfully added to playlist</string>
 </resources>

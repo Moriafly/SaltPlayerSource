@@ -269,4 +269,42 @@
     <string name="close_main_window">关闭主窗口</string>
     <string name="minimize_to_notification_area">最小化到通知区域（系统托盘）</string>
     <string name="exit_salt_player">退出 Salt Player</string>
+    <string name="blur_inactive_lyrics">模糊非当前歌词</string>
+    <string name="cd_toolkit">CD 工具箱</string>
+    <string name="no_items">无项目</string>
+    <string name="custom_folders">自定义文件夹</string>
+    <string name="scan_files">扫描文件</string>
+    <string name="scan_folder">扫描文件夹</string>
+    <string name="remove">移除</string>
+    <string name="description">简介</string>
+    <string name="render_information">渲染信息</string>
+    <string name="app_data">App 数据</string>
+    <string name="lyrics_alignment">歌词对齐</string>
+    <string name="align_center">居中</string>
+    <string name="align_start">靠左</string>
+    <string name="title_cannot_be_empty">标题不可为空</string>
+    <string name="steam_account">Steam 账户</string>
+    <string name="rich_presence_listening_to">丰富状态：正在听</string>
+    <string name="added_to_playlist_time">添加到歌单时间</string>
+    <string name="edit_playlist">编辑歌单</string>
+    <string name="remove_from_music_library_tip">⚠️ 从音乐库移除歌曲时，也会将其从所有关联歌单中移除</string>
+    <string name="remove_from_playlist">从此歌单中移除</string>
+    <plurals name="remove_from_playlist_dialog_content">
+        <item quantity="other">确认从此歌单中移除这 %1$d 首歌曲吗？</item>
+    </plurals>
+    <plurals name="selected_d_items">
+        <item quantity="other">已选择 %1$d 个项目</item>
+    </plurals>
+    <string name="no_items_found">没有搜索到相关项目</string>
+    <string name="has_unreadable_track">存在无法读取的音轨</string>
+    <string name="has_unreadable_track_intro">当前音轨无法读取可能是由于文件访问权限受限、磁盘连接断开、文件被移动或重命名等原因所致。需要注意的是，SPW 可能已经记录了该音轨的播放记录、自定义数据等重要信息，且该音轨可能已被添加到相关歌单中。这些关联数据至关重要，您可以根据实际需求选择处理方式，也可以直接在音轨列表中单独进行操作</string>
+    <string name="ignore_and_exit_this_screen">无视并退出此页面</string>
+    <string name="ignore_and_do_not_show_this_prompt_in_caption_bar_again">无视并不再于标题栏提示此警告</string>
+    <string name="remove_all_unreadable_tracks">移除全部无法读取的音轨（可能存在上述数据丢失情况）</string>
+    <string name="show_has_unreadable_tracks_prompt_in_caption_bar">在标题栏显示存在无法读取的音轨警告</string>
+    <string name="output">输出</string>
+    <string name="perfect_sample_rate">完美采样率</string>
+    <string name="perfect_sample_rate_intro">自适应音轨文件采样率，当设备不支持时自动高品质转换，请注意：\n⚠️启用此功能后，切歌时会因为重新请求硬件采样率而产生轻微卡顿，导致无间隙播放失效</string>
+    <string name="unable_to_add_duplicate_to_playlist">无法重复添加到歌单</string>
+    <string name="successfully_added_to_playlist">成功添加到歌单</string>
 </resources>
