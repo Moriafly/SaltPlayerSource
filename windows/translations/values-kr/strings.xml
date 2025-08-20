@@ -198,7 +198,7 @@
     <string name="exit">종료</string>
     <string name="confirm_exit_spw">SPW를 종료하시겠습니까?</string>
     <string name="playback_queue">재생 큐</string>
-    <string name="genre_major_pop_intro">팝 장르는 쉽게 이해할 수 있는 멜로디, 뚜렷한 리듬, 감동적인 가사가 특징이며, 멜로디는 간결하고 외우기 쉽고, 리듬은 주로 팝 댄스나 록 리듬을 사용하며, 가사는 종종 사랑, 생활 등의 주제를 다루고, 제작에서는 편곡과 믹싱에 중점을 두어 트렌디한 음향을 추구하며, 무대表演는 화려하여 대중 음악 문화의 중요한 구성 부분입니다</string>
+    <string name="genre_major_pop_intro">팝 장르는 쉽게 이해할 수 있는 멜로디, 뚜렷한 리듬, 감동적인 가사가 특징이며, 멜로디는 간결하고 외우기 쉽고, 리듬은 주로 팝 댄스나 록 리듬을 사용하며, 가사는 종종 사랑, 생활 등의 주제를 다루고, 제작에서는 편곡과 믹싱에 중점을 두어 트렌디한 음향을 추구하며, 무대 공연은 화려하여 대중 음악 문화의 중요한 구성 부분입니다</string>
     <string name="electronic">일렉트로닉</string>
     <string name="dance">댄스</string>
     <string name="jazz">재즈</string>
