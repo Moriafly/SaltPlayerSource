@@ -220,7 +220,7 @@
     <string name="entertainment">엔터테인먼트</string>
     <string name="multilayer_blur_effect">다층 블러 효과</string>
     <string name="multilayer_blur_effect_intro">다층 인터페이스에 실시간 중첩 블러 효과 렌더링</string>
-    <string name="track_screen_empty_intro">노래가 없습니다. 파일 또는 폴더를 이 창에 드래그 앤 드롭하면 자동으로 인식됩니다. 자세한操作는 음악 라이브러리로 가세요</string>
+    <string name="track_screen_empty_intro">노래가 없습니다. 파일 또는 폴더를 이 창에 드래그 앤 드롭하면 자동으로 인식됩니다. 자세한 조작은 음악 라이브러리로 가세요</string>
     <string name="gpu_priority">GPU 전략</string>
     <string name="auto">자동</string>
     <string name="perfect_integrated">통합 GPU 우선</string>
