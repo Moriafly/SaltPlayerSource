@@ -93,7 +93,6 @@
     <string name="audio_stream">Aliran Audio</string>
     <string name="clear">Bersihkan</string>
     <string name="album_artist">Artis Album</string>
-    <string name="unknown_album_artist">Artis Album Tidak Diketahui</string>
     <string name="search">Cari</string>
     <string name="unable_to_retrieve_level_information">Tidak dapat mengambil informasi level, mesin belum dimulai atau pemutaran belum dimulai</string>
     <string name="unknown_error">Kesalahan Tidak Diketahui</string>
@@ -309,4 +308,14 @@
     <string name="perfect_sample_rate_intro">Adaptive track file sample rate, automatically converts with high quality when the device is unsupported. Please note:\n⚠️Enabling this feature will re-request the hardware sample rate when switching tracks, causing a slight stutter and disabling gapless playback functionality</string>
     <string name="unable_to_add_duplicate_to_playlist">Unable to add duplicate to playlist</string>
     <string name="successfully_added_to_playlist">Successfully added to playlist</string>
+    <string name="album_s">Album: %1$s</string>
+    <string name="album_artist_s">Album Artist: %1$s</string>
+    <string name="artist_s">Artist: %1$s</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="items">Items</string>
+    <string name="track_item_appearance">Track Item Appearance</string>
+    <string name="use_check_boxes_to_select_items">Use Check Boxes to Select Items</string>
+    <string name="bits_per_sample">Bits Per Sample</string>
+    <string name="copy_file_path">Copy File Path</string>
+    <string name="auto_hide_mini_player_controls">Auto-Hide Mini Player Controls</string>
 </resources>

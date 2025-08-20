@@ -93,7 +93,6 @@
     <string name="audio_stream">オーディオストリーム</string>
     <string name="clear">クリア</string>
     <string name="album_artist">アルバムアーティスト</string>
-    <string name="unknown_album_artist">不明なアルバムアーティスト</string>
     <string name="search">検索</string>
     <string name="unable_to_retrieve_level_information">レベル情報を取得できません、エンジンが起動していないか再生が開始されていません</string>
     <string name="unknown_error">不明なエラー</string>
@@ -307,4 +306,14 @@
     <string name="perfect_sample_rate_intro">トラックファイルのサンプルレートに適応し、デバイスがサポートしていない場合は自動的に高品質で変換します。注意：\n⚠️ この機能を有効にすると、曲を切り替えるときにハードウェアのサンプルレートを再リクエストするためにわずかなカクツキが発生し、ギャップレス再生が無効になります</string>
     <string name="unable_to_add_duplicate_to_playlist">プレイリストに重複して追加できません</string>
     <string name="successfully_added_to_playlist">プレイリストに正常に追加されました</string>
+    <string name="album_s">アルバム：%1$s</string>
+    <string name="album_artist_s">アルバムアーティスト：%1$s</string>
+    <string name="artist_s">アーティスト：%1$s</string>
+    <string name="disconnected">接続が切断されました</string>
+    <string name="items">項目</string>
+    <string name="track_item_appearance">トラックアイテムの外観</string>
+    <string name="use_check_boxes_to_select_items">チェックボックスを使用して項目を選択</string>
+    <string name="bits_per_sample">サンプルあたりのビット数</string>
+    <string name="copy_file_path">ファイルパスをコピー</string>
+    <string name="auto_hide_mini_player_controls">ミニプレーヤーのコントロールを自動的に非表示にする</string>
 </resources>

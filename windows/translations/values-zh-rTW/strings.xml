@@ -93,7 +93,6 @@
     <string name="audio_stream">音頻流</string>
     <string name="clear">清除</string>
     <string name="album_artist">專輯藝術家</string>
-    <string name="unknown_album_artist">未知專輯藝術家</string>
     <string name="search">搜索</string>
     <string name="unable_to_retrieve_level_information">無法獲取電平信息，未啟動引擎或未開始播放</string>
     <string name="unknown_error">未知錯誤</string>
@@ -307,4 +306,14 @@
     <string name="perfect_sample_rate_intro">自适应音轨文件采样率，当设备不支持时自动高品质转换，请注意：\n⚠️开启此功能切歌会重新请求硬件采样率将会有小幅度卡顿，导致无间隙播放功能失效</string>
     <string name="unable_to_add_duplicate_to_playlist">无法重复添加到歌单</string>
     <string name="successfully_added_to_playlist">成功添加到歌单</string>
+    <string name="album_s">专辑：%1$s</string>
+    <string name="album_artist_s">专辑艺术家：%1$s</string>
+    <string name="artist_s">艺术家：%1$s</string>
+    <string name="disconnected">已断开</string>
+    <string name="items">项</string>
+    <string name="track_item_appearance">音轨项外观</string>
+    <string name="use_check_boxes_to_select_items">使用复选框以选择项</string>
+    <string name="bits_per_sample">采样位数</string>
+    <string name="copy_file_path">复制文件地址</string>
+    <string name="auto_hide_mini_player_controls">自动隐藏迷你播放条控制</string>
 </resources>
