@@ -44,7 +44,7 @@
     <string name="artist">アーティスト</string>
     <string name="track_information">トラック情報</string>
     <string name="reread_track_information_from_file">ファイルからトラック情報を再読み込み</string>
-    <string name="rhythm_and_blues">R&B</string>
+    <string name="rhythm_and_blues">R&amp;B</string>
     <string name="follow_system">システムに従う</string>
     <string name="music_library_drag_and_drop_tip">ファイルまたはフォルダをこのウィンドウにドラッグ＆ドロップすると自動的に認識されます（曲画面でも可能ですᓚᘏᗢ）</string>
     <string name="follow_system_language">システム言語に従う（システム言語が SPW でサポートされていない場合は、デフォルトで英語が表示されます）</string>
