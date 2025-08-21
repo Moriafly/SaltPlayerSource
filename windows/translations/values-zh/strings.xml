@@ -93,7 +93,6 @@
     <string name="audio_stream">音频流</string>
     <string name="clear">清除</string>
     <string name="album_artist">专辑艺术家</string>
-    <string name="unknown_album_artist">未知专辑艺术家</string>
     <string name="search">搜索</string>
     <string name="unable_to_retrieve_level_information">无法获取电平信息，未启动引擎或未开始播放</string>
     <string name="unknown_error">未知错误</string>
@@ -255,7 +254,7 @@
         <item quantity="other">%1$d 首歌曲</item>
     </plurals>
     <string name="play_all">播放全部</string>
-    <string name="wizard_intro">SPW 将引导设置以下项目，让本软件自动调整一些内部选项以更适合您以及当前设备</string>
+    <string name="wizard_intro">SPW 将引导以下设置，让本软件自动调整一些内部选项以更适合您以及当前设备</string>
     <string name="no_lyrics">无歌词</string>
     <string name="queue_after_current">插播（当前播放后）</string>
     <string name="queue_after_last_inserted">插播（上次插播后）</string>
@@ -271,7 +270,7 @@
     <string name="exit_salt_player">退出 Salt Player</string>
     <string name="blur_inactive_lyrics">模糊非当前歌词</string>
     <string name="cd_toolkit">CD 工具箱</string>
-    <string name="no_items">无项目</string>
+    <string name="no_items">无项</string>
     <string name="custom_folders">自定义文件夹</string>
     <string name="scan_files">扫描文件</string>
     <string name="scan_folder">扫描文件夹</string>
@@ -293,9 +292,9 @@
         <item quantity="other">确认从此歌单中移除这 %1$d 首歌曲吗？</item>
     </plurals>
     <plurals name="selected_d_items">
-        <item quantity="other">已选择 %1$d 个项目</item>
+        <item quantity="other">已选择 %1$d 个项</item>
     </plurals>
-    <string name="no_items_found">没有搜索到相关项目</string>
+    <string name="no_items_found">没有搜索到相关项</string>
     <string name="has_unreadable_track">存在无法读取的音轨</string>
     <string name="has_unreadable_track_intro">当前音轨无法读取可能是由于文件访问权限受限、磁盘连接断开、文件被移动或重命名等原因所致。需要注意的是，SPW 可能已经记录了该音轨的播放记录、自定义数据等重要信息，且该音轨可能已被添加到相关歌单中。这些关联数据至关重要，您可以根据实际需求选择处理方式，也可以直接在音轨列表中单独进行操作</string>
     <string name="ignore_and_exit_this_screen">无视并退出此页面</string>
@@ -307,4 +306,14 @@
     <string name="perfect_sample_rate_intro">自适应音轨文件采样率，当设备不支持时自动高品质转换，请注意：\n⚠️启用此功能后，切歌时会因为重新请求硬件采样率而产生轻微卡顿，导致无间隙播放失效</string>
     <string name="unable_to_add_duplicate_to_playlist">无法重复添加到歌单</string>
     <string name="successfully_added_to_playlist">成功添加到歌单</string>
+    <string name="album_s">专辑：%1$s</string>
+    <string name="album_artist_s">专辑艺术家：%1$s</string>
+    <string name="artist_s">艺术家：%1$s</string>
+    <string name="disconnected">已断开</string>
+    <string name="items">项</string>
+    <string name="track_item_appearance">音轨项外观</string>
+    <string name="use_check_boxes_to_select_items">使用复选框以选择项</string>
+    <string name="bits_per_sample">采样位数</string>
+    <string name="copy_file_path">复制文件地址</string>
+    <string name="auto_hide_mini_player_controls">自动隐藏迷你播放条控制</string>
 </resources>

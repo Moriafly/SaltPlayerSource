@@ -93,7 +93,6 @@
     <string name="audio_stream">Audio Stream</string>
     <string name="clear">Clear</string>
     <string name="album_artist">Album Artist</string>
-    <string name="unknown_album_artist">Unknown Album Artist</string>
     <string name="search">Search</string>
     <string name="unable_to_retrieve_level_information">Unable to retrieve level information, engine not started or playback not initiated</string>
     <string name="unknown_error">Unknown Error</string>
@@ -311,4 +310,14 @@
     <string name="perfect_sample_rate_intro">Adaptive track file sample rate, automatically converts with high quality when the device is unsupported. Please note:\n⚠️Enabling this feature will re-request the hardware sample rate when switching tracks, causing a slight stutter and disabling gapless playback functionality</string>
     <string name="unable_to_add_duplicate_to_playlist">Unable to add duplicate to playlist</string>
     <string name="successfully_added_to_playlist">Successfully added to playlist</string>
+    <string name="album_s">Album: %1$s</string>
+    <string name="album_artist_s">Album Artist: %1$s</string>
+    <string name="artist_s">Artist: %1$s</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="items">Items</string>
+    <string name="track_item_appearance">Track Item Appearance</string>
+    <string name="use_check_boxes_to_select_items">Use Check Boxes to Select Items</string>
+    <string name="bits_per_sample">Bits Per Sample</string>
+    <string name="copy_file_path">Copy File Path</string>
+    <string name="auto_hide_mini_player_controls">Auto-Hide Mini Player Controls</string>
 </resources>
