@@ -198,7 +198,7 @@
     <string name="exit">종료</string>
     <string name="confirm_exit_spw">SPW를 종료하시겠습니까?</string>
     <string name="playback_queue">재생 큐</string>
-    <string name="genre_major_pop_intro">팝 장르는 쉽게 이해할 수 있는 멜로디, 뚜렷한 리듬, 감동적인 가사가 특징이며, 멜로디는 간결하고 외우기 쉽고, 리듬은 주로 팝 댄스나 록 리듬을 사용하며, 가사는 종종 사랑, 생활 등의 주제를 다루고, 제작에서는 편곡과 믹싱에 중점을 두어 트렌디한 음향을 추구하며, 무대表演는 화려하여 대중 음악 문화의 중요한 구성 부분입니다</string>
+    <string name="genre_major_pop_intro">팝 장르는 쉽게 이해할 수 있는 멜로디, 뚜렷한 리듬, 감동적인 가사가 특징이며, 멜로디는 간결하고 외우기 쉽고, 리듬은 주로 팝 댄스나 록 리듬을 사용하며, 가사는 종종 사랑, 생활 등의 주제를 다루고, 제작에서는 편곡과 믹싱에 중점을 두어 트렌디한 음향을 추구하며, 무대 공연은 화려하여 대중 음악 문화의 중요한 구성 부분입니다</string>
     <string name="electronic">일렉트로닉</string>
     <string name="dance">댄스</string>
     <string name="jazz">재즈</string>
@@ -220,7 +220,7 @@
     <string name="entertainment">엔터테인먼트</string>
     <string name="multilayer_blur_effect">다층 블러 효과</string>
     <string name="multilayer_blur_effect_intro">다층 인터페이스에 실시간 중첩 블러 효과 렌더링</string>
-    <string name="track_screen_empty_intro">노래가 없습니다. 파일 또는 폴더를 이 창에 드래그 앤 드롭하면 자동으로 인식됩니다. 자세한操作는 음악 라이브러리로 가세요</string>
+    <string name="track_screen_empty_intro">노래가 없습니다. 파일 또는 폴더를 이 창에 드래그 앤 드롭하면 자동으로 인식됩니다. 자세한 조작은 음악 라이브러리로 가세요</string>
     <string name="gpu_priority">GPU 전략</string>
     <string name="auto">자동</string>
     <string name="perfect_integrated">통합 GPU 우선</string>
@@ -297,7 +297,7 @@
     </plurals>
     <string name="no_items_found">관련 항목을 검색하지 못했습니다</string>
     <string name="has_unreadable_track">읽을 수 없는 트랙이 존재합니다</string>
-    <string name="has_unreadable_track_intro">현재 트랙을 읽을 수 없는原因은 파일 접근 권한 제한, 디스크 연결 끊김, 파일 이동 또는 이름 변경 등일 수 있습니다. 참고로 SPW는 해당 트랙의 재생 기록, 사용자 정의 데이터等重要한 정보를 기록했을 수 있으며, 해당 트랙은 관련 플레이리스트에 추가되었을 수 있습니다. 이러한 관련 데이터는 매우 중요하므로 실제需求에 따라 처리方式를 선택하거나, 트랙 목록에서 개별적으로操作할 수도 있습니다</string>
+    <string name="has_unreadable_track_intro">현재 트랙을 읽을 수 없는 원인은 파일 접근 권한 제한, 디스크 연결 끊김, 파일 이동 또는 이름 변경 등일 수 있습니다. 참고로 SPW는 해당 트랙의 재생 기록, 사용자 정의 데이터 등 중요한 정보를 기록했을 수 있으며, 해당 트랙은 관련 플레이리스트에 추가되었을 수 있습니다. 이러한 관련 데이터는 매우 중요하므로 실제 필요에 따라 처리 방식을 선택하거나, 트랙 목록에서 개별적으로 조작할 수도 있습니다</string>
     <string name="ignore_and_exit_this_screen">무시하고 이 페이지를 종료</string>
     <string name="ignore_and_do_not_show_this_prompt_in_caption_bar_again">무시하고 제목 표시줄에 이 경고를 다시 표시하지 않음</string>
     <string name="remove_all_unreadable_tracks">읽을 수 없는 모든 트랙 제거(위의 데이터 손실 가능성 존재)</string>
