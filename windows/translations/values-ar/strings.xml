@@ -4,22 +4,22 @@
     <string name="cancel">إلغاء</string>
     <string name="track">مسار الصوت</string>
     <string name="music_library">مكتبة الموسيقى</string>
-    <string name="credits">أسماء المصممين والمنتجين</string>
+    <string name="credits">الشرفاء</string>
     <string name="gapless_playback">التشغيل بدون فجوات</string>
     <string name="about">حول</string>
-    <string name="keyboard_shortcut">مفاتيح الاختصار على لوحة المفاتيح</string>
+    <string name="keyboard_shortcut">مفاتيح الاختصار على لوحة الم المفاتحاث</string>
     <string name="genre">النوع</string>
     <string name="others">أخرى</string>
     <string name="blues">البلوز</string>
     <string name="chinese_characteristic">الميزات الصينية</string>
     <string name="pop">البوب</string>
     <string name="j_pop">البوب الياباني</string>
-    <string name="spw_audio_engine">محرك صوتي SPW</string>
-    <string name="unknown_title">العنوان غير معروف</string>
+    <string name="spw_audio_engine">محرك ص صوتي SPW</string>
+    <string name="unknown_title">العنوان غير غير معروف</string>
     <string name="unknown_artist">الفنان غير معروف</string>
-    <string name="unknown_album">الألبوم غير معروف</string>
+    <string name="unknown_album">الألبوم غير غير معروف</string>
     <string name="easy_listening">الموسيقى الخفيفة</string>
-    <string name="gufeng_music">الموسيقى古风 (النمط القديم)</string>
+    <string name="gufeng_music">الموسيقى Гуфэнغ (النمط القديم الصيني)</string>
     <string name="format_support">دعم التنسيقات</string>
     <string name="license">الرخصة</string>
     <string name="language">اللغة</string>
@@ -47,13 +47,13 @@
     <string name="rhythm_and_blues">الريم والبلوز</string>
     <string name="follow_system">اتبع النظام</string>
     <string name="music_library_drag_and_drop_tip">اسحب ושחרר الملفات أو المجلدات إلى هذه النافذة لتمييزها تلقائيًا (يمكن أيضًا القيام بذلك في واجهة الأغاني ᓚᘏᗢ)</string>
-    <string name="follow_system_language">اتبع لغة النظام (إذا كانت لغة النظام غير مدعومة من قبل SPW، سيتم عرض الإنجليزية כבר الافتراضية)</string>
+    <string name="follow_system_language">اتبع لغة النظام (إذا كانت لغة النظام غير مدعومة من قبل SPW، سيتم عرض الإنجليزية كلغة افتراضية بدلاً منها)</string>
     <string name="language_screen_tip">سيتم تطبيق إعدادات اللغة المختارة عند بدء تشغيل SPW في المرة القادمة</string>
     <string name="theme">الثيم</string>
     <string name="style">النمط</string>
     <string name="light">فاتح</string>
     <string name="dark">داكن</string>
-    <string name="salt_classical">الكلاسيكي الملح والفلفل</string>
+    <string name="salt_classical">الكلاسيكي بالملح والفلفل</string>
     <string name="acrylic">أكريليك</string>
     <string name="mica">مايكا</string>
     <string name="mica_alt">مايكا Alt</string>
@@ -73,11 +73,11 @@
     <string name="modified_time">وقت التعديل</string>
     <string name="added_time">وقت الإضافة</string>
     <string name="folder_path">مسار المجلد</string>
-    <string name="oem">أصل العلامة التجارية (المنتج المحلي)</string>
+    <string name="oem">المنتج المحلي (المنتج الأصلي لعلامة التجارية)</string>
     <string name="cache">التخزين المؤقت</string>
     <string name="wasapi_exclusive_mode">وضع استبعاد واجهة برمجة تطبيقات جلسة الصوت في وندوز</string>
     <string name="dither">التزوير</string>
-    <string name="dither_intro">عندما يكون عمق البت في SPW أعلى من عمق البت في الجهاز، يتم إضافة ضوضاء منخفضة للغاية للإشارة الخارجة لتقليل تشوه التكمية (التزوير يرتبط فقط عمق البت)</string>
+    <string name="dither_intro">عندما يكون عمق البت في SPW أعلى من عمق البت في الجهاز، يتم إضافة ضوضاء منخفضة للغاية للإشارة الخارجة لتقليل تشوه التكمية (يترتبط التزوير فقط بعمق البت)</string>
     <string name="audio_output_information">معلومات الإخراج الصوتي</string>
     <string name="operating_system">نظام التشغيل</string>
     <string name="spw_mixer">مُعالج الصوت في SPW</string>
@@ -207,7 +207,7 @@
     <string name="punk">بانك</string>
     <string name="world_music">موسيقى عالمية</string>
     <string name="new_age">عصر جديد</string>
-    <string name="country">ك ountry (المنطقة الريفية)</string>
+    <string name="country">كاوتري (الموسيقى الريفية)</string>
     <string name="reggae">ريجي</string>
     <string name="classical">كلاسيكي</string>
     <string name="singer_songwriter">الغني والكاتب</string>
@@ -220,7 +220,7 @@
     <string name="entertainment">الترفيه</string>
     <string name="multilayer_blur_effect">تأثير التمويه متعدد الطبقات</string>
     <string name="multilayer_blur_effect_intro">عرض تأثير التمويه المتعدد الطبقات في الوقت الحقيقي على واجهات متعددة الطبقات</string>
-    <string name="track_screen_empty_intro">لا توجد أغاني، اسحب ושחרר الملفات أو المجلدات إلى هذه النافذة لتمييزها تلقائيًا، راجع مكتبة الموسيقى لمعرفة التفاصيل الخاصة بال操操作</string>
+    <string name="track_screen_empty_intro">لا توجد أغاني، اسحب ושחרר الملفات أو المجلدات إلى هذه النافذة لتمييزها تلقائيًا، راجع مكتبة الموسيقى لمعرفة التفاصيل الخاصة بالعمليات</string>
     <string name="gpu_priority">إستراتيجية وحدة المعالجة الرسومية (GPU)</string>
     <string name="auto">تلقائي</string>
     <string name="perfect_integrated">الاولوية لوحدة المعالجة الرسومية المتكاملة</string>
@@ -257,9 +257,9 @@
     <string name="play_all">تشغيل الكل</string>
     <string name="wizard_intro">سيقوم SPW بتوجيهك لإعداد العناصر التالية، لجعل البرنامج يضبط تلقائيًا بعض الخيارات الداخلية لكي يناسبك والجهاز الحالي بشكل أفضل</string>
     <string name="no_lyrics">لا توجد كلمات</string>
-    <string name="queue_after_current">ت插队 (بعد التشغيل الحالي)</string>
-    <string name="queue_after_last_inserted">ت插队 (بعد آخر插队)</string>
-    <string name="queue_at_end">ت插队 (في نهاية الطابور)</string>
+    <string name="queue_after_current">إدخال في المنتصف الطابور (بعد التشغيل الحالي)</string>
+    <string name="queue_after_last_inserted">إدخال في المنتصف الطابور (بعد آخر إدخال)</string>
+    <string name="queue_at_end">إدخال في الطابور (في نهاية الطابور)</string>
     <string name="mod_management">إدارة الوحدات</string>
     <string name="repeat_all">تكرار القائمة</string>
     <string name="repeat_one">تكرار الأغنية الواحدة</string>
@@ -297,7 +297,7 @@
     </plurals>
     <string name="no_items_found">لا توجد عناصر مرتبطة بالبحث</string>
     <string name="has_unreadable_track">يوجد مسار غير مقروء</string>
-    <string name="has_unreadable_track_intro">قد لا يتم قراءة المسار الحالي بسبب قيود حقوق الوصول إلى الملف أو انقطاع توصيل القرص أو تحريك أو إعادة تسمية الملف وغيرها. يجب الانتباه إلى أن SPW قد سجلت سجلات التشغيل للمسار هذه والبيانات المخصصة وغيرها من المعلومات الهامة، وقد تمت إضافة هذا المسار إلى القوائم المرتبطة. هذه البيانات المرتبطة حاسمة، يمكنك الاختيار من الخيارات بناءً على احتياجاتك الفعلية، أو يمكنك القيام بال操操作 بشكل منفصل في قائمة المسارات</string>
+    <string name="has_unreadable_track_intro">قد لا يتم قراءة المسار الحالي بسبب قيود حقوق الوصول إلى الملف أو انقطاع توصيل القرص أو تحريك أو إعادة تسمية الملف وغيرها. يجب الانتباه إلى أن SPW قد سجلت سجلات التشغيل للمسار هذه والبيانات المخصصة وغيرها من المعلومات الهامة، وقد تمت إضافة هذا المسار إلى القوائم المرتبطة. هذه البيانات المرتبطة حاسمة، يمكنك الاختيار من الخيارات بناءً على احتياجاتك الفعلية، أو يمكنك القيام بالعمليات بشكل منفصل في قائمة المسارات</string>
     <string name="ignore_and_exit_this_screen">تجاهل وخروج من هذه الصفحة</string>
     <string name="ignore_and_do_not_show_this_prompt_in_caption_bar_again">تجاهل ولا تظهر هذا التنبيه مرة أخرى في شريط العنوان</string>
     <string name="remove_all_unreadable_tracks">إزالة جميع المسارات غير المقروءة (قد تنتهي ب فقدان البيانات المذكورة أعلاه)</string>
@@ -308,3 +308,4 @@
     <string name="unable_to_add_duplicate_to_playlist">لا يمكن إضافة نسخة مكررة إلى القائمة التشغيل</string>
     <string name="successfully_added_to_playlist">تمت الإضافة بنجاح إلى القائمة التشغيل</string>
 </resources>
+    
