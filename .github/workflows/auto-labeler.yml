@@ -1,0 +1,51 @@
+# .github/workflows/auto-labeler.yml
+
+name: Auto Labeler for Issues
+
+# 当有 issue 被创建时触发此工作流
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  add-platform-labels:
+    runs-on: ubuntu-latest
+    # 需要有写入 issue 的权限
+    permissions:
+      issues: write
+    steps:
+      - name: Add labels based on platform selection
+        # 使用官方的 github-script action
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // 从事件负载中获取 issue 的正文内容
+            const issueBody = context.payload.issue.body;
+            const labelsToAdd = new Set();
+
+            // 检查 issue 正文中是否包含特定平台的勾选标记
+            // GitHub 将勾选的 checkbox 渲染为 "- [x] Label"
+            if (issueBody.includes('- [x] Android')) {
+              labelsToAdd.add('Android');
+            }
+            if (issueBody.includes('- [x] Windows')) {
+              labelsToAdd.add('Windows');
+            }
+            if (issueBody.includes('- [x] 全平台 All Platforms')) {
+              labelsToAdd.add('Android');
+              labelsToAdd.add('Windows');
+            }
+
+            // 如果有需要添加的标签
+            if (labelsToAdd.size > 0) {
+              console.log(`Adding labels: ${[...labelsToAdd]}`);
+              // 使用 GitHub API 为 issue 添加标签
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                labels: [...labelsToAdd]
+              });
+            } else {
+              console.log("No platform selected or no matching labels to add.");
+            }
