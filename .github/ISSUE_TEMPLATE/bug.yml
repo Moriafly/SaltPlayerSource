@@ -22,6 +22,18 @@ body:
         - label: 确认仅将提交**一个**问题（多个问题或者备注提及另外的问题请重新提交新的）Confirm to submit only one issue (if multiple issues or notes mention other issues, please submit a new one separately)
           required: true
 
+  - type: checkboxes
+    id: platform
+    attributes:
+      label: 平台 Platform
+      description: 请选择问题发生的平台 Please select the platform where the issue occurred
+      options:
+        - label: Android
+        - label: Windows
+        - label: 全平台 All Platforms
+    validations:
+      required: true
+
   - type: input
     attributes:
       label: 设备型号 Device Model
