@@ -31,10 +31,6 @@ jobs:
             if (issueBody.includes('- [x] Windows')) {
               labelsToAdd.add('Windows');
             }
-            if (issueBody.includes('- [x] 全平台 All Platforms')) {
-              labelsToAdd.add('Android');
-              labelsToAdd.add('Windows');
-            }
 
             // 如果有需要添加的标签
             if (labelsToAdd.size > 0) {

@@ -21,6 +21,17 @@ body:
         - label: 确认仅将提交**一个**问题（多个问题或者备注提及另外的问题请重新提交新的，如建议 1、2、3 请分开提交。即便是针对某个功能的不太相关的点也应该分开提交，如歌词建议支持大小和颜色调节，应该分开提交大小、颜色的建议）Confirm to submit only one issue (if multiple issues or notes mention other issues, please submit a new one separately)
           required: true
 
+  - type: checkboxes
+    id: platform
+    attributes:
+      label: 平台 Platform
+      description: 请选择问题发生的平台（可多选） Please select the platform where the issue occurred
+      options:
+        - label: Android
+        - label: Windows
+    validations:
+      required: true
+
   - type: textarea
     attributes:
       label: 描述 Describe
