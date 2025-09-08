@@ -546,9 +546,9 @@
     <string name="terminate_app_process">終止 App 進程</string>
     <string name="show_close_button">顯示關閉按鈕</string>
     <string name="show_desktop_lyrics_button">顯示桌面歌詞按鈕</string>
-    <string name="show_desktop_lyrics_button_intro">當 Salt Player 播放時，在系統音樂通知欄或控制中心音樂面板顯示 Salt Player 的桌面歌詞按鈕，桌面歌詞功能需要浮動窗口權限</string>
-    <string name="show_close_button_intro">在某些系統上可能沒有明顯關閉音樂軟體進程的通知欄操作，此按鈕可以強制終止 Salt Player 進程，在早期 MIUI 系統上可能存在通知殘留的問題，以及在特定的系統介面可能無法立即感知到軟體進程狀態變化的問題</string>
-    <string name="notification_screen_warning">Salt Player 在系統音樂通知欄或控制中心音樂面板中顯示的可操作按鈕的排序由當前系統設定，可能被預設折疊為 3 個，可能播放/暫停按鈕在最前也可能播放/暫停按鈕在中間。當僅開啟了一個 Salt Player 可控顯示按鈕時，此按鈕可能被佈局到不確定位置</string>
+    <string name="show_desktop_lyrics_button_intro">當 Salt Player 播放時，在系統音樂通知欄或控制中心音樂面板顯示 Salt Player 的桌面歌詞按鈕，桌面歌詞功能需要浮動窗口權限</string>
+    <string name="show_close_button_intro">在某些系統上可能沒有明顯關閉音樂軟體進程的通知欄操作，此按鈕可以強制終止 Salt Player 進程，在早期 MIUI 系統上可能存在通知殘留的問題，以及在特定的系統介面可能無法立即感知到軟體進程狀態變化的問題</string>
+    <string name="notification_screen_warning">Salt Player 在系統音樂通知欄或控制中心音樂面板中顯示的可操作按鈕的排序由當前系統設定，可能被預設折疊為 3 個，可能播放/暫停按鈕在最前也可能播放/暫停按鈕在中間。當僅開啟了一個 Salt Player 可控顯示按鈕時，此按鈕可能被佈局到不確定位置</string>
     <string name="also_close_desktop_lyrics">同時關閉桌面歌詞？</string>
     <string name="also_close_desktop_lyrics_intro">即便桌面歌詞按鈕不顯示在系統音樂通知欄或控制中心音樂面板，也可通過設定中桌面歌詞按鈕直接控制</string>
     <string name="production">出品</string>
@@ -558,4 +558,9 @@
     <string name="marking_and_promotion">宣發</string>
     <string name="project_collaboration">專案協力</string>
     <string name="project_initiation_date_and_location">2020 年 8 月 · 中國江西</string>
+    <string name="dsd_format_outdated_intro">The DSD format is outdated, and Salt Player will remove support for this format in the future. We recommend switching to superior formats like FLAC for better audio quality and metadata management experience</string>
+    <string name="karaoke_lyrics_animation_compatibility_strategy">Karaoke (Word-for-word) Lyrics Animation Compatibility Strategy</string>
+    <string name="only_current_line">Only Current Line</string>
+    <string name="expand_all_lines">Expand All Lines</string>
+    <string name="always">Always</string>
 </resources>

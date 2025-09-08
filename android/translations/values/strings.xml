@@ -523,7 +523,7 @@
     <string name="hide_lyrics_screen_control_panel">Hide Lyrics Screen Control Panel</string>
     <string name="on">On</string>
     <string name="off">Off</string>
-    <string name="file_not_found">File not Found</string>
+    <string name="file_not_found">File Not Found</string>
     <string name="usb_storage">USB Storage</string>
     <string name="special_thanks">Special Thanks</string>
     <string name="translators">Translators</string>
@@ -558,6 +558,11 @@
     <string name="marking_and_promotion">Marking and Promotion</string>
     <string name="project_collaboration">Project Collaboration</string>
     <string name="project_initiation_date_and_location">August 2020 · Jiangxi, China</string>
+    <string name="dsd_format_outdated_intro">The DSD format is outdated, and Salt Player will remove support for this format in the future. We recommend switching to superior formats like FLAC for better audio quality and metadata management experience</string>
+    <string name="karaoke_lyrics_animation_compatibility_strategy">Karaoke (Word-for-word) Lyrics Animation Compatibility Strategy</string>
+    <string name="only_current_line">Only Current Line</string>
+    <string name="expand_all_lines">Expand All Lines</string>
+    <string name="always">Always</string>
     <string name="text_view" translatable="false">text_view</string>
     <string name="web_dav" translatable="false">WebDAV</string>
     <string name="help_translation_intro" translatable="false">Salt Player is committed to provide better user experience to users from different countries and regions around the world, but as a personal work, it is difficult to perfect the language translation. If you are interested in helping me, click \"CONFIRM\" to visit the translation repository to submit your translation</string>

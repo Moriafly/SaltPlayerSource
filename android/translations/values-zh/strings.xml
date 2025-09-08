@@ -558,4 +558,9 @@
     <string name="marking_and_promotion">宣发</string>
     <string name="project_collaboration">项目协力</string>
     <string name="project_initiation_date_and_location">2020 年 8 月 · 中国江西</string>
+    <string name="dsd_format_outdated_intro">DSD 格式已过时，Salt Player 将在未来移除对此格式的支持，建议选择 FLAC 等优秀格式以获取更好的音质、元数据管理体验</string>
+    <string name="karaoke_lyrics_animation_compatibility_strategy">卡拉 OK（逐字）歌词动画兼容策略</string>
+    <string name="only_current_line">仅当前行</string>
+    <string name="expand_all_lines">拓展全部行</string>
+    <string name="always">总是</string>
 </resources>

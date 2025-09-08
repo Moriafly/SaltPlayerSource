@@ -233,7 +233,7 @@
     <string name="move_up">Mover hacia arriba</string>
     <string name="move_down">Mover hacia abajo</string>
     <string name="play_queue_d">Cola de reproducción (%d)</string>
-    <string name="some_image_resources_from">Algunas imagenes provienen de</string>
+    <string name="some_image_resources_from">Algunas imágenes provienen de</string>
     <string name="follow_developer_on_Github">Seguir al desarrollador en Github</string>
     <string name="whether_to_clear_the_current_playback_queue">¿Quieres borrar la cola de reproducción?</string>
     <string name="no_playlists_have_been_created">No has creado ninguna Playlist</string>
@@ -358,7 +358,7 @@
     <string name="status_bar_lyrics_intro">Letras de la barra de estado a nivel del sistema, tenga en cuenta que esto requiere soporte del sistema, como Meizu Flyme, etc. (⚠️ Nota: si el sistema no lo admite, manténgalo apagado, de lo contrario, puede causar una visualización anormal de las notificaciones de medios)</string>
     <string name="lock_desktop_lyrics">Letras de Lock desktop</string>
     <string name="restore_audio_settings_intro">Se restaurarán los siguientes valores predeterminados y el software se reiniciará automáticamente una vez finalizado (las modificaciones relacionadas con algunas configuraciones de audio surtirán efecto después de cambiar de canción)</string>
-    <string name="display_add_to_play_next_in_list">Mostrar ícono '+' en la lista para reproducir a continuación</string>
+    <string name="display_add_to_play_next_in_list">Mostrar ícono \'+\' en la lista para reproducir a continuación</string>
     <string name="dynamic_flowing_light">Luz fluida de fondo</string>
     <string name="audio_output_settings_intro">Reproducción simultánea con otras aplicaciones (enfoque de audio), modo de salida, frecuencia de muestreo, decodificación, DSD, DSP, etc.</string>
     <string name="follow_user_interface">Seguir interfaz de usuario</string>
@@ -536,7 +536,7 @@
     <string name="additional_pro_features_intro">Additional Pro features are found across the settings screen, check the specific category screen for details</string>
     <string name="front_cover">Front Cover</string>
     <string name="back_cover">Back Cover</string>
-    <string name="album_artwork">Album Artwork</string>
+    <string name="album_artwork">Álbum Artwork</string>
     <string name="unknown_error">Unknown Error</string>
     <string name="app_registration_number">App Registration Number</string>
     <string name="scanning_in_progress_please_wait">Scanning in progress please wait</string>

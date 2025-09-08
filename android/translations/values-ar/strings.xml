@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Salt Player</string>
+    <string name="my">خاص بي</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="about">حول</string>
+    <string name="check_for_updates">تحقق من وجود تحديثات</string>
+    <string name="feedback">فييدباك</string>
+    <string name="content">محتوى</string>
+    <string name="upload">رفع</string>
+    <string name="contact">تواصل</string>
+    <string name="login">تسجيل دخول</string>
+    <string name="playlist">قائمة تشغيل</string>
+    <string name="cancel">الغاء</string>
+    <string name="settings">الاعدادات</string>
+    <string name="source_code">مصدر الكود</string>
+    <string name="pitch">مفتاح</string>
+    <string name="song_info">معلومات حول الأغنية</string>
+    <string name="song_id">معرف الأغنية</string>
+    <string name="source">المصدر</string>
+    <string name="type">النوع</string>
+    <string name="size">الحجم</string>
+    <string name="follow">متابعة</string>
+    <string name="fans">معجبين</string>
+    <string name="local_playlist">قائمة تشغيل محليّة</string>
+    <string name="new_playlist">قائمة تشغيل جديدة</string>
+    <string name="import_playlist">استيراد قائمة التشغيل</string>
+    <string name="local_music">موسيقى محلية</string>
+    <string name="history">سجل البحث</string>
+    <string name="contact_author">تواصل مع المطور</string>
+    <string name="author_email">moriafly@163.com</string>
+    <string name="more">المزيد</string>
+    <string name="comment">اضافة تعليق</string>
+    <string name="music">موسيقى</string>
+    <string name="artist">فنان</string>
+    <string name="update_log">سجل التحديث</string>
+    <string name="song_comment">تعليق على الأغنية</string>
+    <string name="playlist_recommend">قائمة التشغيل الموصى بها</string>
+    <string name="search">بحث</string>
+    <string name="experimental">تجريبي</string>
+    <string name="confirm">التأكيد</string>
+    <string name="version">%s(%d)</string>
+    <string name="open_source_introduction">مقدمة ل (مفتوح المصدر)</string>
+    <string name="send">أرسل</string>
+    <string name="d_songs">%d أغاني</string>
+    <string name="playlist_number">قائمة تشغيل（%d）</string>
+    <string name="my_favorite_songs">أغانيّ المفضلة</string>
+    <string name="equalizer">المعادل</string>
+    <string name="translation">ترجمة</string>
+    <string name="download">تنزيل</string>
+    <string name="back">الرجوع</string>
+    <string name="remove_the_song">احذف الأغنية</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="cloud_drive">التخزين السحابي</string>
+    <string name="theme">موضوع</string>
+    <string name="user_interface">واجهة المستخدم</string>
+    <string name="double_row_playlists">قوائم التشغيل بصفين</string>
+    <string name="daily_recommendation">توصية يومية</string>
+    <string name="play_all">تشغيل الكل(%d)</string>
+    <string name="sponsor">ادعمني</string>
+    <string name="play_queue">تشغيل قائمة الانتظار</string>
+    <string name="top_list">قائمة بالأفضل</string>
+    <string name="password">كلمة المرور</string>
+    <string name="cellphone_number">رقم الهاتف</string>
+    <string name="exit_app">الخروج من التطبيق</string>
+    <string name="alipay">Alipay</string>
+    <string name="basic_information">معلومات أساسية</string>
+    <string name="personal_profile">الصفحة الشخصية</string>
+    <string name="good_comments">تعليقات جيدة</string>
+    <string name="home_sentence_recommendation">توصية الجملة الرئيسية</string>
+    <string name="custom_background">خلفية مخصصة</string>
+    <string name="custom_home_page_background">خلفية مخصصة للصفحة الرئيسية</string>
+    <string name="clear_background">خلفية واضحة</string>
+    <string name="audio_focus">التركيز الصوتي</string>
+    <string name="audio_focus_intro">عندما يتم تمكين الميزة ويبدأ تطبيق آخر في تشغيل الصوت، يقوم Salt Player بإيقاف التشغيل مؤقتًا للسماح للتطبيق الآخر بالتشغيل</string>
+    <string name="auto_matching_of_network_lyrics">المطابقة التلقائية لكلمات الشبكة</string>
+    <string name="intelligent_filter">فلتر ذكي</string>
+    <string name="intelligent_filter_sub">تصفية ذكية لبعض الملفات الصوتية</string>
+    <string name="skip_wrong_song">تخطى الأغاني التي لا تعمل</string>
+    <string name="sliding_animation_of_songs_in_the_playlist">الرسوم المتحركة المنزلقة للأغاني في قائمة التشغيل</string>
+    <string name="next_play">المقطع التالي</string>
+    <string name="help_document">مستندات للمساعدة</string>
+    <string name="single_column_playlist">قائمة تشفغيل بعمود واحد</string>
+    <string name="status_bar_lyrics">كلمات الأغنية في شريط الحالة</string>
+    <string name="previous">السابق</string>
+    <string name="next">التالي</string>
+    <string name="search_for_online_music">ابحث عن موسيقى عبر الأنترنت</string>
+    <string name="clear">امسح</string>
+    <string name="play_music">تشغيل</string>
+    <string name="pause_music">ايقاف مؤقت</string>
+    <string name="cache">تخزين مؤقت</string>
+    <string name="ink_screen_mode">وضع الشاشة الحبرية</string>
+    <string name="image_cache">التخزين المؤقت للصورة</string>
+    <string name="clear_image_cache">مسح التخزين المؤقت للصورة</string>
+    <string name="service">الخدمة</string>
+    <string name="explain">اشرح</string>
+    <string name="enable_service">فغل الخدمة</string>
+    <string name="memory">ذاكرة</string>
+    <string name="song">أغنية</string>
+    <string name="address">العنوان</string>
+    <string name="find">اعثر</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="sort">فرز</string>
+    <string name="album">ألبوم</string>
+    <string name="folder">مجلد</string>
+    <string name="share">شارك</string>
+    <string name="language">لغة</string>
+    <string name="unknown">غير معروف</string>
+    <string name="title">العنوان</string>
+    <string name="title_desc">العنوان تنازلي</string>
+    <string name="add_time">تاريخ الإضافة</string>
+    <string name="add_time_desc">تاريخ الإضافة تنازلي</string>
+    <string name="album_desc">الألبوم تنازلي</string>
+    <string name="artist_desc">الفنان تنازلي</string>
+    <string name="delete_forever">حذف للأبد</string>
+    <string name="hide">اخفاء</string>
+    <string name="salt_audio_effect">مؤثرات صوت Salt</string>
+    <string name="duration">المدة</string>
+    <string name="format">البنية</string>
+    <string name="bitrate">معدل البت</string>
+    <string name="sample_rate">تردد أخذ العينات</string>
+    <string name="channel_count">عدد القنوات</string>
+    <string name="no_lyrics">لم يتم العثور على كلمات للاغنية</string>
+    <string name="lyrics_edit">تعديل كلمات الأغنية</string>
+    <string name="save">حفظ</string>
+    <string name="menu">القائمة</string>
+    <string name="beautify">تجميل</string>
+    <string name="bass_boost">تعزيز الجهير</string>
+    <string name="pre_amp">Pre AMP</string>
+    <string name="system_equalizer">معادل النظام</string>
+    <string name="fade_in_out">التلاشي</string>
+    <string name="player_ui_keep_screen_on">إبقاء الشاشة قيد التشغيل</string>
+    <string name="path">المسار</string>
+    <string name="kbps">كب/ث</string>
+    <string name="lyrics_view_text_size">حجم كلمات الأغنية</string>
+    <string name="audio_decoding">فك تشفير الصوت</string>
+    <string name="default_audio_decoding">فك تشفير الصوت الافتراضي</string>
+    <string name="auto_matching_of_network_album_info">المطابقة التلقائية لمعلومات ألبوم الشبكة</string>
+    <string name="others">اخرى</string>
+    <string name="help">مساعدة</string>
+    <string name="playback_screen_theme">موضوع شاشة التشغيل</string>
+    <string name="video">فيديو</string>
+    <string name="give_high_praise">أعطِ ثناء </string>
+    <string name="lock_screen">قفل الشاشة</string>
+    <string name="ignore_media_store_cover">تجاهل خلفية Media Store</string>
+    <string name="player">مشغل</string>
+    <string name="attenuate_flowing_light_effect">تخفيف تأثير الضوء المتدفق</string>
+    <string name="update">تحديث</string>
+    <string name="no_description">لا يوجد وصف</string>
+    <string name="salt_selected">(محدد)</string>
+    <string name="media_router">موجه الوسائط</string>
+    <string name="sleep_timer">مؤقت النوم</string>
+    <string name="start">ابدأ</string>
+    <string name="d_minutes">%d دقائق</string>
+    <string name="audio_effect_dialog_tips">يتكيف Salt Player مع معادل Poweramp وبرامج معالجة الصوت الأخرى</string>
+    <string name="search_songs_hint">ابحث عن %d أغنية</string>
+    <string name="baidu_pan">Baidu Pan</string>
+    <string name="stop">توقيف</string>
+    <string name="use_music_tag_app_editing">استخدم تطبيق Music Tag لتطبيق التعديلات</string>
+    <string name="auto_matching_of_network_lyrics_explain">حاول الحصول على كلمات الويب عندما لا تتمكن من الحصول على كلمات الأغاني أو ملف كلمات الأغاني المضمن (ملف .lrc بنفس اسم الدليل)</string>
+    <string name="media_decoding_provided_by_this_device">فك تشفير الوسائط التي يوفرها هذا الجهاز</string>
+    <string name="attenuate_flowing_light_effect_explain">تقليل تأثير عرض الضوء المتدفق لتحسين الأداء</string>
+    <string name="ignore_media_store_cover_explain">يتجاهل هذا الإعداد أغلفة مكتبة وسائط النظام، مما قد يؤدي إلى تحسين جودة الغلاف ودعم أغلفة مختلفة لنفس الألبوم، مما قد يؤدي إلى إبطاء التحميل</string>
+    <string name="privacy_policy_and_terms_of_use">سياسة الخصوصية وشروط الاستخدام</string>
+    <string name="dialog_sleep_timer_tips">عند استخدامه أثناء النوم، ينصح بخفض مستوى صوت الجهاز وعدم رفعه لفترة طويلة. قد يؤدي التعرض لفترات طويلة لمستويات عالية إلى تلف السمع</string>
+    <string name="direct_links">روابط مباشرة</string>
+    <string name="add">اضافة</string>
+    <string name="add_single_direct_link_song">اضف رابطاََ مباشراََ للأغنية</string>
+    <string name="cover_address">عنوان الخلفية</string>
+    <string name="source_address">عنوان المصدر</string>
+    <string name="title_not_empty">لا يمكن أن يكون العنوان فارغًا</string>
+    <string name="direct_link">رابط مباشر</string>
+    <string name="direct_link_cannot_empty">لا يمكن للرابط المباشر أن يكون فارغاََ</string>
+    <string name="native_output">الإخراج المحلي</string>
+    <string name="native_output_intro">قد يؤدي تمكين إخراج AAudio على نظام Android 8.0 والإصدارات الأحدث، مع تمكين إخراج OpenSL ES على نظام أقل من Android 8.0، إلى زمن وصول أقل وأداء أفضل لجودة الصوت مقارنةً بإخراج المسار الصوتي، ولكنه لن يعمل مع معادل النظام أو برامج التأثير الصوتي الأخرى وسيعمل يؤدي إلى ارتفاع استهلاك الطاقة</string>
+    <string name="audio_effect_dialog_error_tips">❗لن يتبع تمكين الإخراج الأصلي تحسينات معادل النظام أو برامج التأثير الصوتي الأخرى</string>
+    <string name="codec">برنامج الترميز</string>
+    <string name="options_for_audiophile">خيارات لعشاق الموسيقى</string>
+    <string name="audio_output_freq">تردد إخراج الصوت</string>
+    <string name="source_of_lyrics">مصدر كلمات الأغنية</string>
+    <string name="see_lyrics_help">See lyrics help</string>
+    <string name="player_configuration">تكوين المشغل</string>
+    <string name="audio_output_tips">❗يرجى دراسة مواصفات الجهاز بعناية قبل تغيير الإعدادات المذكورة أعلاه، وستدخل التغييرات حيز التنفيذ بعد تبديل الأغنية، وقد يؤدي معدل أخذ العينات المرتفع جدًا إلى ارتفاع درجة الحرارة أو استهلاك الطاقة بشكل أسرع</string>
+    <string name="audio_output">إخراج الصوت</string>
+    <string name="file_not_found_exception">غير قادر على العثور على الملف، ربما تم نقل الملف أو حذفه</string>
+    <string name="random_play">تشغيل عشوائي</string>
+    <string name="random_play_d">تشغيل عشوائي (%d)</string>
+    <string name="use_android_media_decoder">استخدم وحدة فك تشفير وسائط النظام</string>
+    <string name="use_android_media_decoder_intro">استخدم وحدة فك ترميز الوسائط التي يوفرها نظام Android الأساسي ووحدة فك ترميز الوسائط الخاصة بالجهاز (عادةً ما يتم توفيرها من قبل الشركة المصنعة أو الشركة المصنعة للرقاقة) لفك تشفير الصوت عندما يكون الصوت بتنسيق غير مدعوم من خلال فك التشفير المدمج في Salt Player</string>
+    <string name="media_extractor_adaptive_audio">MediaExtractor يتكيف مع الصوت</string>
+    <string name="disabling_aaudio_output_intro">بالنسبة للأجهزة التي تعمل بنظام التشغيل Android 8.0 أو الأحدث، يوصى باستخدام OpenSL ES بدلاً من إخراج AAudio، لأن هذا قد يؤدي إلى تحسين الاستقرار</string>
+    <string name="album_s">ألبوم: %s</string>
+    <string name="enable_or_disable_desktop_lyrics">تمكين/تعطيل كلمات سطح المكتب</string>
+    <string name="songs">أغاني</string>
+    <string name="albums">ألبومات</string>
+    <string name="folders">مجلدات</string>
+    <string name="artists">فنانين</string>
+    <string name="important">مهم</string>
+    <string name="match_internet_tip">❗لا يمكن مطابقة الشبكة بشكل كامل، لا ترسل فييدباك</string>
+    <string name="playlists">قوائم تشغيل</string>
+    <string name="music_library">مكتبة موسيقى</string>
+    <string name="lyrics_settings">اعدادات كلمات الأغنية</string>
+    <string name="clearing_play_queue">مسح قائمة الانتظار</string>
+    <string name="play_queue_is_empty">قائمة الانتظار فارغة</string>
+    <string name="system_audio_effect">تأثير صوت النظام</string>
+    <string name="display_lock_screen_cover">أظهر الخلفية على شاشة القفل</string>
+    <string name="videos">فيديوهات</string>
+    <string name="add_to_my_favorite_songs">أضف الى قائمة المفضلة</string>
+    <string name="open_source_license">رخصة الكود المفتوح المصدر</string>
+    <string name="hello">مرحباََ</string>
+    <string name="current_version">الإصدار الحالي</string>
+    <string name="all_audio_information">كل معلومات الصوت</string>
+    <string name="thanks">شكراََ</string>
+    <string name="lyrics">كلمات الأغنية</string>
+    <string name="some_information">بعض المعلومات</string>
+    <string name="follow_or_contact_developer">تابع أو تواصل مع المطورين</string>
+    <string name="extensions">الإضافات</string>
+    <string name="use_better">استخدم أفضل</string>
+    <string name="status_bar_lyrics_not_show_translation">لا تظهر كلمات شريط الحالة الترجمة</string>
+    <string name="change_to_your_like">التغيير حسب رغبتك</string>
+    <string name="hidden_songs_and_folders">أغاني ومجلدات مخفية</string>
+    <string name="look_at_the_help">ألقِ نظرة على المساعدة</string>
+    <string name="terms_of_use">شروط الاستخدام</string>
+    <string name="immersion_mode">وضع الانغمار</string>
+    <string name="channel">قناة</string>
+    <string name="player_theme_dark">✨تدفق الظلام✨</string>
+    <string name="player_theme_light">🍉تدفق الضوء🍨（2021 💕 في ذكرى الصيف）</string>
+    <string name="close">اغلاق</string>
+    <string name="immersion_mode_explain">قم بإخفاء شريط الحالة واحتفظ فقط بغلاف الألبوم وكلمات الأغاني وأزرار التحكم الأساسية في واجهة التشغيل للحصول على تجربة غامرة. يمكن أيضًا تبديل هذه الميزة عن طريق الضغط باستمرار على زر التشغيل المؤقت في واجهة التشغيل</string>
+    <string name="delete_s_forever">حذف %s للأبد?</string>
+    <string name="delete_playlist">حذف قائمة تشغيل</string>
+    <string name="add_to_playlist">أضف إلى قائمة التشغيل</string>
+    <string name="access_link">رابط الوصول</string>
+    <string name="move_up">أعلى</string>
+    <string name="move_down">أسفل</string>
+    <string name="play_queue_d">شغّل قائمة الانتظار (%d)</string>
+    <string name="some_image_resources_from">بعض موارد الصور من</string>
+    <string name="follow_developer_on_Github">تابع المطور على GitHub </string>
+    <string name="whether_to_clear_the_current_playback_queue">هل تريد حذف قائمة الانتظار الحالية؟</string>
+    <string name="no_playlists_have_been_created">لم يتم إنشاء أية قوائم تشغيل</string>
+    <string name="enter_the_playlist_name_here">أدخل اسم قائمة التشغيل هنا</string>
+    <string name="playlist_name_must_not_be_empty">اسم قائمة التسغيل يجب ألا يكون فارغ</string>
+    <string name="successfully_added_to_next_play">تمت الإضافة</string>
+    <string name="artist_s">فنان: %s</string>
+    <string name="v3_audio_effect">تأثير الصوت V3</string>
+    <string name="v3_reverb">صدى V3</string>
+    <string name="introduction">مقدمة</string>
+    <string name="auto_eq_intro">استخدم مُعادل معلمة PEAKEQ لتجنب مشكلة صعوبة مُعادل التردد الثابت (الرسمي) في تعويض الفجوة الضيقة وقيمة الذروة بين نطاقي التردد. قم باستعادة المعلمات الدقيقة من مكتبة AutoEq لتمنحك شعورًا مثاليًا بالاستماع. يوصى باستخدامه مع سماعات الرأس.</string>
+    <string name="help_translation">مساعدة في الترجمة</string>
+    <string name="audio_effect">تأثير الصوت</string>
+    <string name="remove_from_the_playlist">ازالة من قائمة التشغيل</string>
+    <string name="edit">تعديل</string>
+    <string name="system_support_required">يتطلب دعم النظام</string>
+    <string name="locate_the_currently_playing_song">حدد موقع الأغنية المشغلة حالياََ</string>
+    <string name="source_audio_info">معلومات عن الملف</string>
+    <string name="actual_output_of_device">الإخراج الفعلي للجهاز</string>
+    <string name="channel_information">معلومات عن القناة</string>
+    <string name="follow_system">اتبع النظام</string>
+    <string name="light">فاتح</string>
+    <string name="dark">داكن</string>
+    <string name="audio_output_tip">❗يرجى ضبط الخيارات التالية بعناية لتجنب الاستهلاك المفرط للطاقة والعواقب الأخرى غير المؤكدة مثل قتل البرنامج بواسطة النظام. لن تسري أي تغييرات على الخيارات التالية إلا بعد تبديل الأغنية</string>
+    <string name="change_device_freq_intro">فرض تشغيل الصوت بتردد عالٍ (حتى لو كان جهاز الإخراج لا يدعمه)، وتأكد من تمكين الإخراج الأصلي؛ يرجى ملاحظة أن معظم الأجهزة لا تدعم 96000 هرتز وإخراج التردد العالي، وتطبيق التردد الأعلى قد يتسبب في فشل التشغيل</string>
+    <string name="change_device_freq">حاول فرض تغييرات على معدل أخذ العينات لجهاز الإخراج (ميزة تجريبية، لمخرجات DAC عالية الأداء)</string>
+    <string name="output">الإخراج</string>
+    <string name="audio_track_intro">إخراج AudioTrack الافتراضي</string>
+    <string name="open_sl_es_intro">إخراج أصلي عالي الأداء وزمن وصول منخفض، مما يوفر ثباتًا عاليًا، ولكنه غير متوافق مع تأثيرات صوت النظام وتطبيق الصوت التابع لجهة خارجية</string>
+    <string name="aaudio_intro">إخراج أصلي عالي الأداء وزمن وصول منخفض، ولكنه غير متوافق مع تأثيرات صوت النظام وتطبيق الصوت التابع لجهة خارجية</string>
+    <string name="audio_output_mode">وضع إخراج الصوت</string>
+    <string name="audio_decode">فك تشفير الصوت</string>
+    <string name="dsp">DSP</string>
+    <string name="repair">إصلاح</string>
+    <string name="repairing">يتم الإصلاح, يرجى الإنتظار...</string>
+    <string name="web_service">خدمة الويب</string>
+    <string name="song_settings_intro">كلمات شريط الحالة، كلمات الأغاني عبر الإنترنت، أغلفة الألبوم، معلومات الألبوم, الخ...</string>
+    <string name="language_settings_intro">اختر لغة، ساعد في الترجمة</string>
+    <string name="about_settings_intro">معلومات البرنامج، وقواعد استخدام البرنامج، واتفاقيات الخصوصية، وتراخيص مفتوحة المصدر، ومطوري الاتصال، وما إلى ذلك</string>
+    <string name="user_interface_intro">موضوع شاشة التشغيل، وضع الغمر، وما إلى ذلك</string>
+    <string name="hide_folder">إخفاء المجلد</string>
+    <string name="hide_folder_intro">هل تريد إخفاء كافة الأغاني الموجودة في المجلد %s ومجلداته الفرعية؟</string>
+    <string name="developer_email">البريد الالكتروني للمطور</string>
+    <string name="technical_support">دعم فني</string>
+    <string name="salt_player_official">Salt Player Official</string>
+    <string name="update_software">تحقق من التحديثات</string>
+    <string name="from_album">من ألبوم</string>
+    <string name="miui_status_bar_lyrics">كلمات شريط الحالة لـ MIUI</string>
+    <string name="miui_status_bar_lyrics_intro">تأكد من تثبيت وحدة Xpose قبل تمكين هذا الخيار، يرجى زيارة الرابط أدناه للحصول على التفاصيل</string>
+    <string name="dsd_audio_gain">كسب الصوت DSD</string>
+    <string name="lyrics_screen">شاشة كلمات الأغاني</string>
+    <string name="use_classic_lyrics_view">استخدم طريقة عرض كلمات الأغاني الكلاسيكية</string>
+    <string name="lyrics_view_text_align_center">اجعل نص كلمات الأغاني في المنتصف</string>
+    <string name="playback_screen">شاشة التشغيل</string>
+    <string name="tablet_mode">وضع الجهاز اللوحي</string>
+    <string name="keyboard_shortcuts">اختصارات لوحة المفاتيح</string>
+    <string name="space_bar_play_or_pause_music">شريط المسافة لتشغيل الموسيقى أو إيقافها مؤقتًا</string>
+    <string name="tablet_mode_intro">لتعزيز تجربة المستخدم، قمنا بتصميم ثلاثة تخطيطات جديدة لـ Salt Player 5.0، مستوحاة من تقنية الواجهة التكيفية وشريط الحالة الممتاز وتكييف شريط التنقل</string>
+    <string name="keyboard_shortcuts_intro">تتوفر هذه الوظيفة فقط عندما تكون واجهة Salt Player في المقدمة</string>
+    <string name="laboratory">مختبر</string>
+    <string name="laboratory_intro">مرحبًا بك في Salt Player Lab، الميزات الموجودة هنا ليست مستقرة وهي مخصصة للتجربة فقط. قد تتم إزالة الميزات في أي وقت</string>
+    <string name="display_video_screen">عرض صفحة الفيديو</string>
+    <string name="year">سنة</string>
+    <string name="subscribe_on_telegram">اشترك في Salt Player على Telegram لمتابعة تقدم التطوير</string>
+    <string name="github_salt_player_source">قم بزيارة SaltPlayerSource للحصول على أحدث إصدار، والاطلاع على آخر التحديثات والمشاركات</string>
+    <string name="web_dav_settings">إعدادات WebDAV</string>
+    <string name="audio_of_video">الصوت في الفيديو</string>
+    <string name="src">SRC</string>
+    <string name="author">المؤلف</string>
+    <string name="select_all">تحديد الكل</string>
+    <string name="deselect_all">الغاء تحديد الكل</string>
+    <string name="change_the_language">تغيير اللغة</string>
+    <string name="system_language">لغة النظام</string>
+    <string name="multiple_choice">الاختيار من متعدد</string>
+    <string name="background_cover_of_playback_screen">خلفية شاشة التشغيل</string>
+    <string name="select_image">حدد صورة</string>
+    <string name="delete_current_image">حذف الصورة الحالية</string>
+    <string name="background_cover_of_player_screen_info">قم بتعطيل وضع الضوء المتدفق واستخدم خلفية مخصصة لواجهة التشغيل. لاحظ أنه قد يكون من الصعب التعرف على الأزرار الأمامية بسبب انخفاض تباين الألوان والخلفية. يرجى ضبط وضع الإضاءة المتدفق يدويًا (فاتح: اللون الأمامي أسود، داكن: اللون الأمامي أبيض)</string>
+    <string name="xposed_status_bar_lyrics">كلمات شريط حالة xposed</string>
+    <string name="hide_status_bar">إخفاء شريط الحالة</string>
+    <string name="enabled">مفعّل</string>
+    <string name="disabled">ملغى</string>
+    <string name="decoder">مفكك التشفير</string>
+    <string name="you_need_to_restart_the_app">تحتاج إلى إعادة تشغيل التطبيق</string>
+    <string name="notification_of_salt_player">إخطار Salt Player</string>
+    <string name="scan_music">تصفح الموسيقى</string>
+    <string name="salt_player_pro">Salt Player Pro</string>
+    <string name="do_not_scan_audio_below_60_seconds">لا تضف أغاني تقل مدتها عن 60 ثانية</string>
+    <string name="start_scan">ابدأ المسح</string>
+    <string name="save_to_the_media_library">حفظ في المكتبة</string>
+    <string name="save_successfully">تم الحفظ بنجاح</string>
+    <string name="initial_sample_rate">معدل أخذ العينات الأولي</string>
+    <string name="bit_depth">عمق البت</string>
+    <string name="state">الحالة</string>
+    <string name="audio_session_id">معرف الجلسة الصوتية</string>
+    <string name="d_songs_were_scanned">%d تم مسح أغاني</string>
+    <string name="fade_in_or_out_during_play_or_pause">تتلاشى للداخل أو للخارج أثناء التشغيل أو الإيقاف المؤقت</string>
+    <string name="swipe_down_here_to_return_to_the_playback_screen">اسحب لأسفل للعودة إلى شاشة التشغيل</string>
+    <string name="click_check_for_updates">انقر فوق التحقق من وجود تحديثات</string>
+    <string name="car_bluetooth_lyrics">كلمات بلوتوث السيارة</string>
+    <string name="car_kit">Car Kit</string>
+    <string name="none">فارغ</string>
+    <string name="car_bluetooth_lyrics_intro">سيتم إرسال الكلمات الحالية كجلسة إعلامية، انتبه إلى القيادة</string>
+    <string name="audio_information">معلومات صوتية</string>
+    <string name="date_modified_desc">تاريخ تحديث الوصف</string>
+    <string name="digital_signal_output">إخراج الإشارة الرقمية</string>
+    <string name="circle_playback_cover">غطاء تشغيل الدائرة</string>
+    <string name="salt_player_smart_router">Salt Player موجه ذكي</string>
+    <string name="display_song_file_name_in_list">إظهار اسم الملف في القائمة</string>
+    <string name="display_song_file_name_in_list_intro">يتم عرض النص الرئيسي للأغنية في القائمة كاسم ملف الأغنية (بما في ذلك الامتداد) بدلاً من عنوان البيانات التعريفية المضمنة للملف</string>
+    <string name="collapse">هبوط</string>
+    <string name="expand">توسيع</string>
+    <string name="no_floating_window_permission_tip">لم يحصل التطبيق على إذن، ستحتاج إلى الانتقال يدويًا إلى الإعدادات لمنح البرنامج إذنًا للنافذة العائمة</string>
+    <string name="float_support">دعم التعويم</string>
+    <string name="float_support_dsp">دعم التعويم DSP</string>
+    <string name="warning">⚠️تحذير</string>
+    <string name="album_cover">غلاف الألبوم</string>
+    <string name="agree">أتفق</string>
+    <string name="disagree">لا أتفق</string>
+    <string name="restore_some_defaults_on_this_page">استعادة بعض الإعدادات الافتراضية في هذه الصفحة</string>
+    <string name="status_bar_lyrics_intro">يتطلب دعم النظام، مثل MEIZU Flyme، وما إلى ذلك (⚠️ملاحظة: إذا كان النظام لا يدعمه، فيرجى إيقاف تشغيله، وإلا فقد يتسبب ذلك في عرض غير طبيعي لإشعارات الوسائط)</string>
+    <string name="lock_desktop_lyrics">قفل كلمات سطح المكتب</string>
+    <string name="restore_audio_settings_intro">ستتم استعادة القيم التالية إلى الوضع الافتراضي، وسيتم إعادة تشغيل البرنامج تلقائيًا بعد الاستعادة (ستدخل التعديلات المتعلقة ببعض إعدادات الصوت حيز التنفيذ بعد تبديل الأغاني)</string>
+    <string name="display_add_to_play_next_in_list">إظهار زر الإضافة في قائمة الأغاني</string>
+    <string name="dynamic_flowing_light">الضوء المتدفق الديناميكي</string>
+    <string name="audio_output_settings_intro">التشغيل المتزامن مع التطبيقات الأخرى (التركيز الصوتي)، ووضع الإخراج، ومعدل العينة، وفك التشفير، وDSD، وDSP، وما إلى ذلك</string>
+    <string name="follow_user_interface">النظام</string>
+    <string name="d_selected">%d تم تحديد</string>
+    <string name="play_the_selected_queue">تشغيل قائمة الانتظار المحددة</string>
+    <string name="volume_balance">تطبيع حجم الصوت</string>
+    <string name="volume_balance_tip">يستخدم علامتي REPLAYGAIN_TRACK_GAIN وREPLAYGAIN_ALBUM_GAIN المضمنتين داخل الملف ويضبط مستوى الصوت بناءً على هذه القيمة. يمكن تعديل قيمة الكسب بواسطة بعض البرامج، مثل استخدام foobar2000 -> مسح كسب المسار لكل ملف وما إلى ذلك. سيتم تفعيل التغييرات على هذا الخيار بعد تبديل الأغاني أو إعادة تشغيلها</string>
+    <string name="compressor">ضاغط</string>
+    <string name="compressor_tip">يضبط مستوى الصوت ديناميكيًا عن طريق جعل المقاطع الصاخبة أكثر هدوءًا، والمقاطع الهادئة أعلى صوتًا</string>
+    <string name="auto_playback">التشغيل التلقائي</string>
+    <string name="played_times">كم مرة تم تشغيلها</string>
+    <string name="statistics">إحصائيات</string>
+    <string name="hide_song_s">هل أنت متأكد أنك تريد إخفاء هذه الأغنية %s؟ سيؤدي هذا إلى نقل هذه الأغنية من مكتبة الموسيقى الخاصة بك وسيفقد سجل التشغيل المرتبط بها وما إلى ذلك</string>
+    <string name="max_audio_concert_hall_atmosphere">أجواء قاعة الحفلات الموسيقية الصوتية MAX</string>
+    <string name="join_qq_channel">انضم إلى قناة QQ</string>
+    <string name="quality">جودة</string>
+    <string name="average_latency">متوسط التأخير</string>
+    <string name="buy_or_restore_purchase">شراء أو استعادة الشراء</string>
+    <string name="refresh">تحديث</string>
+    <string name="internal_storage">التخزين الداخلي</string>
+    <string name="float_support_info">فك تشفير النقطة العائمة 32 بت ومعالجتها</string>
+    <string name="wallpaper_of_main_screen">خلفية القائمة الرئيسية</string>
+    <string name="floating_window_status_bar_lyrics">كلمات شريط حالة النافذة العائمة</string>
+    <string name="background_color">لون الخلفية</string>
+    <string name="storage_occupancy">إشغال التخزين</string>
+    <string name="wallpaper_of_main_interface_info">يعد تحديد لون الخلفية المناسب أمرًا مفيدًا لعرض أكثر وضوحًا. لا ينصح بضبط لون الخلفية لمتابعة النظام باستثناء متابعة سمة النظام</string>
+    <string name="floating_window_status_bar_lyrics_info">محاكاة كلمات شريط الحالة عن طريق عرض نافذة عائمة صغيرة في المساحة الفارغة لشريط الحالة</string>
+    <string name="floating_window_status_bar_lyrics_tip">تتطلب هذه الوظيفة الحصول على إذن من النافذة العائمة. عند إيقاف الأغنية مؤقتًا، سيتم إخفاء عرض الكلمات في النافذة العائمة تلقائيًا. في حالة التشغيل ويتم تمرير الكلمات، يكون من المناسب ضبط الكلمات</string>
+    <string name="style">نمط</string>
+    <string name="width">عرض</string>
+    <string name="position">موضع</string>
+    <string name="left_and_right_position">موضع اليسار واليمين</string>
+    <string name="up_and_down_position">موضع الأعلى والأسفل</string>
+    <string name="choose_color">اختار اللون</string>
+    <string name="status_bar_lyrics_not_show_translation_info">يتم تحديد الترجمة الغنائية بنفس الطابع الزمني</string>
+    <string name="lyrics_text_left_aligned">نص كلمات الأغاني بمحاذاة إلى اليسار</string>
+    <string name="lyrics_text_left_aligned_info">عند عدم تشغيله، سيظل متمركزًا ضمن العرض الغنائي المحدد</string>
+    <string name="copy">نسخ</string>
+    <string name="copied_to_clipboard">تم النسخ للحافظة</string>
+    <string name="added_to_playlist">تم الاإضافة لقائمة التشغيل</string>
+    <string name="number_of_characters_is_too_long">عدد الأحرف طويل جدًا</string>
+    <string name="remove_from_music_library">إزالة من مكتبة الموسيقى</string>
+    <string name="migrate_old_playlists_from_V7">ترحيل قوائم التشغيل القديمة من الإصدار 7</string>
+    <string name="lyrics_settings_intro">كلمات السيارة، وكلمات شريط الحالة، وكلمات سطح المكتب، وما إلى ذلك</string>
+    <string name="media_source">مصدر الملف</string>
+    <string name="android_media_store">متجر وسائط أندرويد</string>
+    <string name="custom_folders">مجلدات مخصصة</string>
+    <string name="remove">إزالة</string>
+    <string name="add_custom_folder">إضافة مجلد مخصص</string>
+    <string name="failed_to_add_custom_folder">فشلت إضافة مجلد مخصص لأن المجلد الرئيسي أو المجلد الفرعي موجود بالفعل</string>
+    <string name="copy_text">نسخ النص</string>
+    <string name="unknown_album_artist">فنان الألبوم غير معروف</string>
+    <string name="unknown_album_title">عنوان الألبوم غير معروف</string>
+    <string name="unknown_artist">فنان غير معروف</string>
+    <string name="use_android_media_store">استخدم Android Media Store</string>
+    <string name="android_media_store_intro">قم بمسح متجر وسائط Android بسرعة للحصول على الأغاني، برجاء استخدام إعدادات Salt Player -> إخراج الصوت -> فك تشفير الوسائط الذي يوفره هذا الجهاز لدعم التنسيق، بعض الأجهزة لا تدعم مسح تنسيق DSD / APE، يرجى تخصيص المجلد والطرق الأخرى أدناه</string>
+    <string name="custom">مخصص</string>
+    <string name="custom_folders_tip">إذا تم تمكين وظيفة استخدام Android Media Store أثناء استخدام وظيفة المجلدات المخصصة، فستكون الأغاني النهائية التي تم مسحها ضوئيًا بمثابة اتحاد بين الاثنين. إذا كنت تحتاج فقط إلى استخدام المجلدات المخصصة، فيرجى إيقاف تشغيل Use Android Media Store</string>
+    <string name="circle_playback_mode">وضع تشغيل الدائرة</string>
+    <string name="repeat_one_playback_mode">وضع تشغيل الأغنية الحالية بتكرار</string>
+    <string name="random_playback_mode">وضع التشغيل العشوائي</string>
+    <string name="remove_from_playback_queue">إزالة من قائمة انتظار التشغيل</string>
+    <string name="blocked_folders">المجلدات المحظورة</string>
+    <string name="file_name">اسم الملف</string>
+    <string name="song_clips">مقاطع اغنيه</string>
+    <string name="lyrics_view_text_bold">تجعل كلمات النص غامقة</string>
+    <string name="copyright">حقوق الطبع والنشر</string>
+    <string name="mini_lyrics_in_playback_screen">كلمات صغيرة في شاشة التشغيل</string>
+    <string name="accessibility">إمكانية الوصول</string>
+    <string name="accessibility_intro">توفير تجربة تطبيق أفضل للمستخدمين ذوي الإعاقة البصرية</string>
+    <string name="date_modified">تاريخ التعديل</string>
+    <string name="automatically_extend_to_the_end_of_the_whole_song">يمتد تلقائيا إلى نهاية الأغنية بأكملها</string>
+    <string name="sort_album_track">الألبوم (المسار)</string>
+    <string name="register">سجّل</string>
+    <string name="nickname">لقب</string>
+    <string name="system_level_status_bar_lyrics">كلمات شريط الحالة على مستوى النظام</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="zoom_display_size">تكبير حجم العرض</string>
+    <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen">شعار عالي الدقة في الركن الأيسر السفلي من غلاف الألبوم لشاشة التشغيل المخصصة</string>
+    <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen_tip">حدد الرمز الصغير الذي تريده (فقط شاشة التشغيل المربعة تعمل). لا يوصى باستخدام ملفات صور كبيرة جدًا</string>
+    <string name="export">يصدّر</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="participating_artists">الفنانين المشاركين</string>
+    <string name="sleep_timer_stopped">توقف مؤقت النوم</string>
+    <string name="automatically_extend_to_the_end_of_the_whole_song_intro">سيتم تحديد الوقت الممتد بشكل مشابه لـ +5:20 (علامة زائد)؛ ستتأثر المدة بمعدل التشغيل (وضع الترجيع غير مدعوم)؛ إذا دخلت هذه الحالة وقمت بإيقاف الأغنية مؤقتًا أو قطعها يدويًا، فسيتم إلغاؤها وتوقيت إغلاقها (سيتم إشعار ذلك على شكل نافذة منبثقة)</string>
+    <string name="system_accessibility_settings">إعدادات إمكانية الوصول إلى النظام</string>
+    <string name="startup_and_backend">بدء التشغيل والواجهة الخلفية</string>
+    <string name="song_list">قائمة الأغاني</string>
+    <string name="display_song_cover_in_list">عرض غلاف الأغنية في القائمة</string>
+    <string name="follow_us">تابعنا</string>
+    <string name="sort_by_duration">المدة (قصيرة إالى طويلة)</string>
+    <string name="sort_by_duration_desc">المدة (طويلة إلى قصيرة)</string>
+    <string name="lyrics_view_blur">عرض كلمات الأغاني بضبابية</string>
+    <string name="hd_custom_background_cover">غطاء خلفية مخصص عالي الدقة</string>
+    <string name="activate">تنشيط</string>
+    <string name="search_for_s_on_the_internet">ابحث عن %s على الإنترنت</string>
+    <string name="no_song_playing">لا يوجد أغنية قيد التشغيل</string>
+    <string name="standard_music_player">مشغل موسيقى قياسي</string>
+    <string name="refresh_and_restart_the_main_screen">قم بتحديث الواجهة وإعادة تشغيلها</string>
+    <string name="zoom_display_size_info">مناسب للمواقف الأخرى التي يكون فيها عرض عناصر الواجهة على بعض معدات السيارات ذات الشاشات الكبيرة صغيرًا جدًا وغير مريح للتشغيل. لاحظ أن هذا القياس ليس مثاليًا، وأن بعض العناصر لا تدعم هذه الميزة حاليًا</string>
+    <string name="zoom_display_size_tip">⚠️ قد لا تستجيب بعض عناصر الواجهة فورًا للتغيرات في حجم عرض الشاشة. الرجاء النقر فوق زر إعادة التشغيل أدناه أو إعادة تشغيل البرنامج يدويًا</string>
+    <string name="get_album_art_when_embedded_cover_art_is_not_available">حاول الحصول على صورة الألبوم من نفس المجلد في حالة عدم توفر صورة الغلاف المضمنة</string>
+    <string name="help_and_feedback">المساعدة وفييدباك</string>
+    <string name="panel">لوحة</string>
+    <string name="playback_screen_for_car">شاشة تشغيل للسيارة</string>
+    <string name="playback_screen_for_car_intro">متاح فقط عند تنشيط وضع الكمبيوتر اللوحي</string>
+    <string name="authorization_description">وصف التفويض</string>
+    <string name="authorization_description_for_read_external_storage">اقرأ الملف الصوتي في وحدة التخزين المشتركة (لا يشمل ذلك قراءة الصور ومقاطع الفيديو، إذا تم تضمينها في وصف طلب النظام، فهو وصف موحد لأن Android 12 والأنظمة التالية ليس لها أذونات مقسمة)، واحصل على ANDROID MEDIA STORE معلومات الملف الصوتي بعد الترخيص. إذا لم يكن هناك استفسار عن ترخيص النظام بعد الموافقة على هذه المحادثة، فمن المحتمل أن يكون إذن هذا التطبيق قد تم ضبطه على \"رفض ولم يعد يطالب\". يرجى الانتقال يدويًا إلى إعدادات النظام لتغييره</string>
+    <string name="error">خطأ</string>
+    <string name="unable_to_start_system_accessibility_settings">غير قادر على بدء إعدادات إمكانية الوصول إلى النظام</string>
+    <string name="xposed_lyric_getter_tip">⚠️ سيؤدي تمكين هذه الوظيفة إلى إيقاف تشغيل وظيفة [كلمات شريط الحالة على مستوى النظام] تلقائيًا للتأكد من أن غطاء إشعارات الوسائط طبيعي</string>
+    <string name="play_preferences">تفضيلات التشغيل</string>
+    <string name="automatically_disrupt_the_random_play_queue">تعطيل تشغيل قائمة الانتظار بشكل اوتوماتيكي</string>
+    <string name="app_recommendation">توصية التطبيق</string>
+    <string name="irregular_cover_allowed">السماح بخلفية أغنية شاذة</string>
+    <string name="sort_artist_album">فنان (ألبوم)</string>
+    <string name="true_random_mode">الوضع العشوائي الحقيقي</string>
+    <string name="true_random_mode_intro">في كل مرة، سيتم دائمًا اختيار الأغنية السابقة أو التالية بشكل عشوائي من قائمة انتظار التشغيل الحالية. لاحظ أن الأغنية السابقة أو التالية التي يعرضها شريط المشغل المصغر ستكون غير دقيقة عند تمكين هذه الوظيفة</string>
+    <string name="follow_system_font_scale">اتبع مقياس خط النظام</string>
+    <string name="desktop_lyrics">كلمات الأغنية في سطح المكتب</string>
+    <string name="guess_you_are_looking_for">هل تبحث عن شيء آخر؟</string>
+    <string name="native_file_manager">مدير الملفات الأصلي</string>
+    <string name="usb_disk">محرك أقراص USB</string>
+    <string name="background_music_protection">حماية الموسيقى الخلفية</string>
+    <string name="dynamic_color_theme">ثيم اللون الديناميكي</string>
+    <string name="only_android_d_and_later_systems_are_supported">يتم دعم Android %d والإصدارات الأحدث فقط</string>
+    <string name="success">بنجاح</string>
+    <string name="readable_check_items">عناصر التحقق المقروءة</string>
+    <string name="self_check_items">عناصر التحقق الذاتي</string>
+    <string name="auto_start_permission_on_miui">إذن البدء التلقائي على MIUI</string>
+    <string name="auto_start_permission_on_miui_intro">على الشاشة الرئيسية، اضغط لفترة طويلة على أيقونة هذا التطبيق لتظهر قائمة التحديد، وانقر فوق خيار \"معلومات التطبيق\"، وابحث عن العنوان الفرعي لعنصر الفئة \"الأذونات ذات الصلة\"، وقم بتشغيل المفتاح المسمى \"تلقائي" يبدأ\". يساعد فتح إذن التشغيل التلقائي التطبيق على العمل بثبات في الخلفية (ينطبق الاكتشاف على MIUI 10–14)</string>
+    <string name="official_website">الموقع الرسمي</string>
+    <string name="windows_subsystem_for_android">نظام ويندوز الفرعي لنظام أندرويد</string>
+    <string name="album_list_settings">إعدادات قائمة الألبومات</string>
+    <string name="minimum_number_of_columns">الحد الأدنى لعدد الأعمدة</string>
+    <string name="hide_on_playback_screen">إخفاء على شاشة التشغيل</string>
+    <string name="unable_to_start_native_file_manager">غير قادر على بدء تشغيل مدير الملفات الأصلي</string>
+    <string name="unable_to_start_native_file_manager_intro">يستخدم التطبيق مدير الملفات الأصلي لتخويل المجلدات\n1. تحقق مما إذا كان مدير الملفات الأصلي معطلاً (قد يختلف الاسم المحدد باختلاف أنظمة OEM المختلفة، ويكون اسم الحزمة فريدًا: com.google.android.documentsui)\n2. ربما تم استبدال مدير الملفات الأصلي (DocumentsUI، التطبيق المدمج لنظام Android) بشكل انتقائي بالشركة المصنعة للمعدات الأصلية (OEM)، والتي توجد غالبًا في بعض معدات السيارات\n* يمكن أن يقبل Native File Manager التصحيحات في متجر جوجل بلاي</string>
+    <string name="album_artist">فنان الألبوم</string>
+    <string name="lyricist">مؤلف الكلمات</string>
+    <string name="composer">ملحن</string>
+    <string name="arranger">مهيئ</string>
+    <string name="mixer">مهندس الصوت</string>
+    <string name="manage">إدارة</string>
+    <string name="manage_external_storage_permission">إدارة إذن التخزين الخارجي</string>
+    <string name="system_recommended_output_sample_rate">معدل عينة الإخراج الموصى به من قبل النظام</string>
+    <string name="desktop_lyrics_unlocked">كلمات سطح المكتب مفتوحة</string>
+    <string name="desktop_lyrics_locked">كلمات سطح المكتب مقفلة</string>
+    <string name="desktop_lyrics_closed">كلمات سطح المكتب مغلقة</string>
+    <string name="desktop_lyrics_opened">كلمات سطح المكتب مفتوحة</string>
+    <string name="audio_focus_is_occupied_by_other_app">التركيز الصوتي مشغول من قبل تطبيقات اخرى</string>
+    <string name="return_to_desktop">الرجوع لسطح المكتب</string>
+    <string name="app_tag">مشغل الموسيقى المحلي المحبوب من قبل مئات الآلاف من المستخدمين</string>
+    <string name="credits">ائتمان</string>
+    <string name="sample_rate_range_supported_by_audio_track_of_this_system">نطاق معدل عينة AudioTrack الذي يدعمه النظام</string>
+    <string name="player_theme">موضوع المشغل</string>
+    <string name="sort_folder_title">المجلد (الاسم)</string>
+    <string name="developer_report">تقرير المطور</string>
+    <string name="auto_start_on_boot">التشغيل التلقائي عند إقلاع الحاسوب</string>
+    <string name="count">عدد</string>
+    <string name="emo_scroll">Emo Scroll</string>
+    <string name="hide_lyrics_screen_control_panel">إخفاء كلمات واجهة لوحة التحكم</string>
+    <string name="on">تشغيل</string>
+    <string name="off">إيقاف</string>
+    <string name="file_not_found">لم يتم العثور على الملف</string>
+    <string name="usb_storage">USB تخزين</string>
+    <string name="special_thanks">شكر خاص</string>
+    <string name="translators">المترجمين</string>
+    <string name="publisher">الناشر</string>
+    <string name="developer">المطور</string>
+    <string name="hidden_songs">أغاني مخفية</string>
+    <string name="font_weight">وزن الخط</string>
+    <string name="download_it_on_coolapk">نزل التطبيق من CoolApk</string>
+    <string name="optional_updates">تحديثات اختيارية</string>
+    <string name="additional_pro_features_intro">توجد ميزات Pro إضافية عبر شاشة الإعدادات، تحقق من شاشة الفئة المحددة للحصول على التفاصيل</string>
+    <string name="front_cover">الغطاء الأمامي</string>
+    <string name="back_cover">الغشاء الخلفي</string>
+    <string name="album_artwork">فن الألبوم</string>
+    <string name="unknown_error">خطأ غير معروف</string>
+    <string name="app_registration_number">رقم تسجيل التطبيق</string>
+    <string name="scanning_in_progress_please_wait">جارٍ إجراء المسح، يرجى الانتظار</string>
+    <string name="notification">إشعارات</string>
+    <string name="close_button">زر الإغلاق</string>
+    <string name="ask">اسأل</string>
+    <string name="terminate_app_process">إنهاء عملية التطبيق</string>
+    <string name="show_close_button">إظهار زر الإغلاق</string>
+    <string name="show_desktop_lyrics_button">إظهار زر كلمات سطح المكتب</string>
+    <string name="show_desktop_lyrics_button_intro">في بعض الأنظمة، قد لا يكون هناك إجراء صريح في شريط الإشعارات لإغلاق عملية تطبيق الموسيقى. يمكن لهذا الزر إنهاء عملية Salt Player بالقوة. في أنظمة MIUI المبكرة، قد تكون هناك مشكلات تتعلق بالإشعارات المتبقية، وفي واجهات نظام معينة، قد لا تلاحظ على الفور تغييرات في حالة معالجة التطبيق</string>
+    <string name="show_close_button_intro">يتم تحديد ترتيب الأزرار القابلة للتنفيذ التي يعرضها Salt Player في شريط إشعارات موسيقى النظام أو لوحة الموسيقى بمركز التحكم من خلال إعدادات النظام الحالية. قد تكون هذه الأزرار مطوية افتراضيًا إلى ثلاثة، مع وجود زر التشغيل/الإيقاف المؤقت إما في المقدمة أو في المنتصف. عند تمكين زر واحد فقط يمكن التحكم فيه في Salt Player، فقد يتم وضع هذا الزر في موضع غير مؤكد</string>
+    <string name="notification_screen_warning">أثناء تشغيل Salt Player، قم بعرض زر كلمات الأغاني على سطح المكتب في شريط إشعارات موسيقى النظام أو لوحة الموسيقى في مركز التحكم. تتطلب ميزة كلمات سطح المكتب إذن التراكب</string>
+    <string name="also_close_desktop_lyrics">هل تريد أيضًا إغلاق كلمات سطح المكتب؟</string>
+    <string name="also_close_desktop_lyrics_intro">حتى إذا لم يتم عرض زر كلمات الأغاني على سطح المكتب في شريط إشعارات موسيقى النظام أو لوحة الموسيقى بمركز التحكم، فيمكن التحكم فيه مباشرةً من خلال زر كلمات الأغاني على سطح المكتب في الإعدادات</string>
+    <string name="production">إنتاج</string>
+    <string name="design">تصميم</string>
+    <string name="engineering">هندسة</string>
+    <string name="testing">اختبار</string>
+    <string name="marking_and_promotion">التسويق والترويج</string>
+    <string name="project_collaboration">التعاون في المشروع</string>
+    <string name="project_initiation_date_and_location">أغسطس 2020 · جيانغشي، الصين</string>
+    <string name="dsd_format_outdated_intro">The DSD format is outdated, and Salt Player will remove support for this format in the future. We recommend switching to superior formats like FLAC for better audio quality and metadata management experience</string>
+    <string name="karaoke_lyrics_animation_compatibility_strategy">Karaoke (Word-for-word) Lyrics Animation Compatibility Strategy</string>
+    <string name="only_current_line">Only Current Line</string>
+    <string name="expand_all_lines">Expand All Lines</string>
+    <string name="always">Always</string>
+</resources>

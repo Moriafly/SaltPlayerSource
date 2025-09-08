@@ -76,14 +76,14 @@
     <string name="auto_matching_of_network_lyrics">Автоматическое сопоставление текстов песней в сети</string>
     <string name="intelligent_filter">Умный фильтр</string>
     <string name="intelligent_filter_sub">Интеллектуальная фильтрация некоторых аудиофайлов</string>
-    <string name="skip_wrong_song">Пропускать невозможные произведению песни</string>
+    <string name="skip_wrong_song">Пропустить невозможные воспроизвести песни</string>
     <string name="sliding_animation_of_songs_in_the_playlist">Скользящая анимация песни в плейлисте</string>
     <string name="next_play">Воспроизвести следующую</string>
     <string name="help_document">Справочная информация</string>
     <string name="single_column_playlist">плейлист в одну колонку</string>
     <string name="status_bar_lyrics">Текст песни в строке состояния</string>
-    <string name="previous">Предыдущее</string>
-    <string name="next">Следующее</string>
+    <string name="previous">Прев.</string>
+    <string name="next">След.</string>
     <string name="search_for_online_music">Поиск музыки в интернете</string>
     <string name="clear">Очистить</string>
     <string name="play_music">Играть</string>
@@ -558,4 +558,9 @@
     <string name="marking_and_promotion">Маркетинг и продвижение</string>
     <string name="project_collaboration">Коллаборации</string>
     <string name="project_initiation_date_and_location">Август 2020 · Цзянси, Китай</string>
+    <string name="dsd_format_outdated_intro">The DSD format is outdated, and Salt Player will remove support for this format in the future. We recommend switching to superior formats like FLAC for better audio quality and metadata management experience</string>
+    <string name="karaoke_lyrics_animation_compatibility_strategy">Karaoke (Word-for-word) Lyrics Animation Compatibility Strategy</string>
+    <string name="only_current_line">Only Current Line</string>
+    <string name="expand_all_lines">Expand All Lines</string>
+    <string name="always">Always</string>
 </resources>

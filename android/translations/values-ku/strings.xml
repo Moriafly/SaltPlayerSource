@@ -559,4 +559,9 @@
     <string name="marking_and_promotion">Marking and Promotion</string>
     <string name="project_collaboration">Project Collaboration</string>
     <string name="project_initiation_date_and_location">August 2020 · Jiangxi, China</string>
+    <string name="dsd_format_outdated_intro">The DSD format is outdated, and Salt Player will remove support for this format in the future. We recommend switching to superior formats like FLAC for better audio quality and metadata management experience</string>
+    <string name="karaoke_lyrics_animation_compatibility_strategy">Karaoke (Word-for-word) Lyrics Animation Compatibility Strategy</string>
+    <string name="only_current_line">Only Current Line</string>
+    <string name="expand_all_lines">Expand All Lines</string>
+    <string name="always">Always</string>
 </resources>
