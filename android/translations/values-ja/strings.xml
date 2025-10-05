@@ -54,7 +54,7 @@
     <string name="cloud_drive">クラウドストレージ</string>
     <string name="theme">テーマ</string>
     <string name="user_interface">ユーザーインターフェース</string>
-    <string name="double_row_playlists">2 列リスト</string>
+    <string name="double_row_playlists">2 列のプレイリスト</string>
     <string name="daily_recommendation">毎日のおすすめ</string>
     <string name="play_all">全部再生(%d)</string>
     <string name="sponsor">寄付</string>
@@ -80,7 +80,7 @@
     <string name="sliding_animation_of_songs_in_the_playlist">プレイリストでのスライドアニメーション</string>
     <string name="next_play">次に再生する曲に追加</string>
     <string name="help_document">ヘルプドキュメント</string>
-    <string name="single_column_playlist">1 列リスト</string>
+    <string name="single_column_playlist">1 列のプレイリスト</string>
     <string name="status_bar_lyrics">ステータスバーの歌詞</string>
     <string name="previous">前の曲</string>
     <string name="next">次の曲</string>
