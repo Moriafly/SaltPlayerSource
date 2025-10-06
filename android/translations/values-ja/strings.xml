@@ -547,7 +547,7 @@
     <string name="show_close_button">閉じるボタンを表示する</string>
     <string name="show_desktop_lyrics_button">デスクトップの歌詞ボタン</string>
     <string name="show_desktop_lyrics_button_intro">Salt Player の再生中に、システムの音楽通知バーまたはコントロールセンターの音楽パネルにデスクトップの歌詞ボタンを表示します。デスクトップの歌詞機能を使用するには、他のアプリの上に重ねて表示する権限が必要です</string>
-    <string name="show_close_button_intro">一部のシステムでは、音楽ソフトウェアのプロセスを終了するための明確な通知バー操作がない場合があります。このボタンを使用すると、Salt Player のプロセスを強制的に終了できます。初期の MIUI システムでは、通知が残ってしまう問題が発生する場合があり、アプリのプロセス状態の変化にすぐに気付かない場合があります</string>
+    <string name="show_close_button_intro">一部のシステムでは、音楽アプリのプロセスを終了するための明確な通知バー操作がない場合があります。このボタンを使用すると、Salt Player のプロセスを強制的に終了できます。初期の MIUI システムでは、通知が残ってしまう問題が発生する場合があり、アプリのプロセス状態の変化にすぐに気付かない場合があります</string>
     <string name="notification_screen_warning">Salt Player のシステムの音楽通知バーまたはコントロールセンターの音楽パネルに表示される操作ボタンの順序は、現在のシステム設定によって決定されます。デフォルトでは 3 つに折りたたまれ、再生ボタンと一時停止ボタンが前面または中央に配置されます。Salt Player の操作可能な表示ボタンが 1 つだけ有効になっている場合、そのボタンは不正確な位置に配置される可能性があります</string>
     <string name="also_close_desktop_lyrics">デスクトップの歌詞も閉じますか？</string>
     <string name="also_close_desktop_lyrics_intro">システムの音楽通知バーやコントロールセンターの音楽パネルにデスクトップの歌詞ボタンが表示されていない場合でも、設定のデスクトップの歌詞ボタンから直接制御できます</string>
