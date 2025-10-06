@@ -216,7 +216,7 @@
     <string name="follow_or_contact_developer">開発者をフォローまたは連絡する</string>
     <string name="extensions">拡張機能</string>
     <string name="use_better">より良い使用</string>
-    <string name="status_bar_lyrics_not_show_translation">ステータスバーに翻訳歌詞を表示しない</string>
+    <string name="status_bar_lyrics_not_show_translation">ステータスバーの歌詞に翻訳を表示しない</string>
     <string name="change_to_your_like">あなたの好きにしてください</string>
     <string name="hidden_songs_and_folders">隠した曲とフォルダ</string>
     <string name="look_at_the_help">ヘルプを見てみる</string>
