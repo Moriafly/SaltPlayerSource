@@ -541,7 +541,7 @@
     <string name="app_registration_number">アプリ登録番号</string>
     <string name="scanning_in_progress_please_wait">スキャン中です。お待​​ちください</string>
     <string name="notification">通知</string>
-    <string name="close_button">ボタンを閉じる</string>
+    <string name="close_button">閉じるボタン</string>
     <string name="ask">確認</string>
     <string name="terminate_app_process">アプリプロセスを終了する</string>
     <string name="show_close_button">閉じるボタンを表示する</string>
