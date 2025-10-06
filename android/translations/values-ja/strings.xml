@@ -438,7 +438,7 @@
     <string name="logout">ログアウト</string>
     <string name="zoom_display_size">拡大表示サイズ</string>
     <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen">カスタマイズ再生画面のアルバムカバー左下隅に Hi-Res ロゴを表示</string>
-    <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen_tip">好きな小さいアイコンを選択します（正方形の再生画面のみ機能します）。 大きすぎる画像ファイルの使用はお勧めしません</string>
+    <string name="hires_logo_in_the_lower_left_corner_of_album_cover_of_customized_play_screen_tip">お好みの小さいアイコンを選択してください（正方形の再生画面のみ機能します）。大きすぎる画像ファイルの使用はお勧めしません</string>
     <string name="export">エクスポート</string>
     <string name="confirm_password">パスワードを認証する</string>
     <string name="participating_artists">参加アーティスト</string>
