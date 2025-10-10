@@ -134,6 +134,7 @@
     <string name="linear">リニア</string>
     <string name="windows_simulation">Windows シミュレーション</string>
     <string name="high_gpu_usage">GPU 高負荷</string>
+    <string name="high_cpu_usage">CPU 高負荷</string>
     <string name="sunglow_effect">夕焼け効果</string>
     <string name="player_screen">再生画面</string>
     <string name="wallpaper">壁紙</string>
@@ -178,7 +179,7 @@
     <string name="initialize_wasapi_sampling_rate">Windows オーディオセッション API サンプリングレートを初期化</string>
     <string name="d_hz">%1$d ヘルツ</string>
     <string name="changeable_in_audio_engine_is_released">オーディオエンジンが解放された状態で変更可能</string>
-    <string name="spw_desktop_lyrics">SPW デスクトップ歌詞</string>
+    <string name="desktop_lyrics">デスクトップ歌詞</string>
     <string name="font_size">フォントサイズ</string>
     <string name="font_weight">フォントの太さ</string>
     <string name="remove_from_music_library">音楽ライブラリから削除</string>
@@ -316,4 +317,27 @@
     <string name="bits_per_sample">サンプルあたりのビット数</string>
     <string name="copy_file_path">ファイルパスをコピー</string>
     <string name="auto_hide_mini_player_controls">ミニプレーヤーのコントロールを自動的に非表示にする</string>
+    <string name="wasapi_some_functions_not_available">現在のオーディオデバイスは Windows オーディオセッション API の一部の機能をサポートしていません。デバイスドライバーを確認するか、別のデバイスを試してください</string>
+    <string name="sample_format_not_supported">サンプルフォーマットがサポートされていません</string>
+    <string name="show_audio_quality_badge">オーディオ品質バッジを表示</string>
+    <string name="open_source_link">オープンソースリンク</string>
+    <string name="enable_mod_s">Mod %1$s を有効にしますか？</string>
+    <string name="mod_not_open_source_link_provided_tip">⚠️ オープンソースリンクが提供されていません。この Mod はセキュリティリスクの可能性があります</string>
+    <string name="save">保存</string>
+    <string name="dsd_format_outdated_intro">DSD フォーマットは旧式です。より優れた音声品質とメタデータ管理を実現するため、 FLAC などの優れたフォーマットへの切り替えをお勧めします</string>
+    <string name="playback_screen_lyrics">再生画面の歌詞</string>
+    <string name="circle_playback_cover">円形のカバー画像</string>
+    <string name="import_mod">MOD をインポート</string>
+    <string name="invalid_plugin_file">プラグインをインポートできませんでした。有効なプラグインファイルではないようです</string>
+    <string name="update_mod_title">Mod をアップデート: %1$s?</string>
+    <string name="update_mod_content">旧バージョン %1$s -> 新バージョン %2$s</string>
+    <string name="import_mod_title">Mod のインポートを確認</string>
+    <string name="import_mod_content">Mod ID: %1$s\nMod 名: %2$s</string>
+    <string name="steam_account_item_intro">Steam アカウントおよび関連機能</string>
+    <string name="auto_hide_mouse_pointer_on_playback_screen">再生画面でマウスポインターを自動非表示</string>
+    <string name="disc_d">ディスク %1$d</string>
+    <string name="lyrics_translation">歌詞翻訳</string>
+    <string name="circle_play">リピート再生</string>
+    <string name="random_play">シャッフル再生</string>
+    <string name="delete_mod_user_data_simultaneously">同時にこのモッドのユーザーデータを削除する</string>
 </resources>

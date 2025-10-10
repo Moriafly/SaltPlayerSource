@@ -134,6 +134,7 @@
     <string name="linear">Линейно</string>
     <string name="windows_simulation">Симуляция Windows</string>
     <string name="high_gpu_usage">Высока нагрузка на GPU</string>
+    <string name="high_cpu_usage">Высока нагрузка на CPU</string>
     <string name="sunglow_effect">Эффект солнечного сияния</string>
     <string name="player_screen">Экран воспроизведения</string>
     <string name="wallpaper">Обои</string>
@@ -178,7 +179,7 @@
     <string name="initialize_wasapi_sampling_rate">Инициализировать частоту дискретизации WASAPI</string>
     <string name="d_hz">%1$d Hz</string>
     <string name="changeable_in_audio_engine_is_released">Можно изменить, когда аудио-движок освобождён</string>
-    <string name="spw_desktop_lyrics">Текст на рабочем столе от SPW</string>
+    <string name="desktop_lyrics">Тексты песен на рабочем столе</string>
     <string name="font_size">Размер шрифта</string>
     <string name="font_weight">Насыщенность шрифта</string>
     <string name="remove_from_music_library">Удалить из музыкальной библиотеки</string>
@@ -328,4 +329,27 @@
     <string name="bits_per_sample">Бит на сэмпл</string>
     <string name="copy_file_path">Копировать путь к файлу</string>
     <string name="auto_hide_mini_player_controls">Автоматически скрывать элементы управления мини-плеера</string>
+    <string name="wasapi_some_functions_not_available">Текущее аудиоустройство не поддерживает некоторые функции Windows Audio Session API. Пожалуйста, проверьте драйвер устройства или попробуйте другое устройство</string>
+    <string name="sample_format_not_supported">Формат сэмпла не поддерживается</string>
+    <string name="show_audio_quality_badge">Показывать значок качества звука</string>
+    <string name="open_source_link">Ссылка на открытый исходный код</string>
+    <string name="enable_mod_s">Включить мод %1$s?</string>
+    <string name="mod_not_open_source_link_provided_tip">⚠️ Ссылка на исходный код не предоставлена, этот мод может представлять угрозу безопасности</string>
+    <string name="save">Сохранить</string>
+    <string name="dsd_format_outdated_intro">Формат DSD устарел. Мы рекомендуем перейти на более совершенные форматы, такие как FLAC, для лучшего качества звука и управления метаданными</string>
+    <string name="playback_screen_lyrics">Текст на экране воспроизведения</string>
+    <string name="circle_playback_cover">Округленная обложка</string>
+    <string name="import_mod">Импорт мода</string>
+    <string name="invalid_plugin_file">Не удалось импортировать плагин, это не похоже на действительный файл плагина</string>
+    <string name="update_mod_title">Обновить мод: %1$s?</string>
+    <string name="update_mod_content">Старая версия %1$s -> Новая версия %2$s</string>
+    <string name="import_mod_title">Подтвердить импорт мода</string>
+    <string name="import_mod_content">ID мода: %1$s\nИмя мода: %2$s</string>
+    <string name="steam_account_item_intro">Аккаунт Steam и связанные функции</string>
+    <string name="auto_hide_mouse_pointer_on_playback_screen">Автоматически скрывать указатель мыши на экране воспроизведения</string>
+    <string name="disc_d">DISC %1$d</string>
+    <string name="lyrics_translation">Перевод текста</string>
+    <string name="circle_play">Повтор</string>
+    <string name="random_play">Случайно</string>
+    <string name="delete_mod_user_data_simultaneously">Удалить пользовательские данные этого мода одновременно</string>
 </resources>

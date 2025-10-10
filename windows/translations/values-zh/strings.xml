@@ -134,6 +134,7 @@
     <string name="linear">线性</string>
     <string name="windows_simulation">Windows 模拟</string>
     <string name="high_gpu_usage">GPU 高占用</string>
+    <string name="high_cpu_usage">CPU 高占用</string>
     <string name="sunglow_effect">霞光特效</string>
     <string name="player_screen">播放界面</string>
     <string name="wallpaper">壁纸</string>
@@ -178,7 +179,7 @@
     <string name="initialize_wasapi_sampling_rate">初始化 Windows 音频会话 API 采样率</string>
     <string name="d_hz">%1$d 赫兹</string>
     <string name="changeable_in_audio_engine_is_released">在音频引擎释放状态下可更改</string>
-    <string name="spw_desktop_lyrics">SPW 桌面歌词</string>
+    <string name="desktop_lyrics">桌面歌词</string>
     <string name="font_size">字体大小</string>
     <string name="font_weight">字体粗细</string>
     <string name="remove_from_music_library">从音乐库中移除</string>
@@ -270,7 +271,7 @@
     <string name="exit_salt_player">退出 Salt Player</string>
     <string name="blur_inactive_lyrics">模糊非当前歌词</string>
     <string name="cd_toolkit">CD 工具箱</string>
-    <string name="no_items">无项</string>
+    <string name="no_items">无项目</string>
     <string name="custom_folders">自定义文件夹</string>
     <string name="scan_files">扫描文件</string>
     <string name="scan_folder">扫描文件夹</string>
@@ -292,9 +293,9 @@
         <item quantity="other">确认从此歌单中移除这 %1$d 首歌曲吗？</item>
     </plurals>
     <plurals name="selected_d_items">
-        <item quantity="other">已选择 %1$d 个项</item>
+        <item quantity="other">已选择 %1$d 个项目</item>
     </plurals>
-    <string name="no_items_found">没有搜索到相关项</string>
+    <string name="no_items_found">没有搜索到相关项目</string>
     <string name="has_unreadable_track">存在无法读取的音轨</string>
     <string name="has_unreadable_track_intro">当前音轨无法读取可能是由于文件访问权限受限、磁盘连接断开、文件被移动或重命名等原因所致。需要注意的是，SPW 可能已经记录了该音轨的播放记录、自定义数据等重要信息，且该音轨可能已被添加到相关歌单中。这些关联数据至关重要，您可以根据实际需求选择处理方式，也可以直接在音轨列表中单独进行操作</string>
     <string name="ignore_and_exit_this_screen">无视并退出此页面</string>
@@ -310,10 +311,33 @@
     <string name="album_artist_s">专辑艺术家：%1$s</string>
     <string name="artist_s">艺术家：%1$s</string>
     <string name="disconnected">已断开</string>
-    <string name="items">项</string>
-    <string name="track_item_appearance">音轨项外观</string>
-    <string name="use_check_boxes_to_select_items">使用复选框以选择项</string>
+    <string name="items">项目</string>
+    <string name="track_item_appearance">音轨项目外观</string>
+    <string name="use_check_boxes_to_select_items">使用复选框以选择项目</string>
     <string name="bits_per_sample">采样位数</string>
     <string name="copy_file_path">复制文件地址</string>
     <string name="auto_hide_mini_player_controls">自动隐藏迷你播放条控制</string>
+    <string name="wasapi_some_functions_not_available">当前音频设备不支持 Windows 音频会话 API 部分功能，请检查设备驱动或尝试其他设备</string>
+    <string name="sample_format_not_supported">样本格式不被支持</string>
+    <string name="show_audio_quality_badge">显示音质徽标</string>
+    <string name="open_source_link">开源链接</string>
+    <string name="enable_mod_s">启用模组 %1$s?</string>
+    <string name="mod_not_open_source_link_provided_tip">⚠️ 此模组未指示开源链接，可能存在安全风险</string>
+    <string name="save">保存</string>
+    <string name="dsd_format_outdated_intro">DSD 格式已过时，建议选择 FLAC 等优秀格式以获取更好的音质、元数据管理体验</string>
+    <string name="playback_screen_lyrics">播放页面歌词</string>
+    <string name="circle_playback_cover">圆形播放封面</string>
+    <string name="import_mod">导入模组</string>
+    <string name="invalid_plugin_file">无法导入模组，这似乎不是一个有效的模组文件</string>
+    <string name="update_mod_title">是否更新模组：%1$s?</string>
+    <string name="update_mod_content">旧版本 %1$s -> 新版本 %2$s</string>
+    <string name="import_mod_title">确认导入模组</string>
+    <string name="import_mod_content">模组 ID: %1$s\n模组名称: %2$s</string>
+    <string name="steam_account_item_intro">Steam 账户及相关功能</string>
+    <string name="auto_hide_mouse_pointer_on_playback_screen">在播放界面自动隐藏鼠标指针</string>
+    <string name="disc_d">光盘 %1$d</string>
+    <string name="lyrics_translation">歌词翻译</string>
+    <string name="circle_play">列表循环</string>
+    <string name="random_play">随机播放</string>
+    <string name="delete_mod_user_data_simultaneously">同时删除此模组的用户数据</string>
 </resources>

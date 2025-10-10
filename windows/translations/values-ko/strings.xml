@@ -134,6 +134,7 @@
     <string name="linear">선형</string>
     <string name="windows_simulation">Windows 시뮬레이션</string>
     <string name="high_gpu_usage">GPU 높은 사용률</string>
+    <string name="high_cpu_usage">CPU 높은 사용률</string>
     <string name="sunglow_effect">태양광 효과</string>
     <string name="player_screen">재생 화면</string>
     <string name="wallpaper">배경 화면</string>
@@ -178,7 +179,7 @@
     <string name="initialize_wasapi_sampling_rate">Windows 오디오 세션 API 샘플링 속도 초기화</string>
     <string name="d_hz">%1$d 헤르츠</string>
     <string name="changeable_in_audio_engine_is_released">오디오 엔진이 해제된 상태에서 변경할 수 있습니다</string>
-    <string name="spw_desktop_lyrics">SPW 데스크톱 가사</string>
+    <string name="desktop_lyrics">데스크톱 가사</string>
     <string name="font_size">글꼴 크기</string>
     <string name="font_weight">글꼴 두께</string>
     <string name="remove_from_music_library">음악 라이브러리에서 제거</string>
@@ -316,4 +317,27 @@
     <string name="bits_per_sample">샘플당 비트 수</string>
     <string name="copy_file_path">파일 경로 복사</string>
     <string name="auto_hide_mini_player_controls">미니 플레이어 컨트롤 자동 숨기기</string>
+    <string name="wasapi_some_functions_not_available">현재 오디오 장치가 Windows 오디오 세션 API의 일부 기능을 지원하지 않습니다. 장치 드라이버를 확인하거나 다른 장치를 사용해 보세요</string>
+    <string name="sample_format_not_supported">지원되지 않는 샘플 형식</string>
+    <string name="show_audio_quality_badge">오디오 음질 배지 표시</string>
+    <string name="open_source_link">오픈소스 링크</string>
+    <string name="enable_mod_s">Mod %1$s 을(를) 활성화하시겠습니까?</string>
+    <string name="mod_not_open_source_link_provided_tip">⚠️ 오픈소스 링크가 제공되지 않았습니다. 이 Mod는 보안 위험일 수 있습니다</string>
+    <string name="save">저장</string>
+    <string name="dsd_format_outdated_intro">DSD 형식은 구식입니다. 더 나은 음질과 메타데이터 관리 경험을 위해 FLAC과 같은 우수한 형식으로 전환하는 것을 권장합니다</string>
+    <string name="playback_screen_lyrics">재생 화면 가사</string>
+    <string name="circle_playback_cover">원형 플레이백 커버</string>
+    <string name="import_mod">모드 가져오기</string>
+    <string name="invalid_plugin_file">플러그인 가져오기에 실패했습니다. 유효한 플러그인 파일이 아닌 것 같습니다</string>
+    <string name="update_mod_title">모드 업데이트: %1$s?</string>
+    <string name="update_mod_content">이전 버전 %1$s -> 새 버전 %2$s</string>
+    <string name="import_mod_title">모드 가져오기 확인</string>
+    <string name="import_mod_content">모드 ID: %1$s\n모드 이름: %2$s</string>
+    <string name="steam_account_item_intro">Steam 계정 및 관련 기능</string>
+    <string name="auto_hide_mouse_pointer_on_playback_screen">재생 화면에서 마우스 포인터 자동 숨기기</string>
+    <string name="disc_d">디스크 %1$d</string>
+    <string name="lyrics_translation">가사 번역</string>
+    <string name="circle_play">전체 반복</string>
+    <string name="random_play">랜덤 재생</string>
+    <string name="delete_mod_user_data_simultaneously">동시에 이 모드의 사용자 데이터 삭제</string>
 </resources>
