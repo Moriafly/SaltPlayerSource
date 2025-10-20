@@ -6,7 +6,7 @@ Select Language: [Русский](https://github.com/Moriafly/SaltPlayerSource/t
 
 ## 当前翻译使用版本 The version currently used for translation
 
-10.7.0-alpha01
+10.10.2
 
 ## 感谢翻译 Thanks
 
@@ -16,7 +16,7 @@ English (English, en) : Moriafly，Suriya T，lloyd
 
 Español (Spanish, es) : Nachogao，MRGABOZ
 
-日本語 (Japanese, ja) : AliceMerami，狐狸小宮，warekosoha，tgw314，Re*Index. (ot_inc)
+日本語 (Japanese, ja) : AliceMerami，狐狸小宮，warekosoha，tgw314，Re*Index. (ot_inc), karigane
 
 Indonesia (Indonesia, id (in) ) : zam，Yan75，ReikiAigawara，Relvin Arsenio，Fandy Fathurrohman
 
@@ -33,6 +33,8 @@ Français (French, fr) : Mathias Zhang
 한국어 (Korean, ko) : 橙子，mocacocoa
 
 Русский (Russian, ru) : Moriafly，AircGroup
+
+ئۇيغۇرچە (Uyghur, ug) : fudyOfficial_Ali.
 
 ## 翻译须知 Notes
 
