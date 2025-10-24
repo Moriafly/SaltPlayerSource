@@ -54,6 +54,7 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 | 小米 MIUI/Hyper OS | 小米妙播 | 🟢 支持 | 1. 调用小米妙播功能需要 MIUI 12 及以上版本，点击 Salt Player 播放界面右上角按钮自动跳转 <br> 2. 此功能基于小米投屏相关系统组件，若无效请检测是否禁用了相关组件 |
 | | CarWith | 🟢 支持 | 2024 年 12 月 26 日 CarWith 3.3.6 版本支持，感谢小米官方支持 |
 | | 外屏显示（如 Mix Flip） | 🟢 支持 | |
+| | 小米 17 Pro 系列背屏音乐 | 🔴 不支持 | 白名单，暂时沟通无果 |
 | | MIUI/Hyper OS 小部件 | 🟠 跟进中 | 等待开发 |
 | 华为鸿蒙 | 音乐控制中心 | 🔴 不支持 | 白名单控制以及未发现适配文档，联系沟通无果 |
 | vivo OriginOS/Funtouch OS  | joviincar 智能车载 | 🟢 支持 | 1. 2024 年 8 月 29 日 vivo 智能车载 V4.0.7.3 版本添加了对 Salt Player 的支持，感谢向 vivo 反馈的用户和 vivo 的官方支持 <br> 2. 体验版，暂时不支持 joviincar 的歌词显示（不清楚适配方法），可通过车载蓝牙歌词模拟 |
@@ -61,7 +62,7 @@ Salt Player *for Android* 需要 Android 6.0 及以上系统，支持 arm-v8a �
 | | 原子随身听 | 🔴 不支持 | 疑似白名单，未找到适配文档 <br> [#749](https://github.com/Moriafly/SaltPlayerSource/issues/749) |
 | OPPO ColorOS | 流体云 | 🟢 支持 | 2024 年 11 月 4 日起逐步灰度测试，感谢 OPPO 官方支持 |
 | 魅族 Flyme | 状态栏歌词 | 🟢 支持 | |
-| | 灵动环 | 🔴 不支持 | 疑似白名单，未找到适配文档 |
+| | 灵动光环音乐灯效 | 🟢 支持 | 2025 年 10 月 22 日魅族发布 Flyme 12.3.1.2A 版本开始正式支持，感谢魅族官方支持 |
 
 ## 不再维护或支持的功能
 
