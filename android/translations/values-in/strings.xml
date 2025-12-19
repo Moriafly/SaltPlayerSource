@@ -54,7 +54,7 @@
     <string name="cloud_drive">Penyimpanan Cloud</string>
     <string name="theme">Tema</string>
     <string name="user_interface">Antarmuka Pengguna</string>
-    <string name="double_row_playlists">Daftar Putar Dua Baris</string>
+    <string name="double_row_playlists">Daftar Putar Dua Kolom</string>
     <string name="daily_recommendation">Rekomendasi Harian</string>
     <string name="play_all">Putar Semua (%d)</string>
     <string name="sponsor">Sponsor</string>
@@ -245,7 +245,7 @@
     <string name="v3_audio_effect">Efek Audio V3</string>
     <string name="v3_reverb">Reverb V3</string>
     <string name="introduction">Pengantar</string>
-    <string name="auto_eq_intro">Menggunakan pengaturan PEAKEQ equalizer untuk menghindari masalah ketidakseimbangan di antara pita (grafik) equalizer tetap yang sulit mengatasi celah sempit dan puncak antara dua pita, mengembalikan parameter akurat dari perpustakaan AutoEq, dan memberikan pengalaman mendengar yang sempurna. Disarankan untuk digunakan dengan headphone.</string>
+    <string name="auto_eq_intro">Menggunakan pengaturan PEAKEQ equalizer untuk menghindari masalah ketidakseimbangan di antara pita (grafik) equalizer tetap yang sulit mengatasi celah sempit dan puncak antara dua pita, mengembalikan parameter akurat dari library AutoEq, dan memberikan pengalaman mendengar yang sempurna. Disarankan untuk digunakan dengan headphone.</string>
     <string name="help_translation">Bantu Menerjemahkan</string>
     <string name="audio_effect">Efek Audio</string>
     <string name="remove_from_the_playlist">Hapus dari Daftar Putar</string>
@@ -367,7 +367,7 @@
     <string name="laboratory_intro">Selamat datang di Laboratorium Salt Player. Fitur-fitur di sini tidak stabil dan hanya untuk percobaan, dan mungkin akan dihapus sewaktu-waktu</string>
     <string name="volume_balance_tip">Replay Gain, memindai tag REPLAYGAIN_TRACK_GAIN dan REPLAYGAIN_ALBUM_GAIN pada file audio, dan menyesuaikan volume berdasarkan nilai ini. Beberapa perangkat lunak, seperti Foobar 2000 dengan pemindaian keuntungan per-file -> Scan per-file track gain, dapat digunakan untuk melakukan penyesuaian ini. Perubahan opsi ini akan efektif setelah beralih lagu atau memulai ulang pemutaran</string>
     <string name="compressor">Compressor</string>
-    <string name="compressor_tip">Kontrol tingkat, menjadikan bagian musik yang keras menjadi lebih tenang dan bagian yang tenang menjadi lebih keras</string>
+    <string name="compressor_tip">Kontrol tingkat, menjadikan bagian musik yang keras menjadi lebih pelan dan bagian yang tenang menjadi lebih keras</string>
     <string name="auto_playback">Pemutaran Otomatis</string>
     <string name="played_times">Jumlah Putar</string>
     <string name="statistics">Statistik</string>
@@ -558,9 +558,9 @@
     <string name="marking_and_promotion">Pemasaran dan Promosi</string>
     <string name="project_collaboration">Kolaborasi Proyek</string>
     <string name="project_initiation_date_and_location">Agustus 2020 · Jiangxi, Cina</string>
-    <string name="dsd_format_outdated_intro">The DSD format is outdated, and Salt Player will remove support for this format in the future. We recommend switching to superior formats like FLAC for better audio quality and metadata management experience</string>
-    <string name="karaoke_lyrics_animation_compatibility_strategy">Karaoke (Word-for-word) Lyrics Animation Compatibility Strategy</string>
-    <string name="only_current_line">Only Current Line</string>
-    <string name="expand_all_lines">Expand All Lines</string>
-    <string name="always">Always</string>
+    <string name="dsd_format_outdated_intro">Format DSD sudah usang, dan Salt Player akan menghapus dukungan untuk format ini di masa mendatang. Kami menyarankan Anda beralih ke format yang lebih unggul seperti FLAC untuk kualitas audio dan pengalaman pengelolaan metadata yang lebih baik</string>
+    <string name="karaoke_lyrics_animation_compatibility_strategy">Strategi Kompatibilitas Animasi Lirik Karaoke (Kata demi Kata)</string>
+    <string name="only_current_line">Hanya Baris Saat Ini</string>
+    <string name="expand_all_lines">Perluas Semua Baris</string>
+    <string name="always">Selalu</string>
 </resources>
