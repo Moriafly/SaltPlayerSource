@@ -1,21 +1,27 @@
-<img src="src/App GitHub Header.png" width="100%"/>
-
 # Salt Player - A local music player trusted and chosen by hundreds of thousands of users
 
 Select Language: [简体中文](README-zh-hans.md), [Русский](README-ru.md), [Indonesia](README-id.md), [हिन्दी](README-hi.md)
 
 Salt Player is a local music playback app. This repository is used for releasing new versions, collecting feedback, and posting announcements.
 
-## Download Channel
+## Download
 
-### Android
+| Platform | Download |
+|:--|:--|
+| Android | [GitHub Releases](https://github.com/Moriafly/SaltPlayerSource/releases), [CoolApk](https://www.coolapk.com/apk/284064), [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) |
+| iPhone / iPad | [App Store](https://apps.apple.com/us/app/salt-player/id6787021904) |
+| Windows | [Microsoft Store](https://apps.microsoft.com/detail/9P42FQ0WPQXK), [Steam](https://store.steampowered.com/app/3009140/) |
+
+For Windows documentation, see [SPW](https://github.com/Moriafly/SPW).
+
+### Android channel details
 
 Salt Player *for Android* requires Android 6.0 or higher and supports the arm64-v8a and armeabi-v7a architectures.
 
 | Channel | Release | Introduction | ⚠️ Note |
 |:--|:--|:--|:--|
-| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [CoolApk](https://www.coolapk.com/apk/284064) | Standard Package | The release on Coolapk is available only for the arm64-v8a architecture. |
-| Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | Google Play Store Channel Package | 1. Supports dynamic distribution of the arm64-v8a and armeabi-v7a architectures. <br> 2. The Google Play version is signed and released by Google, which makes it **incompatible** with the standard package. <br> 3. Selects special stable releases or custom-built versions, following a different update strategy compared to the standard package. |
+| Moriafly | 1. Github Release <br> 2. CoolApk | Standard Package | The release on Coolapk is available only for the arm64-v8a architecture. |
+| Google Play | Google Play | Google Play Store Channel Package | 1. Supports dynamic distribution of the arm64-v8a and armeabi-v7a architectures. <br> 2. The Google Play version is signed and released by Google, which makes it **incompatible** with the standard package. <br> 3. Selects special stable releases or custom-built versions, following a different update strategy compared to the standard package. |
 
 Note: Please download this app from the official channels. Do not use installation files with unknown or unverified signatures.
 
@@ -30,12 +36,6 @@ For example, the APK filename 10.5.0.2-release-2024091902-moriafly-arm64-v8a has
 | 2024091902 | Version Code | The version code of Salt Player *for Android* has specific meaning. For example, 2024091902 indicates that this version was built for the second time on September 19, 2024. |
 | moriafly | Channel ID | See channel table. |
 | arm64-v8a | Architecture | See channel table. |
-
-### Windows
-
-<img src="src/spw.png" height="128px"/>
-
-For details, see the [SPW](https://github.com/Moriafly/SPW) documentation.
 
 ## Open Source Related
 

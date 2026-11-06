@@ -1,21 +1,26 @@
-<img src="src/App GitHub Header.png" width="100%"/>
-
 # Salt Player - एक स्थानीय म्यूजिक प्लेयर जिसे लाखों उपयोगकर्ताओं द्वारा चुना और भरोसा किया गया है
 
 
 Salt Player एक स्थानीय संगीत प्लेबैक ऐप है। यह रिपॉजिटरी नए संस्करणों को जारी करने, फीडबैक एकत्र करने और घोषणाओं को पोस्ट करने के लिए उपयोग की जाती है।
 
-## डाउनलोड चैनल
+## डाउनलोड
 
+| प्लेटफ़ॉर्म | डाउनलोड |
+|:--|:--|
+| Android | [GitHub Releases](https://github.com/Moriafly/SaltPlayerSource/releases), [CoolApk](https://www.coolapk.com/apk/284064), [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) |
+| iPhone / iPad | [App Store](https://apps.apple.com/us/app/salt-player/id6787021904) |
+| Windows | [Microsoft Store](https://apps.microsoft.com/detail/9P42FQ0WPQXK), [Steam](https://store.steampowered.com/app/3009140/) |
 
-### एंड्रॉइड
+विवरण के लिए देखें [SPW](https://github.com/Moriafly/SPW) दस्तावेज़।
+
+### Android चैनल विवरण
 
 Salt Player *for Android* को Android 6.0 या उससे ऊपर की आवश्यकता होती है और यह arm64-v8a और armeabi-v7a आर्किटेक्चर को सपोर्ट करता है।
 
 | चैनल | रिलीज़ | परिचय | ⚠️ नोट |
 |:--|:--|:--|:--|
-| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [CoolApk](https://www.coolapk.com/apk/284064) | स्टैंडर्ड पैकेज | Coolapk पर रिलीज़ केवल arm64-v8a आर्किटेक्चर के लिए उपलब्ध है। |
-| Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | गूगल प्ले स्टोर चैनल पैकेज | 1. arm64-v8a और armeabi-v7a आर्किटेक्चर का डायनामिक वितरण सपोर्ट करता है। <br> 2. Google Play संस्करण को Google द्वारा साइन और रिलीज़ किया गया है, जो इसे स्टैंडर्ड पैकेज के साथ **असंगत** बनाता है। <br> 3. यह विशेष स्थिर संस्करण या कस्टम-बिल्ट संस्करणों को चुनता है, जो स्टैंडर्ड पैकेज से अलग अपडेट रणनीति का पालन करता है। |
+| Moriafly | 1. Github Release <br> 2. CoolApk | स्टैंडर्ड पैकेज | Coolapk पर रिलीज़ केवल arm64-v8a आर्किटेक्चर के लिए उपलब्ध है। |
+| Google Play | Google Play | गूगल प्ले स्टोर चैनल पैकेज | 1. arm64-v8a और armeabi-v7a आर्किटेक्चर का डायनामिक वितरण सपोर्ट करता है। <br> 2. Google Play संस्करण को Google द्वारा साइन और रिलीज़ किया गया है, जो इसे स्टैंडर्ड पैकेज के साथ **असंगत** बनाता है। <br> 3. यह विशेष स्थिर संस्करण या कस्टम-बिल्ट संस्करणों को चुनता है, जो स्टैंडर्ड पैकेज से अलग अपडेट रणनीति का पालन करता है। |
 
 नोट: कृपया इस ऐप को केवल आधिकारिक चैनलों से डाउनलोड करें। अज्ञात या असत्यापित हस्ताक्षर वाली इंस्टॉलेशन फाइल्स का उपयोग न करें।
 
@@ -30,12 +35,6 @@ Salt Player *for Android* को Android 6.0 या उससे ऊपर क�
 | 2024091902 | संस्करण कोड | उदाहरण: 2024091902 दर्शाता है कि यह संस्करण 19 सितंबर 2024 को दूसरी बार बनाया गया था। |
 | moriafly | चैनल आईडी | चैनल तालिका देखें। |
 | arm64-v8a | आर्किटेक्चर | चैनल तालिका देखें। |
-
-### विंडोज़
-
-<img src="src/spw.png" height="128px"/>
-
-विवरण के लिए देखें [SPW](https://github.com/Moriafly/SPW) दस्तावेज़।
 
 ## ओपन सोर्स संबंधित
 

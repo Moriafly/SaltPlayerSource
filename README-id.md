@@ -1,19 +1,25 @@
-<img src="src/App GitHub Header.png" width="100%"/>
-
 # Salt Player - Pemutar Musik Lokal Pilihan Ratusan Ribu Pengguna
 
 Salt Player adalah aplikasi pemutar musik lokal. Repositori ini dipakai buat ngeluarin versi baru, ngumpulin feedback, dan ngasih pengumuman
 
 ## Cara Download
 
-### Android
+| Platform | Download |
+|:--|:--|
+| Android | [GitHub Releases](https://github.com/Moriafly/SaltPlayerSource/releases), [CoolApk](https://www.coolapk.com/apk/284064), [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) |
+| iPhone / iPad | [App Store](https://apps.apple.com/us/app/salt-player/id6787021904) |
+| Windows | [Microsoft Store](https://apps.microsoft.com/detail/9P42FQ0WPQXK), [Steam](https://store.steampowered.com/app/3009140/) |
 
-Salt Player *untuk Android* butuh Android 6.0 ke atas dan support buat arsitektur arm-v8a dan armeabi-v7a
+Lihat lebih lanjut di [SPW](https://github.com/Moriafly/SPW) untuk panduannya.
+
+### Detail channel Android
+
+Salt Player *untuk Android* butuh Android 6.0 ke atas dan support buat arsitektur arm64-v8a dan armeabi-v7a
 
 | Channel | Rilis | Keterangan | ⚠️ Catatan |
 |:--|:--|:--|:--|
-| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [Coolapk](https://www.coolapk.com/apk/284064) | Paket standar | Rilis di Coolapk cuma support arm64-v8a |
-| Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | Paket dari Play Store | 1. Google Play nyesuaiin arsitektur arm64-v8a/armeabi-v7a <br> 2. Versi Google Play ditandatangani sama Google, jadi gak kompatibel sama paket standar di repositori ini <br> 3. Versi di Play Store kadang versi stabil khusus, update bisa beda sama paket standar |
+| Moriafly | 1. Github Release <br> 2. Coolapk | Paket standar | Rilis di Coolapk cuma support arm64-v8a |
+| Google Play | Google Play | Paket dari Play Store | 1. Google Play nyesuaiin arsitektur arm64-v8a/armeabi-v7a <br> 2. Versi Google Play ditandatangani sama Google, jadi gak kompatibel sama paket standar di repositori ini <br> 3. Versi di Play Store kadang versi stabil khusus, update bisa beda sama paket standar |
 
 Catatan: Pastikan download aplikasi ini dari sumber yang bener, jangan pakai file instalasi dari sumber yang gak jelas
 
@@ -28,12 +34,6 @@ Misalnya nama file Apk 10.5.0.2-release-2024091902-moriafly-arm64-v8a, artinya:
 | 2024091902 | Kode versi | Kode versi Salt Player *untuk Android*, 2024091902 artinya build kedua di tanggal 19 September 2024 |
 | moriafly | Kode channel | Lihat di tabel channel |
 | arm64-v8a | Arsitektur | Lihat di tabel channel |
-
-### Windows
-
-<img src="src/spw.png" height="128px"/>
-
-Lihat lebih lanjut di [SPW](https://github.com/Moriafly/SPW) untuk panduannya
 
 ## Tentang Open Source
 

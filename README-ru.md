@@ -1,5 +1,3 @@
-<img src="src/App GitHub Header.png" width="100%"/>
-
 # Salt Player - музыкальный плеер, выбранный сотнями тысяч пользователей
 
 Select Language: [简体中文](README-zh-hans.md), [English](README.md), [Indonesia](README-id.md), [हिन्दी](README-hi.md)
@@ -8,14 +6,22 @@ Salt Player - это приложение для воспроизведения 
 
 ## Скачивание
 
-### Android
+| Платформа | Скачать |
+|:--|:--|
+| Android | [GitHub Releases](https://github.com/Moriafly/SaltPlayerSource/releases), [CoolApk](https://www.coolapk.com/apk/284064), [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) |
+| iPhone / iPad | [App Store](https://apps.apple.com/us/app/salt-player/id6787021904) |
+| Windows | [Microsoft Store](https://apps.microsoft.com/detail/9P42FQ0WPQXK), [Steam](https://store.steampowered.com/app/3009140/) |
 
-Salt Player *для Android* требуется устройство на Android 6.0 и выше, поддерживаемые архитектуры: arm-v8a и armeabi-v7a.
+Подробнее: [SPW](https://github.com/Moriafly/SPW).
+
+### Каналы Android
+
+Salt Player *для Android* требуется устройство на Android 6.0 и выше, поддерживаемые архитектуры: arm64-v8a и armeabi-v7a.
 
 | Поставщик | Источник | Описание | ⚠️ Примечание |
 |:--|:--|:--|:--|
-| Moriafly | 1. [Github Release](https://github.com/Moriafly/SaltPlayerSource/releases) <br> 2. [CoolApk](https://www.coolapk.com/apk/284064) | Стандартная версия | Данная версия доступна только на архитектуре arm64-v8a |
-| Google Play | [Google Play](https://play.google.com/store/apps/details?id=com.salt.music) | Пакеты Google Play | 1. Поддерживаются архитектуры arm64-v8a, armeabi-v7a <br> 2. Данная версия подписана и издана корпорацией Google и **НЕСОВМЕСТИМА** со стандартной версией <br> 3. Рекомендуется как канал выпуска стабильных версий, в отличие от стандартной версии |
+| Moriafly | 1. Github Release <br> 2. CoolApk | Стандартная версия | Версия на CoolApk доступна только для архитектуры arm64-v8a |
+| Google Play | Google Play | Пакеты Google Play | 1. Поддерживаются архитектуры arm64-v8a, armeabi-v7a <br> 2. Данная версия подписана и издана корпорацией Google и **НЕСОВМЕСТИМА** со стандартной версией <br> 3. Рекомендуется как канал выпуска стабильных версий, в отличие от стандартной версии |
 
 Примечание: Пожалуйста, устанавливайте это приложение с офицального источника
 
@@ -30,12 +36,6 @@ Salt Player *для Android* требуется устройство на Androi
 | 2024091902 | Код версии | В Salt Player *для Android* код версии тоже имеет значение, например, 2024091902 указывает что это версия была выпущена 19 сентября 2024 года, а цифра 2 значит вторую сборку за день |
 | moriafly | Код поставщика версии | Смотрите таблицу источников |
 | arm64-v8a | Архитектура сборки | Смотрите таблицу источников |
-
-### Windows
-
-<img src="src/spw.png" height="128px"/>
-
-Подробнее: [SPW](https://github.com/Moriafly/SPW)
 
 ## Библиотеки с открытым исходным кодом
 
